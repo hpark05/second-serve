@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Second Serve</title>
+<meta name="description" content="Second Serve: use ingredients before they expire by linking inventory, menus, and surplus across campus kitchens." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#f6f1e7; --paper-2:#efe7d8; --ink:#1d1a16; --ink-2:#5a534a; --line:#d9cfbd;
+    --green:#1f7a4d; --green-soft:#dcefe3; --amber:#b86e00; --amber-soft:#fbe9c9;
+    --red:#b3261e; --red-soft:#f8dcd9; --card:#fffdf8; --shadow:0 1px 0 rgba(0,0,0,.04),0 12px 30px -18px rgba(40,30,10,.35);
+  }
+  *{box-sizing:border-box} html,body{margin:0}
+  body{background:var(--paper);color:var(--ink);font:16px/1.45 "IBM Plex Sans",sans-serif;
+    background-image:radial-gradient(1200px 500px at 10% -10%,#fff8ea 0%,transparent 60%),
+      repeating-linear-gradient(0deg,transparent 0 23px,rgba(0,0,0,.025) 23px 24px);}
+  .app{max-width:1040px;margin:0 auto;padding:28px 16px 80px}
+  header{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;margin-bottom:22px;flex-wrap:wrap}
+  .brand{font:700 30px/1 Fraunces,serif;letter-spacing:-.01em}
+  .brand small{display:block;font:500 12px/1.3 "IBM Plex Mono",monospace;color:var(--ink-2);margin-top:6px;letter-spacing:.06em;text-transform:uppercase}
+  .who{font:500 13px "IBM Plex Mono",monospace;color:var(--ink-2);text-align:right}
+  .who b{color:var(--ink)}
+  nav.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:0 0 22px}
+  nav.steps button{all:unset;cursor:pointer;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--paper-2);
+    font:500 12px/1.2 "IBM Plex Mono",monospace;color:var(--ink-2);text-transform:uppercase;letter-spacing:.05em;transition:.2s}
+  nav.steps button span{display:block;font:600 14px/1.2 "IBM Plex Sans",sans-serif;color:var(--ink);text-transform:none;letter-spacing:0;margin-top:3px}
+  nav.steps button.active{background:var(--ink);border-color:var(--ink);color:#c9bfae}
+  nav.steps button.active span{color:#fff}
+  nav.steps button.done{border-color:var(--green)}
+  section.screen{display:none;animation:rise .35s ease both}
+  section.screen.show{display:block}
+  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  h1{font:700 clamp(28px,4vw,40px)/1.05 Fraunces,serif;margin:0 0 6px;letter-spacing:-.015em}
+  .sub{color:var(--ink-2);margin:0 0 20px;max-width:620px}
+  .grid{display:grid;gap:12px}
+  .g2{grid-template-columns:1fr 1fr}@media(max-width:760px){.g2{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;box-shadow:var(--shadow);position:relative}
+  .card.urgent{border-left:5px solid var(--red)} .card.soon{border-left:5px solid var(--amber)} .card.ok{border-left:5px solid var(--green)}
+  .row{display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .item{font:700 20px/1.1 Fraunces,serif}
+  .meta{font:500 12px "IBM Plex Mono",monospace;color:var(--ink-2);margin-top:4px}
+  .pill{font:500 12px "IBM Plex Mono",monospace;padding:4px 9px;border-radius:999px;white-space:nowrap}
+  .pill.red{background:var(--red-soft);color:var(--red)} .pill.amber{background:var(--amber-soft);color:var(--amber)} .pill.green{background:var(--green-soft);color:var(--green)}
+  .big{font:700 44px/1 Fraunces,serif;letter-spacing:-.02em}
+  .stat{display:flex;flex-direction:column;gap:4px}
+  .stat .meta{margin:0}
+  .btn{all:unset;cursor:pointer;display:inline-flex;align-items:center;gap:8px;padding:12px 18px;border-radius:10px;background:var(--ink);color:#fff;font-weight:600;transition:.15s}
+  .btn:hover{transform:translateY(-1px)} .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+  .btn.green{background:var(--green)}
+  .btn:disabled{opacity:.45;cursor:default;transform:none}
+  .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
+  .rec{border-top:4px solid var(--ink)}
+  .rec .tag{font:500 11px "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}
+  .rec h3{font:700 22px/1.15 Fraunces,serif;margin:6px 0 8px}
+  .rec p{margin:0 0 12px;color:var(--ink-2)}
+  .rec .why{font-size:13px;background:var(--paper-2);border-radius:8px;padding:8px 10px;margin-bottom:12px}
+  .rec.picked{outline:2px solid var(--green);background:#f3faf5}
+  .rec.picked::after{content:"✓ selected";position:absolute;top:12px;right:14px;font:500 11px "IBM Plex Mono",monospace;color:var(--green)}
+  .ticket{font:400 13px/1.6 "IBM Plex Mono",monospace;background:#fff;border:1px dashed var(--line);border-radius:10px;padding:14px 16px;white-space:pre-wrap}
+  .board{width:100%;border-collapse:collapse;font-size:14px}
+  .board th{font:500 11px "IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-2);text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+  .board td{padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  .board tr.hl td{background:#f3faf5}
+  .arrow{color:var(--green);font-weight:600}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(20px);background:var(--ink);color:#fff;padding:12px 18px;border-radius:10px;opacity:0;transition:.3s;font-weight:500;pointer-events:none}
+  .toast.on{opacity:1;transform:translateX(-50%)}
+  footer{margin-top:36px;font:400 12px "IBM Plex Mono",monospace;color:var(--ink-2)}
+</style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="brand">Second Serve<small>campus kitchen surplus agent · prototype</small></div>
+    <div class="who">Signed in as <b>Pat Rivera</b><br>Dining Manager · Crossroads</div>
+  </header>
+
+  <nav class="steps">
+    <button data-go="1" class="active">01<span>Expiring soon</span></button>
+    <button data-go="2">02<span>Agent recommends</span></button>
+    <button data-go="3">03<span>One tap</span></button>
+    <button data-go="4">04<span>Campus board</span></button>
+  </nav>
+
+  <!-- 01 INVENTORY -->
+  <section class="screen show" id="s1">
+    <h1>Good morning, Pat. 4 items need a decision.</h1>
+    <p class="sub">Pulled from last night's inventory count. No new data entry. Sorted by what expires first and how much it's worth.</p>
+    <div class="grid g2">
+      <div class="card urgent"><div class="row"><div><div class="item">Baby spinach</div><div class="meta">14 lb · $63 · walk-in, shelf 2</div></div><span class="pill red">expires in 2 days</span></div></div>
+      <div class="card urgent"><div class="row"><div><div class="item">Chicken thighs</div><div class="meta">22 lb · $84 · walk-in, bin 4</div></div><span class="pill red">expires in 2 days</span></div></div>
+      <div class="card soon"><div class="row"><div><div class="item">Whole milk</div><div class="meta">6 gal · $27 · dairy cooler</div></div><span class="pill amber">expires in 4 days</span></div></div>
+      <div class="card soon"><div class="row"><div><div class="item">Roma tomatoes</div><div class="meta">30 lb · $45 · dry storage</div></div><span class="pill amber">expires in 5 days</span></div></div>
+    </div>
+    <div class="grid g2" style="margin-top:12px">
+      <div class="card"><div class="stat"><div class="meta">at risk this week</div><div class="big">$219</div><div class="meta">72 lb across 4 items</div></div></div>
+      <div class="card"><div class="stat"><div class="meta">on the menu before expiry</div><div class="big">$78</div><div class="meta">the rest spoils unless something changes</div></div></div>
+    </div>
+    <div class="actions"><button class="btn" data-go="2">What should I do? →</button></div>
+  </section>
+
+  <!-- 02 RECOMMENDATIONS -->
+  <section class="screen" id="s2">
+    <h1>Three moves. Pick one or all.</h1>
+    <p class="sub">Each one uses an ingredient before it expires. Built from your cycle menu, your inventory, and what other campus kitchens posted this morning.</p>
+    <div class="grid g2" id="recs">
+      <div class="card rec" data-rec="use"><div class="tag">Use first</div><h3>Swap Thursday's romaine salad → spinach salad</h3><p>Uses 10 of 14 lb spinach. Same prep time, same station.</p><div class="why">Why: spinach expires Wed, romaine is good until Sunday. Thursday is your biggest salad day (avg 310 servings).</div><div class="meta">saves ~$45 · 10 lb</div></div>
+      <div class="card rec" data-rec="swap"><div class="tag">Swap</div><h3>Move Friday's chicken bowl to Wednesday</h3><p>Uses all 22 lb of chicken thighs. Friday gets the tofu bowl already on cycle.</p><div class="why">Why: chicken expires Wed night. Wed and Fri demand are within 5% of each other, so no shortage risk.</div><div class="meta">saves ~$84 · 22 lb</div></div>
+      <div class="card rec" data-rec="move"><div class="tag">Move</div><h3>Send 6 gal milk + 4 lb spinach to Café 3</h3><p>Café 3 posted a need for milk (brunch Sat) and spinach (smoothie bar).</p><div class="why">Why: you can't use it in time. Café 3 is 0.4 mi away; campus shuttle runs at 2 pm.</div><div class="meta">saves ~$45 · 6 gal + 4 lb</div></div>
+      <div class="card ok"><div class="tag" style="font:500 11px 'IBM Plex Mono',monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)">Order tweak</div><h3 style="font:700 22px/1.15 Fraunces,serif;margin:6px 0 8px">Cut next week's tomato order by 10 lb</h3><p style="color:var(--ink-2);margin:0">You've had 30 lb left over 3 weeks running. Auto-drafted for procurement to approve.</p></div>
+    </div>
+    <div class="actions">
+      <button class="btn ghost" data-go="1">← Back</button>
+      <button class="btn green" id="toConfirm" disabled>Confirm selected (0) →</button>
+      <button class="btn ghost" id="pickAll">Select all three</button>
+    </div>
+  </section>
+
+  <!-- 03 CONFIRM -->
+  <section class="screen" id="s3">
+    <h1>One tap. Everyone who needs to know, knows.</h1>
+    <p class="sub">Pat doesn't write emails or edit the menu system by hand. The agent drafts the changes; Pat approves.</p>
+    <div class="grid g2">
+      <div class="card"><div class="tag" style="font:500 11px 'IBM Plex Mono',monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2);margin-bottom:8px">What goes out</div><div class="ticket" id="ticket"></div></div>
+      <div class="card"><div class="stat"><div class="meta">this week, if approved</div><div class="big" id="savedBig">$0</div><div class="meta" id="savedMeta">0 lb kept out of compost</div></div>
+        <div style="margin-top:18px;font-size:14px;color:var(--ink-2)">Approve sends: menu edit to the kitchen board, prep sheet update, a pickup request to Café 3, and an order-change draft to procurement.</div></div>
+    </div>
+    <div class="actions">
+      <button class="btn ghost" data-go="2">← Change</button>
+      <button class="btn green" id="approve">Approve all ✓</button>
+    </div>
+  </section>
+
+  <!-- 04 CAMPUS BOARD -->
+  <section class="screen" id="s4">
+    <h1>The campus board. Every kitchen sees every other kitchen.</h1>
+    <p class="sub">Kitchens stop planning alone. Surplus on one side, needs on the other, matched by the agent.</p>
+    <div class="card" style="padding:6px 6px 0">
+      <table class="board">
+        <thead><tr><th>Kitchen</th><th>Has surplus</th><th>Needs</th><th>Matched</th></tr></thead>
+        <tbody>
+          <tr class="hl" id="rowCross"><td><b>Crossroads</b> (you)</td><td>milk 6 gal · spinach 4 lb</td><td>—</td><td class="arrow">→ Café 3, pickup 2 pm</td></tr>
+          <tr><td><b>Café 3</b></td><td>bananas 40 lb</td><td>milk · spinach</td><td class="arrow">← Crossroads</td></tr>
+          <tr><td><b>Foothill</b></td><td>rice 50 lb</td><td>bananas</td><td class="arrow">← Café 3, Thu</td></tr>
+          <tr><td><b>Clark Kerr</b></td><td>—</td><td>rice (Fri event)</td><td class="arrow">← Foothill, Fri am</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="grid g2" style="margin-top:12px">
+      <div class="card ok"><div class="stat"><div class="meta">campus, this week</div><div class="big">$1,140</div><div class="meta">saved across 4 kitchens · 390 lb not composted</div></div></div>
+      <div class="card"><div class="stat"><div class="meta">staff time added</div><div class="big">0 min</div><div class="meta">runs off existing counts + cycle menus</div></div></div>
+    </div>
+    <div class="actions"><button class="btn ghost" data-go="1">↺ Start over</button></div>
+  </section>
+
+  <footer>Second Serve · ReGenVen (SCET) · prototype with hardcoded data · JJ, Hamilton, Sakina, Cheng, Ricardo</footer>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+  const picked = new Set();
+  const data = { use:{s:45,lb:10,line:"MENU  Thu: romaine salad → spinach salad (10 lb)"},
+                 swap:{s:84,lb:22,line:"MENU  Fri chicken bowl ⇄ Wed tofu bowl (22 lb chicken)"},
+                 move:{s:45,lb:10,line:"MOVE  6 gal milk + 4 lb spinach → Café 3, shuttle 2 pm"} };
+  const $ = s => document.querySelector(s);
+  function go(n){
+    document.querySelectorAll('.screen').forEach(s=>s.classList.remove('show'));
+    $('#s'+n).classList.add('show');
+    document.querySelectorAll('nav.steps button').forEach(b=>{
+      const k=+b.dataset.go; b.classList.toggle('active',k===n); b.classList.toggle('done',k<n);
+    });
+    if(n===3) renderTicket();
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+  function renderTicket(){
+    let s=0,lb=0,lines=[];
+    picked.forEach(k=>{s+=data[k].s;lb+=data[k].lb;lines.push(data[k].line)});
+    lines.push("ORDER next week: tomatoes −10 lb (draft to procurement)");
+    $('#ticket').textContent = lines.map((l,i)=>`${String(i+1).padStart(2,'0')}  ${l}`).join("\n");
+    $('#savedBig').textContent='$'+s; $('#savedMeta').textContent=lb+' lb kept out of compost';
+  }
+  function syncConfirm(){ const b=$('#toConfirm'); b.disabled=picked.size===0; b.textContent=`Confirm selected (${picked.size}) →`; }
+  document.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>go(+b.dataset.go)));
+  document.querySelectorAll('.rec').forEach(c=>c.addEventListener('click',()=>{
+    const k=c.dataset.rec; picked.has(k)?picked.delete(k):picked.add(k); c.classList.toggle('picked'); syncConfirm();
+  }));
+  $('#pickAll').addEventListener('click',()=>{ document.querySelectorAll('.rec').forEach(c=>{picked.add(c.dataset.rec);c.classList.add('picked')}); syncConfirm(); });
+  $('#toConfirm').addEventListener('click',()=>go(3));
+  $('#approve').addEventListener('click',()=>{
+    const t=$('#toast'); t.textContent='Approved. Kitchen board, prep sheet, Café 3, and procurement notified.'; t.classList.add('on');
+    setTimeout(()=>t.classList.remove('on'),2600); setTimeout(()=>go(4),900);
+  });
+</script>
+</body>
+</html>
