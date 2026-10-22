@@ -1,4 +1,4 @@
-# Second Serve
+# SurplusSense (Second Serve)
 
 Prototype for ReGenVen (SCET, UC Berkeley). An AI agent that helps campus kitchens use ingredients before they expire by linking inventory, cycle menus, and surplus from other campus kitchens.
 

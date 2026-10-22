@@ -3,195 +3,290 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Second Serve</title>
-<meta name="description" content="Second Serve: use ingredients before they expire by linking inventory, menus, and surplus across campus kitchens." />
+<title>SurplusSense</title>
+<meta name="description" content="SurplusSense: AI food surplus prevention for a more sustainable campus. Second Serve prototype." />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
 <style>
   :root{
-    --paper:#f6f1e7; --paper-2:#efe7d8; --ink:#1d1a16; --ink-2:#5a534a; --line:#d9cfbd;
-    --green:#1f7a4d; --green-soft:#dcefe3; --amber:#b86e00; --amber-soft:#fbe9c9;
-    --red:#b3261e; --red-soft:#f8dcd9; --card:#fffdf8; --shadow:0 1px 0 rgba(0,0,0,.04),0 12px 30px -18px rgba(40,30,10,.35);
+    --bg:#eef4f1; --panel:#f7faf8; --card:#fff; --line:#e3eae6; --ink:#1b2a24; --muted:#6b7b74;
+    --green:#1e6b4a; --green-2:#2d8c62; --green-soft:#e6f3ec; --green-chip:#d7ecdf;
+    --amber:#c7731a; --amber-soft:#fdf1e3; --blue:#2f6fd6; --blue-soft:#e8f0fc; --purple:#6b4fd6; --purple-soft:#efeafc;
+    --red:#c4452c; --red-soft:#fde7e2; --r:14px; --shadow:0 1px 2px rgba(20,40,30,.05),0 8px 24px -16px rgba(20,40,30,.25);
   }
-  *{box-sizing:border-box} html,body{margin:0}
-  body{background:var(--paper);color:var(--ink);font:16px/1.45 "IBM Plex Sans",sans-serif;
-    background-image:radial-gradient(1200px 500px at 10% -10%,#fff8ea 0%,transparent 60%),
-      repeating-linear-gradient(0deg,transparent 0 23px,rgba(0,0,0,.025) 23px 24px);}
-  .app{max-width:1040px;margin:0 auto;padding:28px 16px 80px}
-  header{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;margin-bottom:22px;flex-wrap:wrap}
-  .brand{font:700 30px/1 Fraunces,serif;letter-spacing:-.01em}
-  .brand small{display:block;font:500 12px/1.3 "IBM Plex Mono",monospace;color:var(--ink-2);margin-top:6px;letter-spacing:.06em;text-transform:uppercase}
-  .who{font:500 13px "IBM Plex Mono",monospace;color:var(--ink-2);text-align:right}
-  .who b{color:var(--ink)}
-  nav.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:0 0 22px}
-  nav.steps button{all:unset;cursor:pointer;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--paper-2);
-    font:500 12px/1.2 "IBM Plex Mono",monospace;color:var(--ink-2);text-transform:uppercase;letter-spacing:.05em;transition:.2s}
-  nav.steps button span{display:block;font:600 14px/1.2 "IBM Plex Sans",sans-serif;color:var(--ink);text-transform:none;letter-spacing:0;margin-top:3px}
-  nav.steps button.active{background:var(--ink);border-color:var(--ink);color:#c9bfae}
-  nav.steps button.active span{color:#fff}
-  nav.steps button.done{border-color:var(--green)}
-  section.screen{display:none;animation:rise .35s ease both}
-  section.screen.show{display:block}
-  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-  h1{font:700 clamp(28px,4vw,40px)/1.05 Fraunces,serif;margin:0 0 6px;letter-spacing:-.015em}
-  .sub{color:var(--ink-2);margin:0 0 20px;max-width:620px}
-  .grid{display:grid;gap:12px}
-  .g2{grid-template-columns:1fr 1fr}@media(max-width:760px){.g2{grid-template-columns:1fr}}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;box-shadow:var(--shadow);position:relative}
-  .card.urgent{border-left:5px solid var(--red)} .card.soon{border-left:5px solid var(--amber)} .card.ok{border-left:5px solid var(--green)}
-  .row{display:flex;align-items:center;justify-content:space-between;gap:12px}
-  .item{font:700 20px/1.1 Fraunces,serif}
-  .meta{font:500 12px "IBM Plex Mono",monospace;color:var(--ink-2);margin-top:4px}
-  .pill{font:500 12px "IBM Plex Mono",monospace;padding:4px 9px;border-radius:999px;white-space:nowrap}
-  .pill.red{background:var(--red-soft);color:var(--red)} .pill.amber{background:var(--amber-soft);color:var(--amber)} .pill.green{background:var(--green-soft);color:var(--green)}
-  .big{font:700 44px/1 Fraunces,serif;letter-spacing:-.02em}
-  .stat{display:flex;flex-direction:column;gap:4px}
-  .stat .meta{margin:0}
-  .btn{all:unset;cursor:pointer;display:inline-flex;align-items:center;gap:8px;padding:12px 18px;border-radius:10px;background:var(--ink);color:#fff;font-weight:600;transition:.15s}
-  .btn:hover{transform:translateY(-1px)} .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
-  .btn.green{background:var(--green)}
-  .btn:disabled{opacity:.45;cursor:default;transform:none}
-  .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
-  .rec{border-top:4px solid var(--ink)}
-  .rec .tag{font:500 11px "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}
-  .rec h3{font:700 22px/1.15 Fraunces,serif;margin:6px 0 8px}
-  .rec p{margin:0 0 12px;color:var(--ink-2)}
-  .rec .why{font-size:13px;background:var(--paper-2);border-radius:8px;padding:8px 10px;margin-bottom:12px}
-  .rec.picked{outline:2px solid var(--green);background:#f3faf5}
-  .rec.picked::after{content:"✓ selected";position:absolute;top:12px;right:14px;font:500 11px "IBM Plex Mono",monospace;color:var(--green)}
-  .ticket{font:400 13px/1.6 "IBM Plex Mono",monospace;background:#fff;border:1px dashed var(--line);border-radius:10px;padding:14px 16px;white-space:pre-wrap}
-  .board{width:100%;border-collapse:collapse;font-size:14px}
-  .board th{font:500 11px "IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-2);text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
-  .board td{padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top}
-  .board tr.hl td{background:#f3faf5}
-  .arrow{color:var(--green);font-weight:600}
-  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(20px);background:var(--ink);color:#fff;padding:12px 18px;border-radius:10px;opacity:0;transition:.3s;font-weight:500;pointer-events:none}
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{font:14px/1.45 Inter,system-ui,sans-serif;color:var(--ink);background:var(--bg)}
+  button{font:inherit}
+  .hidden{display:none !important}
+
+  /* ---------- LOGIN ---------- */
+  #login{min-height:100vh;display:grid;place-items:center;padding:24px;position:relative;overflow:hidden;
+    background:linear-gradient(180deg,#9ec3dd 0%,#d9e6ea 35%,#6c8f63 70%,#2f5a3a 100%)}
+  #login .sky{position:absolute;inset:0;background:
+    radial-gradient(600px 300px at 70% 20%,rgba(255,255,255,.55),transparent 70%),
+    radial-gradient(900px 500px at 30% 100%,rgba(20,60,30,.55),transparent 70%)}
+  #login svg.tower{position:absolute;right:8%;bottom:28%;width:120px;opacity:.85}
+  #login .trees{position:absolute;left:0;right:0;bottom:0;height:34%;
+    background:radial-gradient(180px 140px at 10% 100%,#2b5533 60%,transparent 61%),radial-gradient(240px 170px at 35% 100%,#356a3f 60%,transparent 61%),
+    radial-gradient(200px 150px at 62% 100%,#2b5533 60%,transparent 61%),radial-gradient(260px 190px at 90% 100%,#2f5f3a 60%,transparent 61%)}
+  .login-wrap{position:relative;width:100%;max-width:420px}
+  .login-brand{color:#fff;margin-bottom:18px}
+  .login-brand .name{font-size:28px;font-weight:700;display:flex;align-items:center;gap:8px;text-shadow:0 2px 12px rgba(0,0,0,.25)}
+  .login-brand p{margin:6px 0 0;font-size:14px;opacity:.95;text-shadow:0 1px 8px rgba(0,0,0,.3)}
+  .login-brand .tag{margin-top:26px;font-weight:600;font-size:15px}
+  .login-card{background:#fff;border-radius:16px;padding:22px;box-shadow:0 20px 50px -20px rgba(0,0,0,.45)}
+  .login-card h2{margin:0 0 4px;font-size:18px}
+  .login-card p{margin:0 0 14px;color:var(--muted);font-size:13px}
+  .field{display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:10px;color:var(--muted);font-size:13px}
+  .field input{all:unset;flex:1;color:var(--ink)}
+  .btn{all:unset;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:10px 16px;border-radius:10px;background:var(--green);color:#fff;font-weight:600;font-size:14px;transition:.15s}
+  .btn:hover{background:var(--green-2)} .btn.block{width:100%} .btn.sm{padding:7px 12px;font-size:13px;border-radius:8px}
+  .btn.outline{background:#fff;color:var(--ink);border:1px solid var(--line)} .btn.outline:hover{background:#f3f6f4}
+  .forgot{text-align:center;margin-top:10px;font-size:12px;color:var(--muted)}
+  .berkeley{position:absolute;left:28px;bottom:26px;color:#fff;font-family:Georgia,serif;font-size:30px;line-height:1;text-shadow:0 2px 8px rgba(0,0,0,.4)}
+  .berkeley small{display:block;font-family:Inter,sans-serif;font-size:9px;letter-spacing:.14em;text-transform:uppercase;margin-top:4px}
+
+  /* ---------- APP SHELL ---------- */
+  #app{display:grid;grid-template-columns:220px 1fr;min-height:100vh}
+  aside{background:var(--panel);border-right:1px solid var(--line);padding:18px 12px;display:flex;flex-direction:column;position:sticky;top:0;height:100vh}
+  .logo{display:flex;align-items:center;gap:8px;font-weight:700;font-size:15px;padding:4px 8px 18px}
+  .leaf{width:22px;height:22px;border-radius:7px;background:var(--green);display:grid;place-items:center}
+  .leaf svg{width:14px;height:14px}
+  .nav a{display:flex;align-items:center;gap:10px;padding:10px 10px;border-radius:9px;color:var(--muted);text-decoration:none;font-size:13.5px;cursor:pointer}
+  .nav a svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+  .nav a.active{background:var(--green-chip);color:var(--green);font-weight:600}
+  .nav a:hover:not(.active){background:#eef3f0}
+  .nav .spacer{flex:1}
+  main{padding:0}
+  .topbar{display:flex;justify-content:flex-end;align-items:center;gap:12px;padding:14px 28px 0}
+  .select{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);background:#fff;border-radius:9px;padding:7px 12px;font-size:13px}
+  .avatar{width:30px;height:30px;border-radius:50%;background:var(--green-soft);display:grid;place-items:center;color:var(--green)}
+  .page{padding:22px 28px 60px;max-width:1080px}
+  h1{font-size:22px;margin:0 0 4px;font-weight:700}
+  .sub{margin:0 0 18px;color:var(--muted);font-size:13.5px}
+  .head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}
+  .cards{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:14px}
+  @media(max-width:900px){.cards{grid-template-columns:repeat(2,1fr)}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:var(--shadow)}
+  .card .lbl{font-size:12px;color:var(--muted);display:flex;align-items:center;gap:8px;margin-bottom:10px}
+  .ico{width:26px;height:26px;border-radius:8px;display:grid;place-items:center;font-size:13px}
+  .ico.g{background:var(--green-soft);color:var(--green)} .ico.r{background:var(--red-soft);color:var(--red)} .ico.y{background:var(--amber-soft);color:var(--amber)}
+  .num{font-size:28px;font-weight:700;letter-spacing:-.01em}
+  .delta{font-size:12px;color:var(--green);margin-top:4px} .delta.red{color:var(--red)} .delta.mut{color:var(--muted)}
+  .two{display:grid;grid-template-columns:1.5fr 1fr;gap:12px}
+  @media(max-width:900px){.two{grid-template-columns:1fr}}
+  .card h3{margin:0 0 2px;font-size:15px} .card .hint{color:var(--muted);font-size:12px;margin:0 0 12px}
+  .legend{display:flex;gap:16px;font-size:12px;color:var(--muted);margin-top:8px}
+  .legend i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:middle}
+  .menu li{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}
+  .menu{list-style:none;margin:0;padding:0} .menu li:last-child{border:0}
+  .food{width:38px;height:38px;border-radius:50%;background:#f1efe8;display:grid;place-items:center;font-size:20px;flex:none}
+  .menu b{display:block;font-size:13.5px} .menu small{color:var(--muted);font-size:12px}
+  .link{color:var(--green);font-weight:600;font-size:13px;text-decoration:none;cursor:pointer}
+  .search{display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:10px;padding:9px 12px;color:var(--muted);background:#fff;margin:14px 0 12px;font-size:13px}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+  .chip{all:unset;cursor:pointer;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:#fff;font-size:12.5px;color:var(--muted)}
+  .chip.on{background:var(--green);border-color:var(--green);color:#fff;font-weight:600}
+  table{width:100%;border-collapse:collapse;font-size:13.5px}
+  th{font-size:12px;color:var(--muted);font-weight:500;text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+  td{padding:11px 10px;border-bottom:1px solid var(--line)}
+  tr:last-child td{border:0}
+  .status{font-size:11.5px;font-weight:600;padding:4px 10px;border-radius:999px}
+  .status.good{background:var(--green-chip);color:var(--green)} .status.first{background:var(--amber-soft);color:var(--amber)}
+  .pill{font-size:11px;font-weight:600;padding:4px 9px;border-radius:999px;background:var(--green-chip);color:var(--green)}
+  .pill.keep{background:var(--blue-soft);color:var(--blue)}
+  .datebar{display:flex;align-items:center;gap:8px;margin:14px 0}
+  .datebar .select{flex:1;justify-content:center}
+  .sq{all:unset;cursor:pointer;width:34px;height:34px;display:grid;place-items:center;border:1px solid var(--line);border-radius:9px;background:#fff}
+  .note{background:var(--green-soft);border-radius:12px;padding:12px 14px;display:flex;gap:10px;align-items:flex-start;font-size:13px;margin-top:14px}
+  .note .leaf{flex:none;margin-top:1px}
+  .rec{border-radius:var(--r);padding:16px 18px;margin-bottom:12px;border:1px solid transparent}
+  .rec.a{background:var(--amber-soft);border-color:#f6dfc0} .rec.b{background:var(--blue-soft);border-color:#cfdffb} .rec.c{background:var(--purple-soft);border-color:#ddd4fb}
+  .rec h3{margin:0 0 4px;font-size:15px;display:flex;align-items:center;gap:8px}
+  .rec p{margin:0 0 6px;font-size:13px;color:var(--muted)} .rec ul{margin:0 0 12px 18px;padding:0;font-size:13px;color:#3a4a43}
+  .rec .btn{background:#fff;color:var(--ink);border:1px solid rgba(0,0,0,.1)} .rec .btn:hover{background:#fafafa}
+  .rec .ico{width:28px;height:28px}
+  .rec.a .ico{background:#f9d9a8;color:var(--amber)} .rec.b .ico{background:#cfdffb;color:var(--blue)} .rec.c .ico{background:#ddd4fb;color:var(--purple)}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(16px);background:var(--ink);color:#fff;padding:12px 18px;border-radius:10px;opacity:0;transition:.3s;font-weight:500;font-size:13.5px;pointer-events:none;z-index:9}
   .toast.on{opacity:1;transform:translateX(-50%)}
-  footer{margin-top:36px;font:400 12px "IBM Plex Mono",monospace;color:var(--ink-2)}
+  .fade{animation:fade .3s ease both}@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @media(max-width:760px){#app{grid-template-columns:1fr}aside{position:static;height:auto;flex-direction:row;flex-wrap:wrap;gap:4px}.nav{display:flex;flex-wrap:wrap;gap:2px}.nav .spacer{display:none}.page{padding:16px}.topbar{padding:12px 16px 0}}
 </style>
 </head>
 <body>
-<div class="app">
-  <header>
-    <div class="brand">Second Serve<small>campus kitchen surplus agent · prototype</small></div>
-    <div class="who">Signed in as <b>Pat Rivera</b><br>Dining Manager · Crossroads</div>
-  </header>
 
-  <nav class="steps">
-    <button data-go="1" class="active">01<span>Expiring soon</span></button>
-    <button data-go="2">02<span>Agent recommends</span></button>
-    <button data-go="3">03<span>One tap</span></button>
-    <button data-go="4">04<span>Campus board</span></button>
-  </nav>
+<!-- ============ 1. LOGIN ============ -->
+<section id="login">
+  <div class="sky"></div>
+  <svg class="tower" viewBox="0 0 60 220" fill="#e9e2d2"><rect x="18" y="40" width="24" height="150"/><rect x="14" y="185" width="32" height="35"/><polygon points="30,8 18,40 42,40"/><rect x="22" y="48" width="4" height="120" fill="#cfc6b0"/><rect x="34" y="48" width="4" height="120" fill="#cfc6b0"/><rect x="26" y="60" width="8" height="14" fill="#5b7a8a"/><rect x="26" y="90" width="8" height="14" fill="#5b7a8a"/><rect x="26" y="120" width="8" height="14" fill="#5b7a8a"/></svg>
+  <div class="trees"></div>
+  <div class="login-wrap">
+    <div class="login-brand">
+      <div class="name"><span class="leaf"><svg viewBox="0 0 24 24" fill="#fff"><path d="M4 20c0-9 6-14 16-16-1 10-6 16-16 16zm0 0c3-5 7-8 12-10"/></svg></span>SurplusSense</div>
+      <p>AI food surplus prevention<br>for a more sustainable campus</p>
+      <p class="tag">Smarter planning. Less food waste.<br>A healthier planet.</p>
+    </div>
+    <div class="login-card">
+      <h2>Welcome back</h2>
+      <p>Log in to your dining hall account</p>
+      <div class="field">✉ <input placeholder="Email address" value="pat.rivera@berkeley.edu"></div>
+      <div class="field">🔒 <input placeholder="Password" type="password" value="surplus2026"> <span>👁</span></div>
+      <button class="btn block" id="loginBtn">Log in</button>
+      <div class="forgot">Forgot password?</div>
+    </div>
+  </div>
+  <div class="berkeley">Berkeley<small>University of California</small></div>
+</section>
 
-  <!-- 01 INVENTORY -->
-  <section class="screen show" id="s1">
-    <h1>Good morning, Pat. 4 items need a decision.</h1>
-    <p class="sub">Pulled from last night's inventory count. No new data entry. Sorted by what expires first and how much it's worth.</p>
-    <div class="grid g2">
-      <div class="card urgent"><div class="row"><div><div class="item">Baby spinach</div><div class="meta">14 lb · $63 · walk-in, shelf 2</div></div><span class="pill red">expires in 2 days</span></div></div>
-      <div class="card urgent"><div class="row"><div><div class="item">Chicken thighs</div><div class="meta">22 lb · $84 · walk-in, bin 4</div></div><span class="pill red">expires in 2 days</span></div></div>
-      <div class="card soon"><div class="row"><div><div class="item">Whole milk</div><div class="meta">6 gal · $27 · dairy cooler</div></div><span class="pill amber">expires in 4 days</span></div></div>
-      <div class="card soon"><div class="row"><div><div class="item">Roma tomatoes</div><div class="meta">30 lb · $45 · dry storage</div></div><span class="pill amber">expires in 5 days</span></div></div>
-    </div>
-    <div class="grid g2" style="margin-top:12px">
-      <div class="card"><div class="stat"><div class="meta">at risk this week</div><div class="big">$219</div><div class="meta">72 lb across 4 items</div></div></div>
-      <div class="card"><div class="stat"><div class="meta">on the menu before expiry</div><div class="big">$78</div><div class="meta">the rest spoils unless something changes</div></div></div>
-    </div>
-    <div class="actions"><button class="btn" data-go="2">What should I do? →</button></div>
-  </section>
+<!-- ============ APP ============ -->
+<div id="app" class="hidden">
+  <aside>
+    <div class="logo"><span class="leaf"><svg viewBox="0 0 24 24" fill="#fff"><path d="M4 20c0-9 6-14 16-16-1 10-6 16-16 16zm0 0c3-5 7-8 12-10"/></svg></span>SurplusSense</div>
+    <nav class="nav">
+      <a data-page="dashboard" class="active"><svg viewBox="0 0 24 24"><path d="M3 11l9-8 9 8v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>Dashboard</a>
+      <a data-page="inventory"><svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>Inventory</a>
+      <a data-page="meal"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18M8 2v4M16 2v4"/></svg>Meal Planning</a>
+      <a data-page="recs"><svg viewBox="0 0 24 24"><path d="M12 3l1.8 4.6L18 9l-4.2 1.4L12 15l-1.8-4.6L6 9l4.2-1.4zM5 17l.9 2.1L8 20l-2.1.9L5 23l-.9-2.1L2 20l2.1-.9z"/></svg>AI Recommendations</a>
+      <a data-page="impact"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 8v4l3 2"/></svg>Impact</a>
+      <span class="spacer"></span>
+      <a><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>Settings</a>
+    </nav>
+  </aside>
 
-  <!-- 02 RECOMMENDATIONS -->
-  <section class="screen" id="s2">
-    <h1>Three moves. Pick one or all.</h1>
-    <p class="sub">Each one uses an ingredient before it expires. Built from your cycle menu, your inventory, and what other campus kitchens posted this morning.</p>
-    <div class="grid g2" id="recs">
-      <div class="card rec" data-rec="use"><div class="tag">Use first</div><h3>Swap Thursday's romaine salad → spinach salad</h3><p>Uses 10 of 14 lb spinach. Same prep time, same station.</p><div class="why">Why: spinach expires Wed, romaine is good until Sunday. Thursday is your biggest salad day (avg 310 servings).</div><div class="meta">saves ~$45 · 10 lb</div></div>
-      <div class="card rec" data-rec="swap"><div class="tag">Swap</div><h3>Move Friday's chicken bowl to Wednesday</h3><p>Uses all 22 lb of chicken thighs. Friday gets the tofu bowl already on cycle.</p><div class="why">Why: chicken expires Wed night. Wed and Fri demand are within 5% of each other, so no shortage risk.</div><div class="meta">saves ~$84 · 22 lb</div></div>
-      <div class="card rec" data-rec="move"><div class="tag">Move</div><h3>Send 6 gal milk + 4 lb spinach to Café 3</h3><p>Café 3 posted a need for milk (brunch Sat) and spinach (smoothie bar).</p><div class="why">Why: you can't use it in time. Café 3 is 0.4 mi away; campus shuttle runs at 2 pm.</div><div class="meta">saves ~$45 · 6 gal + 4 lb</div></div>
-      <div class="card ok"><div class="tag" style="font:500 11px 'IBM Plex Mono',monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)">Order tweak</div><h3 style="font:700 22px/1.15 Fraunces,serif;margin:6px 0 8px">Cut next week's tomato order by 10 lb</h3><p style="color:var(--ink-2);margin:0">You've had 30 lb left over 3 weeks running. Auto-drafted for procurement to approve.</p></div>
-    </div>
-    <div class="actions">
-      <button class="btn ghost" data-go="1">← Back</button>
-      <button class="btn green" id="toConfirm" disabled>Confirm selected (0) →</button>
-      <button class="btn ghost" id="pickAll">Select all three</button>
-    </div>
-  </section>
+  <main>
+    <div class="topbar"><span class="select">Unit 1 Dining Hall ▾</span><span class="avatar">👤</span></div>
 
-  <!-- 03 CONFIRM -->
-  <section class="screen" id="s3">
-    <h1>One tap. Everyone who needs to know, knows.</h1>
-    <p class="sub">Pat doesn't write emails or edit the menu system by hand. The agent drafts the changes; Pat approves.</p>
-    <div class="grid g2">
-      <div class="card"><div class="tag" style="font:500 11px 'IBM Plex Mono',monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2);margin-bottom:8px">What goes out</div><div class="ticket" id="ticket"></div></div>
-      <div class="card"><div class="stat"><div class="meta">this week, if approved</div><div class="big" id="savedBig">$0</div><div class="meta" id="savedMeta">0 lb kept out of compost</div></div>
-        <div style="margin-top:18px;font-size:14px;color:var(--ink-2)">Approve sends: menu edit to the kitchen board, prep sheet update, a pickup request to Café 3, and an order-change draft to procurement.</div></div>
-    </div>
-    <div class="actions">
-      <button class="btn ghost" data-go="2">← Change</button>
-      <button class="btn green" id="approve">Approve all ✓</button>
-    </div>
-  </section>
+    <!-- 2. DASHBOARD -->
+    <section class="page" data-view="dashboard">
+      <h1>Good morning, Dining Team</h1>
+      <p class="sub">Here's what you need to know for today.</p>
+      <div class="cards">
+        <div class="card"><div class="lbl"><span class="ico g">👥</span>Expected Diners</div><div class="num">320</div><div class="delta">↑ 12% vs. last week</div></div>
+        <div class="card"><div class="lbl"><span class="ico r">📦</span>Inventory Items</div><div class="num">48</div><div class="delta red">12 at risk of expiring</div></div>
+        <div class="card"><div class="lbl"><span class="ico g">♻️</span>Estimated Food Waste (Avoided)</div><div class="num">~ 18 lb</div><div class="delta">↑ vs. last week</div></div>
+        <div class="card"><div class="lbl"><span class="ico g">$</span>Potential Savings</div><div class="num">$42</div><div class="delta mut">in purchasing costs</div></div>
+      </div>
+      <div class="two">
+        <div class="card">
+          <h3>Food Waste Trend</h3><p class="hint">Estimated vs. actual (lb)</p>
+          <svg viewBox="0 0 420 180" width="100%" id="barChart"></svg>
+          <div class="legend"><span><i style="background:var(--green)"></i>Estimated waste</span><span><i style="background:#c7dccf"></i>Actual waste</span></div>
+        </div>
+        <div class="card">
+          <h3>Upcoming Menu</h3><p class="hint">Tomorrow, Apr 16</p>
+          <ul class="menu">
+            <li><span class="food">🍗</span><div><b>Grilled Chicken</b><small>(main)</small></div></li>
+            <li><span class="food">🥕</span><div><b>Roasted Vegetables</b><small>(side)</small></div></li>
+            <li><span class="food">🥗</span><div><b>Quinoa Salad</b><small>(side)</small></div></li>
+            <li><span class="food">🥖</span><div><b>Whole Grain Roll</b><small>(side)</small></div></li>
+          </ul>
+          <div style="margin-top:12px"><a class="link" data-page="meal">View full menu →</a></div>
+        </div>
+      </div>
+    </section>
 
-  <!-- 04 CAMPUS BOARD -->
-  <section class="screen" id="s4">
-    <h1>The campus board. Every kitchen sees every other kitchen.</h1>
-    <p class="sub">Kitchens stop planning alone. Surplus on one side, needs on the other, matched by the agent.</p>
-    <div class="card" style="padding:6px 6px 0">
-      <table class="board">
-        <thead><tr><th>Kitchen</th><th>Has surplus</th><th>Needs</th><th>Matched</th></tr></thead>
-        <tbody>
-          <tr class="hl" id="rowCross"><td><b>Crossroads</b> (you)</td><td>milk 6 gal · spinach 4 lb</td><td>—</td><td class="arrow">→ Café 3, pickup 2 pm</td></tr>
-          <tr><td><b>Café 3</b></td><td>bananas 40 lb</td><td>milk · spinach</td><td class="arrow">← Crossroads</td></tr>
-          <tr><td><b>Foothill</b></td><td>rice 50 lb</td><td>bananas</td><td class="arrow">← Café 3, Thu</td></tr>
-          <tr><td><b>Clark Kerr</b></td><td>—</td><td>rice (Fri event)</td><td class="arrow">← Foothill, Fri am</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="grid g2" style="margin-top:12px">
-      <div class="card ok"><div class="stat"><div class="meta">campus, this week</div><div class="big">$1,140</div><div class="meta">saved across 4 kitchens · 390 lb not composted</div></div></div>
-      <div class="card"><div class="stat"><div class="meta">staff time added</div><div class="big">0 min</div><div class="meta">runs off existing counts + cycle menus</div></div></div>
-    </div>
-    <div class="actions"><button class="btn ghost" data-go="1">↺ Start over</button></div>
-  </section>
+    <!-- 3. INVENTORY -->
+    <section class="page hidden" data-view="inventory">
+      <div class="head"><div><h1>Inventory</h1><p class="sub">Track your current stock and expiration dates.</p></div><button class="btn sm" id="addItem">+ Add Item</button></div>
+      <div class="search">🔍 <input style="all:unset;flex:1" placeholder="Search ingredients..." id="invSearch"></div>
+      <div class="chips" id="chips">
+        <button class="chip on" data-cat="all">All</button><button class="chip" data-cat="Produce">Produce</button><button class="chip" data-cat="Proteins">Proteins</button><button class="chip" data-cat="Dairy">Dairy</button><button class="chip" data-cat="Grains">Grains</button><button class="chip" data-cat="Other">Other</button>
+      </div>
+      <div class="card" style="padding:4px 8px">
+        <table><thead><tr><th>Item</th><th>Quantity</th><th>Expiration Date</th><th>Status</th></tr></thead><tbody id="invBody"></tbody></table>
+      </div>
+    </section>
 
-  <footer>Second Serve · ReGenVen (SCET) · prototype with hardcoded data · JJ, Hamilton, Sakina, Cheng, Ricardo</footer>
+    <!-- 4. MEAL PLANNING -->
+    <section class="page hidden" data-view="meal" style="max-width:640px">
+      <h1>Meal Planning</h1>
+      <p class="sub">Optimize your menu based on inventory, demand, and expiration dates.</p>
+      <div class="datebar"><button class="sq">‹</button><span class="select">📅 Tomorrow, Apr 16</span><button class="sq">›</button></div>
+      <div class="head" style="margin-bottom:8px"><b>AI Suggested Menu</b><a class="link">View alternatives →</a></div>
+      <div class="card" style="padding:4px 16px">
+        <ul class="menu">
+          <li><span class="food">🍗</span><div style="flex:1"><b>Grilled Chicken with Spinach</b><small>Uses spinach (expires soon)</small></div><span class="pill">Recommended</span></li>
+          <li><span class="food">🥕</span><div style="flex:1"><b>Roasted Vegetables</b><small>Uses existing produce</small></div><span class="pill">Recommended</span></li>
+          <li><span class="food">🥗</span><div style="flex:1"><b>Quinoa Salad</b><small>Balanced, low waste</small></div><span class="pill">Recommended</span></li>
+          <li><span class="food">🥖</span><div style="flex:1"><b>Whole Grain Roll</b><small>Sufficient inventory</small></div><span class="pill keep">Keep</span></li>
+        </ul>
+      </div>
+      <div class="note"><span class="leaf"><svg viewBox="0 0 24 24" fill="#fff"><path d="M4 20c0-9 6-14 16-16-1 10-6 16-16 16zm0 0c3-5 7-8 12-10"/></svg></span><div>This menu plan is estimated to prevent <b>~18 lb of food waste</b> and <b>save $42</b> in purchasing costs compared to last week's plan.</div></div>
+      <button class="btn block" id="applyPlan" style="margin-top:14px">Apply Plan</button>
+    </section>
+
+    <!-- 5. AI RECOMMENDATIONS -->
+    <section class="page hidden" data-view="recs" style="max-width:640px">
+      <h1>AI Recommendations</h1>
+      <p class="sub">Based on your inventory, menu, and expected demand.</p>
+      <div class="rec a"><h3><span class="ico">⚠</span>1. Use spinach before it expires</h3><p>8 lb of spinach will expire in 1 day (Apr 16).</p><p>Suggested actions:</p><ul><li>Add spinach to tomorrow's menu</li><li>Consider a spinach salad or stir-fry</li></ul><button class="btn sm" data-page="meal">View menu ideas</button></div>
+      <div class="rec b"><h3><span class="ico">📊</span>2. Adjust preparation quantities</h3><p>Based on expected attendance (320), we recommend:</p><ul><li>80% of usual chicken quantity</li><li>75% of usual rice quantity</li><li>Keep full portion of vegetables</li></ul><button class="btn sm" data-page="meal">View detailed plan</button></div>
+      <div class="rec c"><h3><span class="ico">🛒</span>3. Buy only what you need</h3><p>You have enough ingredients for 3 menu items.</p><p>Suggested purchases:</p><ul><li>Milk (5 lb)</li><li>Bananas (10 lb)</li><li>Fresh herbs (2 bunches)</li></ul><button class="btn sm" data-page="inventory">View shopping list</button></div>
+    </section>
+
+    <!-- 6. IMPACT -->
+    <section class="page hidden" data-view="impact" style="max-width:640px">
+      <div class="head"><div><h1>Your Impact</h1><p class="sub">Track the difference you're making.</p></div><span class="select">Last 7 days ▾</span></div>
+      <div class="cards" style="grid-template-columns:1fr 1fr">
+        <div class="card"><div class="lbl"><span class="ico g">🌿</span></div><div class="lbl" style="margin:0">Food Waste Avoided</div><div class="num" id="impLb">~ 86 lb</div><div class="delta">↑ 24% vs. previous week</div></div>
+        <div class="card"><div class="lbl"><span class="ico g">$</span></div><div class="lbl" style="margin:0">Purchasing Savings</div><div class="num" id="impUsd">$203</div><div class="delta">↑ 18% vs. previous week</div></div>
+        <div class="card"><div class="lbl"><span class="ico g">☁</span></div><div class="lbl" style="margin:0">CO₂e Reduced</div><div class="num">~ 64 lb</div><div class="delta">↑ 24% vs. previous week</div></div>
+        <div class="card"><div class="lbl"><span class="ico g">♥</span></div><div class="lbl" style="margin:0">Meals Supported</div><div class="num" id="impMeals">~ 215</div><div class="delta mut">from saved food</div></div>
+      </div>
+      <div class="card"><h3>Food Waste Trend</h3><p class="hint">(lb)</p><svg viewBox="0 0 420 170" width="100%" id="lineChart"></svg></div>
+      <div class="note"><span class="leaf"><svg viewBox="0 0 24 24" fill="#fff"><path d="M4 20c0-9 6-14 16-16-1 10-6 16-16 16zm0 0c3-5 7-8 12-10"/></svg></span><div>You've prevented an estimated <b>86 lb of food waste</b> in the last 7 days. That's enough food for <b>215 meals</b>! 🌱</div></div>
+    </section>
+  </main>
 </div>
 <div class="toast" id="toast"></div>
 
 <script>
-  const picked = new Set();
-  const data = { use:{s:45,lb:10,line:"MENU  Thu: romaine salad → spinach salad (10 lb)"},
-                 swap:{s:84,lb:22,line:"MENU  Fri chicken bowl ⇄ Wed tofu bowl (22 lb chicken)"},
-                 move:{s:45,lb:10,line:"MOVE  6 gal milk + 4 lb spinach → Café 3, shuttle 2 pm"} };
-  const $ = s => document.querySelector(s);
-  function go(n){
-    document.querySelectorAll('.screen').forEach(s=>s.classList.remove('show'));
-    $('#s'+n).classList.add('show');
-    document.querySelectorAll('nav.steps button').forEach(b=>{
-      const k=+b.dataset.go; b.classList.toggle('active',k===n); b.classList.toggle('done',k<n);
-    });
-    if(n===3) renderTicket();
-    window.scrollTo({top:0,behavior:'smooth'});
-  }
-  function renderTicket(){
-    let s=0,lb=0,lines=[];
-    picked.forEach(k=>{s+=data[k].s;lb+=data[k].lb;lines.push(data[k].line)});
-    lines.push("ORDER next week: tomatoes −10 lb (draft to procurement)");
-    $('#ticket').textContent = lines.map((l,i)=>`${String(i+1).padStart(2,'0')}  ${l}`).join("\n");
-    $('#savedBig').textContent='$'+s; $('#savedMeta').textContent=lb+' lb kept out of compost';
-  }
-  function syncConfirm(){ const b=$('#toConfirm'); b.disabled=picked.size===0; b.textContent=`Confirm selected (${picked.size}) →`; }
-  document.querySelectorAll('[data-go]').forEach(b=>b.addEventListener('click',()=>go(+b.dataset.go)));
-  document.querySelectorAll('.rec').forEach(c=>c.addEventListener('click',()=>{
-    const k=c.dataset.rec; picked.has(k)?picked.delete(k):picked.add(k); c.classList.toggle('picked'); syncConfirm();
-  }));
-  $('#pickAll').addEventListener('click',()=>{ document.querySelectorAll('.rec').forEach(c=>{picked.add(c.dataset.rec);c.classList.add('picked')}); syncConfirm(); });
-  $('#toConfirm').addEventListener('click',()=>go(3));
-  $('#approve').addEventListener('click',()=>{
-    const t=$('#toast'); t.textContent='Approved. Kitchen board, prep sheet, Café 3, and procurement notified.'; t.classList.add('on');
-    setTimeout(()=>t.classList.remove('on'),2600); setTimeout(()=>go(4),900);
-  });
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),2400)}
+function show(page){
+  $$('[data-view]').forEach(v=>{v.classList.toggle('hidden',v.dataset.view!==page);if(v.dataset.view===page){v.classList.remove('fade');void v.offsetWidth;v.classList.add('fade')}});
+  $$('.nav a').forEach(a=>a.classList.toggle('active',a.dataset.page===page));
+  window.scrollTo({top:0});
+}
+$('#loginBtn').onclick=()=>{$('#login').classList.add('hidden');$('#app').classList.remove('hidden');show('dashboard')};
+document.addEventListener('click',e=>{const t=e.target.closest('[data-page]');if(t&&t.dataset.page)show(t.dataset.page)});
+
+/* inventory */
+const inv=[
+  ['🥬','Spinach','8 lb','Apr 16, 2025','first','Produce'],['🍗','Chicken Breast','5 lb','Apr 20, 2025','good','Proteins'],
+  ['🫑','Bell Peppers','12 lb','Apr 22, 2025','good','Produce'],['🥣','Greek Yogurt','6 lb','Apr 24, 2025','good','Dairy'],
+  ['🍚','Brown Rice','10 lb','Apr 28, 2025','good','Grains'],['🧀','Cheddar Cheese','4 lb','May 2, 2025','good','Dairy'],
+  ['🍅','Tomatoes','15 lb','May 3, 2025','good','Produce']];
+let cat='all';
+function renderInv(){
+  const q=($('#invSearch').value||'').toLowerCase();
+  $('#invBody').innerHTML=inv.filter(r=>(cat==='all'||r[5]===cat)&&r[1].toLowerCase().includes(q)).map(r=>
+    `<tr><td><span style="display:inline-flex;align-items:center;gap:10px"><span class="food" style="width:30px;height:30px;font-size:16px">${r[0]}</span>${r[1]}</span></td><td>${r[2]}</td><td>${r[3]}</td><td><span class="status ${r[4]}">${r[4]==='first'?'Use First':'Good'}</span></td></tr>`).join('')||'<tr><td colspan=4 style="color:var(--muted)">No items</td></tr>';
+}
+$('#invSearch').oninput=renderInv;
+$('#chips').onclick=e=>{const c=e.target.closest('.chip');if(!c)return;cat=c.dataset.cat;$$('.chip').forEach(x=>x.classList.toggle('on',x===c));renderInv()};
+$('#addItem').onclick=()=>{inv.push(['🥛','Whole Milk','5 gal','Apr 19, 2025','good','Dairy']);renderInv();toast('Whole Milk added to inventory')};
+renderInv();
+
+/* meal plan */
+$('#applyPlan').onclick=()=>{toast('Plan applied. Kitchen board and prep sheet updated.');$('#impLb').textContent='~ 104 lb';$('#impUsd').textContent='$245';$('#impMeals').textContent='~ 260';setTimeout(()=>show('impact'),900)};
+
+/* charts */
+(function(){
+  const days=['Mon','Tue','Wed','Thu','Fri','Sat','Sun'],est=[32,36,30,34,38,24,22],act=[26,28,25,27,30,20,18];
+  let s='';const H=140,top=10,bw=14,gap=52,x0=40;
+  [0,10,20,30,40].forEach(v=>{const y=top+H-(v/40)*H;s+=`<text x="26" y="${y+4}" font-size="9" fill="#9aa8a1" text-anchor="end">${v}</text><line x1="${x0}" x2="410" y1="${y}" y2="${y}" stroke="#eef2ef"/>`});
+  days.forEach((d,i)=>{const x=x0+10+i*gap;const h1=(est[i]/40)*H,h2=(act[i]/40)*H;
+    s+=`<rect x="${x}" y="${top+H-h2}" width="${bw}" height="${h2}" rx="3" fill="#c7dccf"/><rect x="${x+bw+3}" y="${top+H-h1}" width="${bw}" height="${h1}" rx="3" fill="#1e6b4a"/><text x="${x+bw+1}" y="${top+H+16}" font-size="10" fill="#6b7b74" text-anchor="middle">${d}</text>`});
+  $('#barChart').innerHTML=s;
+  const dd=['Apr 9','Apr 10','Apr 11','Apr 12','Apr 13','Apr 14','Apr 15'],v=[46,38,34,30,28,24,22];let l='';const W=360,x1=45,Hh=120,t=12;
+  [0,20,40,60].forEach(n=>{const y=t+Hh-(n/60)*Hh;l+=`<text x="34" y="${y+4}" font-size="9" fill="#9aa8a1" text-anchor="end">${n}</text><line x1="${x1}" x2="410" y1="${y}" y2="${y}" stroke="#eef2ef"/>`});
+  const pts=v.map((n,i)=>[x1+i*(W/6),t+Hh-(n/60)*Hh]);
+  l+=`<polyline points="${pts.map(p=>p.join(',')).join(' ')}" fill="none" stroke="#1e6b4a" stroke-width="2"/>`;
+  pts.forEach((p,i)=>{l+=`<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="#1e6b4a"/><text x="${p[0]}" y="${t+Hh+18}" font-size="9.5" fill="#6b7b74" text-anchor="middle">${dd[i]}</text>`});
+  $('#lineChart').innerHTML=l;
+})();
 </script>
 </body>
 </html>
