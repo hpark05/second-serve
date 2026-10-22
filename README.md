@@ -5,3 +5,6 @@ Prototype for ReGenVen (SCET, UC Berkeley). An AI agent that helps campus kitche
 Clickable mockup with hardcoded data. One flow: expiring items → agent recommends use / swap / move → one-tap approve → campus surplus board.
 
 Open `index.html` or visit the GitHub Pages link. Team: JJ, Hamilton, Sakina, Cheng, Ricardo.
+
+## Images
+Food photos are Wikipedia/Wikimedia Commons lead images (CC licenses), used for a class prototype only.
