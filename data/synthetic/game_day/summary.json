@@ -1,0 +1,665 @@
+{
+  "schema_version": "1.0",
+  "scenario": "game_day",
+  "description": "Same scraped week as normal_week, but Saturday 2026-10-24 is treated as a home football game day (hypothetical date). Brunch drops as students tailgate, dinner spikes at halls near Memorial Stadium. The forecast does not anticipate it.",
+  "seed": 20261019,
+  "start_date": "2026-10-19",
+  "end_date": "2026-10-25",
+  "headline": {
+    "covers": 65945.0,
+    "purchased_lb": 78267.29279885806,
+    "served_lb": 74607.42387999999,
+    "pre_consumer_lb": 6369.636015715264,
+    "post_consumer_lb": 10337.893012792643,
+    "expired_lb": 388.9791314640136,
+    "donated_lb": 3560.215635,
+    "portions_short": 3980,
+    "pre_consumer_pct_of_purchased": 8.138311404336957,
+    "plate_waste_lb_per_cover": 0.1567653804350996,
+    "total_waste_pct_of_purchased": 21.34675728652732,
+    "total_waste_lb_per_meal": 0.2533555088104922,
+    "overproduction_share_of_pre_consumer": 45.628382498299416,
+    "pre_consumer_lb_per_cover": 0.09659012837539259
+  },
+  "checks": [
+    {
+      "check": "pre_consumer_pct_of_purchased",
+      "label": "Pre-consumer waste, % of purchased (sim by mass)",
+      "unit": "pct",
+      "value": 8.138311404336957,
+      "range_low": 4.0,
+      "range_high": 10.0,
+      "pass": true,
+      "sources": [
+        {
+          "metric": "pre_consumer_waste_pct_of_purchases",
+          "value_low": 4.0,
+          "value_high": 10.0,
+          "unit": "% of food purchases (by value)",
+          "context": "US colleges/universities, kitchen (back-of-house) waste; vendor aggregate, no primary study published",
+          "source_org": "Leanpath",
+          "source_url": "https://blog.leanpath.com/college-food-waste-prevention",
+          "year": 2018,
+          "point_estimate": false
+        },
+        {
+          "metric": "pre_consumer_waste_pct_food_reaching_retail",
+          "value_low": 5.6,
+          "value_high": 5.6,
+          "unit": "% of food mass reaching retail level",
+          "context": "University of Missouri, 4 all-you-care-to-eat halls, Feb-May 2014, weighed audit (13.9 t of 246.3 t)",
+          "source_org": "Costello et al. Renewable Agriculture and Food Systems",
+          "source_url": "https://www.cambridge.org/core/journals/renewable-agriculture-and-food-systems/article/food-waste-in-campus-dining-operations-inventory-of-pre-and-postconsumer-mass-by-food-category-and-estimation-of-embodied-greenhouse-gas-emissions/3157B7B943CB89ABDEFD763EAA10F76F",
+          "year": 2015,
+          "point_estimate": true
+        }
+      ]
+    },
+    {
+      "check": "plate_waste_lb_per_cover",
+      "label": "Plate waste, lb per cover",
+      "unit": "lb/cover",
+      "value": 0.1567653804350996,
+      "range_low": 0.13625,
+      "range_high": 0.24471282,
+      "pass": true,
+      "sources": [
+        {
+          "metric": "plate_waste_oz_per_guest_meal_higher_ed",
+          "value_low": 2.18,
+          "value_high": 2.18,
+          "unit": "oz edible plate waste per guest per meal",
+          "context": "Bon Appetit higher-ed cafes, NRDC protocol, May 2018-Mar 2019 (corporate cafes: 1.03 oz)",
+          "source_org": "Bon Appetit Management Co. / NRDC",
+          "source_url": "https://www.bamco.com/press-releases/study-finds-college-students-waste-112-pounds-of-food-per-school-year/",
+          "year": 2019,
+          "point_estimate": true
+        },
+        {
+          "metric": "plate_waste_g_per_diner",
+          "value_low": 76.0,
+          "value_high": 111.0,
+          "unit": "g per diner",
+          "context": "American University AYCE cafeteria 2009; low=trayless, high=with trays (-32%)",
+          "source_org": "Kim & Morawski via Pacific Standard",
+          "source_url": "https://psmag.com/environment/reduce-food-waste-by-removing-plastic-trays-54118/",
+          "year": 2012,
+          "point_estimate": false
+        }
+      ]
+    },
+    {
+      "check": "total_waste_pct_of_purchased",
+      "label": "Total waste (pre + post), % of purchased",
+      "unit": "pct",
+      "value": 21.34675728652732,
+      "range_low": 8.0,
+      "range_high": 15.0,
+      "pass": false,
+      "sources": [
+        {
+          "metric": "total_food_waste_pct_of_purchases",
+          "value_low": 8.0,
+          "value_high": 15.0,
+          "unit": "% of food purchases (by value)",
+          "context": "US colleges/universities, pre+post consumer; vendor estimate assuming plate waste ~= kitchen waste",
+          "source_org": "Leanpath",
+          "source_url": "https://blog.leanpath.com/college-food-waste-prevention",
+          "year": 2018,
+          "point_estimate": false
+        }
+      ]
+    },
+    {
+      "check": "total_waste_lb_per_meal",
+      "label": "Total food waste, lb per meal",
+      "unit": "lb/meal",
+      "value": 0.2533555088104922,
+      "range_low": 0.20625,
+      "range_high": 0.44,
+      "pass": true,
+      "sources": [
+        {
+          "metric": "food_waste_generation_lb_per_meal_colleges",
+          "value_low": 0.36,
+          "value_high": 0.44,
+          "unit": "lb per student per meal",
+          "context": "US colleges and universities; EPA extrapolation factors (10 studies), all food waste",
+          "source_org": "US EPA 2019 Wasted Food Report",
+          "source_url": "https://www.epa.gov/system/files/documents/2024-04/2019-wasted-food-report_508_opt_ec_4.23correction.pdf",
+          "year": 2019,
+          "point_estimate": false
+        },
+        {
+          "metric": "food_waste_generation_lb_per_meal_colleges",
+          "value_low": 0.35,
+          "value_high": 0.35,
+          "unit": "lb per meal",
+          "context": "US colleges (residential and non-residential); state estimation tools citing Draper/Lennon 2001",
+          "source_org": "RecyclingWorks Massachusetts; RIT NYSP2I",
+          "source_url": "https://recyclingworksma.com/wp-content/uploads/2020/06/2022-Colleges-and-Universities.pdf",
+          "year": 2022,
+          "point_estimate": true
+        },
+        {
+          "metric": "total_waste_oz_per_meal_served",
+          "value_low": 3.3,
+          "value_high": 3.3,
+          "unit": "oz food waste per meal served",
+          "context": "University of Illinois, 6 residential halls, 2016 audit (14,875 lb/week)",
+          "source_org": "University of Illinois ACES",
+          "source_url": "https://aces.illinois.edu/node/1232",
+          "year": 2021,
+          "point_estimate": true
+        }
+      ]
+    },
+    {
+      "check": "overproduction_share_of_pre_consumer",
+      "label": "Overproduction share of pre-consumer waste, %",
+      "unit": "pct",
+      "value": 45.628382498299416,
+      "range_low": 50.0,
+      "range_high": 60.0,
+      "pass": false,
+      "sources": [
+        {
+          "metric": "overproduction_share_of_pre_consumer_waste",
+          "value_low": 50.0,
+          "value_high": 60.0,
+          "unit": "% of pre-consumer waste",
+          "context": "Colleges; vendor tracking data",
+          "source_org": "Leanpath",
+          "source_url": "https://blog.leanpath.com/college-food-waste-prevention",
+          "year": 2018,
+          "point_estimate": false
+        },
+        {
+          "metric": "overproduction_share_of_pre_consumer_waste",
+          "value_low": 50.0,
+          "value_high": 50.0,
+          "unit": "% of pre-consumer waste",
+          "context": "UMass Amherst, 5 yrs Leanpath tracking: 'roughly equal parts trim waste and overproduction'",
+          "source_org": "RecyclingWorks Massachusetts",
+          "source_url": "https://recyclingworksma.com/wp-content/uploads/2012/01/UMassCaseStudyFINAL-1A.pdf",
+          "year": 2017,
+          "point_estimate": true
+        }
+      ]
+    },
+    {
+      "check": "pre_consumer_lb_per_cover",
+      "label": "Pre-consumer waste, lb per cover",
+      "unit": "lb/cover",
+      "value": 0.09659012837539259,
+      "range_low": 0.027116826,
+      "range_high": 0.081350478,
+      "pass": false,
+      "sources": [
+        {
+          "metric": "pre_consumer_waste_g_per_customer",
+          "value_low": 24.6,
+          "value_high": 24.6,
+          "unit": "g per customer",
+          "context": "University of Missouri, Dobbs dining facility (17.9 g edible + 6.7 g inedible)",
+          "source_org": "Costello et al. Renewable Agriculture and Food Systems",
+          "source_url": "https://www.cambridge.org/core/journals/renewable-agriculture-and-food-systems/article/food-waste-in-campus-dining-operations-inventory-of-pre-and-postconsumer-mass-by-food-category-and-estimation-of-embodied-greenhouse-gas-emissions/3157B7B943CB89ABDEFD763EAA10F76F",
+          "year": 2015,
+          "point_estimate": true
+        }
+      ]
+    }
+  ],
+  "all_checks_pass": false,
+  "mass_balance": {
+    "max_abs_imbalance_pct": 2.822006056249326e-14,
+    "tolerance_pct": 1.0,
+    "pass": true
+  },
+  "transfers": {
+    "count": 49,
+    "lb": 293.4606,
+    "status": [
+      "proposed"
+    ]
+  },
+  "donation_reference": {
+    "sim_donated_lb_per_week": 3560.215635,
+    "cal_dining_reported_lb_per_week": 3125.0,
+    "basis": "uc_numbers.csv food_donated_per_semester (50000 lbs (over)) / 16 weeks (ASSUMPTION); covers all of Cal Dining",
+    "source_url": "https://dining.berkeley.edu/sustainability/waste-reduction/"
+  },
+  "overall": {
+    "covers": 65945.0,
+    "days": 7,
+    "purchased_lb": 78267.29279885806,
+    "emergency_purchased_lb": 33.84309885807192,
+    "served_lb": 74607.42387999999,
+    "served_lb_per_cover": 1.1313583119266053,
+    "pre_consumer_lb": 6369.636015715264,
+    "post_consumer_lb": 10337.893012792643,
+    "trim_lb": 3074.29499925125,
+    "overproduction_lb": 2906.361885,
+    "expired_lb": 388.9791314640136,
+    "donated_lb": 3560.215635,
+    "repurposed_lb": 5275.2156350000005,
+    "portions_prepared": 415581,
+    "portions_short": 3980,
+    "metrics": {
+      "pre_consumer_pct_of_purchased": 8.138311404336957,
+      "plate_waste_lb_per_cover": 0.1567653804350996,
+      "total_waste_pct_of_purchased": 21.34675728652732,
+      "total_waste_lb_per_meal": 0.2533555088104922,
+      "overproduction_share_of_pre_consumer": 45.628382498299416,
+      "pre_consumer_lb_per_cover": 0.09659012837539259
+    }
+  },
+  "by_hall": {
+    "cafe-3": {
+      "covers": 16451.0,
+      "days": 7,
+      "purchased_lb": 16817.737999999998,
+      "emergency_purchased_lb": 0.0,
+      "served_lb": 15193.467005,
+      "served_lb_per_cover": 0.9235588721050393,
+      "pre_consumer_lb": 1257.9021925109882,
+      "post_consumer_lb": 2126.764664049587,
+      "trim_lb": 610.4448166669332,
+      "overproduction_lb": 607.073135,
+      "expired_lb": 40.384240844055135,
+      "donated_lb": 748.64626,
+      "repurposed_lb": 1073.1856349999998,
+      "portions_prepared": 97527,
+      "portions_short": 841,
+      "metrics": {
+        "pre_consumer_pct_of_purchased": 7.479615822954242,
+        "plate_waste_lb_per_cover": 0.1292787468269155,
+        "total_waste_pct_of_purchased": 20.12557727181013,
+        "total_waste_lb_per_meal": 0.20574231697529483,
+        "overproduction_share_of_pre_consumer": 48.26075815864332,
+        "pre_consumer_lb_per_cover": 0.07646357014837932
+      }
+    },
+    "clark-kerr": {
+      "covers": 8082.0,
+      "days": 7,
+      "purchased_lb": 11107.183299999999,
+      "emergency_purchased_lb": 0.0,
+      "served_lb": 9940.6075,
+      "served_lb_per_cover": 1.2299687577332343,
+      "pre_consumer_lb": 867.8944289493563,
+      "post_consumer_lb": 1392.6357165815857,
+      "trim_lb": 475.676358006968,
+      "overproduction_lb": 372.474375,
+      "expired_lb": 19.743695942388282,
+      "donated_lb": 459.4,
+      "repurposed_lb": 688.0625,
+      "portions_prepared": 55071,
+      "portions_short": 1068,
+      "metrics": {
+        "pre_consumer_pct_of_purchased": 7.81381206655117,
+        "plate_waste_lb_per_cover": 0.17231325372204723,
+        "total_waste_pct_of_purchased": 20.351965790741403,
+        "total_waste_lb_per_meal": 0.2796993498553504,
+        "overproduction_share_of_pre_consumer": 42.917014163912185,
+        "pre_consumer_lb_per_cover": 0.10738609613330319
+      }
+    },
+    "crossroads": {
+      "covers": 28963.0,
+      "days": 7,
+      "purchased_lb": 36662.95688447896,
+      "emergency_purchased_lb": 29.83078447895648,
+      "served_lb": 36888.83,
+      "served_lb_per_cover": 1.2736536270413976,
+      "pre_consumer_lb": 3278.9701905635493,
+      "post_consumer_lb": 5063.606923266952,
+      "trim_lb": 1635.867964133661,
+      "overproduction_lb": 1409.9325,
+      "expired_lb": 233.16972642988787,
+      "donated_lb": 1739.509375,
+      "repurposed_lb": 2587.944375,
+      "portions_prepared": 193623,
+      "portions_short": 1124,
+      "metrics": {
+        "pre_consumer_pct_of_purchased": 8.943550845872121,
+        "plate_waste_lb_per_cover": 0.17483019449873813,
+        "total_waste_pct_of_purchased": 22.754785273094768,
+        "total_waste_lb_per_meal": 0.288042575487018,
+        "overproduction_share_of_pre_consumer": 42.99924726542506,
+        "pre_consumer_lb_per_cover": 0.11321238098827985
+      }
+    },
+    "foothill": {
+      "covers": 12449.0,
+      "days": 7,
+      "purchased_lb": 13679.414614379115,
+      "emergency_purchased_lb": 4.012314379115441,
+      "served_lb": 12584.519375,
+      "served_lb_per_cover": 1.0108859647361235,
+      "pre_consumer_lb": 964.8692036913703,
+      "post_consumer_lb": 1754.8857088945174,
+      "trim_lb": 352.3058604436881,
+      "overproduction_lb": 516.881875,
+      "expired_lb": 95.68146824768235,
+      "donated_lb": 612.66,
+      "repurposed_lb": 926.0231249999999,
+      "portions_prepared": 69360,
+      "portions_short": 947,
+      "metrics": {
+        "pre_consumer_pct_of_purchased": 7.05343928004893,
+        "plate_waste_lb_per_cover": 0.1409659979833334,
+        "total_waste_pct_of_purchased": 19.882100142845424,
+        "total_waste_lb_per_meal": 0.21847175777860775,
+        "overproduction_share_of_pre_consumer": 53.570149510682626,
+        "pre_consumer_lb_per_cover": 0.07750575979527434
+      }
+    }
+  },
+  "inputs": [
+    {
+      "input": "menu_items",
+      "path": "data/raw/menus/menu_items.csv",
+      "status": "real",
+      "rows": 8844
+    },
+    {
+      "input": "halls",
+      "path": "data/raw/halls/halls.csv",
+      "status": "real"
+    },
+    {
+      "input": "hall_volume",
+      "path": "data/raw/volume/hall_volume.csv",
+      "status": "real"
+    },
+    {
+      "input": "waste_benchmarks",
+      "path": "data/raw/benchmarks/waste_benchmarks.csv",
+      "status": "real"
+    },
+    {
+      "input": "uc_numbers",
+      "path": "data/raw/benchmarks/uc_numbers.csv",
+      "status": "real"
+    },
+    {
+      "input": "category_keywords",
+      "path": "generator/fallback/category_keywords.csv",
+      "status": "real"
+    },
+    {
+      "input": "reference_ingredients",
+      "path": "data/raw/reference/ingredients.csv",
+      "status": "real"
+    },
+    {
+      "input": "recipe_ingredients_master",
+      "path": "data/recipes/ingredients.csv",
+      "status": "real",
+      "rows": 119
+    },
+    {
+      "input": "recipes",
+      "path": "data/recipes/recipes.csv",
+      "status": "real",
+      "rows": 1048
+    },
+    {
+      "input": "recipe_ingredients",
+      "path": "data/recipes/recipe_ingredients.csv",
+      "status": "real",
+      "rows": 5367
+    },
+    {
+      "input": "menu_item_map",
+      "path": "data/recipes/menu_item_map.csv",
+      "status": "real",
+      "rows": 8844
+    },
+    {
+      "input": "shelf_life",
+      "path": "data/raw/reference/shelf_life.csv",
+      "status": "real"
+    },
+    {
+      "input": "yields",
+      "path": "data/raw/reference/yields.csv",
+      "status": "real"
+    },
+    {
+      "input": "loss_rates",
+      "path": "data/raw/reference/loss_rates.csv",
+      "status": "real"
+    },
+    {
+      "input": "ingredient_prices",
+      "path": "data/raw/prices/ingredient_prices.csv",
+      "status": "real"
+    }
+  ],
+  "warnings": [
+    "shelf_life: 1/119 ingredients not covered by the reference table; using PLACEHOLDER category rows from generator/fallback/shelf_life.csv",
+    "yields: 55/119 ingredients not covered by reference yields/loss_rates; using PLACEHOLDER category rows from generator/fallback/yields.csv",
+    "loss_rates: 17/119 ingredients have no ERS series; using DEFAULT category-median retail_loss_pct (informational only)"
+  ],
+  "factors": {
+    "lb_per_meal": {
+      "value": 1.2,
+      "basis": "waste_benchmarks.csv food_recovery_lb_per_meal (Food Recovery Network FY19)",
+      "source_url": "https://www.foodrecoverynetwork.org/s/FRN-FY19-Annual-Report.pdf"
+    },
+    "co2e_lb_per_lb": {
+      "value": 1.614331197374008,
+      "basis": "menu_items.csv Eatec carbon_kg_co2 per serving / serving weight, 7618 rows (kg->lb)",
+      "source_url": "data/raw/menus/menu_items.csv"
+    },
+    "blended_usd_per_lb_reference": {
+      "value": 1.8222592592592592,
+      "basis": "REFERENCE ONLY (superseded by data/raw/prices/ingredient_prices.csv). Blended proxy: uc_numbers food_cost_avoided (USD/yr) / hall_volume pre_consumer_waste_reduction (tons/yr x 2000), same StopWaste Cal Dining case study (c. 2012-13 dollars). Not an ingredient price.",
+      "source_url": "https://www.stopwaste.org/resource/cal-dining-food-waste-prevention"
+    }
+  },
+  "reference_notes": {
+    "loss_rates.csv": "USDA ERS LAFA loss rates are national retail/household assumptions; used only as a household-level proxy for the inedible (trim) share of fresh produce lacking an FBG yield. Not an institutional kitchen rate.",
+    "shelf_life.csv": "FSIS FoodKeeper consumer storage guidance (midpoint of low-high); conservative for commercial cold chain.",
+    "yields.csv": "USDA Food Buying Guide served/as-purchased yields, applied once (recipe qty is cooked edible weight)."
+  },
+  "fallback_counts": {
+    "shelf_life_placeholder": {
+      "ingredients": 1,
+      "of": 119,
+      "pct_purchased_lb": 0.0,
+      "ids": [
+        "misc_dry"
+      ],
+      "note": "generator/fallback/shelf_life.csv category rows"
+    },
+    "yield_placeholder": {
+      "ingredients": 55,
+      "of": 119,
+      "pct_purchased_lb": 40.5,
+      "ids": [
+        "baking_staples",
+        "cereal_cold",
+        "cheese_crumbled",
+        "cheese_parmesan",
+        "chicken_cooked",
+        "coconut_milk",
+        "corn",
+        "cornmeal",
+        "cream",
+        "cream_cheese",
+        "croutons_crumbs",
+        "dessert_prepared",
+        "dressing",
+        "egg_alt",
+        "flour",
+        "fruit_dried",
+        "hot_sauce",
+        "hummus_dips",
+        "jam_spreads",
+        "juice",
+        "mayonnaise",
+        "meat_alt",
+        "milk_plant",
+        "misc_dry",
+        "mustard_ketchup",
+        "nuts_seeds",
+        "oil_cooking",
+        "oil_fryer",
+        "oil_olive",
+        "oil_sesame",
+        "pancake_mix",
+        "pastry",
+        "peas_green",
+        "pickles_olives",
+        "pizza_base",
+        "potato_frozen",
+        "prepared_entree",
+        "salsa",
+        "salt",
+        "sauce_prepared",
+        "sausage_bacon",
+        "shrimp",
+        "soft_serve_mix",
+        "soup_base",
+        "soup_prepared",
+        "sour_cream",
+        "soy_sauce",
+        "spices",
+        "sugar",
+        "syrup_honey",
+        "tomato_canned",
+        "tuna_canned",
+        "turkey",
+        "vinegar",
+        "wine_cooking"
+      ],
+      "note": "generator/fallback/yields.csv category rows (trim 0 for frozen/dry)"
+    },
+    "loss_rate_default": {
+      "ingredients": 17,
+      "of": 119,
+      "pct_purchased_lb": 16.5,
+      "ids": [
+        "dessert_prepared",
+        "egg_alt",
+        "hot_sauce",
+        "meat_alt",
+        "milk_plant",
+        "misc_dry",
+        "mustard_ketchup",
+        "prepared_entree",
+        "salt",
+        "sauce_prepared",
+        "soup_base",
+        "soup_prepared",
+        "soy_sauce",
+        "spices",
+        "tofu",
+        "vinegar",
+        "wine_cooking"
+      ],
+      "note": "DEFAULT: no ERS LAFA series; retail_loss_pct = median of covered ingredients in the same recipe category. Household/retail proxy, informational only (not a sim input).",
+      "defaults_by_category": {
+        "beverage": 6.0,
+        "condiment": 21.0,
+        "prepared": 6.0,
+        "protein": 5.18
+      }
+    }
+  },
+  "costs": {
+    "price_basis": "USD per as-purchased lb, Sep 2026 dollars, data/raw/prices/ingredient_prices.csv. Headline = mid; low/high = per-ingredient price range.",
+    "priced_ingredients": {
+      "priced": 119,
+      "of": 119,
+      "confidence": {
+        "med": 59,
+        "high": 48,
+        "low": 12
+      }
+    },
+    "purchased_usd": {
+      "mid": 180985.67,
+      "low": 95363.8,
+      "high": 208087.1
+    },
+    "prepared_food_usd": {
+      "mid": 199386.77,
+      "low": 104777.77,
+      "high": 229604.3
+    },
+    "food_cost_per_meal": {
+      "mid": 2.744,
+      "low": 1.446,
+      "high": 3.155,
+      "basis": "purchased_usd / covers (ingredient cost only; excludes labor, packaging, overhead)",
+      "comparison": {
+        "sources_prices_implied_usd": {
+          "low": 1.18,
+          "mid": 2.52,
+          "high": 3.21
+        },
+        "uf_aycte_plate_cost_2026_usd": 3.77,
+        "sim_vs_implied_mid": 1.089,
+        "sim_vs_uf": 0.728,
+        "source": "data/raw/prices/sanity_food_cost_per_meal.json; docs/sources-prices.md"
+      }
+    },
+    "waste_usd": {
+      "pre_consumer_trim": {
+        "mid": 5068.28,
+        "low": 2664.64,
+        "high": 5797.59
+      },
+      "pre_consumer_overproduction": {
+        "mid": 6747.27,
+        "low": 3565.47,
+        "high": 7740.41
+      },
+      "expired": {
+        "mid": 1213.95,
+        "low": 513.22,
+        "high": 1321.86
+      },
+      "post_consumer_plate": {
+        "mid": 23847.38,
+        "low": 12552.53,
+        "high": 27475.32
+      }
+    },
+    "recommendations_est_usd_saved": {
+      "by_kind_mid": {
+        "adjust_prep": 1762.69,
+        "buy_less": 1190.82,
+        "recover": 0.0,
+        "transfer": 982.57,
+        "use_first": 1711.26
+      },
+      "sum_of_candidates": {
+        "mid": 5647.34,
+        "low": 2575.61,
+        "high": 6191.19
+      },
+      "deduplicated": {
+        "mid": 2976.65,
+        "low": 1393.32,
+        "high": 3317.89
+      },
+      "note": "Headline = deduplicated mid. sum_of_candidates double-counts stock that several kinds target."
+    }
+  },
+  "recommendations": {
+    "count": 275,
+    "by_kind": {
+      "adjust_prep": 122,
+      "buy_less": 28,
+      "recover": 28,
+      "transfer": 49,
+      "use_first": 48
+    },
+    "est_lb_saved": 4821.3
+  }
+}

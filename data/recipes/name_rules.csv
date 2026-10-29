@@ -1,0 +1,63 @@
+priority,pattern,shares
+0,pizza,pizza_base:0.5;cheese_mozzarella:0.3;tomato_canned:0.2
+1,hot links?,sausage_bacon:0.97;oil_cooking:0.03
+2,caldo de pollo|chicken soup,chicken_raw:0.3;potato:0.15;carrot:0.15;corn:0.1;squash_summer:0.1;onion:0.08;celery:0.06;soup_base:0.04;herbs_fresh:0.02
+3,tamale,cornmeal:0.55;chicken_raw:0.2;salsa:0.12;oil_cooking:0.1;spices:0.03
+4,risotto,rice_white:0.6;mushroom:0.2;cheese_parmesan:0.06;butter:0.05;onion:0.05;soup_base:0.02;wine_cooking:0.02
+5,ratatouille,eggplant:0.3;squash_summer:0.3;tomato:0.2;pepper_bell:0.1;onion:0.06;oil_olive:0.03;herbs_fresh:0.01
+6,brussels,veg_other:0.93;vinegar:0.03;oil_olive:0.03;salt:0.01
+7,taco|burrito|quesadilla,tortilla:0.3;chicken_raw:0.35;salsa:0.1;cabbage:0.1;cheese_shredded_sliced:0.08;onion:0.04;spices:0.03
+8,salsa|tomatillo,tomato:0.6;onion:0.15;pepper_chili:0.1;herbs_fresh:0.05;citrus:0.05;salt:0.05
+9,mockjito|lemonade|agua fresca|juice,juice:0.85;sugar:0.1;herbs_fresh:0.05
+10,^(mint|cilantro|parsley|basil|chives?)$,herbs_fresh:1.0
+11,black bean burger|veggie burger,beans_canned:0.45;bread_roll:0.35;grains_other:0.1;onion:0.05;oil_cooking:0.03;spices:0.02
+12,hot dog,sausage_bacon:0.55;bread_roll:0.35;pickles_olives:0.04;tomato:0.03;mustard_ketchup:0.03
+13,tri tip|lamb,beef_whole:0.9;onion:0.04;oil_cooking:0.03;spices:0.02;salt:0.01
+14,fries|tots|tator|tater,potato_frozen:0.96;oil_fryer:0.03;salt:0.01
+15,blintz,pancake_mix:0.45;cream_cheese:0.3;fruit_berries:0.2;sugar:0.05
+16,couscous,grains_other:0.92;onion:0.03;oil_olive:0.03;spices:0.02
+17,dressing|vinaigrette,dressing:1.0
+18,dried cranberr|raisin,fruit_dried:1.0
+19,pickling brine,vinegar:0.6;sugar:0.3;salt:0.1
+20,romesco,pepper_bell:0.5;nuts_seeds:0.25;oil_olive:0.15;tomato:0.1
+21,pho broth|broth,onion:0.35;ginger:0.15;soy_sauce:0.2;soup_base:0.15;spices:0.1;sugar:0.05
+22,cauliflower,cauliflower:0.95;oil_cooking:0.03;spices:0.02
+23,gai ?lan|gailon|bok choy,greens_asian:0.94;garlic:0.03;oil_cooking:0.03
+24,asparagus|brussel,veg_other:0.92;oil_olive:0.03;cheese_parmesan:0.04;salt:0.01
+25,bagel,bagel:1.0
+26,yogurt,yogurt:1.0
+27,oatmeal|porridge,oats:0.95;sugar:0.03;salt:0.02
+28,waffle|pancake|french toast,pancake_mix:0.8;milk:0.1;eggs:0.07;oil_cooking:0.03
+29,tofu.*scramble|scramble.*tofu,tofu:0.65;spinach:0.15;tomato:0.12;oil_cooking:0.04;spices:0.04
+30,scramble|scrambled|omelet|frittata,eggs:0.86;butter:0.04;onion:0.04;pepper_bell:0.04;salt:0.01;spices:0.01
+31,vegan.*sausage|sausage.*vegan|mung bean patty,meat_alt:0.97;oil_cooking:0.03
+32,sausage|bacon,sausage_bacon:0.97;oil_cooking:0.03
+33,danish|muffin|croissant|scone|pastr,pastry:1.0
+34,cookie|cake|pie|brownie|cobbler|bar\b|crisp,dessert_prepared:1.0
+35,chili,beans_canned:0.38;tomato_canned:0.25;turkey:0.2;onion:0.08;pepper_bell:0.06;spices:0.02;oil_cooking:0.01
+36,\b(soup|stew|bisque|chowder|caldo)\b,veg_other:0.25;potato:0.2;carrot:0.15;onion:0.12;celery:0.1;beans_canned:0.1;soup_base:0.05;spices:0.02;oil_cooking:0.01
+37,beans? and rice|rice and beans,rice_white:0.5;beans_canned:0.38;onion:0.06;pepper_bell:0.03;spices:0.02;oil_cooking:0.01
+38,brown rice,rice_brown:0.99;salt:0.01
+39,rice|pilaf|biryani,rice_white:0.97;oil_cooking:0.02;salt:0.01
+40,alfredo,sauce_prepared:1.0
+41,marinara|tomato sauce,tomato_canned:0.9;onion:0.04;garlic:0.02;oil_olive:0.02;spices:0.02
+42,gluten free.*(pasta|penne),pasta_gf:0.98;oil_olive:0.02
+43,pasta|penne|spaghetti|macaroni|noodle,pasta:0.98;oil_olive:0.02
+44,collard|greens|kale,kale_collards:0.85;onion:0.07;garlic:0.02;oil_cooking:0.04;spices:0.02
+45,broccoli.*cauliflower,broccoli:0.5;cauliflower:0.47;oil_cooking:0.02;salt:0.01
+46,broccoli,broccoli:0.97;oil_cooking:0.02;salt:0.01
+47,medley|vegetable|veggie,squash_summer:0.3;carrot:0.25;broccoli:0.2;pepper_bell:0.17;onion:0.05;oil_cooking:0.02;salt:0.01
+48,cucumber.*tomato|tomato.*cucumber,cucumber:0.5;tomato:0.42;vinegar:0.04;oil_olive:0.03;salt:0.01
+49,potato|hash,potato:0.94;oil_cooking:0.04;spices:0.01;salt:0.01
+50,roll|bread|biscuit|bun|naan,bread_roll:1.0
+51,tofu,tofu:0.88;sauce_prepared:0.06;oil_cooking:0.04;spices:0.02
+52,chicken,chicken_raw:0.85;onion:0.05;sauce_prepared:0.04;oil_cooking:0.03;spices:0.02;salt:0.01
+53,beef,beef_whole:0.75;onion:0.08;carrot:0.06;tomato_canned:0.05;oil_cooking:0.03;spices:0.02;salt:0.01
+54,pork,pork:0.85;onion:0.06;sauce_prepared:0.04;oil_cooking:0.03;spices:0.02
+55,turkey,turkey:0.9;onion:0.05;oil_cooking:0.03;spices:0.02
+56,salmon|fish|cod|tilapia,fish:0.9;citrus:0.04;oil_olive:0.04;spices:0.02
+57,shrimp,shrimp:0.88;garlic:0.03;butter:0.05;spices:0.04
+58,pea.*stew|black.eyed|lentil|dal,legumes_dried:0.6;tomato_canned:0.2;onion:0.1;oil_cooking:0.05;spices:0.05
+59,pizza,pizza_base:0.5;cheese_mozzarella:0.3;tomato_canned:0.2
+60,salad,lettuce_romaine:0.6;tomato:0.15;cucumber:0.12;carrot:0.08;dressing:0.05
+61,fruit|melon|banana|apple|orange,fruit_other:1.0

@@ -1,0 +1,148 @@
+# Shared defaults. Every scenario YAML is deep-merged on top of this file.
+# Anything marked ASSUMPTION is a modeling prior, not a sourced number; it is listed in docs/data-model.md.
+
+halls:
+  # Display ids. Names must match the `hall` column in menu_items.csv.
+  - {id: crossroads, name: Crossroads}
+  - {id: cafe-3, name: "Café 3"}
+  - {id: foothill, name: Foothill}
+  - {id: clark-kerr, name: Clark Kerr}
+
+volume:
+  # covers/day per hall come from hall_volume.csv metric students_served_per_day.
+  # Foothill has no published figure: residual of the four-commons total (metric meals_served_per_day,
+  # hall "All four dining commons", the larger/most recent row) minus the three published halls.
+  residual_hall: Foothill
+  total_metric: meals_served_per_day
+  total_hall: All four dining commons
+  weekend_covers_factor: 0.85      # ASSUMPTION: fewer weekend covers (brunch replaces 2 meals)
+  meal_shares:                     # ASSUMPTION: share of a day's covers by meal
+    weekday: {breakfast: 0.20, lunch: 0.37, dinner: 0.43}
+    weekend: {brunch: 0.48, dinner: 0.52}
+
+production:
+  max_serving_lb: 1.0                # Eatec serving sizes above 16 oz are pan weights; fall back to the recipe portion
+
+forecast:
+  history_weeks: 2                 # forecast = mean of the last N same-weekday actuals
+  overprep_range: [1.05, 1.20]     # PLAN.md: prepared = forecast x U(1.05, 1.20)
+
+leftover:
+  # Leftover portions are split: repurposed (served later, e.g. the "While It Last" stations that
+  # appear in menu_items.csv), donated (Cal Dining reports donating food each semester, uc_numbers.csv),
+  # remainder is pre-consumer overproduction waste.
+  repurpose_frac_range: [0.35, 0.55]   # ASSUMPTION; every hall runs "While It Last" stations for leftovers (menu_items.csv)
+  donate_frac_range: [0.45, 0.65]      # CALIBRATED so sim donations ~= uc_numbers food_donated_per_semester / semester_weeks (~3,125 lb/wk)
+  semester_weeks: 16                   # ASSUMPTION for converting per-semester figures to per-week
+
+plate_waste:
+  # Fraction of served food left on the plate, sampled per meal from this benchmark row's range.
+  # Output lb/cover is then compared to *different* rows (per-cover benchmarks) in summary/tests.
+  prior_metric: plate_waste_pct_of_food_selected
+
+# Station roles drive take rates. Matched on normalized station name (lowercase, collapsed spaces);
+# first matching substring wins. take: station visit rate range; picks: items taken per visit.
+station_roles:
+  rules:
+    - {match: "allergen", role: specialty}
+    - {match: "kosher", role: specialty}
+    - {match: "while it last", role: entree_repurposed}
+    - {match: "salad bar", role: bar_component}
+    - {match: "deli", role: bar_component}
+    - {match: "cold food bar", role: bar_component}
+    - {match: "yogurt toppings", role: condiment}
+    - {match: "appetizers", role: condiment}
+    - {match: "bread spreads", role: condiment}
+    - {match: "soup", role: soup}
+    - {match: "dessert", role: dessert}
+    - {match: "soft serve", role: dessert}
+    - {match: "pastr", role: bakery}
+    - {match: "bagel", role: bakery}
+    - {match: "bread", role: bakery}
+    - {match: "cereal", role: breakfast_side}
+    - {match: "hot grain", role: breakfast_side}
+    - {match: "yogurt", role: breakfast_side}
+    - {match: "fruit", role: breakfast_side}
+  default_role: entree
+  roles:                                   # ASSUMPTION except entree/side ranges, which are from PLAN.md
+    # picks > 1 for entree stations: Center Plate lists protein, starch and vegetable as separate items.
+    entree:            {take: [0.35, 0.55], picks: 2.0}
+    entree_repurposed: {take: [0.05, 0.12], picks: 1.0}
+    specialty:         {take: [0.04, 0.10], picks: 2.0}
+    side:              {take: [0.20, 0.40], picks: 1.0}
+    bar_component:     {take: [0.25, 0.45], picks: 4.0}
+    soup:              {take: [0.12, 0.25], picks: 1.0}
+    dessert:           {take: [0.25, 0.45], picks: 1.0}
+    bakery:            {take: [0.15, 0.30], picks: 1.0}
+    breakfast_side:    {take: [0.20, 0.40], picks: 1.5}
+    condiment:         {take: [0.15, 0.30], picks: 1.5}
+
+inventory:
+  # Delivery weekdays (0=Mon) by storage class / category. Category entries win over storage entries.
+  # ASSUMPTION: PLAN.md says weekly; perishables get more frequent drops so order cover never exceeds shelf life.
+  delivery_days:
+    storage:
+      refrigerated: [0, 2, 4]
+      frozen: [0]
+      dry: [0]
+    category:
+      poultry: [0, 1, 2, 3, 4, 5]
+      seafood: [0, 1, 2, 3, 4, 5]
+      leafy_greens: [0, 2, 4]
+  daily_delivery_max_shelf_life: 3   # ingredients keeping <= this many days get Mon-Sat drops
+  round_to_case: true                # orders round up to the case pack in data/raw/reference/ingredients.csv
+  round_to_case_min_shelf_life: 7    # ASSUMPTION: perishables keeping <= 7 days are bought by the pound / broken case
+  safety_stock_pct: 0.10             # ASSUMPTION: order = forecast need x (1 + safety) - usable on hand
+  opening_cover_days: 1              # opening stock = this many days of forecast need, received the day before start
+
+shelf_life_pick: midpoint           # FoodKeeper low-high midpoint (shelf_life.csv shelf_life_days)
+
+transfers:
+  horizon_days: 2                    # PLAN.md: lot expiring in <= 2 days at A, B needs it within the window
+  execute: false                     # false = emit status=proposed candidates only (baseline: today's ops)
+
+# Summary checks: each compares one simulated aggregate to the union range of the listed
+# waste_benchmarks.csv rows after unit conversion. Ranges are read from the CSV, never hardcoded.
+checks:
+  pre_consumer_pct_of_purchased:
+    label: Pre-consumer waste, % of purchased (sim by mass)
+    unit: pct
+    metrics:
+      pre_consumer_waste_pct_of_purchases: 1.0
+      pre_consumer_waste_pct_food_reaching_retail: 1.0
+  plate_waste_lb_per_cover:
+    label: Plate waste, lb per cover
+    unit: lb/cover
+    metrics:
+      plate_waste_oz_per_guest_meal_higher_ed: 0.0625     # oz -> lb
+      plate_waste_g_per_diner: 0.00220462                 # g -> lb
+  total_waste_pct_of_purchased:
+    label: Total waste (pre + post), % of purchased
+    unit: pct
+    metrics:
+      total_food_waste_pct_of_purchases: 1.0
+  total_waste_lb_per_meal:
+    label: Total food waste, lb per meal
+    unit: lb/meal
+    metrics:
+      food_waste_generation_lb_per_meal_colleges: 1.0
+      total_waste_oz_per_meal_served: 0.0625
+  overproduction_share_of_pre_consumer:
+    label: Overproduction share of pre-consumer waste, %
+    unit: pct
+    metrics:
+      overproduction_share_of_pre_consumer_waste: 1.0
+  pre_consumer_lb_per_cover:
+    label: Pre-consumer waste, lb per cover
+    unit: lb/cover
+    metrics:
+      pre_consumer_waste_g_per_customer: 0.00220462
+  # Used only when every row in a check is a point estimate (low == high).
+  point_tolerance_pct: 50
+
+recommendations:
+  min_lb_saved: 2.0                  # drop candidates saving less than this
+  adjust_prep_top_n_per_hall_day: 5  # keep the biggest adjust_prep candidates per hall-day
+
+factors:
+  lb_per_meal_metric: food_recovery_lb_per_meal   # waste_benchmarks.csv row for lb -> meals conversion

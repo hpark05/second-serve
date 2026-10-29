@@ -1,0 +1,161 @@
+priority,pattern,ingredient_id
+0,^soup (?!base),soup_prepared
+1,\baloo\b|palak|paneer|pakora|\bbao\b|beignet|kachumber|macaroni and cheese|mac and cheese,prepared_entree
+2,meat alternative|beyond|impossible|gardein|soyrizo|veggie strip|land lover|plant.based,meat_alt
+3,pizza cheese \d|pizza (dough|crust|shell)|dough pizza|flatbread,pizza_base
+4,cheesecake|\bcake\b|\bpie\b|brownie|cookie|tart\b|pudding,dessert_prepared
+5,donut|danish|croissant|muffin|cinnamon roll|scone,pastry
+6,crouton|panko|bread ?crumb,croutons_crumbs
+7,granola|cereal,cereal_cold
+8,sunflower butter|butter sunflower|sunbutter|peanut butter|almond butter,jam_spreads
+9,coconut (creme|cream),coconut_milk
+10,creamer oat|oat ?milk|milk (oat|soy|almond),milk_plant
+11,^juice|juice (lemon|lime|orange|apple|pineapple|cranberry),juice
+12,chicken .*with sauce,chicken_cooked
+13,vinegar,vinegar
+14,^yeast|yeast nutritional|baking (powder|soda),baking_staples
+15,sauce (soy|fish|seasoning|oyster|tamari)|soy sauce|tamari|golden mountain|fish sauce|liquid aminos|worcestershire,soy_sauce
+16,chipotle|sriracha|sauce hot|hot sauce|sambal|chili garlic|sweet chili|gochujang|sauce buffalo|harissa,hot_sauce
+17,^sauce (?!.*(marinara|tomato|cheese vegan)),sauce_prepared
+18,molasses|syrup|\bhoney\b|agave,syrup_honey
+19,pineapple,fruit_pineapple
+20,peanut butter|jelly|jam\b|preserves|nutella|sunbutter,jam_spreads
+21,tortilla|taco shell|tostada,tortilla
+22,spring roll|egg roll|summer roll,prepared_entree
+23,cinnamon roll|danish|croissant|muffin,pastry
+24,bread.*slice|slice.*bread|bread white|bread wheat|texas toast|toast french|french toast,bread_sliced
+25,chicken.*(precooked|cooked|breaded|tempura|nugget|tender)|chicken diced meat,chicken_cooked
+26,biscuit|\bbread\b|baguette|\bbun\b|\broll\b|naan|pita,bread_roll
+27,beans? green|green beans?|haricot,beans_green
+28,black eye|lentil|beans? white dried|beans mung|split pea,legumes_dried
+29,^water\b.*\b(base|concentrate|bouillon),soup_base
+30,\b(base|bouillon|stock|broth)\b.*(concentrate|vegetable|chicken|beef|no msg)|soup base|^base ,soup_base
+31,just egg|egg.*vegan|vegan.*egg,egg_alt
+32,meat alternative|beyond|impossible|gardein|soyrizo|veggie strip|land lover|vegan.*(sausage|chicken|beef)|plant.based,meat_alt
+33,cheese alternative|vegan.*cheese|cheese.*vegan|daiya|sauce cheese vegan,cheese_vegan
+34,butter substitute|smart balance|vegan butter|butter.*vegan|earth balance|margarine,butter_substitute
+35,mayonnaise|\bmayo\b|aioli,mayonnaise
+36,^dressing|vinaigrette|dressing\b,dressing
+37,oil.*olive|olive oil,oil_olive
+38,oil fryer|fryer,oil_fryer
+39,oil sesame|sesame oil,oil_sesame
+40,^oil\b|\boil (cooking|canola|spray|vegetable|salad)|canola|oil spray,oil_cooking
+41,spice salt|^salt\b|kosher salt|sea salt,salt
+42,^spice|seasoning (?!sauce)|spice blend|^herb.*dried|saffron|paprika|cumin|cinnamon|nutmeg|oregano ground,spices
+43,sesame seed|poppy seed|chia|flax,spices
+44,juice (lemon|lime|orange|apple|pineapple|cranberry)|^juice|lemonade,juice
+45,^herb (cilantro|parsley|basil|mint|dill|chives|thyme|rosemary|sage|oregano)|^herb|cilantro|parsley|basil|\bmint\b|\bdill\b|chives,herbs_fresh
+46,lemongrass|galangal|^ginger|ginger peeled|ginger root,ginger
+47,garlic,garlic
+48,onion green|green onion|scallion,onion_green
+49,onion|shallot|leek,onion
+50,chipotle|sriracha|sauce hot|hot sauce|sambal|chili sauce|sweet chili|gochujang|sauce buffalo,hot_sauce
+51,pepper bell|bell pepper|pepper.*roasted red|pimento,pepper_bell
+52,jalapeno|serrano|poblano|pepper (chili|guajillo|ancho|thai|habanero|anaheim)|chile,pepper_chili
+53,potato (fries|hashbrown|wedge|chip|breakfast cubes|tots)|fries|hash ?brown|tater,potato_frozen
+54,potato sweet|sweet potato|yam,potato_sweet
+55,potato,potato
+56,tomato (crushed|diced canned|paste|puree|sauce)|paste tomato|sauce tomato|marinara|tomato.*canned|tomato sundried,tomato_canned
+57,tomato|tomatillo,tomato
+58,salsa|pico de gallo,salsa
+59,lettuce|romaine|iceberg,lettuce_romaine
+60,mixed greens|spring mix|arugula|mesclun|greens mix,greens_mixed
+61,spinach,spinach
+62,kale|collard|chard|mustard greens,kale_collards
+63,bok choy|gai lan|chinese broccoli|yu choy,greens_asian
+64,cabbage|slaw,cabbage
+65,cucumber,cucumber
+66,carrot,carrot
+67,celery,celery
+68,broccoli|broccolini,broccoli
+69,cauliflower,cauliflower
+70,squash (zucchini|yellow)|zucchini|yellow squash,squash_summer
+71,squash|pumpkin(?! seed)|kabocha,squash_winter
+72,mushroom,mushroom
+73,eggplant,eggplant
+74,\bcorn\b(?! ?starch| syrup| tortilla|meal| masa| flour| chip)|hominy,corn
+75,pea green|green pea|sugar snap|snap pea|edamame|vegetable blend|peas? carrot|\bpeas?\b,peas_green
+76,beans? green|green beans?|haricot,beans_green
+77,beet,beets
+78,radish|daikon,radish
+79,asparagus|brussels|fennel|sprouts|artichoke fresh|okra|jicama|vegetable,veg_other
+80,artichoke|olive|pickle|caper|relish|jalapeno rings|giardiniera|kimchi,pickles_olives
+81,lemon|lime,citrus
+82,banana,fruit_banana
+83,apple(?! cider),fruit_apple
+84,orange(?! juice)|mandarin|clementine,fruit_orange
+85,melon|cantaloupe|honeydew,fruit_melon
+86,pineapple,fruit_pineapple
+87,avocado|guacamole,avocado
+88,raisin|cranberr|apricot dried|dried|date|coconut flake,fruit_dried
+89,berr(y|ies),fruit_berries
+90,grape|mango|pear|peach|kiwi|plum|fruit,fruit_other
+91,soft serve|ice cream|frozen yogurt|sorbet,soft_serve_mix
+92,cream cheese,cream_cheese
+93,sour cream,sour_cream
+94,yogurt,yogurt
+95,milk coconut|coconut milk|coconut cream,coconut_milk
+96,milk (oat|soy|almond)|oat ?milk|soy ?milk|almond ?milk,milk_plant
+97,cream heavy|heavy cream|half and half|creamer|whipping|whipped topping,cream
+98,butter(?!milk),butter
+99,mozzarella|pizza cheese|cheese pizza,cheese_mozzarella
+100,parmesan|romano|asiago,cheese_parmesan
+101,feta|blue crumbles|cheese blue|cotija|goat cheese|queso fresco,cheese_crumbled
+102,cheese,cheese_shredded_sliced
+103,milk|buttermilk,milk
+104,egg,eggs
+105,tofu,tofu
+106,chicken.*(precooked|cooked|breaded|tempura|nugget|tender)|chicken diced meat,chicken_cooked
+107,chicken,chicken_raw
+108,turkey,turkey
+109,sausage|bacon|chorizo|pepperoni|hot dog|salami,sausage_bacon
+110,beef ground|ground beef|beef patty|meatball|hamburger|burger patty,beef_ground
+111,beef|steak,beef_whole
+112,pork|ham\b|carnitas,pork
+113,tuna,tuna_canned
+114,shrimp|prawn,shrimp
+115,salmon|cod|rockfish|pollock|tilapia|fish(?! sauce)|catfish|swai|halibut,fish
+116,hummus|baba|tzatziki|tahini|dip\b,hummus_dips
+117,beans?.*canned|garbanzo|chickpea|bean (black|kidney|pinto|cannellini|white)|beans (black|kidney|pinto|white)|refried,beans_canned
+118,lentil|beans? .*dried|black eye|mung|split pea|dal,legumes_dried
+119,lamb|goat meat|veal,beef_whole
+120,clam|lobster|scallop|crab|mussel,shrimp
+121,parsnip|turnip|yucca|cassava|plantain|alfalfa|taro,veg_other
+122,pepperoncini|sauerkraut,pickles_olives
+123,pepper (pasilla|calabrian|scotch|cherry|piquante|red roasted),pepper_chili
+124,harissa,hot_sauce
+125,cream of wheat|malt o meal|freekeh,grains_other
+126,annato|annatto|ancho powder|fenugreek,spices
+127,whipped cream,cream
+128,pomegranate,fruit_other
+129,almond|walnut|pecan|cashew|peanut(?! butter)|pumpkin seed|sunflower seed|pepita|pistachio|nut,nuts_seeds
+130,peanut butter|jelly|jam|preserves|nutella|sunbutter,jam_spreads
+131,rice brown|brown rice,rice_brown
+132,noodle|ramen|udon|soba|vermicelli,noodles_asian
+133,rice,rice_white
+134,pasta.*(gf|gluten)|gluten free.*pasta,pasta_gf
+135,pasta|penne|spaghetti|fettuccine|macaroni|rotini|linguine|lasagna|orzo|gnocchi|tortellini|ravioli,pasta
+136,oat,oats
+137,quinoa|farro|bulgur|couscous|barley|millet,grains_other
+138,polenta|cornmeal|masa|grits,cornmeal
+139,pancake|waffle|french toast,pancake_mix
+140,cereal|granola|cheerios|flakes,cereal_cold
+141,panko|crouton|bread ?crumb|crumbs,croutons_crumbs
+142,bagel,bagel
+143,tortilla|taco shell|tostada|chip tortilla,tortilla
+144,pizza (dough|crust)|dough pizza|flatbread,pizza_base
+145,danish|muffin|croissant|scone|pastry|donut|cinnamon roll,pastry
+146,bread (white|wheat|sourdough|rye|multigrain).*sliced|bread .*slice|bread sliced|texas toast|bread white,bread_sliced
+147,bread|roll|bun|baguette|naan|pita|biscuit|ciabatta|focaccia|hoagie|croissant,bread_roll
+148,flour,flour
+149,cookie|cake|brownie|pie|cheesecake|pudding|dessert|frosting|icing|chocolate chip|chocolate,dessert_prepared
+150,macaroni and cheese|mac and cheese|spring roll|egg roll|dumpling|potsticker|samosa|empanada|falafel,prepared_entree
+151,sauce (soy|fish|seasoning|oyster|tamari)|soy sauce|tamari|golden mountain|fish sauce|liquid aminos|worcestershire,soy_sauce
+152,vinegar,vinegar
+153,mustard|ketchup|catsup,mustard_ketchup
+154,sugar|sweetener,sugar
+155,honey|syrup|molasses|agave,syrup_honey
+156,wine|sherry|mirin|sake,wine_cooking
+157,cornstarch|starch|yeast|baking (powder|soda)|extract|vanilla|xanthan|gelatin|agar|cocoa|leaven,baking_staples
+158,paste (curry|miso|achiote|chili)|curry paste|miso|achiote|^sauce|sauce\b|pesto|gravy|glaze|teriyaki|hoisin|bbq|alfredo|vindaloo|mole,sauce_prepared
+159,coffee|tea\b|espresso,coffee_tea

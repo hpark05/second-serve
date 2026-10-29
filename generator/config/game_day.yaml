@@ -1,0 +1,14 @@
+name: game_day
+description: Same scraped week as normal_week, but Saturday 2026-10-24 is treated as a home football game day (hypothetical date). Brunch drops as students tailgate, dinner spikes at halls near Memorial Stadium. The forecast does not anticipate it.
+seed: 20261019
+start_date: 2026-10-19
+as_of: 2026-10-24                  # the app's "today"
+end_date: 2026-10-25
+menu_source:
+  week_start: 2026-10-19
+diner_multipliers:
+  # ASSUMPTION: magnitudes are illustrative, not sourced.
+  - {dates: [2026-10-24], halls: all, meals: [brunch], multiplier: 0.60}
+  - {dates: [2026-10-24], halls: [Clark Kerr, Foothill], meals: [dinner], multiplier: 1.30}
+  - {dates: [2026-10-24], halls: [Crossroads, "Café 3"], meals: [dinner], multiplier: 1.10}
+closures: []

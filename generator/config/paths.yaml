@@ -1,0 +1,22 @@
+# Input file locations. To swap a fallback for the real file, the real path just has
+# to exist: the loader prefers `path` and only uses `fallback` (with a WARNING) when it is missing.
+# Paths are relative to the repo root.
+menu_items:        {path: data/raw/menus/menu_items.csv}
+halls:             {path: data/raw/halls/halls.csv}
+hall_volume:       {path: data/raw/volume/hall_volume.csv}
+waste_benchmarks:  {path: data/raw/benchmarks/waste_benchmarks.csv}
+uc_numbers:        {path: data/raw/benchmarks/uc_numbers.csv}
+shelf_life:        {path: data/raw/reference/shelf_life.csv,  fallback: generator/fallback/shelf_life.csv}
+loss_rates:        {path: data/raw/reference/loss_rates.csv,  fallback: generator/fallback/loss_rates.csv}
+yields:            {path: data/raw/reference/yields.csv,      fallback: generator/fallback/yields.csv}
+reference_ingredients: {path: data/raw/reference/ingredients.csv, fallback: generator/fallback/ingredients.csv}
+category_keywords: {path: generator/fallback/category_keywords.csv}
+# Recipe-mapper outputs. If any of the four is missing, recipes are derived from the Eatec
+# ingredient text in menu_items.csv (see generator/menu_text_recipes.py) and a WARNING is logged.
+recipe_ingredients_master: {path: data/recipes/ingredients.csv}
+recipes:           {path: data/recipes/recipes.csv}
+recipe_ingredients: {path: data/recipes/recipe_ingredients.csv}
+menu_item_map:     {path: data/recipes/menu_item_map.csv}
+ingredient_rules:  {path: data/recipes/ingredient_rules.csv}   # optional; used for vendor-prep share of trim
+ingredient_prices: {path: data/raw/prices/ingredient_prices.csv}   # USD per as-purchased lb, Sep 2026
+price_sanity:      {path: data/raw/prices/sanity_food_cost_per_meal.json}

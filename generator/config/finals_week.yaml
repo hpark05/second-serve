@@ -1,0 +1,17 @@
+name: finals_week
+description: Fall finals week (2026-12-14 to 2026-12-20, dates approximate) replaying the scraped 2026-10-19 cycle week. Breakfast dips, late-week demand falls as students leave; weekend after finals is near-empty.
+seed: 20261214
+start_date: 2026-12-14
+as_of: 2026-12-17                  # the app's "today"
+end_date: 2026-12-20
+menu_source:
+  week_start: 2026-10-19
+diner_multipliers:
+  # ASSUMPTION: illustrative magnitudes.
+  - {dates: all, halls: all, meals: [breakfast], multiplier: 0.75}
+  - {dates: [2026-12-14, 2026-12-15], halls: all, meals: [lunch, dinner], multiplier: 1.08}
+  - {dates: [2026-12-17], halls: all, meals: all, multiplier: 0.85}
+  - {dates: [2026-12-18], halls: all, meals: all, multiplier: 0.65}
+  - {dates: [2026-12-19, 2026-12-20], halls: all, meals: all, multiplier: 0.30}
+closures: []
+forecast_known_closures: true

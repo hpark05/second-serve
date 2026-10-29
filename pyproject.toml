@@ -1,0 +1,19 @@
+[project]
+name = "second-serve-generator"
+version = "0.1.0"
+description = "Seedable synthetic dining-hall data generator for the Second Serve prototype"
+requires-python = ">=3.12"
+dependencies = [
+  "pandas>=2.2",
+  "numpy>=1.26",
+  "pyyaml>=6.0",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

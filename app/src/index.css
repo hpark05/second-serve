@@ -1,0 +1,229 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+/* Self-hosted type: Poppins for headings and big numbers, Inter for body. Latin subset only. */
+@import "@fontsource/poppins/latin-600.css";
+@import "@fontsource/poppins/latin-700.css";
+@import "@fontsource/inter/latin-400.css";
+@import "@fontsource/inter/latin-500.css";
+@import "@fontsource/inter/latin-600.css";
+
+/* Second Serve tokens. Source of truth: docs/design-spec.md "Tokens". */
+:root {
+  /* Spec tokens */
+  --bg: #fafbf9;
+  --card: #ffffff;
+  --ink: #171c17;
+  --muted-ink: #596459; /* spec "--muted"; shadcn reserves --muted for a surface, see Token aliases */
+  --border: #e2e9df;
+  --lime: #7ed957;
+  --lime-soft: #eaf8e2;
+  --green: #285c35;
+  --amber: #c7731a;
+  --amber-soft: #fdf1e3;
+  --red: #c4452c;
+  --red-soft: #fde7e2;
+  --surface-muted: #f1f4f0; /* neutral fill for hover rows and the progress track */
+  --shadow-overlay: 0 8px 24px rgba(23, 28, 23, 0.08);
+
+  /* Legacy aliases: old names kept so pages compile mid-migration. Prefer the spec names above. */
+  --panel: var(--card);
+  --line: var(--border);
+  --green-2: var(--green);
+  --green-soft: var(--lime-soft);
+  --green-chip: var(--lime-soft);
+  --amber-line: var(--amber-soft);
+  --blue: var(--muted-ink);
+  --blue-soft: var(--surface-muted);
+  --blue-line: var(--border);
+  --purple: var(--muted-ink);
+  --purple-soft: var(--surface-muted);
+  --purple-line: var(--border);
+  --shadow-card: none; /* spec: no card shadows */
+
+  /* shadcn semantic tokens */
+  --background: var(--bg);
+  --foreground: var(--ink);
+  --card-foreground: var(--ink);
+  --popover: var(--card);
+  --popover-foreground: var(--ink);
+  --primary: var(--lime);
+  --primary-foreground: #000000;
+  --secondary: var(--lime-soft);
+  --secondary-foreground: var(--ink);
+  --muted: var(--surface-muted);
+  --muted-foreground: var(--muted-ink);
+  --accent: var(--lime-soft);
+  --accent-foreground: var(--ink);
+  --destructive: var(--red);
+  --input: var(--border);
+  --ring: var(--green);
+  --chart-1: var(--green);
+  --chart-2: var(--lime);
+  --chart-3: var(--amber);
+  --chart-4: var(--muted-ink);
+  --chart-5: var(--border);
+  --radius: 0.75rem;
+}
+
+@theme inline {
+  --font-sans: Inter, system-ui, sans-serif;
+  --font-heading: Poppins, Inter, system-ui, sans-serif;
+
+  /* Type scale (font-size / line-height). */
+  --text-page-title: 28px;
+  --text-page-title--line-height: 32px;
+  --text-card-title: 18px;
+  --text-card-title--line-height: 26px;
+  --text-stage: 12px;
+  --text-stage--line-height: 16px;
+  --text-stage--letter-spacing: 0.08em;
+  --text-body: 16px;
+  --text-body--line-height: 1.5;
+  --text-label: 14px;
+  --text-label--line-height: 1.5;
+  --text-meta: 13px;
+  --text-meta--line-height: 1.5;
+  --text-stat: 48px;
+  --text-stat--line-height: 1;
+  --text-stat-lg: 56px;
+  --text-stat-lg--line-height: 1;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  --color-bg: var(--bg);
+  --color-ink: var(--ink);
+  --color-muted-ink: var(--muted-ink);
+  --color-lime: var(--lime);
+  --color-lime-soft: var(--lime-soft);
+  --color-green: var(--green);
+  --color-amber: var(--amber);
+  --color-amber-soft: var(--amber-soft);
+  --color-red: var(--red);
+  --color-red-soft: var(--red-soft);
+  --color-panel: var(--panel);
+  --color-green-2: var(--green-2);
+  --color-green-soft: var(--green-soft);
+  --color-green-chip: var(--green-chip);
+  --color-amber-line: var(--amber-line);
+  --color-blue: var(--blue);
+  --color-blue-soft: var(--blue-soft);
+  --color-blue-line: var(--blue-line);
+  --color-purple: var(--purple);
+  --color-purple-soft: var(--purple-soft);
+  --color-purple-line: var(--purple-line);
+
+  --shadow-card: var(--shadow-card);
+  --shadow-overlay: var(--shadow-overlay);
+
+  /* Controls 8px, cards 12px, chips full. */
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --radius-2xl: 16px;
+  --radius-control: 8px;
+  --radius-card: 12px;
+}
+
+/* Deck-style section marker: "02 REQUEST A TRANSFER". */
+@utility stage-label {
+  font-family: var(--font-heading);
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Big scenario numbers (10 lb, 4 lb). Pair with a 14px muted unit. */
+@utility stat-number {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: clamp(40px, 5vw, 56px);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  font-variant-numeric: tabular-nums;
+}
+
+@utility page-title {
+  font-family: var(--font-heading);
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+@utility card-title {
+  font-family: var(--font-heading);
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 600;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+  h1 {
+    font-weight: 700;
+  }
+  a {
+    text-underline-offset: 3px;
+  }
+  :focus-visible {
+    outline-color: var(--green);
+  }
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none;
+  }
+  body {
+    background: #fff;
+  }
+}

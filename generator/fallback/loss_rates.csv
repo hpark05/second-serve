@@ -1,0 +1,7 @@
+# PLACEHOLDER (generator fallback): replace with data/raw/reference/loss_rates.csv from the research agent.
+# prep_loss_pct = kitchen handling loss on top of trim (spills, burns, mis-prep), % of as-purchased weight. NOT sourced.
+category,prep_loss_pct,note
+default,1.0,placeholder applied to every category without its own row
+leafy_greens,1.5,placeholder
+vegetables,1.5,placeholder
+fruit,1.5,placeholder

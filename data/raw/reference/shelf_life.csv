@@ -1,0 +1,535 @@
+ingredient,category,storage,shelf_life_days_low,shelf_life_days_high,source_url,clock_starts,foodkeeper_id,foodkeeper_name,original,canonical_id,shelf_life_days,confidence,primary_storage,note
+"chicken breast, boneless skinless",protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,117,"Chicken parts (breast halves, boneless)",1-2 Days,,1.5,high,,
+"chicken breast, boneless skinless",protein,freezer,270,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,117,"Chicken parts (breast halves, boneless)",9-9 Months,,270.0,high,,
+"chicken thigh, boneless skinless",protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,118,Chicken parts (legs or thighs),1-2 Days,,1.5,high,,
+"chicken thigh, boneless skinless",protein,freezer,270,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,118,Chicken parts (legs or thighs),9-9 Months,,270.0,high,,
+ground beef 80/20,protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,43,Beef (ground),1-2 Days,,1.5,high,,
+ground beef 80/20,protein,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,43,Beef (ground),3-4 Months,,105.0,high,,
+"pork shoulder, boneless",protein,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,74,Pork (shoulder),3-5 Days,,4.0,high,,
+"pork shoulder, boneless",protein,freezer,120,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,74,Pork (shoulder),4-12 Months,,240.0,high,,
+salmon fillet,protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,146,"Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)",1-2 Days,,1.5,high,,
+salmon fillet,protein,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,146,"Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)",2-3 Months,,75.0,high,,
+"tofu, firm",protein,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,168,Tofu,1-1 Weeks,,7.0,high,,
+"tofu, firm",protein,freezer,150,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,168,Tofu,5-5 Months,,150.0,high,,
+"eggs, shell, large",protein,refrigerator,21,35,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,21,Eggs (in shell),3-5 Weeks,,28.0,high,,
+"black beans, canned",protein,pantry,730,1825,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,372,"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",2-5 Years,,1277.5,med,,
+"black beans, canned",protein,refrigerator_after_opening,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,372,"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",3-4 Days,,3.5,med,,
+"chickpeas, canned",protein,pantry,730,1825,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,372,"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",2-5 Years,,1277.5,med,,
+"chickpeas, canned",protein,refrigerator_after_opening,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,372,"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",3-4 Days,,3.5,med,,
+"lentils, dry",protein,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,334,Lentils (dried),1-1 Years,,365.0,high,,
+"lentils, dry",protein,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,334,Lentils (dried),1-1 Years,,365.0,high,,
+"white rice, long grain",grain,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,338,Rice (white or wild),2-2 Years,,730.0,high,,
+"white rice, long grain",grain,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,338,Rice (white or wild),1-1 Years,,365.0,high,,
+"white rice, long grain",grain,refrigerator_after_opening,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,338,Rice (white or wild),6-6 Months,,180.0,high,,
+"white rice, long grain (cooked)",prepared,refrigerator,4,6,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,178,Cooked rice,4-6 Days,,5.0,high,,
+"white rice, long grain (cooked)",prepared,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,178,Cooked rice,6-6 Months,,180.0,high,,
+"brown rice, long grain",grain,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,339,Rice (brown),1-1 Years,,365.0,high,,
+"brown rice, long grain",grain,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,339,Rice (brown),1-1 Years,,365.0,high,,
+"brown rice, long grain",grain,refrigerator_after_opening,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,339,Rice (brown),6-6 Months,,180.0,high,,
+"brown rice, long grain (cooked)",prepared,refrigerator,4,6,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,178,Cooked rice,4-6 Days,,5.0,high,,
+"brown rice, long grain (cooked)",prepared,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,178,Cooked rice,6-6 Months,,180.0,high,,
+"pasta, dry (spaghetti/penne)",grain,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,335,"Pasta (dry, without eggs)",2-2 Years,,730.0,high,,
+"pasta, dry (spaghetti/penne)",grain,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,335,"Pasta (dry, without eggs)",1-1 Years,,365.0,high,,
+"pasta, dry (spaghetti/penne) (cooked)",prepared,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,177,Cooked pasta,3-5 Days,,4.0,high,,
+"pasta, dry (spaghetti/penne) (cooked)",prepared,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,177,Cooked pasta,1-2 Months,,45.0,high,,
+"sandwich bread, sliced",grain,pantry,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,461,Whole wheat bread (commercially baked & pre-sliced),3-5 Days,,4.0,high,,
+"sandwich bread, sliced",grain,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,461,Whole wheat bread (commercially baked & pre-sliced),3-3 Months,,90.0,high,,
+flour tortillas,grain,pantry,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,196,Tortillas (flour),3-3 Months,,90.0,high,,
+flour tortillas,grain,refrigerator_after_opening,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,196,Tortillas (flour),3-3 Months,,90.0,high,,
+flour tortillas,grain,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,196,Tortillas (flour),6-6 Months,,180.0,high,,
+rolled oats,grain,pantry,120,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,585,Oats (whole grain),4-4 Months,,120.0,high,,
+rolled oats,grain,freezer,240,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,585,Oats (whole grain),8-8 Months,,240.0,high,,
+rolled oats,grain,pantry,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,375,"Cereal (cook before eating (oatmeal, etc.))",12-12 Months,,360.0,high,,
+rolled oats,grain,pantry_after_opening,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,375,"Cereal (cook before eating (oatmeal, etc.))",6-12 Months,,270.0,high,,
+quinoa,grain,pantry,730,1095,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,425,Quinoa (uncooked),2-3 Years,,912.5,high,,
+quinoa (cooked),prepared,refrigerator,6,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,426,Quinoa (cooked),6-7 Days,,6.5,high,,
+quinoa (cooked),prepared,freezer,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,426,Quinoa (cooked),6-12 Months,,270.0,high,,
+"spinach, fresh",produce,refrigerator,3,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,291,"Lettuce (leaf, spinach)",3-7 Days,,5.0,high,,
+romaine lettuce,produce,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,290,"Lettuce (iceberg, romaine)",1-2 Weeks,,10.5,high,,
+"tomatoes, fresh",produce,freezer,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,306,Tomatoes,2-2 Months,,60.0,high,,
+bell peppers,produce,refrigerator,4,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,296,Peppers,4-14 Days,,9.0,high,,
+bell peppers,produce,freezer,180,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,296,Peppers,6-8 Months,,210.0,high,,
+"onions, yellow",produce,pantry,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,294,"Onions (yellow, white, red, etc.)",1-1 Months,,30.0,high,,
+"onions, yellow",produce,refrigerator,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,294,"Onions (yellow, white, red, etc.)",2-2 Months,,60.0,high,,
+"onions, yellow",produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,294,"Onions (yellow, white, red, etc.)",10-12 Months,,330.0,high,,
+"potatoes, russet",produce,pantry,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,297,Potatoes,1-2 Months,,45.0,high,,
+"potatoes, russet",produce,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,297,Potatoes,1-2 Weeks,,10.5,high,,
+"potatoes, russet",produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,297,Potatoes,10-12 Months,,330.0,high,,
+sweet potatoes,produce,pantry,14,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,422,Yams/sweet potatoes,2-3 Weeks,,17.5,high,,
+carrots,produce,refrigerator,14,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,279,"Carrots, parsnips",2-3 Weeks,,17.5,high,,
+carrots,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,279,"Carrots, parsnips",10-12 Months,,330.0,high,,
+broccoli,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,276,Broccoli and broccoli raab (rapini),3-5 Days,,4.0,high,,
+broccoli,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,276,Broccoli and broccoli raab (rapini),10-12 Months,,330.0,high,,
+cucumbers,produce,refrigerator,4,6,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,283,Cucumbers,4-6 Days,,5.0,high,,
+"mushrooms, white",produce,refrigerator,3,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,292,Mushrooms,3-7 Days,,5.0,high,,
+"mushrooms, white",produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,292,Mushrooms,10-12 Months,,330.0,high,,
+zucchini,produce,pantry,1,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,302,Squash (summer and zucchini),1-5 Days,,3.0,high,,
+zucchini,produce,refrigerator,4,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,302,Squash (summer and zucchini),4-5 Days,,4.5,high,,
+zucchini,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,302,Squash (summer and zucchini),10-12 Months,,330.0,high,,
+"cabbage, green",produce,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,278,Cabbage,1-2 Weeks,,10.5,high,,
+"cabbage, green",produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,278,Cabbage,10-12 Months,,330.0,high,,
+avocados,produce,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,250,Avocados,3-4 Days,,3.5,high,,
+bananas,produce,refrigerator,3,3,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,251,Bananas,3-3 Days,,3.0,high,,
+bananas,produce,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,251,Bananas,2-3 Months,,75.0,high,,
+apples,produce,pantry,21,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,248,Apples,3-3 Weeks,,21.0,high,,
+apples,produce,refrigerator,28,42,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,248,Apples,4-6 Weeks,,35.0,high,,
+apples,produce,freezer,240,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,248,Apples,8-8 Months,,240.0,high,,
+oranges,produce,pantry,10,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,256,"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",10-10 Days,,10.0,high,,
+oranges,produce,refrigerator,10,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,256,"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",10-21 Days,,15.5,high,,
+strawberries,produce,refrigerator,2,3,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,481,Strawberries,2-3 Days,,2.5,high,,
+strawberries,produce,freezer,240,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,481,Strawberries,8-12 Months,,300.0,high,,
+"milk, 2%",dairy,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,27,Milk (plain or flavored),3-3 Months,,90.0,high,,
+"yogurt, plain low-fat",dairy,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,33,Yogurt,1-2 Weeks,,10.5,high,,
+"yogurt, plain low-fat",dairy,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,33,Yogurt,1-2 Months,,45.0,high,,
+"cheddar cheese, shredded",dairy,refrigerator,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",1-1 Months,,30.0,high,,
+"cheddar cheese, shredded",dairy,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",3-4 Months,,105.0,high,,
+"mozzarella, shredded",dairy,refrigerator,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",1-1 Months,,30.0,high,,
+"mozzarella, shredded",dairy,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",3-4 Months,,105.0,high,,
+butter,dairy,refrigerator,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,1,Butter,1-2 Months,,45.0,high,,
+butter,dairy,freezer,180,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,1,Butter,6-9 Months,,225.0,high,,
+"leftovers with meat, fish, poultry or egg",prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,173,"Leftovers (with meat, fish, poultry, or egg)",3-4 Days,,3.5,high,,
+"leftovers with meat, fish, poultry or egg",prepared,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,173,"Leftovers (with meat, fish, poultry, or egg)",2-3 Months,,75.0,high,,
+"leftovers without meat (cooked vegetables, rice, potatoes)",prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,174,"Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",3-4 Days,,3.5,high,,
+"leftovers without meat (cooked vegetables, rice, potatoes)",prepared,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,174,"Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))",1-2 Months,,45.0,high,,
+soups and stews,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,193,"Soup, stews",3-4 Days,,3.5,high,,
+soups and stews,prepared,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,193,"Soup, stews",2-3 Months,,75.0,high,,
+casseroles,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,194,Casseroles,3-4 Days,,3.5,high,,
+cooked poultry dishes,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,135,Cooked poultry dishes,3-4 Days,,3.5,high,,
+cooked poultry dishes,prepared,freezer,120,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,135,Cooked poultry dishes,4-6 Months,,150.0,high,,
+cooked fish,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,148,Cooked fish (all),3-4 Days,,3.5,high,,
+cooked fish,prepared,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,148,Cooked fish (all),1-2 Months,,45.0,high,,
+main dishes or meals (hot or refrigerated),prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,185,Main dishes or meals (hot or refrigerated),3-4 Days,,3.5,high,,
+main dishes or meals (hot or refrigerated),prepared,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,185,Main dishes or meals (hot or refrigerated),2-3 Months,,75.0,high,,
+pasta salad,prepared,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,420,Pasta salad,3-5 Days,,4.0,high,,
+potato salad,prepared,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,191,Potato salad,3-5 Days,,4.0,high,,
+chicken salad,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,418,Chicken salad,3-4 Days,,3.5,high,,
+guacamole,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,180,Guacamole,3-4 Days,,3.5,high,,
+guacamole,prepared,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,180,Guacamole,3-4 Months,,105.0,high,,
+coleslaw,prepared,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,603,"Coleslaw (homemade, prepared)",3-5 Days,,4.0,high,,
+leftover pizza,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,175,Leftovers (pizza),3-4 Days,,3.5,high,,
+leftover pizza,prepared,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,175,Leftovers (pizza),1-2 Months,,45.0,high,,
+cut fruit,prepared,refrigerator_after_opening,4,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,179,"Fruit, cut",4-4 Days,,4.0,high,,
+Avocado,produce,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,250,Avocados,3-4 Days,avocado,3.5,high,1,180=guacamole
+Avocado,produce,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,180,Guacamole,3-4 Days,avocado,3.5,high,1,180=guacamole
+Avocado,produce,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,180,Guacamole,3-4 Months,avocado,105.0,high,0,180=guacamole
+Bagel,bakery,pantry,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,449,Bagel (fresh baked),1-2 Days,bagel,1.5,high,1,LAFA flour proxy
+Bagel,bakery,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,449,Bagel (fresh baked),3-3 Months,bagel,90.0,high,0,LAFA flour proxy
+Bagel,bakery,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,450,Bagel  (commercially frozen),3-3 Months,bagel,90.0,high,0,LAFA flour proxy
+Baking staples,condiment,pantry,540,720,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,220,Cornstarch,18-24 Months,baking_staples,630.0,med,1,cornstarch + ground spices stand in for leavening/yeast/vanilla
+Baking staples,condiment,pantry_after_opening,540,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,220,Cornstarch,18-18 Months,baking_staples,540.0,med,0,cornstarch + ground spices stand in for leavening/yeast/vanilla
+Baking staples,condiment,pantry,730,1095,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,238,Spice/spices (ground),2-3 Years,baking_staples,912.5,med,1,cornstarch + ground spices stand in for leavening/yeast/vanilla
+Baking staples,condiment,pantry_after_opening,730,1095,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,238,Spice/spices (ground),2-3 Years,baking_staples,912.5,med,0,cornstarch + ground spices stand in for leavening/yeast/vanilla
+"Beans, canned",protein,pantry,730,1825,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,372,"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",2-5 Years,beans_canned,1277.5,med,1,FoodKeeper generic low-acid canned goods; LAFA dry beans (no canned-bean series)
+"Beans, canned",protein,refrigerator_after_opening,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,372,"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))",3-4 Days,beans_canned,3.5,med,0,FoodKeeper generic low-acid canned goods; LAFA dry beans (no canned-bean series)
+Green beans,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,273,"Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",3-5 Days,beans_green,4.0,high,1,
+Green beans,produce,freezer,240,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,273,"Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",8-8 Months,beans_green,240.0,high,0,
+Ground beef,protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,43,Beef (ground),1-2 Days,beef_ground,1.5,high,1,
+Ground beef,protein,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,43,Beef (ground),3-4 Months,beef_ground,105.0,high,0,
+"Beef, whole-muscle",protein,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,41,"Beef (stew, cubes)",3-5 Days,beef_whole,4.0,high,1,stew cubes / steaks / chuck roast
+"Beef, whole-muscle",protein,freezer,120,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,41,"Beef (stew, cubes)",4-12 Months,beef_whole,240.0,high,0,stew cubes / steaks / chuck roast
+"Beef, whole-muscle",protein,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,40,Beef (steaks),3-5 Days,beef_whole,4.0,high,1,stew cubes / steaks / chuck roast
+"Beef, whole-muscle",protein,freezer,120,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,40,Beef (steaks),4-12 Months,beef_whole,240.0,high,0,stew cubes / steaks / chuck roast
+"Beef, whole-muscle",protein,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,39,"Beef (chuck roast, brisket)",3-5 Days,beef_whole,4.0,high,1,stew cubes / steaks / chuck roast
+"Beef, whole-muscle",protein,freezer,120,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,39,"Beef (chuck roast, brisket)",4-12 Months,beef_whole,240.0,high,0,stew cubes / steaks / chuck roast
+Beets,produce,pantry,1,1,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,274,Beets,1-1 Days,beets,1.0,high,0,633=pickled beets; LAFA has no beet series
+Beets,produce,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,274,Beets,1-2 Weeks,beets,10.5,high,1,633=pickled beets; LAFA has no beet series
+Beets,produce,freezer,180,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,274,Beets,6-8 Months,beets,210.0,high,0,633=pickled beets; LAFA has no beet series
+Beets,produce,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,633,Beets (pickled),1-1 Years,beets,365.0,high,0,633=pickled beets; LAFA has no beet series
+Beets,produce,refrigerator_after_opening,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,633,Beets (pickled),1-2 Months,beets,45.0,high,0,633=pickled beets; LAFA has no beet series
+Rolls / buns / baguette,bakery,pantry,14,18,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,195,"Commercial bread products (including pan breads, flat breads, rolls, and buns)",14-18 Days,bread_roll,16.0,high,1,
+Rolls / buns / baguette,bakery,refrigerator_after_opening,14,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,195,"Commercial bread products (including pan breads, flat breads, rolls, and buns)",2-3 Weeks,bread_roll,17.5,high,0,
+Rolls / buns / baguette,bakery,freezer,90,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,195,"Commercial bread products (including pan breads, flat breads, rolls, and buns)",3-5 Months,bread_roll,120.0,high,0,
+"Bread, sliced loaf",bakery,pantry,14,18,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,195,"Commercial bread products (including pan breads, flat breads, rolls, and buns)",14-18 Days,bread_sliced,16.0,high,1,
+"Bread, sliced loaf",bakery,refrigerator_after_opening,14,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,195,"Commercial bread products (including pan breads, flat breads, rolls, and buns)",2-3 Weeks,bread_sliced,17.5,high,0,
+"Bread, sliced loaf",bakery,freezer,90,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,195,"Commercial bread products (including pan breads, flat breads, rolls, and buns)",3-5 Months,bread_sliced,120.0,high,0,
+"Bread, sliced loaf",bakery,pantry,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,461,Whole wheat bread (commercially baked & pre-sliced),3-5 Days,bread_sliced,4.0,high,1,
+"Bread, sliced loaf",bakery,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,461,Whole wheat bread (commercially baked & pre-sliced),3-3 Months,bread_sliced,90.0,high,0,
+Broccoli,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,276,Broccoli and broccoli raab (rapini),3-5 Days,broccoli,4.0,high,1,
+Broccoli,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,276,Broccoli and broccoli raab (rapini),10-12 Months,broccoli,330.0,high,0,
+Butter,dairy,refrigerator,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,1,Butter,1-2 Months,butter,45.0,high,1,
+Butter,dairy,freezer,180,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,1,Butter,6-9 Months,butter,225.0,high,0,
+Plant butter spread,dairy,refrigerator,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,26,Margarine,6-6 Months,butter_substitute,180.0,med,1,FoodKeeper margarine for plant butter spreads
+Plant butter spread,dairy,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,26,Margarine,12-12 Months,butter_substitute,360.0,med,0,FoodKeeper margarine for plant butter spreads
+Cabbage,produce,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,278,Cabbage,1-2 Weeks,cabbage,10.5,high,1,
+Cabbage,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,278,Cabbage,10-12 Months,cabbage,330.0,high,0,
+Carrot,produce,refrigerator,14,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,279,"Carrots, parsnips",2-3 Weeks,carrot,17.5,high,1,
+Carrot,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,279,"Carrots, parsnips",10-12 Months,carrot,330.0,high,0,
+Carrot,produce,pantry,4,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,491,Baby carrots,4-4 Days,carrot,4.0,high,0,
+Carrot,produce,refrigerator,28,28,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,491,Baby carrots,4-4 Weeks,carrot,28.0,high,1,
+Carrot,produce,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,491,Baby carrots,3-3 Months,carrot,90.0,high,0,
+Cauliflower,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,280,Cauliflower,3-5 Days,cauliflower,4.0,high,1,
+Cauliflower,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,280,Cauliflower,10-12 Months,cauliflower,330.0,high,0,
+Celery,produce,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,281,Celery,1-2 Weeks,celery,10.5,high,1,
+Celery,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,281,Celery,10-12 Months,celery,330.0,high,0,
+Cold cereal / granola,grain,pantry,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,374,Cereal (ready-to-eat),6-12 Months,cereal_cold,270.0,high,1,
+Cold cereal / granola,grain,pantry_after_opening,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,374,Cereal (ready-to-eat),2-3 Months,cereal_cold,75.0,high,0,
+Cold cereal / granola,grain,pantry,180,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,555,Granola,6-9 Months,cereal_cold,225.0,high,1,
+Feta / blue / cotija,dairy,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,7,"Cheese (soft such as brie, bel paese, goat)",1-2 Weeks,cheese_crumbled,10.5,med,1,FoodKeeper soft cheese for feta/blue/cotija
+Feta / blue / cotija,dairy,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,7,"Cheese (soft such as brie, bel paese, goat)",6-6 Months,cheese_crumbled,180.0,med,0,FoodKeeper soft cheese for feta/blue/cotija
+Mozzarella / pizza cheese,dairy,refrigerator,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",1-1 Months,cheese_mozzarella,30.0,high,1,
+Mozzarella / pizza cheese,dairy,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",3-4 Months,cheese_mozzarella,105.0,high,0,
+Parmesan,dairy,refrigerator,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,4,Cheese (parmesan; shredded or grated),12-12 Months,cheese_parmesan,360.0,high,1,
+"Cheese, cheddar/jack/american/provolone",dairy,refrigerator,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",1-1 Months,cheese_shredded_sliced,30.0,high,1,
+"Cheese, cheddar/jack/american/provolone",dairy,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",3-4 Months,cheese_shredded_sliced,105.0,high,0,
+"Cheese, cheddar/jack/american/provolone",dairy,refrigerator,21,28,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,6,Cheese (processed slices),3-4 Weeks,cheese_shredded_sliced,24.5,high,1,
+Plant-based cheese,dairy,refrigerator,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",1-1 Months,cheese_vegan,30.0,low,1,no plant-cheese item; dairy shredded cheese proxy
+Plant-based cheese,dairy,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,5,"Cheese (shredded; cheddar, mozzarella, etc.)",3-4 Months,cheese_vegan,105.0,low,0,no plant-cheese item; dairy shredded cheese proxy
+"Chicken, precooked",protein,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,135,Cooked poultry dishes,3-4 Days,chicken_cooked,3.5,high,0,
+"Chicken, precooked",protein,freezer,120,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,135,Cooked poultry dishes,4-6 Months,chicken_cooked,150.0,high,1,
+"Chicken, raw",protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,117,"Chicken parts (breast halves, boneless)",1-2 Days,chicken_raw,1.5,high,1,
+"Chicken, raw",protein,freezer,270,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,117,"Chicken parts (breast halves, boneless)",9-9 Months,chicken_raw,270.0,high,0,
+"Chicken, raw",protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,118,Chicken parts (legs or thighs),1-2 Days,chicken_raw,1.5,high,1,
+"Chicken, raw",protein,freezer,270,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,118,Chicken parts (legs or thighs),9-9 Months,chicken_raw,270.0,high,0,
+Lemons / limes,produce,pantry,10,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,256,"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",10-10 Days,citrus,10.0,high,0,
+Lemons / limes,produce,refrigerator,10,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,256,"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",10-21 Days,citrus,15.5,high,1,
+Lemons / limes,produce,pantry,360,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,448,Lemon juice,12-18 Months,citrus,450.0,high,0,
+Lemons / limes,produce,refrigerator_after_opening,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,448,Lemon juice,2-2 Months,citrus,60.0,high,0,
+Lemons / limes,produce,pantry,360,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,447,Lime juice,12-18 Months,citrus,450.0,high,0,
+Lemons / limes,produce,refrigerator_after_opening,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,447,Lime juice,2-2 Months,citrus,60.0,high,0,
+"Coconut milk, canned",prepared,pantry,730,1825,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,602,Coconut milk (canned),2-5 Years,coconut_milk,1277.5,high,1,
+"Coconut milk, canned",prepared,refrigerator_after_opening,4,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,602,Coconut milk (canned),4-4 Days,coconut_milk,4.0,high,0,
+"Coconut milk, canned",prepared,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,602,Coconut milk (canned),3-3 Months,coconut_milk,90.0,high,0,
+Coffee / tea,beverage,pantry,90,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,400,Coffee (whole beans),3-5 Months,coffee_tea,120.0,high,1,ERS has no LAFA loss series for coffee/tea
+Coffee / tea,beverage,pantry_after_opening,90,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,400,Coffee (whole beans),3-5 Months,coffee_tea,120.0,high,0,ERS has no LAFA loss series for coffee/tea
+Coffee / tea,beverage,refrigerator_after_opening,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,400,Coffee (whole beans),3-4 Months,coffee_tea,105.0,high,0,ERS has no LAFA loss series for coffee/tea
+Coffee / tea,beverage,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,541,"Coffee (commercial ground, non-vacuum)",2-2 Years,coffee_tea,730.0,high,1,ERS has no LAFA loss series for coffee/tea
+Coffee / tea,beverage,pantry_after_opening,14,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,541,"Coffee (commercial ground, non-vacuum)",2-2 Weeks,coffee_tea,14.0,high,0,ERS has no LAFA loss series for coffee/tea
+Coffee / tea,beverage,refrigerator_after_opening,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,541,"Coffee (commercial ground, non-vacuum)",1-1 Months,coffee_tea,30.0,high,0,ERS has no LAFA loss series for coffee/tea
+Coffee / tea,beverage,freezer,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,541,"Coffee (commercial ground, non-vacuum)",6-12 Months,coffee_tea,270.0,high,0,ERS has no LAFA loss series for coffee/tea
+Coffee / tea,beverage,pantry,540,1080,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,410,Tea (bags),18-36 Months,coffee_tea,810.0,high,1,ERS has no LAFA loss series for coffee/tea
+Coffee / tea,beverage,pantry_after_opening,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,410,Tea (bags),6-12 Months,coffee_tea,270.0,high,0,ERS has no LAFA loss series for coffee/tea
+Corn kernels,produce,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,331,Vegetables,3-4 Days,corn,3.5,med,0,331=frozen vegetables (generic)
+Corn kernels,produce,freezer,300,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,331,Vegetables,10-18 Months,corn,420.0,med,1,331=frozen vegetables (generic)
+Corn kernels,produce,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,282,Corn on the cob,1-2 Days,corn,1.5,med,0,331=frozen vegetables (generic)
+Corn kernels,produce,freezer,240,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,282,Corn on the cob,8-8 Months,corn,240.0,med,1,331=frozen vegetables (generic)
+Cornmeal / polenta / masa,grain,pantry,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,218,"Cornmeal (regular, degerminated)",6-12 Months,cornmeal,270.0,high,1,
+Cornmeal / polenta / masa,grain,pantry_after_opening,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,218,"Cornmeal (regular, degerminated)",2-2 Years,cornmeal,730.0,high,0,
+Cornmeal / polenta / masa,grain,refrigerator_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,218,"Cornmeal (regular, degerminated)",1-1 Year,cornmeal,365.0,high,0,
+Cornmeal / polenta / masa,grain,refrigerator_after_opening,5,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,656,Polenta (shelf-stable),5-7 Days,cornmeal,6.0,high,0,
+Cornmeal / polenta / masa,grain,refrigerator_after_thawing,5,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after thawing,657,Polenta (frozen),5-5 Days,cornmeal,5.0,high,0,
+Cornmeal / polenta / masa,grain,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,657,Polenta (frozen),12-12 Months,cornmeal,360.0,high,0,
+Cream / half-and-half,dairy,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,13,Cream (half and half),3-4 Days,cream,3.5,high,1,
+Cream / half-and-half,dairy,freezer,120,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,13,Cream (half and half),4-4 Months,cream,120.0,high,0,
+Cream / half-and-half,dairy,refrigerator,10,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,14,Cream (heavy),10-10 Days,cream,10.0,high,1,
+Cream / half-and-half,dairy,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,14,Cream (heavy),3-4 Months,cream,105.0,high,0,
+Cream cheese,dairy,refrigerator,14,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,10,Cream cheese,2-2 Weeks,cream_cheese,14.0,high,1,
+Croutons / panko / crumbs,bakery,pantry,150,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,682,Croutons,5-6 Months,croutons_crumbs,165.0,high,1,
+Croutons / panko / crumbs,bakery,refrigerator,150,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,682,Croutons,5-6 Months,croutons_crumbs,165.0,high,0,
+Croutons / panko / crumbs,bakery,freezer,330,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,682,Croutons,11-12 Months,croutons_crumbs,345.0,high,0,
+Croutons / panko / crumbs,bakery,pantry,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,643,Breadcrumbs (commercial),6-6 Months,croutons_crumbs,180.0,high,1,
+Cucumber,produce,refrigerator,4,6,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,283,Cucumbers,4-6 Days,cucumber,5.0,high,1,
+Prepared dessert / cookie dough,prepared,freezer,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,247,Cookie dough,2-2 Months,dessert_prepared,60.0,med,1,cookie dough / frozen dough / cakes / cookies; no ERS series
+Prepared dessert / cookie dough,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,309,Dough (commercial (bread or cookie)),3-4 Days,dessert_prepared,3.5,med,0,cookie dough / frozen dough / cakes / cookies; no ERS series
+Prepared dessert / cookie dough,prepared,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,309,Dough (commercial (bread or cookie)),12-12 Months,dessert_prepared,360.0,med,1,cookie dough / frozen dough / cakes / cookies; no ERS series
+Prepared dessert / cookie dough,prepared,pantry,3,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,197,Commercial cakes and muffins,3-7 Days,dessert_prepared,5.0,med,0,cookie dough / frozen dough / cakes / cookies; no ERS series
+Prepared dessert / cookie dough,prepared,refrigerator_after_opening,7,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,197,Commercial cakes and muffins,7-10 Days,dessert_prepared,8.5,med,0,cookie dough / frozen dough / cakes / cookies; no ERS series
+Prepared dessert / cookie dough,prepared,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,197,Commercial cakes and muffins,6-6 Months,dessert_prepared,180.0,med,1,cookie dough / frozen dough / cakes / cookies; no ERS series
+Prepared dessert / cookie dough,prepared,pantry,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,199,Cookies (soft),2-3 Months,dessert_prepared,75.0,med,0,cookie dough / frozen dough / cakes / cookies; no ERS series
+Prepared dessert / cookie dough,prepared,freezer,240,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,199,Cookies (soft),8-12 Months,dessert_prepared,300.0,med,1,cookie dough / frozen dough / cakes / cookies; no ERS series
+Salad dressing,condiment,pantry,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,356,"Salad dressings (commercial, bottled)",10-12 Months,dressing,330.0,high,0,
+Salad dressing,condiment,refrigerator_after_opening,30,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,356,"Salad dressings (commercial, bottled)",1-3 Months,dressing,60.0,high,1,
+Salad dressing,condiment,pantry,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,623,Salad dressing (creamy),6-6 Months,dressing,180.0,high,0,
+Salad dressing,condiment,refrigerator_after_opening,21,28,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,623,Salad dressing (creamy),3-4 Weeks,dressing,24.5,high,1,
+Salad dressing,condiment,pantry,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,625,Salad dressing (vinaigrette),6-6 Months,dressing,180.0,high,0,
+Salad dressing,condiment,refrigerator_after_opening,28,28,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,625,Salad dressing (vinaigrette),4-4 Weeks,dressing,28.0,high,1,
+Plant egg,protein,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,17,Egg substitutes (liquid),7-7 Days,egg_alt,7.0,low,1,liquid egg substitutes (egg-based) stand in for plant egg; no ERS series
+Plant egg,protein,refrigerator_after_opening,3,3,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,17,Egg substitutes (liquid),3-3 Days,egg_alt,3.0,low,0,liquid egg substitutes (egg-based) stand in for plant egg; no ERS series
+Plant egg,protein,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,310,Egg substitutes,3-4 Days,egg_alt,3.5,low,1,liquid egg substitutes (egg-based) stand in for plant egg; no ERS series
+Plant egg,protein,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,310,Egg substitutes,12-12 Months,egg_alt,360.0,low,0,liquid egg substitutes (egg-based) stand in for plant egg; no ERS series
+Eggplant,produce,pantry,1,1,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,284,Eggplant,1-1 Days,eggplant,1.0,high,0,
+Eggplant,produce,refrigerator,4,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,284,Eggplant,4-7 Days,eggplant,5.5,high,1,
+Eggplant,produce,freezer,180,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,284,Eggplant,6-8 Months,eggplant,210.0,high,0,
+Eggs,protein,refrigerator,21,35,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,21,Eggs (in shell),3-5 Weeks,eggs,28.0,high,1,
+Eggs,protein,refrigerator,2,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,22,"Eggs (raw whites, yolks)",2-4 Days,eggs,3.0,high,1,
+Eggs,protein,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,22,"Eggs (raw whites, yolks)",12-12 Months,eggs,360.0,high,0,
+Fish fillet,protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,146,"Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)",1-2 Days,fish,1.5,high,0,
+Fish fillet,protein,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,146,"Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)",2-3 Months,fish,75.0,high,1,
+Fish fillet,protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,144,"Lean fish (cod, flounder, haddock, halibut, sole, etc.)",1-2 Days,fish,1.5,high,0,
+Fish fillet,protein,freezer,180,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,144,"Lean fish (cod, flounder, haddock, halibut, sole, etc.)",6-8 Months,fish,210.0,high,1,
+Flour,grain,pantry,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,222,Flour (white),6-12 Months,flour,270.0,high,1,
+Flour,grain,pantry_after_opening,180,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,222,Flour (white),6-8 Months,flour,210.0,high,0,
+Flour,grain,refrigerator_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,222,Flour (white),1-1 Year,flour,365.0,high,0,
+Flour,grain,pantry,90,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,223,Flour (whole wheat),3-6 Months,flour,135.0,high,1,
+Flour,grain,refrigerator_after_opening,180,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,223,Flour (whole wheat),6-8 Months,flour,210.0,high,0,
+Apple,produce,pantry,21,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,248,Apples,3-3 Weeks,fruit_apple,21.0,high,0,
+Apple,produce,refrigerator,28,42,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,248,Apples,4-6 Weeks,fruit_apple,35.0,high,1,
+Apple,produce,freezer,240,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,248,Apples,8-8 Months,fruit_apple,240.0,high,0,
+Banana,produce,refrigerator,3,3,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,251,Bananas,3-3 Days,fruit_banana,3.0,high,0,
+Banana,produce,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,251,Bananas,2-3 Months,fruit_banana,75.0,high,0,
+Berries,produce,refrigerator,2,3,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,481,Strawberries,2-3 Days,fruit_berries,2.5,high,1,315=frozen fruit
+Berries,produce,freezer,240,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,481,Strawberries,8-12 Months,fruit_berries,300.0,high,0,315=frozen fruit
+Berries,produce,freezer,300,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,315,"Fruits (such as berries, melons)",10-18 Months,fruit_berries,420.0,high,0,315=frozen fruit
+Dried fruit,produce,pantry,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,379,"Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)",6-6 Months,fruit_dried,180.0,high,1,
+Dried fruit,produce,pantry_after_opening,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,379,"Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)",1-1 Months,fruit_dried,30.0,high,0,
+Dried fruit,produce,refrigerator_after_opening,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,379,"Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)",6-6 Months,fruit_dried,180.0,high,0,
+Melon,produce,refrigerator,14,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,264,Melons,2-2 Weeks,fruit_melon,14.0,high,1,
+Melon,produce,refrigerator_after_opening,2,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,264,Melons,2-4 Days,fruit_melon,3.0,high,0,
+Melon,produce,freezer,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,264,Melons,1-1 Months,fruit_melon,30.0,high,0,
+Melon,produce,pantry,2,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,496,Cantaloupe,2-4 Days,fruit_melon,3.0,high,0,
+Melon,produce,refrigerator,5,15,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,496,Cantaloupe,5-15 Days,fruit_melon,10.0,high,1,
+Melon,produce,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,496,Cantaloupe,12-12 Months,fruit_melon,360.0,high,0,
+Melon,produce,pantry,2,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,497,Honeydew,2-7 Days,fruit_melon,4.5,high,0,
+Melon,produce,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,497,Honeydew,3-4 Days,fruit_melon,3.5,high,1,
+Melon,produce,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,497,Honeydew,12-12 Months,fruit_melon,360.0,high,0,
+Melon,produce,pantry,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,495,Watermelon,1-2 Days,fruit_melon,1.5,high,0,
+Melon,produce,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,495,Watermelon,3-4 Days,fruit_melon,3.5,high,1,
+Melon,produce,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,495,Watermelon,12-12 Months,fruit_melon,360.0,high,0,
+Orange,produce,pantry,10,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,256,"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",10-10 Days,fruit_orange,10.0,high,0,
+Orange,produce,refrigerator,10,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,256,"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)",10-21 Days,fruit_orange,15.5,high,1,
+Other fruit,produce,pantry,1,1,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,261,Grapes,1-1 Days,fruit_other,1.0,med,0,grapes / mango-papaya
+Other fruit,produce,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,261,Grapes,1-1 Weeks,fruit_other,7.0,med,1,grapes / mango-papaya
+Other fruit,produce,freezer,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,261,Grapes,1-1 Months,fruit_other,30.0,med,0,grapes / mango-papaya
+Other fruit,produce,pantry,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,265,"Papaya, mango, feijoa, passionfruit, casaha melon",3-5 Days,fruit_other,4.0,med,0,grapes / mango-papaya
+Other fruit,produce,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,265,"Papaya, mango, feijoa, passionfruit, casaha melon",1-1 Weeks,fruit_other,7.0,med,1,grapes / mango-papaya
+Other fruit,produce,freezer,180,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,265,"Papaya, mango, feijoa, passionfruit, casaha melon",6-8 Months,fruit_other,210.0,med,0,grapes / mango-papaya
+Pineapple,produce,refrigerator,5,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,267,Pineapple,5-7 Days,fruit_pineapple,6.0,high,1,
+Pineapple,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,267,Pineapple,10-12 Months,fruit_pineapple,330.0,high,0,
+"Garlic, peeled",produce,pantry,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,285,Garlic,1-1 Months,garlic,30.0,med,0,peeled garlic not listed; whole bulb + jarred chopped
+"Garlic, peeled",produce,refrigerator,3,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,285,Garlic,3-14 Days,garlic,8.5,med,1,peeled garlic not listed; whole bulb + jarred chopped
+"Garlic, peeled",produce,freezer,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,285,Garlic,1-1 Months,garlic,30.0,med,0,peeled garlic not listed; whole bulb + jarred chopped
+"Garlic, peeled",produce,pantry,240,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,235,"Garlic (chopped, commercial jars)",8-12 Months,garlic,300.0,med,0,peeled garlic not listed; whole bulb + jarred chopped
+"Ginger, peeled",produce,pantry,2,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,286,Ginger root,2-5 Days,ginger,3.5,high,0,LAFA has no ginger series
+"Ginger, peeled",produce,refrigerator,14,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,286,Ginger root,2-3 Weeks,ginger,17.5,high,1,LAFA has no ginger series
+"Ginger, peeled",produce,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,286,Ginger root,6-6 Months,ginger,180.0,high,0,LAFA has no ginger series
+"Ginger, peeled",produce,refrigerator,7,9,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,505,Lemongrass,7-9 Days,ginger,8.0,high,1,LAFA has no ginger series
+"Ginger, peeled",produce,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,505,Lemongrass,6-6 Months,ginger,180.0,high,0,LAFA has no ginger series
+Quinoa / farro / bulgur / couscous,grain,pantry,730,1095,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,425,Quinoa (uncooked),2-3 Years,grains_other,912.5,med,1,FoodKeeper quinoa only; no farro/bulgur/couscous items
+Quinoa / farro / bulgur / couscous,grain,refrigerator,6,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,426,Quinoa (cooked),6-7 Days,grains_other,6.5,med,0,FoodKeeper quinoa only; no farro/bulgur/couscous items
+Quinoa / farro / bulgur / couscous,grain,freezer,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,426,Quinoa (cooked),6-12 Months,grains_other,270.0,med,0,FoodKeeper quinoa only; no farro/bulgur/couscous items
+Bok choy / gai lan,produce,refrigerator,2,3,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,275,Bok choy,2-3 Days,greens_asian,2.5,high,1,
+Bok choy / gai lan,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,275,Bok choy,10-12 Months,greens_asian,330.0,high,0,
+Mixed greens / spring mix,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,415,"Bagged greens (leaf, spinach, lettuce, etc.)",3-5 Days,greens_mixed,4.0,high,1,
+Mixed greens / spring mix,produce,refrigerator_after_opening,2,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,415,"Bagged greens (leaf, spinach, lettuce, etc.)",2-2 Days,greens_mixed,2.0,high,0,
+Mixed greens / spring mix,produce,refrigerator,3,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,678,Arugula,3-7 Days,greens_mixed,5.0,high,1,
+Fresh herbs,produce,refrigerator,7,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,288,Herbs,7-10 Days,herbs_fresh,8.5,high,1,
+Fresh herbs,produce,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,288,Herbs,1-2 Months,herbs_fresh,45.0,high,0,
+Hot sauce / chili sauce,condiment,pantry,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,559,Hot sauce,6-6 Months,hot_sauce,180.0,high,1,no ERS series
+Hummus / dips,prepared,refrigerator,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,181,"Hummus (commercial (pasteurized, with preservatives))",3-3 Months,hummus_dips,90.0,high,1,
+Hummus / dips,prepared,refrigerator_after_opening,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,181,"Hummus (commercial (pasteurized, with preservatives))",7-7 Days,hummus_dips,7.0,high,0,
+Hummus / dips,prepared,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,183,"Hummus (traditional (no preservatives, not pasteurized))",7-7 Days,hummus_dips,7.0,high,1,
+Hummus / dips,prepared,refrigerator,14,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,16,Dips (sour cream based),2-2 Weeks,hummus_dips,14.0,high,1,
+Jam / nut butter,condiment,pantry,180,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,347,"Jams, jellies, and preserves",6-18 Months,jam_spreads,360.0,high,1,LAFA peanuts for peanut butter share only
+Jam / nut butter,condiment,refrigerator_after_opening,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,347,"Jams, jellies, and preserves",6-12 Months,jam_spreads,270.0,high,0,LAFA peanuts for peanut butter share only
+Jam / nut butter,condiment,pantry,180,720,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,387,Peanut butter (commercial),6-24 Months,jam_spreads,450.0,high,1,LAFA peanuts for peanut butter share only
+Jam / nut butter,condiment,pantry_after_opening,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,387,Peanut butter (commercial),2-3 Months,jam_spreads,75.0,high,0,LAFA peanuts for peanut butter share only
+Juice,beverage,refrigerator_after_opening,7,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,455,Orange juice (commercially packaged carton),7-10 Days,juice,8.5,high,1,
+Juice,beverage,freezer,240,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,455,Orange juice (commercially packaged carton),8-12 Months,juice,300.0,high,0,
+Juice,beverage,pantry,360,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,448,Lemon juice,12-18 Months,juice,450.0,high,0,
+Juice,beverage,refrigerator_after_opening,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,448,Lemon juice,2-2 Months,juice,60.0,high,1,
+Kale / collard greens,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,423,Kale,3-5 Days,kale_collards,4.0,high,1,
+Kale / collard greens,produce,freezer,240,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,423,Kale,8-12 Months,kale_collards,300.0,high,0,
+Kale / collard greens,produce,refrigerator,1,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,287,Greens,1-4 Days,kale_collards,2.5,high,1,
+Kale / collard greens,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,287,Greens,10-12 Months,kale_collards,330.0,high,0,
+Lentils / dried beans,protein,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,334,Lentils (dried),1-1 Years,legumes_dried,365.0,high,1,
+Lentils / dried beans,protein,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,334,Lentils (dried),1-1 Years,legumes_dried,365.0,high,0,
+Lentils / dried beans,protein,pantry,365,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,333,Beans (dried),1-2 Years,legumes_dried,547.5,high,1,
+Lentils / dried beans,protein,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,333,Beans (dried),1-1 Years,legumes_dried,365.0,high,0,
+Romaine lettuce,produce,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,290,"Lettuce (iceberg, romaine)",1-2 Weeks,lettuce_romaine,10.5,high,1,
+Mayonnaise,condiment,pantry,90,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,350,Mayonnaise (commercial),3-6 Months,mayonnaise,135.0,high,0,
+Mayonnaise,condiment,refrigerator_after_opening,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,350,Mayonnaise (commercial),2-2 Months,mayonnaise,60.0,high,1,
+Plant-based meat,protein,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,327,Soy meat substitutes,3-4 Days,meat_alt,3.5,high,0,no ERS series for plant-based meat
+Plant-based meat,protein,freezer,360,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,327,Soy meat substitutes,12-18 Months,meat_alt,450.0,high,1,no ERS series for plant-based meat
+Plant-based meat,protein,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,326,Soy crumbles and hot dogs,3-4 Days,meat_alt,3.5,high,0,no ERS series for plant-based meat
+Plant-based meat,protein,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,326,Soy crumbles and hot dogs,1-2 Months,meat_alt,45.0,high,1,no ERS series for plant-based meat
+"Milk, dairy",dairy,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,27,Milk (plain or flavored),3-3 Months,milk,90.0,high,0,FoodKeeper gives only 'package use-by date' for fridge
+Plant milk,beverage,refrigerator_after_opening,7,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,427,Almond milk,7-10 Days,milk_plant,8.5,high,1,no ERS series
+Plant milk,beverage,refrigerator_after_opening,7,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,421,Soy milk,7-10 Days,milk_plant,8.5,high,1,no ERS series
+Mustard / ketchup / relish,condiment,pantry,365,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,351,Mustard,1-2 Years,mustard_ketchup,547.5,high,1,no ERS series
+Mustard / ketchup / relish,condiment,refrigerator_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,351,Mustard,1-1 Years,mustard_ketchup,365.0,high,0,no ERS series
+Mustard / ketchup / relish,condiment,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,348,"Ketchup, cocktail, or chili sauce",1-1 Years,mustard_ketchup,365.0,high,1,no ERS series
+Mustard / ketchup / relish,condiment,refrigerator_after_opening,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,348,"Ketchup, cocktail, or chili sauce",6-6 Months,mustard_ketchup,180.0,high,0,no ERS series
+Mustard / ketchup / relish,condiment,pantry,900,900,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,500,Relish,30-30 Months,mustard_ketchup,900.0,high,1,no ERS series
+Mustard / ketchup / relish,condiment,refrigerator,270,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,500,Relish,9-9 Months,mustard_ketchup,270.0,high,0,no ERS series
+Mushrooms,produce,refrigerator,3,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,292,Mushrooms,3-7 Days,mushroom,5.0,high,1,
+Mushrooms,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,292,Mushrooms,10-12 Months,mushroom,330.0,high,0,
+Rice / egg noodles,grain,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,336,Dry egg noodles,2-2 Years,noodles_asian,730.0,med,1,FoodKeeper dry egg noodles
+Rice / egg noodles,grain,pantry_after_opening,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,336,Dry egg noodles,1-2 Months,noodles_asian,45.0,med,0,FoodKeeper dry egg noodles
+Nuts and seeds,protein,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,386,Nuts (jars or cans),1-1 Years,nuts_seeds,365.0,high,1,
+Nuts and seeds,protein,pantry_after_opening,60,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,386,Nuts (jars or cans),2-9 Months,nuts_seeds,165.0,high,0,
+Nuts and seeds,protein,refrigerator_after_opening,120,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,386,Nuts (jars or cans),4-6 Months,nuts_seeds,150.0,high,0,
+Nuts and seeds,protein,freezer,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,386,Nuts (jars or cans),6-12 Months,nuts_seeds,270.0,high,0,
+Nuts and seeds,protein,pantry_after_opening,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,616,"Roasted nuts (peanuts, cashews, almonds)",1-2 Weeks,nuts_seeds,10.5,high,0,
+Nuts and seeds,protein,refrigerator_after_opening,28,28,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,616,"Roasted nuts (peanuts, cashews, almonds)",4-4 Weeks,nuts_seeds,28.0,high,0,
+Nuts and seeds,protein,pantry,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,608,"Sunflower seeds (raw, unsalted, no shell)",12-12 Months,nuts_seeds,360.0,high,1,
+Oats,grain,pantry,120,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,585,Oats (whole grain),4-4 Months,oats,120.0,high,1,
+Oats,grain,freezer,240,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,585,Oats (whole grain),8-8 Months,oats,240.0,high,0,
+Oats,grain,pantry,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,375,"Cereal (cook before eating (oatmeal, etc.))",12-12 Months,oats,360.0,high,1,
+Oats,grain,pantry_after_opening,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,375,"Cereal (cook before eating (oatmeal, etc.))",6-12 Months,oats,270.0,high,0,
+"Oil, cooking blend / canola",condiment,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,520,Canola oil,1-1 Years,oil_cooking,365.0,high,1,
+"Oil, cooking blend / canola",condiment,pantry,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,227,Oils (olive or vegetable),6-12 Months,oil_cooking,270.0,high,1,
+"Oil, cooking blend / canola",condiment,pantry_after_opening,90,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,227,Oils (olive or vegetable),3-5 Months,oil_cooking,120.0,high,0,
+"Oil, cooking blend / canola",condiment,refrigerator_after_opening,120,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,227,Oils (olive or vegetable),4-4 Months,oil_cooking,120.0,high,0,
+"Oil, cooking blend / canola",condiment,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,229,Vegetable oil sprays,2-2 Years,oil_cooking,730.0,high,1,
+"Oil, cooking blend / canola",condiment,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,229,Vegetable oil sprays,1-1 Years,oil_cooking,365.0,high,0,
+Fryer oil,condiment,pantry,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,227,Oils (olive or vegetable),6-12 Months,oil_fryer,270.0,med,1,526=re-used frying oil
+Fryer oil,condiment,pantry_after_opening,90,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,227,Oils (olive or vegetable),3-5 Months,oil_fryer,120.0,med,0,526=re-used frying oil
+Fryer oil,condiment,refrigerator_after_opening,120,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,227,Oils (olive or vegetable),4-4 Months,oil_fryer,120.0,med,0,526=re-used frying oil
+Fryer oil,condiment,refrigerator,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,526,Frying oil (re-used),1-1 Months,oil_fryer,30.0,med,0,526=re-used frying oil
+Fryer oil,condiment,freezer,180,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,526,Frying oil (re-used),6-9 Months,oil_fryer,225.0,med,0,526=re-used frying oil
+Olive oil,condiment,pantry,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,227,Oils (olive or vegetable),6-12 Months,oil_olive,270.0,high,1,
+Olive oil,condiment,pantry_after_opening,90,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,227,Oils (olive or vegetable),3-5 Months,oil_olive,120.0,high,0,
+Olive oil,condiment,refrigerator_after_opening,120,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,227,Oils (olive or vegetable),4-4 Months,oil_olive,120.0,high,0,
+Sesame oil,condiment,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,612,Sesame oil,2-2 Years,oil_sesame,730.0,high,1,
+Sesame oil,condiment,pantry_after_opening,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,612,Sesame oil,6-6 Months,oil_sesame,180.0,high,0,
+"Onion, dry",produce,pantry,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,294,"Onions (yellow, white, red, etc.)",1-1 Months,onion,30.0,high,1,
+"Onion, dry",produce,refrigerator,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,294,"Onions (yellow, white, red, etc.)",2-2 Months,onion,60.0,high,0,
+"Onion, dry",produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,294,"Onions (yellow, white, red, etc.)",10-12 Months,onion,330.0,high,0,
+Green onion,produce,pantry,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,295,Onions (spring or green),1-1 Months,onion_green,30.0,high,0,
+Green onion,produce,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,295,Onions (spring or green),1-1 Weeks,onion_green,7.0,high,1,
+Green onion,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,295,Onions (spring or green),10-12 Months,onion_green,330.0,high,0,
+Pancake / waffle mix,grain,pantry,270,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,214,Biscuit or pancake mix,9-9 Months,pancake_mix,270.0,high,1,
+"Pasta, dry",grain,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,335,"Pasta (dry, without eggs)",2-2 Years,pasta,730.0,high,1,
+"Pasta, dry",grain,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,335,"Pasta (dry, without eggs)",1-1 Years,pasta,365.0,high,0,
+"Pasta, dry",grain,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,177,Cooked pasta,3-5 Days,pasta,4.0,high,0,
+"Pasta, dry",grain,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,177,Cooked pasta,1-2 Months,pasta,45.0,high,0,
+"Pasta, gluten-free",grain,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,335,"Pasta (dry, without eggs)",2-2 Years,pasta_gf,730.0,low,1,FoodKeeper wheat pasta proxy
+"Pasta, gluten-free",grain,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,335,"Pasta (dry, without eggs)",1-1 Years,pasta_gf,365.0,low,0,FoodKeeper wheat pasta proxy
+"Pasta, gluten-free",grain,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,177,Cooked pasta,3-5 Days,pasta_gf,4.0,low,0,FoodKeeper wheat pasta proxy
+"Pasta, gluten-free",grain,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,177,Cooked pasta,1-2 Months,pasta_gf,45.0,low,0,FoodKeeper wheat pasta proxy
+Pastry,bakery,pantry,5,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,204,"Pastries, danish",5-10 Days,pastry,7.5,high,0,
+Pastry,bakery,refrigerator_after_opening,420,420,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,204,"Pastries, danish",14-14 Months,pastry,420.0,high,0,
+Pastry,bakery,pantry,3,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,452,Muffin (commercially packaged),3-7 Days,pastry,5.0,high,0,
+Pastry,bakery,freezer,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,452,Muffin (commercially packaged),3-3 Months,pastry,90.0,high,1,
+Pastry,bakery,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,551,Puff pastry,12-12 Months,pastry,360.0,high,1,
+Green peas / pea-carrot blend,produce,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,331,Vegetables,3-4 Days,peas_green,3.5,med,0,331=frozen vegetables (generic)
+Green peas / pea-carrot blend,produce,freezer,300,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,331,Vegetables,10-18 Months,peas_green,420.0,med,1,331=frozen vegetables (generic)
+Green peas / pea-carrot blend,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,273,"Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",3-5 Days,peas_green,4.0,med,0,331=frozen vegetables (generic)
+Green peas / pea-carrot blend,produce,freezer,240,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,273,"Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)",8-8 Months,peas_green,240.0,med,1,331=frozen vegetables (generic)
+Green peas / pea-carrot blend,produce,refrigerator_after_thawing,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after thawing,641,Edamame (frozen),1-1 Weeks,peas_green,7.0,med,0,331=frozen vegetables (generic)
+Green peas / pea-carrot blend,produce,freezer,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,641,Edamame (frozen),2-2 Years,peas_green,730.0,med,1,331=frozen vegetables (generic)
+Bell pepper,produce,refrigerator,4,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,296,Peppers,4-14 Days,pepper_bell,9.0,high,1,
+Bell pepper,produce,freezer,180,240,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,296,Peppers,6-8 Months,pepper_bell,210.0,high,0,
+"Chili pepper, fresh",produce,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,548,Hot peppers,1-1 Weeks,pepper_chili,7.0,high,1,
+"Chili pepper, fresh",produce,freezer,270,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,548,Hot peppers,9-9 Months,pepper_chili,270.0,high,0,
+Pickles / olives / capers,prepared,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,353,Pickles,1-1 Years,pickles_olives,365.0,high,1,
+Pickles / olives / capers,prepared,refrigerator_after_opening,30,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,353,Pickles,1-3 Months,pickles_olives,60.0,high,0,
+Pickles / olives / capers,prepared,pantry,360,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,352,Olives (black and green),12-18 Months,pickles_olives,450.0,high,1,
+Pickles / olives / capers,prepared,refrigerator_after_opening,14,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,352,Olives (black and green),2-2 Weeks,pickles_olives,14.0,high,0,
+"Pizza base, frozen",bakery,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,571,Pizza (frozen),3-4 Days,pizza_base,3.5,high,0,
+"Pizza base, frozen",bakery,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,571,Pizza (frozen),12-12 Months,pizza_base,360.0,high,1,
+"Pizza base, frozen",bakery,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,309,Dough (commercial (bread or cookie)),3-4 Days,pizza_base,3.5,high,0,
+"Pizza base, frozen",bakery,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,309,Dough (commercial (bread or cookie)),12-12 Months,pizza_base,360.0,high,1,
+Pork,protein,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,74,Pork (shoulder),3-5 Days,pork,4.0,high,1,
+Pork,protein,freezer,120,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,74,Pork (shoulder),4-12 Months,pork,240.0,high,0,
+Pork,protein,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,61,"Pork (loin roast, boneless)",3-5 Days,pork,4.0,high,1,
+Pork,protein,freezer,120,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,61,"Pork (loin roast, boneless)",4-12 Months,pork,240.0,high,0,
+Pork,protein,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,67,Pork (tenderloin),3-5 Days,pork,4.0,high,1,
+Pork,protein,freezer,120,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,67,Pork (tenderloin),4-12 Months,pork,240.0,high,0,
+"Potato, fresh",produce,pantry,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,297,Potatoes,1-2 Months,potato,45.0,high,1,
+"Potato, fresh",produce,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,297,Potatoes,1-2 Weeks,potato,10.5,high,0,
+"Potato, fresh",produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,297,Potatoes,10-12 Months,potato,330.0,high,0,
+Frozen potato products,prepared,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,313,"Frozen potato products (fries, hashbrowns, tater tots)",12-12 Months,potato_frozen,360.0,high,1,
+Sweet potato,produce,pantry,14,21,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,422,Yams/sweet potatoes,2-3 Weeks,potato_sweet,17.5,high,1,
+Prepared entree component,prepared,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,330,Frozen entrees (prepared meals),12-12 Months,prepared_entree,360.0,high,1,no ERS series
+Prepared entree component,prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,185,Main dishes or meals (hot or refrigerated),3-4 Days,prepared_entree,3.5,high,0,no ERS series
+Prepared entree component,prepared,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,185,Main dishes or meals (hot or refrigerated),2-3 Months,prepared_entree,75.0,high,1,no ERS series
+Radish,produce,refrigerator,10,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,299,Radishes,10-14 Days,radish,12.0,high,1,
+"Rice, brown",grain,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,339,Rice (brown),1-1 Years,rice_brown,365.0,high,1,
+"Rice, brown",grain,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,339,Rice (brown),1-1 Years,rice_brown,365.0,high,0,
+"Rice, brown",grain,refrigerator_after_opening,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,339,Rice (brown),6-6 Months,rice_brown,180.0,high,0,
+"Rice, brown",grain,refrigerator,4,6,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,178,Cooked rice,4-6 Days,rice_brown,5.0,high,0,
+"Rice, brown",grain,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,178,Cooked rice,6-6 Months,rice_brown,180.0,high,0,
+"Rice, white",grain,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,338,Rice (white or wild),2-2 Years,rice_white,730.0,high,1,
+"Rice, white",grain,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,338,Rice (white or wild),1-1 Years,rice_white,365.0,high,0,
+"Rice, white",grain,refrigerator_after_opening,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,338,Rice (white or wild),6-6 Months,rice_white,180.0,high,0,
+"Rice, white",grain,refrigerator,4,6,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,178,Cooked rice,4-6 Days,rice_white,5.0,high,0,
+"Rice, white",grain,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,178,Cooked rice,6-6 Months,rice_white,180.0,high,0,
+Salsa / pico,prepared,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,357,Salsa (picante and taco sauces),1-1 Years,salsa,365.0,high,0,
+Salsa / pico,prepared,refrigerator_after_opening,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,357,Salsa (picante and taco sauces),1-1 Months,salsa,30.0,high,0,
+Salsa / pico,prepared,refrigerator,4,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,572,Salsa (fresh),4-7 Days,salsa,5.5,high,1,
+Salt,condiment,pantry,3650,3650,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,468,"Salt (table, plain, or iodized)",Indefinitely,salt,3650.0,high,1,no ERS series
+Prepared sauce,prepared,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,340,Barbecue sauce (bottled),1-1 Years,sauce_prepared,365.0,med,0,BBQ / cream sauces / tomato sauce; no ERS series
+Prepared sauce,prepared,refrigerator_after_opening,120,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,340,Barbecue sauce (bottled),4-4 Months,sauce_prepared,120.0,med,1,BBQ / cream sauces / tomato sauce; no ERS series
+Prepared sauce,prepared,pantry,180,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,342,"Cream sauces, milk solids",6-12 Months,sauce_prepared,270.0,med,0,BBQ / cream sauces / tomato sauce; no ERS series
+Prepared sauce,prepared,refrigerator_after_opening,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,599,"Tomato sauce (spaghetti, pizza)",3-5 Days,sauce_prepared,4.0,med,1,BBQ / cream sauces / tomato sauce; no ERS series
+Sausage / bacon,protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,102,Sausage (raw bulk type or patties),1-2 Days,sausage_bacon,1.5,high,0,
+Sausage / bacon,protein,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,102,Sausage (raw bulk type or patties),1-2 Months,sausage_bacon,45.0,high,1,
+Sausage / bacon,protein,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,79,Bacon,1-1 Weeks,sausage_bacon,7.0,high,0,
+Sausage / bacon,protein,refrigerator_after_opening,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,79,Bacon,1-1 Weeks,sausage_bacon,7.0,high,0,
+Sausage / bacon,protein,freezer,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,79,Bacon,1-1 Months,sausage_bacon,30.0,high,1,
+Sausage / bacon,protein,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,323,Sausages (precooked),3-4 Days,sausage_bacon,3.5,high,0,
+Sausage / bacon,protein,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,323,Sausages (precooked),1-2 Months,sausage_bacon,45.0,high,1,
+Shrimp,protein,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,325,"Shrimp, shellfish",3-4 Days,shrimp,3.5,high,0,
+Shrimp,protein,freezer,360,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,325,"Shrimp, shellfish",12-18 Months,shrimp,450.0,high,1,
+Shrimp,protein,refrigerator,1,3,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,151,"Shrimp, crayfish",1-3 Days,shrimp,2.0,high,0,
+Shrimp,protein,freezer,180,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,151,"Shrimp, crayfish",6-18 Months,shrimp,360.0,high,1,
+Soft serve mix,dairy,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,317,Ice cream,6-6 Months,soft_serve_mix,180.0,low,0,FoodKeeper ice cream; no liquid mix item
+Soup base / stock concentrate,prepared,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,396,Soup mixes (dry bouillon),1-1 Years,soup_base,365.0,high,1,no ERS series
+Soup base / stock concentrate,prepared,pantry_after_opening,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,396,Soup mixes (dry bouillon),1-1 Years,soup_base,365.0,high,0,no ERS series
+Soup base / stock concentrate,prepared,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,486,Chicken broth/stock/consommé  (commercially produced),7-7 Days,soup_base,7.0,high,0,no ERS series
+Soup base / stock concentrate,prepared,refrigerator_after_opening,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,486,Chicken broth/stock/consommé  (commercially produced),3-4 Days,soup_base,3.5,high,0,no ERS series
+Soup base / stock concentrate,prepared,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,486,Chicken broth/stock/consommé  (commercially produced),2-3 Months,soup_base,75.0,high,0,no ERS series
+Soup base / stock concentrate,prepared,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,487,Vegetable stock/broth  (commercially produced),7-7 Days,soup_base,7.0,high,0,no ERS series
+Soup base / stock concentrate,prepared,refrigerator_after_opening,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,487,Vegetable stock/broth  (commercially produced),3-4 Days,soup_base,3.5,high,0,no ERS series
+Soup base / stock concentrate,prepared,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,487,Vegetable stock/broth  (commercially produced),2-3 Months,soup_base,75.0,high,0,no ERS series
+"Prepared soup, frozen/bulk",prepared,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,193,"Soup, stews",3-4 Days,soup_prepared,3.5,med,0,no ERS series
+"Prepared soup, frozen/bulk",prepared,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after cooking,193,"Soup, stews",2-3 Months,soup_prepared,75.0,med,1,no ERS series
+"Prepared soup, frozen/bulk",prepared,freezer,360,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,330,Frozen entrees (prepared meals),12-12 Months,soup_prepared,360.0,med,1,no ERS series
+Sour cream,dairy,refrigerator,14,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,16,Dips (sour cream based),2-2 Weeks,sour_cream,14.0,low,1,"FoodKeeper sour cream says only ""package use-by date""; 16=sour-cream-based dips used as proxy"
+Soy / fish / seasoning sauce,condiment,pantry,1095,1095,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,360,Soy sauce or teriyaki sauce,3-3 Years,soy_sauce,1095.0,high,1,no ERS series
+Soy / fish / seasoning sauce,condiment,refrigerator_after_opening,30,30,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,360,Soy sauce or teriyaki sauce,1-1 Months,soy_sauce,30.0,high,0,no ERS series
+Dried spices and herbs,condiment,pantry,730,1095,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,238,Spice/spices (ground),2-3 Years,spices,912.5,high,1,ERS spice data is availability-only (no loss series)
+Dried spices and herbs,condiment,pantry_after_opening,730,1095,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,238,Spice/spices (ground),2-3 Years,spices,912.5,high,0,ERS spice data is availability-only (no loss series)
+Dried spices and herbs,condiment,pantry,1095,1460,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,237,Spice/spices (whole),3-4 Years,spices,1277.5,high,1,ERS spice data is availability-only (no loss series)
+Dried spices and herbs,condiment,pantry_after_opening,1095,1460,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,237,Spice/spices (whole),3-4 Years,spices,1277.5,high,0,ERS spice data is availability-only (no loss series)
+Dried spices and herbs,condiment,pantry,365,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,236,Herbs (dried),1-2 Years,spices,547.5,high,1,ERS spice data is availability-only (no loss series)
+Dried spices and herbs,condiment,pantry_after_opening,365,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,236,Herbs (dried),1-2 Years,spices,547.5,high,0,ERS spice data is availability-only (no loss series)
+Spinach,produce,refrigerator,3,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,291,"Lettuce (leaf, spinach)",3-7 Days,spinach,5.0,high,1,
+Spinach,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,415,"Bagged greens (leaf, spinach, lettuce, etc.)",3-5 Days,spinach,4.0,high,1,
+Spinach,produce,refrigerator_after_opening,2,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,415,"Bagged greens (leaf, spinach, lettuce, etc.)",2-2 Days,spinach,2.0,high,0,
+Zucchini / yellow squash,produce,pantry,1,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,302,Squash (summer and zucchini),1-5 Days,squash_summer,3.0,high,0,
+Zucchini / yellow squash,produce,refrigerator,4,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,302,Squash (summer and zucchini),4-5 Days,squash_summer,4.5,high,1,
+Zucchini / yellow squash,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,302,Squash (summer and zucchini),10-12 Months,squash_summer,330.0,high,0,
+Zucchini / yellow squash,produce,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,547,"Zucchini (fresh, whole)",1-1 Weeks,squash_summer,7.0,high,1,
+Zucchini / yellow squash,produce,freezer,300,300,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,547,"Zucchini (fresh, whole)",10-10 Months,squash_summer,300.0,high,0,
+Winter squash,produce,pantry,14,42,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,303,Squash (winter),2-6 Weeks,squash_winter,28.0,high,1,
+Winter squash,produce,refrigerator,30,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,303,Squash (winter),1-3 Months,squash_winter,60.0,high,0,
+Winter squash,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,303,Squash (winter),10-12 Months,squash_winter,330.0,high,0,
+Sugar,condiment,pantry,3650,3650,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,240,Sugar (granulated),Indefinitely,sugar,3650.0,high,1,
+Sugar,condiment,pantry_after_opening,540,720,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,240,Sugar (granulated),18-24 Months,sugar,630.0,high,0,
+Sugar,condiment,pantry,3650,3650,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,239,Sugar (brown),Indefinitely,sugar,3650.0,high,1,
+Sugar,condiment,pantry_after_opening,540,720,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,239,Sugar (brown),18-24 Months,sugar,630.0,high,0,
+Sugar,condiment,pantry,3650,3650,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,241,Sugar (confectioners),Indefinitely,sugar,3650.0,high,1,
+Sugar,condiment,pantry_after_opening,540,720,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,241,Sugar (confectioners),18-24 Months,sugar,630.0,high,0,
+Honey / syrups,condiment,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,345,Honey,2-2 Years,syrup_honey,730.0,high,1,
+Honey / syrups,condiment,pantry,365,365,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,398,Syrup,1-1 Years,syrup_honey,365.0,high,1,
+Honey / syrups,condiment,refrigerator_after_opening,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,398,Syrup,6-6 Months,syrup_honey,180.0,high,0,
+Tofu,protein,refrigerator,7,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,168,Tofu,1-1 Weeks,tofu,7.0,high,1,no ERS soy/tofu series
+Tofu,protein,freezer,150,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,168,Tofu,5-5 Months,tofu,150.0,high,0,no ERS soy/tofu series
+"Tomato, fresh",produce,freezer,60,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,306,Tomatoes,2-2 Months,tomato,60.0,high,0,FoodKeeper: pantry until ripe then 7 days (no numeric fridge)
+"Tomato, fresh",produce,pantry,10,10,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,600,Cherry tomatoes,10-10 Days,tomato,10.0,high,0,FoodKeeper: pantry until ripe then 7 days (no numeric fridge)
+"Tomato, fresh",produce,refrigerator,5,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,600,Cherry tomatoes,5-5 Days,tomato,5.0,high,1,FoodKeeper: pantry until ripe then 7 days (no numeric fridge)
+"Tomato, canned/sauce",prepared,pantry,360,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,373,"Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",12-18 Months,tomato_canned,450.0,high,1,
+"Tomato, canned/sauce",prepared,refrigerator_after_opening,5,7,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,373,"Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))",5-7 Days,tomato_canned,6.0,high,0,
+"Tomato, canned/sauce",prepared,pantry,810,810,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,501,Tomato paste,27-27 Months,tomato_canned,810.0,high,1,
+"Tomato, canned/sauce",prepared,refrigerator_after_opening,5,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,501,Tomato paste,5-5 Days,tomato_canned,5.0,high,0,
+"Tomato, canned/sauce",prepared,freezer,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,501,Tomato paste,2-3 Months,tomato_canned,75.0,high,0,
+"Tomato, canned/sauce",prepared,pantry,540,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,359,Spaghetti sauce (in jars),18-18 Months,tomato_canned,540.0,high,1,
+"Tomato, canned/sauce",prepared,refrigerator_after_opening,4,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,359,Spaghetti sauce (in jars),4-4 Days,tomato_canned,4.0,high,0,
+Tortilla,bakery,pantry,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,196,Tortillas (flour),3-3 Months,tortilla,90.0,high,1,
+Tortilla,bakery,refrigerator_after_opening,90,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,196,Tortillas (flour),3-3 Months,tortilla,90.0,high,0,
+Tortilla,bakery,freezer,180,180,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,196,Tortillas (flour),6-6 Months,tortilla,180.0,high,0,
+Tortilla,bakery,pantry,25,45,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,553,Tortillas (corn),25-45 Days,tortilla,35.0,high,1,
+Tortilla,bakery,refrigerator,60,90,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,553,Tortillas (corn),60-90 Days,tortilla,75.0,high,0,
+"Tuna, canned/pouch",protein,pantry,1095,1095,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,618,Tuna (canned),3-3 Years,tuna_canned,1095.0,high,1,
+"Tuna, canned/pouch",protein,pantry,540,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,617,Tuna (packet),18-18 Months,tuna_canned,540.0,high,1,
+"Tuna, canned/pouch",protein,refrigerator_after_opening,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,617,Tuna (packet),3-4 Days,tuna_canned,3.5,high,0,
+Turkey,protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,120,"Turkey parts (breast halves, boneless)",1-2 Days,turkey,1.5,high,1,
+Turkey,protein,freezer,270,270,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,120,"Turkey parts (breast halves, boneless)",9-9 Months,turkey,270.0,high,0,
+Turkey,protein,refrigerator,1,2,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,115,Ground turkey or chicken,1-2 Days,turkey,1.5,high,1,
+Turkey,protein,freezer,90,120,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,115,Ground turkey or chicken,3-4 Months,turkey,105.0,high,0,
+Turkey,protein,refrigerator,14,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,514,"Turkey  (pre-packaged, luncheon/deli meat)",2-2 Weeks,turkey,14.0,high,1,
+Turkey,protein,refrigerator_after_opening,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,514,"Turkey  (pre-packaged, luncheon/deli meat)",3-5 Days,turkey,4.0,high,0,
+Turkey,protein,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,514,"Turkey  (pre-packaged, luncheon/deli meat)",1-2 Months,turkey,45.0,high,0,
+Other fresh vegetables,produce,refrigerator,3,4,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,271,Asparagus,3-4 Days,veg_other,3.5,med,1,asparagus / brussels sprouts
+Other fresh vegetables,produce,freezer,150,150,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,271,Asparagus,5-5 Months,veg_other,150.0,med,0,asparagus / brussels sprouts
+Other fresh vegetables,produce,refrigerator,3,5,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,277,Brussels sprouts,3-5 Days,veg_other,4.0,med,1,asparagus / brussels sprouts
+Other fresh vegetables,produce,freezer,300,360,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,277,Brussels sprouts,10-12 Months,veg_other,330.0,med,0,asparagus / brussels sprouts
+Vinegar,condiment,pantry,730,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,361,Vinegar,2-2 Years,vinegar,730.0,high,1,no ERS series
+Vinegar,condiment,pantry,1095,1825,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,669,Balsamic vinegar,3-5 Years,vinegar,1460.0,high,1,no ERS series
+Vinegar,condiment,refrigerator_after_opening,540,540,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,669,Balsamic vinegar,18-18 Months,vinegar,540.0,high,0,no ERS series
+Vinegar,condiment,pantry,3650,3650,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,557,Apple cider vinegar,Indefinitely,vinegar,3650.0,high,1,no ERS series
+Cooking wine,condiment,pantry,365,730,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,463,White wine,1-2 Years,wine_cooking,547.5,low,1,"FoodKeeper cooking wine says only ""package use-by date""; 463=white wine proxy; no ERS series"
+Cooking wine,condiment,refrigerator_after_opening,1,3,https://catalog.data.gov/dataset/fsis-foodkeeper-data,after opening,463,White wine,1-3 Days,wine_cooking,2.0,low,0,"FoodKeeper cooking wine says only ""package use-by date""; 463=white wine proxy; no ERS series"
+Yogurt,dairy,refrigerator,7,14,https://catalog.data.gov/dataset/fsis-foodkeeper-data,from purchase,33,Yogurt,1-2 Weeks,yogurt,10.5,high,1,
+Yogurt,dairy,freezer,30,60,https://catalog.data.gov/dataset/fsis-foodkeeper-data,unspecified,33,Yogurt,1-2 Months,yogurt,45.0,high,0,

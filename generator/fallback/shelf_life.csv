@@ -1,0 +1,38 @@
+# PLACEHOLDER (generator fallback): replace with data/raw/reference/shelf_life.csv from the research agent.
+# Values are round-number storage lives in the style of USDA FoodKeeper; NOT individually sourced.
+category,storage,shelf_life_days,note
+leafy_greens,refrigerated,5,placeholder
+herbs,refrigerated,6,placeholder
+vegetables,refrigerated,10,placeholder
+vegetables,dry,21,placeholder (potatoes/onions dry store)
+fruit,refrigerated,8,placeholder
+fruit,dry,6,placeholder (bananas; raisins override not modeled)
+dairy,refrigerated,10,placeholder
+cheese,refrigerated,21,placeholder
+eggs,refrigerated,14,placeholder (liquid/shell mix)
+poultry,refrigerated,3,placeholder
+beef,refrigerated,4,placeholder
+pork,refrigerated,6,placeholder (cured items stretch this)
+seafood,refrigerated,3,placeholder
+seafood,dry,365,placeholder (canned tuna)
+plant_protein,refrigerated,10,placeholder
+plant_protein,dry,365,placeholder
+bakery,dry,5,placeholder
+bakery,refrigerated,7,placeholder
+grains_dry,dry,365,placeholder
+oils_fats,dry,180,placeholder
+oils_fats,refrigerated,60,placeholder
+seasonings,dry,365,placeholder
+herbs,dry,365,placeholder
+condiments_sauces,refrigerated,45,placeholder
+condiments_sauces,dry,180,placeholder
+sweeteners,dry,365,placeholder
+sweeteners,refrigerated,60,placeholder
+beverages_juice,refrigerated,10,placeholder
+nuts_seeds,dry,180,placeholder
+canned_shelf_stable,dry,365,placeholder
+frozen,frozen,120,placeholder
+prepped_produce,refrigerated,7,placeholder (peeled/pre-cut/ready-to-serve)
+other,refrigerated,14,placeholder
+other,dry,180,placeholder
+water,none,9999,not purchased (excluded from recipes)

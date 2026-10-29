@@ -1,0 +1,4 @@
+SOURCE: https://web.archive.org/web/2025id_/https://dining.berkeley.edu/locations/dining-commons/foothill/
+PULLED: 2026-10-27T10:51:21-07:00
+HTTP: 429
+

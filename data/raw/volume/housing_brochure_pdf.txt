@@ -1,0 +1,4 @@
+SOURCE: https://housing.berkeley.edu/wp-content/uploads/CALH_250202_HousingBrochure_COVER_UPDATE-Web.pdf
+PULLED: 2026-10-27T10:51:21-07:00
+HTTP: 404
+

@@ -1,0 +1,70 @@
+station_id,hall_id,source_station,station_role
+cafe-3:allergen friendly,cafe-3,Allergen Friendly,specialty
+cafe-3:bagels/breads,cafe-3,Bagels/Breads,bakery
+cafe-3:breakfast special,cafe-3,Breakfast Special,entree
+cafe-3:center plate,cafe-3,Center Plate,entree
+cafe-3:cold food bar,cafe-3,Cold Food Bar,bar_component
+cafe-3:deli bar,cafe-3,Deli Bar,bar_component
+cafe-3:dessert,cafe-3,Dessert,dessert
+cafe-3:griddle/grill,cafe-3,Griddle/Grill,entree
+cafe-3:hot cereal/grains,cafe-3,Hot Cereal/Grains,breakfast_side
+cafe-3:kosher station,cafe-3,Kosher Station,specialty
+cafe-3:made to order,cafe-3,Made To Order,entree
+cafe-3:pasta,cafe-3,Pasta,entree
+cafe-3:pastries,cafe-3,Pastries,bakery
+cafe-3:salad bar,cafe-3,Salad Bar,bar_component
+cafe-3:soft serve,cafe-3,Soft Serve,dessert
+cafe-3:soup,cafe-3,Soup,soup
+cafe-3:while it last center plate,cafe-3,While It Last Center Plate,entree_repurposed
+clark-kerr:allergen friendly,clark-kerr,Allergen Friendly,specialty
+clark-kerr:appetizers/condiments,clark-kerr,Appetizers/Condiments,condiment
+clark-kerr:bread & pastries,clark-kerr,Bread & Pastries,bakery
+clark-kerr:bread spreads,clark-kerr,Bread Spreads,condiment
+clark-kerr:breakfast,clark-kerr,Breakfast,entree
+clark-kerr:breakfast entree,clark-kerr,Breakfast Entree,entree
+clark-kerr:center plate,clark-kerr,Center Plate,entree
+clark-kerr:cereal/hot grains,clark-kerr,Cereal/Hot Grains,breakfast_side
+clark-kerr:deli bar,clark-kerr,Deli Bar,bar_component
+clark-kerr:dessert,clark-kerr,Dessert,dessert
+clark-kerr:fresh fruit,clark-kerr,Fresh Fruit,breakfast_side
+clark-kerr:griddle/grill,clark-kerr,Griddle/Grill,entree
+clark-kerr:pasta,clark-kerr,Pasta,entree
+clark-kerr:pizza,clark-kerr,Pizza,entree
+clark-kerr:salad bar,clark-kerr,Salad Bar,bar_component
+clark-kerr:soup,clark-kerr,Soup,soup
+clark-kerr:soup/hot grains,clark-kerr,Soup/Hot Grains,soup
+clark-kerr:while it last center plate,clark-kerr,While It Last Center Plate,entree_repurposed
+clark-kerr:yogurt toppings,clark-kerr,Yogurt Toppings,condiment
+clark-kerr:yogurt/dairy,clark-kerr,Yogurt/Dairy,breakfast_side
+crossroads:allergen friendly,crossroads,Allergen Friendly,specialty
+crossroads:bagel bar,crossroads,Bagel Bar,bakery
+crossroads:breakfast special,crossroads,Breakfast Special,entree
+crossroads:center plate,crossroads,Center Plate,entree
+crossroads:centerplate,crossroads,Centerplate,entree
+crossroads:deli bar,crossroads,Deli Bar,bar_component
+crossroads:dessert,crossroads,Dessert,dessert
+crossroads:griddle/grill,crossroads,Griddle/Grill,entree
+crossroads:grill,crossroads,Grill,entree
+crossroads:hot cereal/grains,crossroads,Hot Cereal/Grains,breakfast_side
+crossroads:hot cereals/grains,crossroads,Hot Cereals/Grains,breakfast_side
+crossroads:lemongrass,crossroads,Lemongrass,entree
+crossroads:midday mains,crossroads,Midday Mains,entree
+crossroads:pasta,crossroads,Pasta,entree
+crossroads:pizza,crossroads,Pizza,entree
+crossroads:salad bar,crossroads,Salad Bar,bar_component
+crossroads:soup,crossroads,Soup ,soup
+crossroads:while it last center plate,crossroads,While It Last Center Plate,entree_repurposed
+crossroads:while it last centerplate,crossroads,While It Last Centerplate,entree_repurposed
+foothill:bagel bar,foothill,Bagel Bar,bakery
+foothill:cereal/ hot grain,foothill,Cereal/ Hot Grain ,breakfast_side
+foothill:chef's table,foothill,Chef's Table,entree
+foothill:deli bar,foothill,Deli Bar,bar_component
+foothill:dessert,foothill,Dessert,dessert
+foothill:fire & flour,foothill,Fire & Flour,entree
+foothill:iron & ember,foothill,Iron &  Ember,entree
+foothill:pastry,foothill,Pastry ,bakery
+foothill:pure plates,foothill,Pure Plates,entree
+foothill:salad bar,foothill,Salad Bar,bar_component
+foothill:soup,foothill,Soup,soup
+foothill:while it last chef's table,foothill,While It Last Chef's Table,entree_repurposed
+foothill:yogurt bar,foothill,Yogurt Bar,breakfast_side

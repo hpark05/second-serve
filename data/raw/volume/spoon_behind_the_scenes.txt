@@ -1,0 +1,888 @@
+SOURCE: https://spoonuniversity.com/school/uc-berkeley/behind-the-scenes-of-caldining/
+PULLED: 2026-10-27T10:51:21-07:00
+HTTP: 200
+
+Behind The Scenes of CalDining
+Campuses
+Academy of Art University
+University of Aberdeen
+Adelphi University
+University of Alabama
+Albion College
+American University
+Amity University
+Appalachian State University
+University of Arizona
+University of Arkansas
+Ashoka University
+Assumption College
+Arizona State University
+Auburn University
+Amsterdam University College
+Ball State University
+Bard College
+Baruch College
+Bates College
+Baylor University
+Boston College
+Bentley University
+Bergen County Academies
+Binghamton University - SUNY
+Biola University
+Bloomsburg University
+Boise State University
+Bowdoin College
+Brandeis University
+University of Bridgeport
+University of Bristol
+Brooklyn College
+Brown University
+Bryant University
+Bryn Mawr College
+B.S. Abdur Rahman University
+Boston University
+Bucknell University
+SUNY Buffalo
+Butler University
+Brigham Young University
+College of Charleston
+California Lutheran University
+California State Polytechnic University - San Luis Obispo
+Calgary
+University of Canberra
+Canisius College
+Cardiff University
+Carleton University
+Case Western Reserve University
+Clark Atlanta University
+Colorado College
+University of North Carolina - Chapel Hill
+Chapman University
+Christ University
+University of Cincinnati
+Claremont McKenna College
+Clarion University of Pennsylvania
+Clemson University
+Carnegie Mellon University
+Colleges of the Fenway
+Colby College
+Colgate University
+Columbia University
+Connecticut College
+Cooper Union
+Cornell University
+Colorado State University
+CSU Chico
+California State University, Fullerton
+California State University, Northridge
+University of Colorado Boulder
+University of Colorado Boulder
+Catholic University of America
+CUNY City University of New York
+Dalhousie University
+Dartmouth College
+Davidson College
+University of Dayton
+University of Delaware
+Denison University
+DePaul University
+DePauw University
+Dominican University
+Drake University
+Drexel University
+University of Denver
+Duke University
+Diablo Valley College
+East Carolina University
+University of Edinburgh
+Elon University
+Emerson College
+Emmanuel College
+Emory University
+Erasmus University Rotterdam
+Franklin & Marshall College
+Fairfield University
+Florida Atlantic University
+Fairleigh Dickinson University
+Fairleigh Dickinson University, Florham
+Fashion Institute of Technology
+Florida International University
+Florida Institute of Technology
+Fordham University
+Florida State University
+Furman University
+Georgia Tech
+Grand Canyon University
+George Mason University
+Georgetown University
+Georgia Southern University
+Gettysburg College
+Gujarat National Law University
+Gonzaga University
+Graceland University
+Georgia State University
+University of Guelph
+Grand Valley State University
+The George Washington University
+Hamilton College
+University of Hartford
+Harvard University
+Haverford College
+University of Hawaii - Manoa
+HCMU
+University of Hong Kong
+Hofstra University
+College of the Holy Cross
+Howard University
+Hunter College - CUNY
+Hobart and William Smith Colleges
+Iowa State University
+Illinois State University
+Ithaca College
+Indiana University
+Johns Hopkins University
+Jamia Millia Islamia University
+James Madison University
+Johnson & Wales University
+Kansas State University
+King's College London
+Kennesaw State University
+Kent State University
+Kenyon College
+University of Kansas
+Lafayette College
+Lehigh University
+CUNY Lehman College
+Liberty University
+Loyola Marymount University
+Los Angeles
+University of Louisville
+Louisiana State University
+Loyola University Chicago
+Loyola University Maryland
+Macalester College
+University of Manchester
+Manhattan College
+University of Manitoba
+Marist College
+Marquette University
+University of Maryland
+McGill University
+Massachusetts College of Liberal Arts
+McMaster University
+University of Memphis
+University of Miami
+Miami University
+Middlebury College
+Millersville University
+Colorado School of Mines
+University of Minnesota - Twin Cities
+Massachusetts Institute of Technology
+University of Missouri
+Marymount Manhattan College
+University of Montana
+Montclair State University
+Michigan State University
+Muhlenberg College
+North Carolina State University
+SUNY New Paltz
+The New School
+Northampton Community College
+Northeastern University
+Northwestern University
+Notre Dame
+Northwest Missouri State University
+New York
+New York University
+New York University – Abu Dhabi
+Oglethorpe University
+Ohio University
+University of Oklahoma
+Ole Miss
+Oregon State University
+University of Oregon
+The Ohio State University
+University of Oxford
+Pace University
+Pace Westchester
+Pearl Academy
+Pepperdine University
+University of Pittsburgh
+University of Portland
+University of Portsmouth
+Princeton University
+Providence College
+Pennsylvania State University
+University of Puget Sound
+Purdue University
+Queen's University
+Queens University, Charlotte
+Quinnipiac University
+Radford University
+Rangsit University
+Rhodes College
+Rice University
+University of Richmond
+Rider University
+University of Rochester
+Rollins College
+Rowan University
+Rensselaer Polytechnic Institute
+Rutgers University – New Brunswick
+Ryerson University
+Sacred Heart University
+School of the Art Institute of Chicago
+Saint Mary's College, Indiana
+Salisbury University
+Samford University
+University of San Diego
+San Francisco State University
+St. Ambrose University
+Savannah Technical College
+Savannah College of Art and Design
+Santa Clara University
+San Diego State University
+Seattle University
+Seton Hall University
+Sewanee
+Simon Fraser University
+Spring Hill College
+Simmons College
+St. Joseph's University
+Skidmore College
+Sarah Lawrence College
+St. Louis University
+Smith College
+Southern Methodist University
+University of South Carolina
+SRM Institute of Science and Technology
+University of St. Andrews
+St. John's University
+St. Lawrence University
+St. Mary's College
+Stanford University
+St. Edwards University
+Stevens Institute of Technology
+St. Francis Xavier University
+Stonehill College
+Stony Brook University
+Swarthmore
+Syracuse University
+Texas A&M
+The College of New Jersey
+Texas Christian University
+Temple University
+test
+Tec de Monterrey
+The University of Texas at Austin
+Texas Tech University
+Thapar University
+Towson University
+Trinity College
+Truman State University
+Tufts University
+Tulane
+ArtCenter College of Design
+Texas State University
+University of Chicago
+University of Connecticut
+University of Iowa
+University of Maine
+University of Massachusetts - Amherst
+University of Massachusetts - Boston
+University of Michigan
+University of Ottawa
+University of Pennsylvania
+University of Sydney
+University of Toronto
+University of Victoria
+University of Alabama at Birmingham
+University of British Columbia
+University of California — Riverside
+University of California - Berkeley
+University of Colorado - Denver
+University of California – Irvine
+University College London
+University of California — Davis
+University of Central Florida
+University of California - Los Angeles
+University of Central Lancashire
+University of California — Santa Barbara
+University of California – Santa Cruz
+University of California - San Diego
+University of Delhi
+University of Florida
+University of Georgia
+University of Houston
+University of Illinois at Chicago
+University of Illinois
+University of Kentucky
+University of Missouri Kansas City
+University of Massachusetts Lowell
+University of Nevada, Reno
+UNC Asheville
+University of North Carolina - Charlotte
+UNC Wilmington
+University of North Florida
+University of New Hampshire
+University of Melbourne
+Union College
+University of Nebraska — Lincoln
+University of Nevada, Las Vegas
+University of New Mexico
+University of North Texas
+University of Rhode Island
+University of Saskatchewan
+University of Southern California
+University of San Francisco
+University of South Florida St. Petersburg
+University of Tennessee – Chattanooga
+University of Utah
+The University of Texas at Dallas
+University of Tennessee
+University of Tokyo
+University of Texas Rio Grande Valley
+University of Tulsa
+University of Virginia
+The University of Vermont
+United World College Costa Rica
+University of Valley Forge
+Vanderbilt University
+Vassar College
+Virginia Commonwealth University
+Villanova University
+Virginia Tech
+Visvesvaraya National Institute of Technology
+Wake Forest University
+Waseda University
+Washington University in St. Louis
+University of Washington
+Wellesley College
+Wesleyan University
+West Chester University
+Western University
+Wilfrid Laurier University
+University of Wisconsin - Madison
+Western Kentucky University
+Washington and Lee University
+College of William & Mary
+Washington State University
+West Virginia University
+Western Washington University
+University of Wyoming
+Yale University
+Campuses
+Join
+Log In
+Jobs
+Follow Us
+Pinterest
+TikTok
+Instagram
+Register
+Search
+Campuses
++
+Academy of Art University
+University of Aberdeen
+Adelphi University
+University of Alabama
+Albion College
+American University
+Amity University
+Appalachian State University
+University of Arizona
+University of Arkansas
+Ashoka University
+Assumption College
+Arizona State University
+Auburn University
+Amsterdam University College
+Ball State University
+Bard College
+Baruch College
+Bates College
+Baylor University
+Boston College
+Bentley University
+Bergen County Academies
+Binghamton University - SUNY
+Biola University
+Bloomsburg University
+Boise State University
+Bowdoin College
+Brandeis University
+University of Bridgeport
+University of Bristol
+Brooklyn College
+Brown University
+Bryant University
+Bryn Mawr College
+B.S. Abdur Rahman University
+Boston University
+Bucknell University
+SUNY Buffalo
+Butler University
+Brigham Young University
+College of Charleston
+California Lutheran University
+California State Polytechnic University - San Luis Obispo
+Calgary
+University of Canberra
+Canisius College
+Cardiff University
+Carleton University
+Case Western Reserve University
+Clark Atlanta University
+Colorado College
+University of North Carolina - Chapel Hill
+Chapman University
+Christ University
+University of Cincinnati
+Claremont McKenna College
+Clarion University of Pennsylvania
+Clemson University
+Carnegie Mellon University
+Colleges of the Fenway
+Colby College
+Colgate University
+Columbia University
+Connecticut College
+Cooper Union
+Cornell University
+Colorado State University
+CSU Chico
+California State University, Fullerton
+California State University, Northridge
+University of Colorado Boulder
+University of Colorado Boulder
+Catholic University of America
+CUNY City University of New York
+Dalhousie University
+Dartmouth College
+Davidson College
+University of Dayton
+University of Delaware
+Denison University
+DePaul University
+DePauw University
+Dominican University
+Drake University
+Drexel University
+University of Denver
+Duke University
+Diablo Valley College
+East Carolina University
+University of Edinburgh
+Elon University
+Emerson College
+Emmanuel College
+Emory University
+Erasmus University Rotterdam
+Franklin & Marshall College
+Fairfield University
+Florida Atlantic University
+Fairleigh Dickinson University
+Fairleigh Dickinson University, Florham
+Fashion Institute of Technology
+Florida International University
+Florida Institute of Technology
+Fordham University
+Florida State University
+Furman University
+Georgia Tech
+Grand Canyon University
+George Mason University
+Georgetown University
+Georgia Southern University
+Gettysburg College
+Gujarat National Law University
+Gonzaga University
+Graceland University
+Georgia State University
+University of Guelph
+Grand Valley State University
+The George Washington University
+Hamilton College
+University of Hartford
+Harvard University
+Haverford College
+University of Hawaii - Manoa
+HCMU
+University of Hong Kong
+Hofstra University
+College of the Holy Cross
+Howard University
+Hunter College - CUNY
+Hobart and William Smith Colleges
+Iowa State University
+Illinois State University
+Ithaca College
+Indiana University
+Johns Hopkins University
+Jamia Millia Islamia University
+James Madison University
+Johnson & Wales University
+Kansas State University
+King's College London
+Kennesaw State University
+Kent State University
+Kenyon College
+University of Kansas
+Lafayette College
+Lehigh University
+CUNY Lehman College
+Liberty University
+Loyola Marymount University
+Los Angeles
+University of Louisville
+Louisiana State University
+Loyola University Chicago
+Loyola University Maryland
+Macalester College
+University of Manchester
+Manhattan College
+University of Manitoba
+Marist College
+Marquette University
+University of Maryland
+McGill University
+Massachusetts College of Liberal Arts
+McMaster University
+University of Memphis
+University of Miami
+Miami University
+Middlebury College
+Millersville University
+Colorado School of Mines
+University of Minnesota - Twin Cities
+Massachusetts Institute of Technology
+University of Missouri
+Marymount Manhattan College
+University of Montana
+Montclair State University
+Michigan State University
+Muhlenberg College
+North Carolina State University
+SUNY New Paltz
+The New School
+Northampton Community College
+Northeastern University
+Northwestern University
+Notre Dame
+Northwest Missouri State University
+New York
+New York University
+New York University – Abu Dhabi
+Oglethorpe University
+Ohio University
+University of Oklahoma
+Ole Miss
+Oregon State University
+University of Oregon
+The Ohio State University
+University of Oxford
+Pace University
+Pace Westchester
+Pearl Academy
+Pepperdine University
+University of Pittsburgh
+University of Portland
+University of Portsmouth
+Princeton University
+Providence College
+Pennsylvania State University
+University of Puget Sound
+Purdue University
+Queen's University
+Queens University, Charlotte
+Quinnipiac University
+Radford University
+Rangsit University
+Rhodes College
+Rice University
+University of Richmond
+Rider University
+University of Rochester
+Rollins College
+Rowan University
+Rensselaer Polytechnic Institute
+Rutgers University – New Brunswick
+Ryerson University
+Sacred Heart University
+School of the Art Institute of Chicago
+Saint Mary's College, Indiana
+Salisbury University
+Samford University
+University of San Diego
+San Francisco State University
+St. Ambrose University
+Savannah Technical College
+Savannah College of Art and Design
+Santa Clara University
+San Diego State University
+Seattle University
+Seton Hall University
+Sewanee
+Simon Fraser University
+Spring Hill College
+Simmons College
+St. Joseph's University
+Skidmore College
+Sarah Lawrence College
+St. Louis University
+Smith College
+Southern Methodist University
+University of South Carolina
+SRM Institute of Science and Technology
+University of St. Andrews
+St. John's University
+St. Lawrence University
+St. Mary's College
+Stanford University
+St. Edwards University
+Stevens Institute of Technology
+St. Francis Xavier University
+Stonehill College
+Stony Brook University
+Swarthmore
+Syracuse University
+Texas A&M
+The College of New Jersey
+Texas Christian University
+Temple University
+test
+Tec de Monterrey
+The University of Texas at Austin
+Texas Tech University
+Thapar University
+Towson University
+Trinity College
+Truman State University
+Tufts University
+Tulane
+ArtCenter College of Design
+Texas State University
+University of Chicago
+University of Connecticut
+University of Iowa
+University of Maine
+University of Massachusetts - Amherst
+University of Massachusetts - Boston
+University of Michigan
+University of Ottawa
+University of Pennsylvania
+University of Sydney
+University of Toronto
+University of Victoria
+University of Alabama at Birmingham
+University of British Columbia
+University of California — Riverside
+University of California - Berkeley
+University of Colorado - Denver
+University of California – Irvine
+University College London
+University of California — Davis
+University of Central Florida
+University of California - Los Angeles
+University of Central Lancashire
+University of California — Santa Barbara
+University of California – Santa Cruz
+University of California - San Diego
+University of Delhi
+University of Florida
+University of Georgia
+University of Houston
+University of Illinois at Chicago
+University of Illinois
+University of Kentucky
+University of Missouri Kansas City
+University of Massachusetts Lowell
+University of Nevada, Reno
+UNC Asheville
+University of North Carolina - Charlotte
+UNC Wilmington
+University of North Florida
+University of New Hampshire
+University of Melbourne
+Union College
+University of Nebraska — Lincoln
+University of Nevada, Las Vegas
+University of New Mexico
+University of North Texas
+University of Rhode Island
+University of Saskatchewan
+University of Southern California
+University of San Francisco
+University of South Florida St. Petersburg
+University of Tennessee – Chattanooga
+University of Utah
+The University of Texas at Dallas
+University of Tennessee
+University of Tokyo
+University of Texas Rio Grande Valley
+University of Tulsa
+University of Virginia
+The University of Vermont
+United World College Costa Rica
+University of Valley Forge
+Vanderbilt University
+Vassar College
+Virginia Commonwealth University
+Villanova University
+Virginia Tech
+Visvesvaraya National Institute of Technology
+Wake Forest University
+Waseda University
+Washington University in St. Louis
+University of Washington
+Wellesley College
+Wesleyan University
+West Chester University
+Western University
+Wilfrid Laurier University
+University of Wisconsin - Madison
+Western Kentucky University
+Washington and Lee University
+College of William & Mary
+Washington State University
+West Virginia University
+Western Washington University
+University of Wyoming
+Yale University
+Recipes
++
+Breakfast
+Lunch
+Dinner
+Snacks
+News
++
+Fast Food
+Celebrity
+Trending
+Lifestyle
++
+How To
+Culture
+Interviews
+Reviews
++
+Rankings
+Restaurants
+Products
+More
++
+The Spoon University Supper Club,
+Search
+Log In
+Register
+Jobs
+Join Us
+About Us
+Privacy Policy
+SU at UC Berkeley
+More from UC Berkeley
+Our Reads
+Meet the Team
+Join Us
+UC Berkeley
+|
+Reviews
+Everything You Didn’t Know About CalDining
+Kinsey Long
+Student Contributor, University of California - Berkeley
+This article is written by a student writer from the Spoon University at UC Berkeley chapter and does not reflect the views of Spoon University.
+When you eat at a UC Berkeley dining hall, have you
+ever wondered how
+CalDining
+manages the impossible feat of serving food to about 28,000 people every day? We had the same question and went behind the scenes of CalDining to find an answer. We spoke to Christopher Henning, the executive director of CalDining; Sean O’Donnell, executive chef of Café 3; and Melvin Garcia, general manager of Café 3 and Bear Market, and toured the Café 3 kitchen.
+Zhihan Yang
+To
+get a sense of scale for the amount of food that is consumed at Café 3, the dining hall serves an average of 200 pounds of chicken breast per day and 100 pounds of salad per meal. Of course, all of these ingredients need to be stored somewhere. Café 3 stores all of its food on a separate floor below the kitchen. These massive storage units are filled up with an average of $18,000 worth of food every morning and get emptied out by the end of the day.
+Zhihan Yang
+Health
+& Sustainability
+Zhihan Yang
+When it comes to ingredients, chefs try to source healthy, organic, and local produce. CalDining’s partnerships with well-regarded sustainable companies such as
+Mary’s Chicken
+and
+Hodo Soy
+help ensure that meals are both tasty and environmentally responsible. It should also be noted that CalDining claims to have never used powdered eggs or powdered potatoes and hopes to raise more awareness about where its ingredients are sourced. CalDining is constantly setting new sustainability goals, including aims to exceed purchasing 20% local and reduce carbon emissions from food import.
+The environment is a priority for CalDining. As a partner of ‘
+Menus of Change
+,’CalDining encourages ‘plant-forward’ cooking to offer more sustainable meal options. The chefs are also committed to serving only sustainable seafood based on the
+Monterey Bay Aquarium Seafood Watch
+guide. To ensure that cooking practices are following environmentally friendly guidelines, the kitchen is audited every week by the Sustainability Team on campus. In terms of waste, CalDining is partnered with
+Cal Zero Waste
+to ensure that all single-use items and packaging in the dining halls are compostable.
+Zhihan Yang
+CalDining
+also has to manage pre-consumer and post-consumer food waste. Any usable leftover ingredients in the kitchen are donated to food shelters, leaving behind minimal
+pre-consumer
+waste. One way that CalDining tries to reduce post-consumer waste is by encouraging customers to be more conscious of its food waste and serving smaller portions. Still, about six compost bins are filled per meal.
+Zhihan Yang
+Aside
+from dining halls, CalDining is also responsible for convenience stores like Bear Market and the Den. A vast majority of the items in these stores are externally sourced with the exception of some wraps and parfaits, which are made daily in the kitchen. Some of the best-selling items in Bear Market include bananas, water, and cookies. By strategically positioning its products in the store, CalDining tries to encourage students to make healthier options; for example, sugary drinks are placed further in the back of the store.
+Inclusivity
+Zhihan Yang
+CalDining also strives to make its food inclusive by providing kosher and halal options. Café 3 has a kosher-specific deli bar and a corresponding kosher kitchen, which is strictly regulated to follow Jewish practices. All of the cooking equipment in the kosher kitchen is kept apart from the rest of the kitchen and washed separately. Also, since Jewish law states that dairy and meat can never be combined at any point, the entire kitchen is kept dairy free.
+Zhihan Yang
+The chefs
+try to cook up a variety of dishes from different cultures and aspire to do so with as much authenticity as possible. Chef O’Donnell believes that authenticity is incredibly important but also challenging–getting it right helps celebrate a culture, but messing it up can insult a culture. One example of this is when the dining halls served a traditional Korean dish called bibimbap. No matter how hard they tried, the chefs weren’t able to recreate bibimbap with enough authenticity, leading them to remove it completely from the menu.
+Planning and Preparation
+Zhihan Yang
+Menus
+are planned out two weeks in advance of service, allowing sufficient time for delivery. One part of menu-planning is estimating the right amount of food to cook for a meal to reduce food waste. By keeping a record of the amount of leftovers for each dish at the end of every meal service, the chefs can approximate how much of the dish to make in the future to meet the demand exactly.
+Zhihan Yang
+Surprisingly
+, only three chefs are needed in the Café 3 kitchen at a time during a meal period. This is because almost all of the food has been prepped in the previous meal period or throughout the day, so all that’s left to do is cooking. During a meal period, some
+staff
+may be grilling chicken for the grill bar or deep-frying french fries as demanded, but most of the staff will already be preparing for the next meal.
+Zhihan Yang
+When it comes to physically cooking the food, chefs have to use super-sized kitchenware. At Café 3, the chefs use a specially-insulated 60-gallon pot for stews and broths. Cooking such large quantities of food is also challenging because chefs have to follow recipes with extreme precision, as small errors become more significant on a larger scale. Sometimes, plans can go awry due to missed deliveries or other unexpected issues and chefs need to improvise. On one occasion, Chef O’Donnell prepared 100 pounds of homemade cheese to improve a dish that the chef didn’t think was cheesy enough.
+Zhihan Yang
+As per every service, there is so much that goes on under the surface that a consumer hardly sees, and CalDining is no exception. While the dining halls may seem like a well-oiled machine, they are indeed ran by passionate individuals who work hard to get you the food you
+need
+.
+Dining Hall
+Dorm Lyfe
+Sustainability
+Kinsey Long
+UC Berkeley '23
+I love Japanese food and old Taylor Swift songs.
+Follow Us
+Good stuff only!
+Hungry for more?
+Get served all the best content when you sign up for our newsletter.
+9 Lansdowne St.
+Suite 2
+Boston, MA 02215
+Company
+Her Campus Media
+About Us
+Privacy Policy
+Terms of Use
+Shop
+Cities
+Brands
+Her Campus
+College Fashionista
+InfluenceHer Collective
+Generation Hired
+Join Us
+Write for Spoon University
+Start a Chapter
+Be an Influencer
+Contact Us
+Get in Touch
+Join the Team
+Internships
+Spoon may receive compensation for some links to products and services on this website.
+Copyright © 2024 Her Campus Media, LLC. All Rights Reserved.
+×
+Log In
+Email Or Username
+Password
+Remember Me
+Forgot Password?

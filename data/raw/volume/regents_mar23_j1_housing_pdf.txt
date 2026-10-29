@@ -1,0 +1,355 @@
+SOURCE: https://regents.universityofcalifornia.edu/regmeet/mar23/j1.pdf
+PULLED: 2026-10-27T10:51:21-07:00
+HTTP: 200
+
+   
+ 
+   
+ 
+           J1 
+ 
+Office of the President  
+ 
+TO MEMBERS OF THE ACADEMIC AND STUDENT AFFAIRS COMMITTEE AND 
+THE FINANCE AND CAPITAL STRATEGIES COMMITTEE:  
+ 
+DISCUSSION ITEM 
+ 
+For Meeting of March 15, 2023 
+ 
+OVERVIEW OF UNIVERSITY-PROVIDED STUDENT HOUSING  
+ 
+EXECUTIVE SUMMARY 
+ 
+Demand for affordable student housing at the University of California is a priority throughout the 
+system. Campuses assess and implement the most cost-effective methods to provide new 
+housing. There are various options for developing housing, which include campus delivery and 
+public private partnerships (or P3s). Throughout the system, the goal is to provide rents that are 
+below the local market rate, while demonstrating financial feasibility under challenging 
+conditions. New students receive information about the housing application process upon 
+completing the Statement of Intent to Register (SIR). Application deadlines vary by campus but 
+typically fall within several days after the final SIR deadline. For students experiencing housing 
+insecurity, the primary forms of campus-based support focus on housing vouchers, emergency 
+on-campus housing, financial assistance, and case management. 
+ 
+BACKGROUND 
+ 
+The University of California’s goal is to meet the demand for student housing while providing 
+options that meet the varied needs of the student population.  
+ 
+The diversity of the campus housing inventory varies. Students can choose from several on-
+campus housing options, all of which encourage discovery and emphasize community. These 
+include classic/traditional residence halls, themed or affinity-based halls or floors, apartments, 
+and family housing.  
+ 
+Context 
+ 
+Since the fall of 2011 UC has added over 34,000 beds (see table 1 below).1  
+ 
+ 
+ 
+ 
+1 In 2016, UC began a housing initiative with a goal to add 14,000 beds by the fall of 2020. Through this initiative, 
+UC added 15,021 beds (fall 2016 to fall 2020). 
+ACADEMIC AND STUDENT AFFAIRS/ -2- J1 
+FINANCE AND CAPITAL STRATEGIES  
+COMMITTEES 
+March 15, 2023 
+ 
+   
+ 
+ 
+Table 1: Completion of New Beds: Fall 2011 to Fall 2022 
+ 
+Campus 
+Fall 
+2011-
+2015 
+Fall 
+2016 
+Fall 
+2017 
+Fall 
+2018 
+Fall 
+2019 
+Fall 
+2020 
+Fall 
+2021 
+Fall 
+2022 
+Berkeley 410   781    145 
+Davis 1,918  500  140 1,000 2,600  
+Irvine - 932   1,934   1,055 
+Los Angeles 1,896    140  1,791 3,438 
+Merced 576   712  1,000   
+Riverside 800     820 1,506  
+San Diego 2,649  1,179   4,172   
+San Francisco -    708    
+Santa Barbara 666  1,003      
+Santa Cruz -        
+Total by 
+Year(s) 8,915 932 2,682 1,493 2,922 6,992 5,897 4,638 
+Fall 2011 to Fall 2021: 34,471 beds 
+ 
+Fall 2022 Capacity 
+ 
+Table 2 reflects the number of students who were housed in UC housing in fall 2022, by campus, 
+and as a percentage of enrollment. Systemwide, UC currently houses over 113,000 students, or 
+about 38 percent of enrollment. As reflected in the table, there are variances between the 
+campuses, with Los Angeles housing 49 percent to Berkeley housing 21 percent of students.     
+ 
+Table 2: Fall 2022 Capacity / Occupancy 
+ 
+Campus 
+Capacity / Occupancy2 
+Enrollment3 Capacity Occupancy 
+Berkeley  9,800   9,695   99% 45,268 21% 
+Davis  13,613   13,608   100% 39,663 34% 
+Irvine  16,622   16,455   99% 35,916 46% 
+Los Angeles  20,784   22,519   108% 46,417 49% 
+Merced  4,367   4,086   94% 9,098 45% 
+ 
+2 Capacity is the number of beds a space is designed to accommodate. Occupancy is the actual number of beds in the 
+space.  
+3 Fall enrollment at a glance, https://www.universityofcalifornia.edu/about-us/information-center/fall-enrollment-
+glance and University of California Washington Center (UCDC). 
+ACADEMIC AND STUDENT AFFAIRS/ -3- J1 
+FINANCE AND CAPITAL STRATEGIES  
+COMMITTEES 
+March 15, 2023 
+ 
+   
+ 
+Campus 
+Capacity / Occupancy2 
+Enrollment3 Capacity Occupancy 
+Riverside  8,597   8,493   99% 26,800 32% 
+San Diego  18,022   17,906   99% 41,995 43% 
+San Francisco  773    738   95% 3,140 24% 
+Santa Barbara  8,829   10,221   116% 26,402 39% 
+Santa Cruz  7,058   9,168   130% 19,457 47% 
+UCDC  276   164   59% 153 100% 
+Total  108,741  113,053   104% 294,309 38% 
+ 
+Future Beds 
+ 
+Several campuses recently updated their Long Range Development Plans (LRDPs), addressing 
+housing demand by proposing considerably more housing than in previous LRDPs. Current plans 
+include the addition of close to 22,000 student beds between fall 2023 and fall 2028 (see table 3 
+below). An additional 16,000 beds are in the early planning stage, with funding plans for 
+construction to be determined. If the University can identify and finalize funding for these beds, 
+the number of future beds could reach close to 38,000.  
+ 
+Table 3: Planned Future Beds 
+ 
+Campus 
+Planned Opening Dates 
+Fall 2023 Fall 2024 Fall 2025 Fall 2026 Fall 2027 Fall 2028 
+Berkeley    1,530   1,100    1,000 1,900 
+Davis   1,500         400*  
+Irvine  1,077      300     
+Los Angeles        442   
+Merced        1,210*   
+Riverside      1,553     
+San Diego  2,050   1,310   2,444     
+San Francisco          
+Santa Barbara        3,500    
+Santa Cruz  185     440    
+UCDC          
+Total 4,812 2,840  9,337  1,652 1,400 1,900 
+ Potential Beds Coming Online Fall 2022 to Fall 2028: 21,941 
+* Project implementation assumes receipt of State housing grant funds 
+ 
+ACADEMIC AND STUDENT AFFAIRS/ -4- J1 
+FINANCE AND CAPITAL STRATEGIES  
+COMMITTEES 
+March 15, 2023 
+ 
+   
+ 
+Challenges 
+ 
+The State of California has some of the highest housing costs in the country. The University 
+recognizes this challenge and provides housing opportunities that are generally at least 20 
+percent below market rate. The supply of beds despite new inventory has not been able to keep 
+up with the demand and increased enrollment. Additional factors faced in the development of 
+student housing that contribute to delays and the resulting higher costs include: 
+ 
+Community Opposition and the California Environmental Quality Act (CEQA) 
+ 
+• Local jurisdictions, neighborhood groups, and labor unions use CEQA litigation as a tool 
+to limit campus growth and obtain concessions not typically available through the CEQA 
+process. 
+• CEQA litigation creates significant delay for delivery of housing projects, while the 
+threat of CEQA litigation and its inherent unpredictability slows the housing project 
+entitlement process. 
+• Since 2018, seven housing projects have been challenged by CEQA litigation, with 
+approximately 4,100 beds still affected by ongoing litigation.  
+ 
+Increasing Costs and Labor/Supply-Chain Constraints 
+ 
+• Inflation, labor shortages, and supply chain issues have significantly affected the cost and 
+feasibility of approved and proposed housing projects. 
+• Aging buildings and infrastructure require investment to meet current needs. 
+ 
+Funding Resources 
+ 
+The limited availability of funding can present a barrier to the construction of student housing. 
+Campuses evaluate projects in the pre-development stages to determine the most appropriate 
+funding source(s) for a proposed project. Capital projects are supported by long-term debt 
+(external financing) and housing reserves. More recently, State funds from the Higher Education 
+Student Housing Grant program have funded housing projects for low-income students. 
+Campuses can also form a partnership and implement housing projects using a public private 
+partnership. 
+ 
+Student Rental Rates 
+ 
+Housing rents are set by individual campuses. Each campus has housing departments that 
+manage their housing demand in accordance with specific campus requirements. 
+ 
+Campuses set rates to be below market while ensuring the long-term viability of their existing 
+housing stock. The campus housing departments need adequate resources to maintain the 
+existing inventory and pursue additional development and acquisition opportunities. Rents will 
+continue to face some upward pressure to cover the inflationary cost increases of associated 
+ACADEMIC AND STUDENT AFFAIRS/ -5- J1 
+FINANCE AND CAPITAL STRATEGIES  
+COMMITTEES 
+March 15, 2023 
+ 
+   
+ 
+housing operations (i.e., employee salaries and benefits, utilities, renewal) and other maintenance 
+needs.  
+ 
+For low- and middle-income students, the University financial aid programs account for the total 
+cost of attendance, including housing. Each year, the estimated total cost of attendance is 
+updated for on-campus students using the average rent and meal plans on each campus. Students 
+receive a combination of grants, scholarships, loan, and work-study to cover expenses beyond 
+tuition. Students with financial aid use those funds to pay for their on-campus housing and meal 
+plans, as well as tuition, and receive anything that exceeds those direct charges to pay for other 
+educational costs, like books and supplies. Because the State of California’s Cal Grant program 
+so generously covers tuition for low- and middle-income students, roughly 70 percent of UC’s 
+own need-based grant is available to pay for costs like living expenses, personal expenses, 
+transportation, and books and supplies. 
+ 
+Applying to University-Provided Housing  
+ 
+Introductory information about student housing at UC campuses for new first-year and transfer 
+students is posted on campus-specific pages within the UC admissions website. Each provides 
+detailed information on available housing options, rates, and the application process and 
+timeline. In addition, the UC admissions website provides estimated cost-of-attendance 
+information for California residents and nonresidents that includes housing and meal expenses 
+for students living on or off campus. Upon completing the Statement of Intent to Register (SIR), 
+students will receive information about the housing application process and deadlines from the 
+campus student housing department. Application deadlines vary by campus but typically fall 
+within several days after the final SIR deadline. Once they submit their housing application, 
+students receive updates confirming their housing status, including whether they are on a 
+waitlist. For fall admits (including new first-year, transfer, and graduate/professional students), a 
+student’s specific housing assignment, including roommate information, is communicated 
+between June and August, depending on whether they attend a quarter or semester campus. 
+  
+Students who indicate their intention to live off campus and those whose names have been 
+placed on a campus housing waitlist (once on-campus spaces are full) have several resources to 
+facilitate their search for off-campus housing. Examples include rental listings, renters’ 
+workshop training sessions, and sample rental application and agreement forms. Additional 
+services are offered to students who cannot find a place to live or otherwise experience housing 
+insecurity. 
+ 
+Supporting Housing-Insecure Students  
+ 
+According to the 2022 UC Undergraduate Experience Survey (UCUES), eight percent of 
+undergraduates reported having lacked a safe, regular, and adequate nighttime place to stay and 
+sleep for any length of time. Data from the 2021 Graduate Student Experience Survey 
+ACADEMIC AND STUDENT AFFAIRS/ -6- J1 
+FINANCE AND CAPITAL STRATEGIES  
+COMMITTEES 
+March 15, 2023 
+ 
+   
+ 
+(UCGSES) show that three percent of graduate students reported the same4. Housing shortages 
+and the rising cost of living5 have made housing a challenge for students to navigate, particularly 
+in light of decreased emergency programs related to COVID-19.  
+ 
+The Budget Act of 2022 (Assembly Bill 179) allocated $15 million to address student food and 
+housing insecurity, or “basic needs,” and $3.5 million specifically for rapid rehousing efforts at 
+UC. These State funds have provided UC campuses with vital, sustained emergency assistance 
+for housing-insecure and homeless students. Habitable, secure and safe housing is as critical to 
+student well-being as proper nutrition. Primary forms of campus-based support focus on housing 
+vouchers, emergency on-campus housing, financial assistance, and case management. Campus 
+basic needs staff and peer educators also offer workshops and training sessions on navigating 
+rental searches, lease agreements, and roommate matching while campus administrators have 
+made progress in determining how to utilize State housing grants to build more housing. While 
+developing the infrastructure to track housing data is a point of growth, nine UC campuses were 
+able to estimate the number of students who secured permanent housing after receiving basic 
+needs housing services at a collective total of 2,913 during the 2021-22 academic year.  
+ 
+Campuses may use different strategies to reach students who are experiencing housing insecurity 
+and to raise awareness about basic needs resources available to them on campus. These strategies 
+include social media outreach, faculty and staff education, virtual events and workshops to raise 
+awareness about tools for meeting basic needs, education sessions during first-year orientations, 
+and peer-to-peer outreach. Other messaging strategies include circulating campus newsletters, 
+distributing health promotion items like shower kits, and reaching out with surveys to assess 
+basic needs status/levels among students. Additionally, several campuses conduct student 
+outreach through partnerships with various campus administrators and departments: deans of 
+students, campus multicultural centers, counseling and psychological centers, Financial Aid 
+offices, and health promotion offices.  
+ 
+Connecting students to housing resources requires the efforts of teams comprising campus basic 
+needs staff, case managers, housing staff, and financial aid staff. These teams develop workflows 
+and strategies to provide wraparound support for housing-insecure students. In addition, most 
+campuses have on-campus case managers who assist students with finding temporary or 
+permanent housing. 
+ 
+ 
+ 
+4 Data pulled from the Institutional and Academic Planning Student Basic Needs Dashboard 
+https://www.universityofcalifornia.edu/infocenter/student-basic-needs 
+5 U.S. Bureau of Labor Statistics, 12-month percentage change, Consumer Price Index, selected categories, 
+https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm 
+ACADEMIC AND STUDENT AFFAIRS/ -7- J1 
+FINANCE AND CAPITAL STRATEGIES  
+COMMITTEES 
+March 15, 2023 
+ 
+   
+ 
+NEXT STEPS 
+ 
+The lack of affordable housing is a problem in California and the nation. The University of 
+California is working diligently to identify ways to support students with their housing. The 
+University continues to access sources of funding to help with the development of affordable 
+housing for UC’s student population.  
+ 
+The University was successful in its application through the State of California’s 2022-23 Higher 
+Education Student Housing Grant program, receiving $389 million for the construction of beds 
+to support the lowest-income students. The University’s 2023-24 request totals nearly $500 
+million, representing the most urgent housing needs for four UC campuses. UC’s totals exceed 
+the level of funding the State proposed to be directed to the University. 
+ 
+The University continues to track the status of the State’s proposed California Student Housing 
+Revolving Loan Fund. This fund would provide zero-interest loans to the University of 
+California, California State University, and California Community Colleges for the construction 
+of student housing and, as specified, faculty and staff housing. Despite the State’s current budget 
+challenges, the University will continue to seek ways to partner with the Governor and 
+Legislature to construct the much-needed student housing. 
+ 
+CEQA litigation and the threat of CEQA litigation continue to create delay and financial 
+challenges for the construction of student housing. The University will continue to support 
+legislation that streamlines the CEQA process for student housing or reforms the CEQA 
+litigation process to curtail abuse. The University continues to strengthen partnerships with local 
+communities to address concerns early in the planning process and in alignment with UC’s 
+mission. 
+ 
+ 
+KEY TO ACRONYMS 
+ 
+CEQA California Environmental Quality Act 
+LRDP Long Range Development Plan 
+P3 public private partnership 
+SIR Statement of Intent to Register 
+UCGSES UC Graduate Student Experience Survey 
+UCUES UC Undergraduate Experience Survey 
+ 

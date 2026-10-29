@@ -1,0 +1,122 @@
+id,name,category,default_unit,lb_per_unit,storage,role,notes,shelf_life_ref,shelf_life_match,loss_rate_ref,loss_rate_match,reference_ingredient,reference_match,used_in_recipes,ingredient_id,unit
+avocado,Avocado,produce,lb,1.0,cooler,major,incl. guacamole,avocados,exact,Fresh avocados,exact,avocados,exact,5,avocado,lb
+bagel,Bagel,bakery,each,0.25,dry,major,,"sandwich bread, sliced",proxy,Wheat flour,proxy,"sandwich bread, sliced",proxy,3,bagel,each
+baking_staples,Baking staples,condiment,lb,1.0,dry,trace,"cornstarch, yeast, leavening, vanilla, gums",,,Corn starch,exact,,,38,baking_staples,lb
+beans_canned,"Beans, canned",protein,lb,1.0,dry,major,"garbanzo, black, kidney, pinto, white","chickpeas, canned",exact,Dry edible beans,proxy,"chickpeas, canned",exact,47,beans_canned,lb
+beans_green,Green beans,produce,lb,1.0,cooler,major,,,,Fresh snap beans,exact,,,11,beans_green,lb
+beef_ground,Ground beef,protein,lb,1.0,cooler,major,"incl. patties, meatballs",ground beef 80/20,exact,Beef,exact,ground beef 80/20,exact,18,beef_ground,lb
+beef_whole,"Beef, whole-muscle",protein,lb,1.0,cooler,major,"tri tip, stew, sirloin, stir fry",,,Beef,exact,,,39,beef_whole,lb
+beets,Beets,produce,lb,1.0,cooler,major,,,,Fresh vegetables,proxy,,,8,beets,lb
+bread_roll,Rolls / buns / baguette,bakery,lb,1.0,dry,major,"incl. naan, biscuit","sandwich bread, sliced",proxy,Wheat flour,proxy,"sandwich bread, sliced",proxy,57,bread_roll,lb
+bread_sliced,"Bread, sliced loaf",bakery,lb,1.0,dry,major,,"sandwich bread, sliced",exact,Wheat flour,proxy,"sandwich bread, sliced",exact,17,bread_sliced,lb
+broccoli,Broccoli,produce,lb,1.0,cooler,major,"florets, broccolini",broccoli,exact,Fresh broccoli,exact,broccoli,exact,21,broccoli,lb
+butter,Butter,dairy,lb,1.0,cooler,minor,,butter,exact,Butter,exact,butter,exact,32,butter,lb
+butter_substitute,Plant butter spread,dairy,lb,1.0,cooler,minor,"Smart Balance, vegan butter",butter,proxy,Margarine,exact,butter,proxy,25,butter_substitute,lb
+cabbage,Cabbage,produce,lb,1.0,cooler,major,"green, red, napa","cabbage, green",exact,Fresh cabbage,exact,"cabbage, green",exact,27,cabbage,lb
+carrot,Carrot,produce,lb,1.0,cooler,major,"whole, shredded, baby",carrots,exact,Fresh carrots,exact,carrots,exact,75,carrot,lb
+cauliflower,Cauliflower,produce,lb,1.0,cooler,major,,broccoli,proxy,Fresh cauliflower,exact,broccoli,proxy,15,cauliflower,lb
+celery,Celery,produce,lb,1.0,cooler,major,,,,Fresh celery,exact,,,32,celery,lb
+cereal_cold,Cold cereal / granola,grain,lb,1.0,dry,major,,,,Total grains,proxy,,,2,cereal_cold,lb
+cheese_crumbled,Feta / blue / cotija,dairy,lb,1.0,cooler,major,,,,Blue cheese,exact,,,10,cheese_crumbled,lb
+cheese_mozzarella,Mozzarella / pizza cheese,dairy,lb,1.0,cooler,major,,"mozzarella, shredded",exact,Mozzarella cheese,exact,"mozzarella, shredded",exact,7,cheese_mozzarella,lb
+cheese_parmesan,Parmesan,dairy,lb,1.0,cooler,minor,,,,Parmesan cheese,exact,,,22,cheese_parmesan,lb
+cheese_shredded_sliced,"Cheese, cheddar/jack/american/provolone",dairy,lb,1.0,cooler,major,,"cheddar cheese, shredded",exact,Cheddar cheese,exact,"cheddar cheese, shredded",exact,26,cheese_shredded_sliced,lb
+cheese_vegan,Plant-based cheese,dairy,lb,1.0,cooler,major,Daiya etc.,"mozzarella, shredded",proxy,Total cheese,proxy,"mozzarella, shredded",proxy,15,cheese_vegan,lb
+chicken_cooked,"Chicken, precooked",protein,lb,1.0,freezer,major,"diced, breaded tenders",cooked poultry dishes,exact,Chicken,exact,,,20,chicken_cooked,lb
+chicken_raw,"Chicken, raw",protein,lb,1.0,cooler,major,"breast, thigh, 8-cut","chicken thigh, boneless skinless",exact,Chicken,exact,"chicken thigh, boneless skinless",exact,98,chicken_raw,lb
+citrus,Lemons / limes,produce,each,0.25,cooler,minor,,,,Fresh lemons,exact,,,50,citrus,each
+coconut_milk,"Coconut milk, canned",prepared,lb,1.0,dry,minor,,,,Coconut,exact,,,19,coconut_milk,lb
+coffee_tea,Coffee / tea,beverage,lb,1.0,dry,major,,,,,,,,0,coffee_tea,lb
+corn,Corn kernels,produce,lb,1.0,freezer,major,IQF / flame roasted,,,Frozen sweet corn,exact,,,22,corn,lb
+cornmeal,Cornmeal / polenta / masa,grain,lb,1.0,dry,major,cooked basis,,,Corn flour and meal,exact,,,8,cornmeal,lb
+cream,Cream / half-and-half,dairy,gal,8.4,cooler,minor,,,,Heavy cream,exact,,,17,cream,gal
+cream_cheese,Cream cheese,dairy,lb,1.0,cooler,major,,,,Cream cheese,exact,,,4,cream_cheese,lb
+croutons_crumbs,Croutons / panko / crumbs,bakery,lb,1.0,dry,major,,,,Wheat flour,proxy,,,4,croutons_crumbs,lb
+cucumber,Cucumber,produce,lb,1.0,cooler,major,,cucumbers,exact,Fresh cucumbers,exact,cucumbers,exact,17,cucumber,lb
+dessert_prepared,Prepared dessert / cookie dough,prepared,lb,1.0,freezer,major,,,,,,,,38,dessert_prepared,lb
+dressing,Salad dressing,condiment,gal,8.0,cooler,minor,"ranch, caesar, vinaigrettes",,,Salad and cooking oils,proxy,,,20,dressing,gal
+egg_alt,Plant egg,protein,lb,1.0,cooler,major,JUST Egg,,,,,,,6,egg_alt,lb
+eggplant,Eggplant,produce,lb,1.0,cooler,major,,,,Fresh eggplant,exact,,,18,eggplant,lb
+eggs,Eggs,protein,lb,1.0,cooler,major,"liquid, shell, hard-boiled (8.6 lb/gal liquid)","eggs, shell, large",exact,Eggs,exact,"eggs, shell, large",exact,34,eggs,lb
+fish,Fish fillet,protein,lb,1.0,freezer,major,"salmon, cod, rockfish, pollock",salmon fillet,exact,Fresh and frozen fish,exact,salmon fillet,exact,25,fish,lb
+flour,Flour,grain,lb,1.0,dry,minor,"AP, bread, GF",,,White and whole wheat flour,exact,,,21,flour,lb
+fruit_apple,Apple,produce,each,0.4,cooler,major,,apples,exact,Fresh apples,exact,apples,exact,6,fruit_apple,each
+fruit_banana,Banana,produce,each,0.33,dry,major,,bananas,exact,Fresh bananas,exact,bananas,exact,6,fruit_banana,each
+fruit_berries,Berries,produce,lb,1.0,cooler,major,fresh or IQF,strawberries,exact,Fresh strawberries,exact,strawberries,exact,5,fruit_berries,lb
+fruit_dried,Dried fruit,produce,lb,1.0,dry,major,"raisins, cranberries, apricots, coconut flake",,,Dried fruit,exact,,,12,fruit_dried,lb
+fruit_melon,Melon,produce,lb,1.0,cooler,major,"cantaloupe, honeydew, watermelon",cut fruit,proxy,Fresh cantaloupe,exact,,,0,fruit_melon,lb
+fruit_orange,Orange,produce,each,0.45,cooler,major,,oranges,exact,Fresh oranges,exact,oranges,exact,3,fruit_orange,each
+fruit_other,Other fruit,produce,lb,1.0,cooler,major,"grapes, mango, pear, peach",cut fruit,proxy,Fresh noncitrus,exact,,,7,fruit_other,lb
+fruit_pineapple,Pineapple,produce,lb,1.0,cooler,major,fresh or IQF chunks,cut fruit,proxy,Fresh pineapple,exact,,,16,fruit_pineapple,lb
+garlic,"Garlic, peeled",produce,lb,1.0,cooler,minor,,,,Fresh garlic,exact,,,246,garlic,lb
+ginger,"Ginger, peeled",produce,lb,1.0,cooler,minor,"incl. lemongrass, galangal",,,Fresh garlic,proxy,,,64,ginger,lb
+grains_other,Quinoa / farro / bulgur / couscous,grain,lb,1.0,dry,major,cooked basis,quinoa,exact,Total grains,proxy,quinoa,exact,15,grains_other,lb
+greens_asian,Bok choy / gai lan,produce,lb,1.0,cooler,major,,"spinach, fresh",proxy,Fresh cabbage,proxy,"spinach, fresh",proxy,10,greens_asian,lb
+greens_mixed,Mixed greens / spring mix,produce,lb,1.0,cooler,major,incl. arugula,romaine lettuce,proxy,Fresh leaf lettuce,proxy,romaine lettuce,proxy,2,greens_mixed,lb
+herbs_fresh,Fresh herbs,produce,lb,1.0,cooler,trace,"cilantro, parsley, basil, mint, dill",,,Fresh vegetables,proxy,,,262,herbs_fresh,lb
+hot_sauce,Hot sauce / chili sauce,condiment,lb,1.0,dry,minor,"sriracha, chipotle in adobo",,,,,,,36,hot_sauce,lb
+hummus_dips,Hummus / dips,prepared,lb,1.0,cooler,major,,guacamole,proxy,Dry edible beans,proxy,,,5,hummus_dips,lb
+jam_spreads,Jam / nut butter,condiment,lb,1.0,dry,major,"jelly, preserves, peanut butter",,,,,,,6,jam_spreads,lb
+juice,Juice,beverage,gal,8.7,cooler,minor,"orange, lemon, lime, apple",,,Orange juice,exact,,,137,juice,gal
+kale_collards,Kale / collard greens,produce,lb,1.0,cooler,major,,"spinach, fresh",proxy,Fresh kale,exact,"spinach, fresh",proxy,16,kale_collards,lb
+legumes_dried,Lentils / dried beans,protein,lb,1.0,dry,major,cooked weight basis,"lentils, dry",exact,Dry peas and lentils,exact,"lentils, dry",exact,24,legumes_dried,lb
+lettuce_romaine,Romaine lettuce,produce,lb,1.0,cooler,major,"incl. green leaf, iceberg",romaine lettuce,exact,Fresh leaf lettuce,exact,romaine lettuce,exact,16,lettuce_romaine,lb
+mayonnaise,Mayonnaise,condiment,lb,1.0,cooler,minor,dairy and vegan,,,Salad and cooking oils,proxy,,,25,mayonnaise,lb
+meat_alt,Plant-based meat,protein,lb,1.0,freezer,major,"Beyond, Gardein, soyrizo",,,,,,,33,meat_alt,lb
+milk,"Milk, dairy",dairy,gal,8.6,cooler,major,"whole, 2%, nonfat","milk, 2%",exact,2 percent milk,exact,"milk, 2%",exact,18,milk,gal
+milk_plant,Plant milk,beverage,gal,8.6,cooler,major,"oat, soy, almond",,,,,,,5,milk_plant,gal
+misc_dry,Other dry goods,prepared,lb,1.0,dry,minor,unmatched component bucket,,,,,,,5,misc_dry,lb
+mushroom,Mushrooms,produce,lb,1.0,cooler,major,"crimini, white, shiitake, portobello","mushrooms, white",exact,Fresh mushrooms,exact,"mushrooms, white",exact,43,mushroom,lb
+mustard_ketchup,Mustard / ketchup / relish,condiment,lb,1.0,dry,minor,,,,,,,,30,mustard_ketchup,lb
+noodles_asian,Rice / egg noodles,grain,lb,1.0,dry,major,cooked basis,"pasta, dry (spaghetti/penne)",proxy,Rice,proxy,"pasta, dry (spaghetti/penne)",proxy,7,noodles_asian,lb
+nuts_seeds,Nuts and seeds,protein,lb,1.0,dry,major,"almond, pumpkin, sunflower",,,Total tree nuts,exact,,,9,nuts_seeds,lb
+oats,Oats,grain,lb,1.0,dry,major,cooked basis,rolled oats,exact,Oat products,exact,rolled oats,exact,5,oats,lb
+oil_cooking,"Oil, cooking blend / canola",condiment,gal,7.6,dry,minor,incl. spray,,,Salad and cooking oils,exact,,,422,oil_cooking,gal
+oil_fryer,Fryer oil,condiment,gal,7.6,dry,minor,absorbed share only,,,Salad and cooking oils,exact,,,57,oil_fryer,gal
+oil_olive,Olive oil,condiment,gal,7.6,dry,minor,,,,Salad and cooking oils,exact,,,94,oil_olive,gal
+oil_sesame,Sesame oil,condiment,gal,7.6,dry,trace,,,,Salad and cooking oils,exact,,,25,oil_sesame,gal
+onion,"Onion, dry",produce,lb,1.0,dry,major,"yellow, white, red, shallot","onions, yellow",exact,Fresh onions,exact,"onions, yellow",exact,285,onion,lb
+onion_green,Green onion,produce,lb,1.0,cooler,minor,,"onions, yellow",proxy,Fresh onions,proxy,"onions, yellow",proxy,71,onion_green,lb
+pancake_mix,Pancake / waffle mix,grain,lb,1.0,dry,major,,,,Wheat flour,proxy,,,7,pancake_mix,lb
+pasta,"Pasta, dry",grain,lb,1.0,dry,major,"penne, spaghetti, fettuccine, macaroni; cooked basis","pasta, dry (spaghetti/penne)",exact,Durum flour,exact,"pasta, dry (spaghetti/penne)",exact,34,pasta,lb
+pasta_gf,"Pasta, gluten-free",grain,lb,1.0,dry,major,cooked basis,"pasta, dry (spaghetti/penne)",proxy,Rice,proxy,"pasta, dry (spaghetti/penne)",proxy,4,pasta_gf,lb
+pastry,Pastry,bakery,lb,1.0,freezer,major,"danish, muffin, croissant",,,Wheat flour,proxy,,,13,pastry,lb
+peas_green,Green peas / pea-carrot blend,produce,lb,1.0,freezer,major,"incl. snap peas, edamame",,,Frozen green peas,exact,,,19,peas_green,lb
+pepper_bell,Bell pepper,produce,lb,1.0,cooler,major,"red, green; diced/julienne",bell peppers,exact,Fresh bell peppers,exact,bell peppers,exact,116,pepper_bell,lb
+pepper_chili,"Chili pepper, fresh",produce,lb,1.0,cooler,minor,"jalapeno, serrano, poblano",bell peppers,proxy,Fresh bell peppers,proxy,bell peppers,proxy,79,pepper_chili,lb
+pickles_olives,Pickles / olives / capers,prepared,lb,1.0,dry,minor,incl. canned artichoke,,,Canned olives,exact,,,29,pickles_olives,lb
+pizza_base,"Pizza base, frozen",bakery,lb,1.0,freezer,major,"dough, crusts, and pre-topped 16 in cheese pizza blanks",leftover pizza,proxy,Wheat flour,proxy,,,24,pizza_base,lb
+pork,Pork,protein,lb,1.0,cooler,major,"loin, butt, stew, ham","pork shoulder, boneless",exact,Pork,exact,"pork shoulder, boneless",exact,21,pork,lb
+potato,"Potato, fresh",produce,lb,1.0,dry,major,"russet, yukon, red","potatoes, russet",exact,Fresh potatoes,exact,"potatoes, russet",exact,31,potato,lb
+potato_frozen,Frozen potato products,prepared,lb,1.0,freezer,major,"fries, hash browns, wedges, chips",,,Frozen potatoes,exact,,,31,potato_frozen,lb
+potato_sweet,Sweet potato,produce,lb,1.0,dry,major,,sweet potatoes,exact,Fresh sweet potatoes,exact,sweet potatoes,exact,11,potato_sweet,lb
+prepared_entree,Prepared entree component,prepared,lb,1.0,freezer,major,"mac & cheese bulk, spring rolls, dumplings",main dishes or meals (hot or refrigerated),exact,,,,,15,prepared_entree,lb
+radish,Radish,produce,lb,1.0,cooler,major,"red, daikon",,,Fresh radishes,exact,,,15,radish,lb
+rice_brown,"Rice, brown",grain,lb,1.0,dry,major,cooked basis,"brown rice, long grain",exact,Rice,exact,"brown rice, long grain",exact,6,rice_brown,lb
+rice_white,"Rice, white",grain,lb,1.0,dry,major,"jasmine, basmati, long grain, arborio; cooked basis","white rice, long grain",exact,Rice,exact,"white rice, long grain",exact,43,rice_white,lb
+salsa,Salsa / pico,prepared,lb,1.0,cooler,minor,,guacamole,proxy,Canned tomatoes,proxy,,,15,salsa,lb
+salt,Salt,condiment,lb,1.0,dry,trace,,,,,,,,521,salt,lb
+sauce_prepared,Prepared sauce,prepared,lb,1.0,cooler,minor,"alfredo, pesto, BBQ, curry paste, teriyaki",,,,,,,87,sauce_prepared,lb
+sausage_bacon,Sausage / bacon,protein,lb,1.0,freezer,major,"pork sausage, bacon bits",,,Pork,exact,,,27,sausage_bacon,lb
+shrimp,Shrimp,protein,lb,1.0,freezer,major,,,,Fresh and frozen shellfish,exact,,,11,shrimp,lb
+soft_serve_mix,Soft serve mix,dairy,gal,9.0,cooler,major,dairy and vegan,,,Frozen dairy products,exact,,,2,soft_serve_mix,gal
+soup_base,Soup base / stock concentrate,prepared,lb,1.0,dry,trace,reconstitute with water,,,,,,,69,soup_base,lb
+soup_prepared,"Prepared soup, frozen/bulk",prepared,lb,1.0,freezer,major,purchased ready-to-heat soups and chowders,soups and stews,proxy,,,,,17,soup_prepared,lb
+sour_cream,Sour cream,dairy,lb,1.0,cooler,minor,,,,Sour cream,exact,,,7,sour_cream,lb
+soy_sauce,Soy / fish / seasoning sauce,condiment,gal,9.6,dry,minor,,,,,,,,74,soy_sauce,gal
+spices,Dried spices and herbs,condiment,lb,1.0,dry,trace,all ground/whole spices + blends,,,,,,,488,spices,lb
+spinach,Spinach,produce,lb,1.0,cooler,major,baby + chopped,"spinach, fresh",exact,Fresh spinach,exact,"spinach, fresh",exact,18,spinach,lb
+squash_summer,Zucchini / yellow squash,produce,lb,1.0,cooler,major,,zucchini,exact,Fresh squash,exact,zucchini,exact,28,squash_summer,lb
+squash_winter,Winter squash,produce,lb,1.0,dry,major,"butternut, kabocha, pumpkin",,,Fresh pumpkin,exact,,,11,squash_winter,lb
+sugar,Sugar,condiment,lb,1.0,dry,minor,"white, brown, powdered",,,,,,,120,sugar,lb
+syrup_honey,Honey / syrups,condiment,lb,1.0,dry,minor,"maple, molasses, agave",,,,,,,22,syrup_honey,lb
+tofu,Tofu,protein,lb,1.0,cooler,major,,"tofu, firm",exact,,,"tofu, firm",exact,41,tofu,lb
+tomato,"Tomato, fresh",produce,lb,1.0,cooler,major,"roma, cherry, grape, sliced","tomatoes, fresh",exact,Fresh tomatoes,exact,"tomatoes, fresh",exact,70,tomato,lb
+tomato_canned,"Tomato, canned/sauce",prepared,lb,1.0,dry,major,"crushed, diced, paste, marinara",,,Canned tomatoes,exact,,,80,tomato_canned,lb
+tortilla,Tortilla,bakery,lb,1.0,dry,major,corn and flour,flour tortillas,exact,Wheat flour,proxy,flour tortillas,exact,20,tortilla,lb
+tuna_canned,"Tuna, canned/pouch",protein,lb,1.0,dry,major,,,,Canned Tuna,exact,,,1,tuna_canned,lb
+turkey,Turkey,protein,lb,1.0,cooler,major,"deli, ground, sausage",,,Turkey,exact,,,9,turkey,lb
+veg_other,Other fresh vegetables,produce,lb,1.0,cooler,major,"asparagus, brussels, fennel, sprouts",,,Fresh vegetables,exact,,,37,veg_other,lb
+vinegar,Vinegar,condiment,gal,8.4,dry,minor,,,,,,,,63,vinegar,gal
+wine_cooking,Cooking wine,condiment,gal,8.3,dry,minor,,,,,,,,19,wine_cooking,gal
+yogurt,Yogurt,dairy,lb,1.0,cooler,major,Greek and regular,"yogurt, plain low-fat",exact,Yogurt,exact,"yogurt, plain low-fat",exact,11,yogurt,lb

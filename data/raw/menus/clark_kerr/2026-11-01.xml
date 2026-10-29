@@ -1,0 +1,2912 @@
+<EatecExchange>
+	<menu id="349" name="CKC Fall 26 Brunch 08/25/2026 -12/19/2026taml" servedate="20261101" location="Clark Kerr Campus" mealperiodname="Fall - Brunch" menubulletin="" mealendtime="15:00" mealstarttime="11:00">
+		<nutrients>Calories (kcal)|Total Lipid/Fat (g)|Saturated fatty acid (g)|Trans Fat (g)|Cholesterol (mg)|Sodium (mg)|Carbohydrate (g)|Total Dietary Fiber (g)|Sugar (g)|Protein (g)|Vitamin A (iu)|Vitamin C (mg)|Calcium (mg)|Iron (mg)|Water (g)|Ash (g)|Vitamin A (rae)|Potassium (mg)|Vitamin D(iu)|Carbon Footprint (kg CO2)|</nutrients>
+		<recipes>
+			<recipe id="1115" category="Center Plate" description="Chicken Thigh Vindaloo HALAL" shortName="Halal Vindaloo Chicken Thigh" servingSize="4.56" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="170.71|6.27|1.37|0.03|116.66|268.02|2.33|0.45|0|24.85|8.69|0|14.88|1.31|77.59|0|0|372.85|0|0.59|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Chicken Thigh Boneless HALAL;Sauce Vindaloo (Water, Onions, Tomato Paste, Canola Oil, Garlic, Ginger, Spices, Jalapeño Peppers, Salt, Sugar, White Vinegar, Tamarind Concentrate, Turmeric);Herb Cilantro; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2813" category="Center Plate" description="Lentil Vindaloo GENERAL" shortName="Lentil Vindaloo" servingSize="5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="127.66|2.62|0.11|0|0|254.72|20.81|2.79|0.74|7.26|0|0|18.21|2.11|71.44|0|0|281.79|0|0.07|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water, Beans Lentil Black (Black Beluga Lentils);Sauce Vindaloo (Water, Onions, Tomato Paste, Canola Oil, Garlic, Ginger, Spices, Jalapeño Peppers, Salt, Sugar, White Vinegar, Tamarind Concentrate, Turmeric);Water, Base Vegetable Concentrate (Vegetable Juice Concentrates (tomato, Mushroom, Onion, Carrot, Celery), Sugar, Maltodextrin, Salt, Yeast Extract, Xanthan Gum, And Natural Flavor.);Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Vinegar White Distilled (White Distilled Vinegar, Diluted With Water To 5% Acidity);Herb Cilantro;Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1063" category="Center Plate" description="Rice White Basmati" shortName="Basmati Rice" servingSize="2.96" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="90.78|0|0|0|0|0|21.17|0|0|1.81|0|0|0|0.65|56.7|0|0|0|0|0.07|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water;Rice Basmati (White Basmati Rice); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="401" category="Center Plate" description="Beans Garbanzo Squash Vindaloo" shortName="Garbanzo Bean and Squash Vindaloo" servingSize="4.28" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="74.03|2.2|0.1|0|0|145.38|10.54|2.41|1.87|2.89|1.36|2.37|24.76|0.85|12.97|0|0|244.56|0|0.06|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tomato Diced Canned HALAL (Vine0Ripened Tomatoes, Tomato Juice, Less than 2% of: Calcium Chloride, Citric Acid.);Sauce Vindaloo (Water, Onions, Tomato Paste, Canola Oil, Garlic, Ginger, Spices, Jalapeño Peppers, Salt, Sugar, White Vinegar, Tamarind Concentrate, Turmeric);Beans Garbanzo Canned (Prepared Garbanzo Beans, Water, Salt, Disodium Edta (color Retention).);Squash Zucchini;Onion Yellow Diced 3/8 in;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Herb Cilantro;Garlic Peeled; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="525" category="Center Plate" description="Bread Naan VEGAN KOSHER" shortName="Naan Bread" servingSize="1.32" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="108.01|1.8|0|0|0|129.53|18.71|0|2.16|3.6|0|0|7.2|0.72|0|0|0|14.39|0|0.06|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">Yes</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Bread Naan KOSHER (Wheat Flour, Water, Sugar, Canola Oil, Sea Salt, Cultured Wheat, Baking Soda, Yeast, Organic Enzymes.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="556" category="Breakfast Entree" description="Scramble Eggs" shortName="Scrambled Eggs" servingSize="3.93" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="184.98|12.88|3.75|0|405.61|167.04|2.32|0|0|13.92|0|0|69.53|1.85|0|0|0|150.65|0|0.4|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Egg Liquid (Cage Free Whole Eggs, Citric Acid (citric Acid Added To Preserve Color));Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="986" category="Breakfast Entree" description="Scramble Eggs Mushroom Kale" shortName="Mushroom and Kale Eggs Scramble" servingSize="4.8" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="171.92|11.55|3.18|0|330.26|277.3|4.11|0.78|0.91|12.86|64.26|15.5|77.25|1.85|10.94|0|0|285.64|0|0.04|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Egg Liquid (Cage Free Whole Eggs, Citric Acid (citric Acid Added To Preserve Color)) <strong>(Egg)</strong>, Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.), Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Mushroom Crimini, Kale Regular, Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.), Garlic Peeled, Spice Salt Kosher (Salt, yellow prussiate of soda (yps)), Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="966" category="Breakfast Entree" description="Potato Tater Tots" shortName="Fried Tater Tots" servingSize="4.07" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="234.69|14.15|2.17|0|0|310.45|25.65|1.35|1.32|2.7|0|0|0|0.68|0|0|0|350.95|0|0.06|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Potato Tater Tots (Potatoes, Vegetable Oil (soybean, Canola, And/or Cottonseed Oils), Contains Less Than 2% Of Dextrose, Sea Salt, Disodium Dihydrogen Pyrophosphate (to Maintain Natural Color));Oil Fryer (Canola Oil with TBHQ and Citric Acid added to help protect flavor. Dimethypolysiloxane, an antifoaming agent, added); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="505" category="Breakfast Entree" description="Sausage Pork Link" shortName="Pork Sausage Link" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="253.29|24.3|9.11|0|30.37|577.12|0|0|0|7.09|0|0|10.13|0.4|0|0|0|151.87|0|0.56|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">Yes</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Sausage Breakfast Pork Link (Pork, Water, Contains 2% or less: Salt, Sugar, Spices, Chili Pepper, Flavoring. Packed in Beef Collagen Casing); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1034" category="Breakfast Entree" description="Rice Brown" shortName="Brown Rice" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="149.67|1.3|0.24|0|0|2.04|31.13|1.47|0.27|3.07|0|0|3.67|0.52|77.39|0|0|102.06|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water;Rice Brown Long Grain; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="489" category="Breakfast Entree" description="Just Egg Vegan Patty" shortName="Mung Bean Patty" servingSize="3.4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="169.21|11.84|0.85|0|0|439.67|1.69|0|0|11.84|0|0|16.91|0|0|0|0|0|0|0.24|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Patty JUST Egg VEGAN (Water, Mung Bean Protein, Expeller pressed Canola Oil, Corn Starch, Contains Less Than 2% Of Bakingpowder (sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Dehydrated Garlic, Dehydrated Onion, Carrot Extractives And Turmeric Extractives (color), Salt, Transglutaminase); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="459" category="Breakfast Entree" description="Broccoli Garlic Roasted" shortName="Garlic Roasted Broccoli" servingSize="4.06" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="54.79|2.83|0.33|0|0|422.1|5.89|2.52|1.68|3.29|0|102.5|53.57|0.97|101.26|0|0|358.63|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Broccoli Floret;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Juice Lemon;Garlic Peeled;Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2187" category="Allergen Friendly" description="Chicken Thigh Rotisserie Baked AF" shortName="Rotisserie Chicken" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="227.17|13.43|2.49|0.02|118.32|503.07|0|0|0|24.91|13.01|0|13.01|1.01|79.48|0|0|309.45|0|0.11|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Chicken Thigh Bone In HALAL;Oil Olive Extra Virgin (Extra Virgin Olive Oil);Seasoning Rotisserie Chicken (Salt, Onion, Spices, Paprika, Garlic And Citric Acid);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="799" category="Allergen Friendly" description="Beef Ground AF HALAL" shortName="Halal Ground Beef" servingSize="4.08" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="318.13|25.67|9.06|1.36|82.12|279.11|0.27|0.14|0.03|19.99|4.63|0|26.51|2.5|67.43|0|0|335.14|0.12|0.49|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beef Ground HALAL;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Herb Parsley Italian;Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="408" category="Allergen Friendly" description="Beans Pinto AF" shortName="Pinto Beans" servingSize="4.07" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="106.43|0.36|0|0|0|222.45|19.5|4.43|0.89|6.2|0|0|37.22|1.78|0|0|0|434.28|0|0.2|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beans Pinto Canned (Pinto Beans, Water, Salt, Calcium Chloride Added to Help Maintain Firmness, Calcium Disodium EDTA);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="667" category="Allergen Friendly" description="Eggplant Grilled AF" shortName="Grilled Eggplant" servingSize="4.02" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="66|4.49|0.65|0|0|198.9|6.42|3.27|3.84|1.07|0|0|10.13|0.26|0|0|0|250.7|0|0.09|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Eggplant (eggplant);Oil Olive Extra Virgin (Extra Virgin Olive Oil);Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Pepper Black Ground (Black pepper);Herb Parsley Italian; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1025" category="Allergen Friendly" description="Quinoa AF" shortName="Quinoa" servingSize="5.58" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="200.71|5.74|0.46|0|0|98.6|29.27|3.04|0.4|6.06|0|0|20.91|2.15|108.88|0|0|255.08|0|0.09|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water;Quinoa Raw (Quinoa);Oil Olive Extra Virgin (Extra Virgin Olive Oil);Herb Parsley Italian;Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="522" category="Soup/Hot Grains" description="Soup Tomato Bisque HALAL" shortName="Tomato Bisque Soup" servingSize="8" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="175.99|10.18|6.49|0|41.66|453.59|18.51|2.77|9.25|2.77|0|0|68.49|1|0|0|0|249.93|0|0.16|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Soup Tomato Bisque HALAL (Organic Diced Tomatoes (Fresh Vine0Ripened Organic California Tomatoes, Calcium Chloride, Citric Acid), Water, Organic Cream, Organic Onion, Organic Tomato Paste (Vine0Ripened Fresh Organic Tomatoes, Citric Acid), Organic Rice Flour, Organic Milk, Organic Brown Sugar, Organic Garlic, Sea Salt, Organic Cultured Dextrose (Organic Cultured Dextrose, Organic Maltodextrin), Organic Black Pepper.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="737" category="Soup/Hot Grains" description="Oatmeal" shortName="Oatmeal" servingSize="5.96" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="93.37|1.47|0.25|0|0|196.4|16.2|2.45|0|2.94|0|0|6.88|0.98|145.05|0|0|88.4|0|0.05|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water;Oats Rolled GF (Organic Whole Grain Oats);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1516" category="Yogurt/Dairy " description="Yogurt Greek Plain Non Fat HALAL" shortName="Non Fat Plain Greek Yogurt" servingSize="6" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="100|0.66|0.2|0.02|8.5|61.23|6.12|0|5.51|17.33|1.7|0|187.11|0.12|144.75|0|0|239.84|0|0.49|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Yogurt Greek Plain Nonfat Bulk HALAL; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1517" category="Yogurt/Dairy " description="Yogurt Vanilla Low Fat" shortName="Low Fat Vanilla Greek Yogurt" servingSize="6" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="90.1|2.5|1.5|0|10|110.07|11.01|0|11.01|7.01|0|0|250.14|0|0|0|0|0|0|0.49|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Yogurt Vanilla Low Fat (Cultured Certified Organic Low Fat Pasteurized Milk, Pectin, Cultures. (contains active, acidophilus, bifidus, thermophilus and bulgaricus cultures (cup set))); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1628" category="Yogurt Toppings" description="Granola Gluten Free Vegan" shortName="Gluten Free Granola" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="118.5|0.52|0|0|0|25.77|18.55|1.55|0|2.06|0|0|15.46|1.03|0|0|0|67.01|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Granola Bulk Gluten Free Vegan KOSHER (Organic Gluten Free Oats, Cane Sugar, Sunflower Oil, Rice Crisps, White Rice Flour, Tapioca Syrup, Brown Rice Syrup, Flax Seeds, Salt, Ground Cinnamon.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1667" category="Salad Bar" description="Lettuce Romaine Chopped" shortName="Romaine Lettuce" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="9.76|0.17|0.02|0|0|4.54|1.87|1.19|0.67|0.7|247.21|2.27|18.71|0.55|53.64|0|0|140.05|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Lettuce Romaine Chopped; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1679" category="Salad Bar" description="Spinach Baby" shortName="Baby Spinach" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="6.57|0.11|0.02|0|0|22.4|1.03|0.62|0.12|0.81|132.96|7.97|28.07|0.77|25.91|0|0|158.19|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Spinach Baby; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1802" category="Salad Bar" description="Spring Mix" shortName="Base - Mixed Greens" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="13.14|0.22|0.03|0|0|44.79|2.06|1.25|0.24|1.62|265.92|15.93|56.13|1.54|51.82|0|0|316.38|0|0.03|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Lettuce Spring Mix; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="128" category="Salad Bar" description="Beets Steamed AF" shortName="Steamed Beets" servingSize="3" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="36.59|0.14|0.03|0|0|66.34|8.13|2.38|5.75|1.37|1.7|4.17|13.61|0.68|74.49|0|0|276.41|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beet Red; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2263" category="Salad Bar" description="Carrot Matchstick Salad Bar" shortName="Matchstick Carrots" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="19.65|0.07|0.01|0|0|44.23|4.67|1.64|2.7|0.36|391.22|1.47|18.14|0.5|51.23|0|0|134.38|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Carrot Matchstick; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1749" category="Salad Bar" description="Cucumber Sliced Salad Bar" shortName="Sliced Cucumber" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="8.81|0.06|0.02|0|0|1.13|2.06|0.28|0.95|0.37|2.83|1.59|9.07|0.16|53.99|0|0|83.35|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Cucumber Whole; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2269" category="Salad Bar" description="Tomato Grape Salad Bar" shortName="Grape Tomato" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="10.03|0.11|0.02|0|0|2.83|2.21|0.68|1.49|0.5|23.81|7.77|5.67|0.15|53.59|0|0|134.38|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tomato Grape; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2406" category="Salad Bar" description="Crouton Garlic Cheese" shortName="Garlic Cheese Crouton" servingSize="0.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="60.79|2.03|0|0|0|172.12|10.13|0|0|2.03|0|0|8.1|0|0|0|0|20.25|0|0.07|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Crouton Cheese Garlic (Enriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Canola And/or Sunflower Oil (with Rosemary Extract And Ascorbic Acid [to Preserve Freshness]), Whey, Salt, Yeast, Sugar, 2% Or Less Of Dehydrated Parsley, Garlic Powder, Natural And Artificial Flavor, Parmesan Cheese And Enzyme Modified Cheese (pasteurized Milk, Cheese Cultures, Salt, Enzymes), Cultured Nonfat Milk, Annatto (color), Extractives Of Turmeric And Paprika (color), Enzymes.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2407" category="Salad Bar" description="Cranberries Dried" shortName="Dried Cranberry" servingSize="1.25" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="139.69|0|0|0|0|0|35.44|3.22|24.81|0|0|0|0|0|0|0|0|0|0|0.06|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Cranberry Dried (Cranberries, Sugar, Sunflower Oil); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2408" category="Salad Bar" description="Raisins" shortName="Raisins" servingSize="1.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="138.29|0|0|0|0|10.63|32.96|2.13|25.51|1.06|0|0|21.26|1.06|0|0|0|329.56|0|0.02|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Raisin (Raisins); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1570" category="Salad Bar" description="Sunflower Seeds" shortName="Sunflower Seeds" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="162.11|14.58|1.22|0|0|0|5.67|2.43|0.94|5.67|0|0|21.87|1.62|0|0|0|186.3|0|0.12|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Sunflower Seeds (Sunflower seeds); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1549" category="Salad Bar" description="Pumpkin Seeds" shortName="Pumpkin Seeds" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="158.48|13.91|2.46|0.02|0|1.98|3.04|1.7|0.4|8.57|0.28|0.54|13.04|2.5|1.48|0|0|229.35|0|0.12|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Pumpkin Seeds; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2409" category="Salad Bar" description="Oil Olive Salad Bar" shortName="Olive Oil" servingSize="0.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="127.66|14.17|2.03|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0.09|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Oil Olive Extra Virgin (Extra Virgin Olive Oil); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2411" category="Salad Bar" description="Dressing Balsamic Vinegar RTU Salad Bar" shortName="Balsamic Vinegar" servingSize="0.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="12.5|0|0|0|0|3.26|2.41|0|2.12|0.07|0|0|3.83|0.1|10.84|0|0|15.88|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Vinegar Balsamic; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2412" category="Salad Bar" description="Vinegar Apple Cider Salad Bar" shortName="Apple Cider Vinegar" servingSize="0.53" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="3.16|0|0|0|0|0.75|0.14|0|0.06|0|0|0|1.05|0.03|0|0|0|0|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Vinegar Apple Cider KOSHER HALAL (Made from the juice of apples, diluted with water to a uniform pickling and table strength of 4% (40 grain) acidity); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2414" category="Salad Bar" description="Dressing 1000 Island RTU" shortName="1000 Island Dressing" servingSize="1.16" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="142.59|14.25|2.19|0|16.44|263.08|4.38|0|3.29|0|0|0|0|0|0|0|0|0|0|0.11|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing 1000 Island hALAL KOSHER (Soybean Oil, Chili Sauce (Tomato Puree [water, Tomato Paste], Sugar, Distilled Vinegar, Salt, Natural Flavor, Spice, Onion Powder, Garlic Powder), High Fructose Corn Syrup, Water, Distilled Vinegar, Sweet Relish (Cucumbers, High Fructose Corn Syrup, Distilled Vinegar, Sugar, Salt, Mustard Seeds, Diced Red Peppers, Water, Xanthan Gum, Natural Flavor), Egg Yolk, Contains Less Than 2% Of Salt, Mustard Flour, Xanthan Gum, Polysorbate 60, Onion,* Sodium Benzoate (Preservative), Garlic,* Oleoresin Paprika (Color), Calcium Disodium Edta (To Protect Flavor), Red Bell Pepper.* *Dried Contains Egg); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2410" category="Salad Bar" description="Dressing Balsamic Vinaigrette RTU" shortName="Balsamic Vinaigrette" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="54.91|4.57|0.46|0|0|182.9|4.57|0|3.66|0|0|0|0|0|0|0|0|0|0|0.05|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Balsamic Vinaigrette HALAL (Water, High Fructose Corn Syrup, Balsamic Vinegar, Red Wine Vinegar, Vegetable Oil (soybean And/or Canola), Olive Oil, Contains Less Than 2% Of Salt, Garlic,* Xanthan Gum, Spice, Sodium Alginate, Propylene Glycol Alginate, Calcium Disodium Edta (to Protect Flavor). *dried); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="3047" category="Salad Bar" description="Dressing Blood Orange Vinaigrette RTU" shortName="Blood Orange Vinaigrette" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="79.78|6.2|0.89|0|0|168.33|5.32|0|4.43|0|0|0|0|0|0|0|0|39.87|0|0.03|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Blood Orange Vinaigrette (Water, Soybean Oil, Sugar, Blood Orange Juice Concentrate, White Wine Vinegar, Orange Juice Concentrate, Contains Less Than 2% Of Salt, Shallots, Distilled Vinegar, Shallots*, Gum Arabic (acacia Gum), Spice, Natural Flavors, Xanthan Gum, Citric Acid, Oleoresin Paprika (color). *dehydrated); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1661" category="Salad Bar" description="Dressing Blue Cheese" shortName="Blue Cheese Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="131.71|14.17|3.04|0|10.12|243|1.01|0|1.01|1.01|0|0|0|0|0|0|0|0|0|0.17|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">Yes</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Blue Cheese (Soybean Oil, Water, Blue Cheese (pasteurized Milk, Cheese Cultures, Salt, Enzymes), Distilled Vinegar, Egg Yolks, Sugar, Contains Less Than 2% Of Salt, Natural Flavors (includes Milk, Sesame Seed), Xanthan Gum, Potassium Sorbate (a Preservative), Lactic Acid, Disodium Inosinate &amp; Disodium Guanylate. Contains: Egg, Milk, Sesame); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2413" category="Salad Bar" description="Dressing Caesar RTU" shortName="Caesar Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="127.17|13.69|2.44|0|9.77|351.93|1.96|0|0.98|0.98|0|0|0|0|0|0|0|0|0|0.1|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">Yes</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Caesar (Soybean Oil, Water, Parmesan Cheese (pasteurized Milk, Cheese Cultures, Salt, Enzymes), Corn Vinegar, Whole Egg And Egg Yolks, Corn Syrup, Sugar, Salt, Contains Less Than 2% Of Anchovy Paste (anchovy, Salt, Defatted Soy Flour, Water), Distilled Vinegar, Spices (includes Mustard), Garlic*, Citric Acid, Lemon Juice Concentrate, Natural Flavor, Xanthan Gum, Onion*, Sodium Benzoate (a Preservative), Calcium Disodium Edta Added To Protect Flavor, Caramel Color, Oleoresin Turmeric (color). *dehydrated); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2417" category="Salad Bar" description="Dressing Italian RTU" shortName="Italian Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="35.46|1.77|0|0|0|380.95|5.32|0|1.77|0|0|0|0|0|0|0|0|0|0|0.1|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Italian HALAL KOSHER (Water, Distilled Vinegar, Maltodextrin, Vegetable Oil (soybean And/or Canola), Sugar, Corn Sugar Vinegar, Salt, High Fructose Corn Syrup, Contains Less Than 2% Of Cider Vinegar, Modified Corn Starch, Xanthan Gum, Red Bell Pepper,* Garlic,* Onion,* Mustard Flour, Sodium Benzoate (preservative), Spice, Calcium Disodium Edta (to Protect Flavor), Natural Flavor, Yellow 5, Yellow 6. *dried); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2416" category="Salad Bar" description="Dressing Poppy Seed RTU" shortName="Poppy Seed Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="128.11|10.06|1.83|0|4.57|310.93|9.15|0|8.23|0|0|0|0|0|0|0|0|0|0|0.08|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Poppy Seed HALAL KOSHER (Soybean Oil, High Fructose Corn Syrup, Water, Cider Vinegar, Distilled Vinegar, Egg Yolks, Contains Less Than 2% Of Poppy Seed, Mustard Seed, Xanthan Gum, Salt, Onion*, Sodium Benzoate And Potassium Sorbate (as Preservatives), Calcium Disodium Edta Added To Protect Flavor, Polysorbate 60, Celery Seed. *dehydrated); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1662" category="Salad Bar" description="Dressing Ranch RTU" shortName="Ranch Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="97.81|9.77|1.47|0|0|234.62|0|0|0|0.98|0|0|11.73|0.05|0|0|0|14.66|0|0.18|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Ranch HALAL KOSHER (Soybean Oil, Water, Cultured Lowfat Buttermilk, Ranch Seasoning &amp; Spices (salt, Food Starch-modified, Monosodium Glutamate, Sugar, Dried Garlic, Dried Onion, Natural And Artificial Flavor [includes Milk, Soybean], Whey Protein Concentrate, Corn Syrup, Spices, Xanthan Gum, Sorbic Acid And Calcium Disodium Edta As Preservatives, Citric Acid, Calcium Stearate), Egg Yolks, Contains Less Than 2% Of Distilled Vinegar, Salt, Xanthan Gum, Phosphoric Acid, Natural Flavor (includes Milk).); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2415" category="Salad Bar" description="Dressing Sesame Asian RTU" shortName="Asian Sesame Dressing" servingSize="1.08" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="87.53|4.38|0.44|0|0|332.42|12.25|0|10.5|0|0|0|0|0|0|0|0|0|0|0.1|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">Yes</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Sesame Asian Halal Kosher (Sugar, Water, Vegetable Oil (Soybean and/or Canola),Soy Sauce (Water, Wheat, Soybeans, Salt), Peach Juice Concentrate, Modified Food Starch, Contains less than 2% of: Salt, Vinegar, Natural Flavor, Sesame Seed, Sesame Oil, Lemon Juice Concentrate, Garlic, Caramel Color, Spices, Guar Gum, Paprika, Calcium Disodium EDTA to protect flavor.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="109" category="Salad Bar" description="Beans Garbanzo" shortName="Garbanzo Beans" servingSize="4.44" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="125.87|1.94|0|0|0|106.51|20.33|3.88|0|6.77|0|0|19.36|1.36|0|0|0|232.38|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beans Garbanzo Canned (Prepared Garbanzo Beans, Water, Salt, Disodium Edta (color Retention).); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1242" category="Salad Bar" description="Topping Tofu Paprika Rosemary" shortName="Paprika Rosemary Tofu" servingSize="3" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="137.85|6.97|0.6|0|0|79.07|6.24|1.91|0.46|12.61|0.09|0.97|180.45|0.05|4.35|0|0|138.87|0|0.14|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tofu Firm (water, organic soybeans, calcium sulfate);Shallot Peeled;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Juice Lemon;Spread Butter Substitute Smart Balance (Oil Blend (palm, Soybean, Palm Fruit, Canola Seed And Olive), Filtered Water, Pure Salt, Natural Flavor (Derived From Corn, No MSG, No Alcohol, No Gluten), Soy Lecithin, Lactic Acid (Non Dairy, Derived From Sugar Beets), Vitamin A palmitate, and Beta Carotene Color (From Natural Source).);Spice Paprika (Paprika And Silicon Dioxide (added To Make Free Flowing).);Sugar White Granulated (Sugar);Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Garlic Peeled;Herb Rosemary;Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="3150" category="Deli Bar" description="Salad Tuna Simple HALAL" shortName="Tuna Salad" servingSize="1.9" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="110.57|8.16|1.39|0|14.95|241.36|0.85|0.12|0.45|9.07|0.53|0.25|1.5|0.32|4.36|0|0|112.06|0|0.22|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">Yes</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tuna Albacore (Albacore tuna (thunnus alalunga) and sea salt);Condiment Mayonnaise HALAL (Soybean Oil, Water, Whole Eggs and Egg Yolks, Distilled Vinegar, Salt, Sugar, Lemon Juice Concentrate, Calcium Disodium EDTA (Used To Protect Quality), Natural Flavor);Condiment Relish (Cucumbers, High Fructose Corn Syrup, Distilled White Vinegar, Salt, Calcium Chloride, Modified Tapioca Starch, Potassium Sorbate And Sodium Benzoate (as Preservatives), Xanthan Gum, Modified Food Starch, Guar Gum, Aluminum Sulfate, Red Bell Peppers, Fd&c Yellow No. 5 And Fd&c Blue No. 1, Polysorbate 80, Natural And Artificial Flavors, Extractives Of Turmeric);Celery Diced 1/4 in;Onion Red Diced 1 in;Condiment Mustard Yellow (Distilled Vinegar, Water, 1 Grade Mustard Seed, Salt, Turmeric, Paprika, Spice, Natural Flavors and Garlic Powder.);Spice Pepper Black Ground (Black pepper);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="3151" category="Deli Bar" description="Salad Egg HALAL" shortName="Egg Salad" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="267.6|23.82|4.85|0|342.36|396.92|0.41|0.19|0|12.25|0|0|44|1|0|0|0|109.97|0|0.42|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Egg Hard Boiled Peeled (Cage free whole eggs);Condiment Mayonnaise HALAL (Soybean Oil, Water, Whole Eggs and Egg Yolks, Distilled Vinegar, Salt, Sugar, Lemon Juice Concentrate, Calcium Disodium EDTA (Used To Protect Quality), Natural Flavor);Condiment Mustard Yellow (Distilled Vinegar, Water, 1 Grade Mustard Seed, Salt, Turmeric, Paprika, Spice, Natural Flavors and Garlic Powder.);Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Paprika (Paprika And Silicon Dioxide (added To Make Free Flowing).);Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1637" category="Deli Bar" description="Sunbutter Single Serving Cup" shortName="Sunflower Butter" servingSize="1.1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="192.36|17.21|1.46|0.01|0|103.22|7.27|1.78|3.29|5.39|0|0.84|19.96|1.28|0.19|0|0|179.62|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Sunbutter Cup; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1574" category="Fresh Fruit" description="Fruit Banana" shortName="Banana" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="100.55|0.37|0.12|0|0|1.13|25.9|2.95|13.87|1.24|3.4|9.87|5.67|0.29|84.95|0|0|405.97|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Banana; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1573" category="Fresh Fruit" description="Fruit Orange" shortName="Orange" servingSize="5.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="77.13|0.23|0.03|0|0|1.56|19.55|3.43|13.25|1.42|18.71|92.15|67.05|0.2|134.05|0|0|258.83|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Orange; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2593" category="Dessert" description="Cake Sheet Black Forest HALAL" shortName="Black Forest Cake" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="163.29|9.21|4.25|0|38.98|127.57|18.43|0|0|1.42|0|0|28.35|0.99|0|0|0|92.14|0|0|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Cake Sheet Black Forest HALAL (WHIPPING CREAM (cream, milk, carrageenan, cellulose gel, cellulose gum),CHERRY FILLING (cherries, sugar, water, food starch-modified, cultureddextrose, concentrated fruit and vegetable juices [color], citric acid, salt,erythorbic acid [preservative], carob bean gum, xanthan gum, carrageenan,natural flavor), SUGAR, WATER, EGGS, ENRICHED BLEACHED WHEAT FLOUR(wheat flour, niacin, reduced iron, thiamine mononitrate, riboflavin, folicacid), CANOLA OIL, HIGH FAT COCOA (processed with alkali),CONFECTIONER'S SUGAR (sugar, corn starch), FOOD STARCH-MODIFIED,MOLASSES, SEMI-SWEET CHOCOLATE (sugar, unsweetened chocolate, cocoabutter, soy lecithin, natural flavors), BAKING SODA, BAKING POWDER (sodiumacid pyrophosphate, baking soda, corn starch, monocalcium phosphate,calcium sulfate), CHOCOLATEY COATING (sugar, fractionated palm kernel oil,cocoa, whey powder, nonfat dry milk, soy lecithin, vanilla extract), SALT,NATURAL FLAVOR, TETRASODIUM PYROPHOSPHATE, SODIUM ALGINATE.MAY CONTAIN PITS.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1506" category="Dessert" description="Pie Apple Full Crust HALAL" shortName="Apple Pie" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="141.84|6.25|2.92|0|0|166.76|19.6|0.42|9.62|0.83|0|0|0|0.42|0|0|0|14.59|0|0.05|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Pie Apple Full Crust HALAL (Apples, Enriched Flour (wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Vegetable Oil (palm, Soybean), Corn Syrup, Contains 2% Or Less: Modified Corn Starch, White Grape Juice Concentrate, Salt, Cinnamon, Lemon Juice Solids, Natural Flavors, Gums (locust Bean, Xanthan)); ]]>
+				</ingredients>
+			</recipe>
+		</recipes>
+	</menu>
+	<menu id="348" name="CKC Fall 26 Dinner 08/25/2026 - 12/19/2026" servedate="20261101" location="Clark Kerr Campus" mealperiodname="Fall - Dinner" menubulletin="" mealendtime="21:00" mealstarttime="16:30">
+		<nutrients>Calories (kcal)|Total Lipid/Fat (g)|Saturated fatty acid (g)|Trans Fat (g)|Cholesterol (mg)|Sodium (mg)|Carbohydrate (g)|Total Dietary Fiber (g)|Sugar (g)|Protein (g)|Vitamin A (iu)|Vitamin C (mg)|Calcium (mg)|Iron (mg)|Water (g)|Ash (g)|Vitamin A (rae)|Potassium (mg)|Vitamin D(iu)|Carbon Footprint (kg CO2)|</nutrients>
+		<recipes>
+			<recipe id="731" category="Center Plate" description="Beef Chicken Fried Steak and Gravy" shortName="Chicken Fried Steak with Gravy" servingSize="5.15" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="261|7.1|2.61|0|4|181.81|32.63|0.82|1.47|15.86|0|0|71.25|2.53|0|0|0|300.94|0.26|0.26|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beef Chicken Fried (Beef, Salt, Crushed Crackers: Enriched Flour (wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Soybean Oil, Salt, Sodium Bicarbonate, Malted barley Flour, Calcium Carbonate, Yeast. Breaded With: Enriched Wheat Flour (niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Wheat Flour, Corn Starch, yellow Corn Flour, Salt, Leavening (sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Spices. Battered With: Water, Enriched Wheat flour (niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Salt, Wheat Starch, Wheat Flour, Leavening (sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn starch, Monocalcium Phosphate), Buttermilk Blend (buttermilk, Whey));Milk Whole (Milk, Vitamin D3) <strong>(Milk)</strong>, Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.), Flour All Purpose Bleached KOSHER (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.) <strong>(Gluten, Wheat)</strong>, Spice Garlic Powder (Garlic), Spice Salt Kosher (Salt, yellow prussiate of soda (yps)), Spice Onion Powder (Onion), Spice Pepper Black Ground (Black pepper), Spice Thyme Whole (Thyme), Spice Pepper Cayenne Ground (Cayenne pepper);Herb Parsley Italian; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="922" category="Center Plate" description="Patty Chickenless Gravy Smothered VEGAN" shortName="Vegan &quot;Chicken&quot; Patty Smothered in Gravy" servingSize="4.25" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="261.91|11.16|1.35|0|0|724.99|28.24|1.46|2.18|11.88|0.46|0.35|51.95|2.45|31.87|0|0|300.08|0.11|0.12|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Meat Alternative Chickenless (WATER, ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), EXPELLER PRESSED CANOLA OIL, SOY PROTEIN CONCENTRATE, WHEAT FLOUR, TEXTURED WHEAT PROTEIN, MODIFIED CORN STARCH. 2% OR LESS OF: ISOLATED SOY PROTEIN, SALT, YEAST EXTRACT, METHYLCELLULOSE, GARLIC*, LEAVENING (SODIUM ACID PYROPHOSPHATE, BAKING SODA), SUNFLOWER OIL, ONION*, SPICES AND SPICE EXTRACTS, YELLOW CORN FLOUR, DEXTROSE, RICE STARCH, CANE SUGAR, VINEGAR, NATURAL FLAVOR, TORULA YEAST, CITRIC ACID, TURMERIC EXTRACT (COLOR), YEAST, PAPRIKA EXTRACT (COLOR). *DRIED);Water, Onion Yellow Diced 3/8 in, Base Vegetable Concentrate (Vegetable Juice Concentrates (tomato, Mushroom, Onion, Carrot, Celery), Sugar, Maltodextrin, Salt, Yeast Extract, Xanthan Gum, And Natural Flavor.), Flour All Purpose Unbleached (Wheat Flour, Malted Barley Flour, Niacin (A,B Vitamin) Iron, Thiamin Monotrate (Vitamin B1) Riboflavin (Vitamin B2) Folic Acid (A, B Vitamin).) <strong>(Gluten, Wheat)</strong>, Spread Butter Substitute Smart Balance (Oil Blend (palm, Soybean, Palm Fruit, Canola Seed And Olive), Filtered Water, Pure Salt, Natural Flavor (Derived From Corn, No MSG, No Alcohol, No Gluten), Soy Lecithin, Lactic Acid (Non Dairy, Derived From Sugar Beets), Vitamin A palmitate, and Beta Carotene Color (From Natural Source).) <strong>(Soy)</strong>, Mushroom White, Herb Thyme, Garlic Peeled, Spice Salt Kosher (Salt, yellow prussiate of soda (yps)), Spice Pepper Black Ground (Black pepper);Onion Yellow Julienne 1/4 in, Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Herb Parsley Italian; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1121" category="Center Plate" description="Potato Yukon Mashed Precooked HALAL KOSHER" shortName="Mashed Yukon Potato" servingSize="3.33" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="102.62|5.1|2.91|0|14.52|421.27|12.48|1.53|0.82|2.28|6.43|1.72|39.03|0.26|2.6|0|0|328.25|0|0.19|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">Yes</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Potato Yukon Mashed Precooked HALAL KOSHER (Potatoes, Skim Milk, Butter (cream, Salt), Whole Milk, Salt, Disodium Pyrophosphate (added To Maintain Color), Potassium Sorbate (added To Maintain Freshness));Herb Chives; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="549" category="Center Plate" description="Beans Green Garlic Sauteed" shortName="Sauteed Green Beans" servingSize="3.53" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="53.44|1.63|0.19|0|0|246.23|7.78|2.35|3.39|1.32|0|0.85|39.37|0.62|1.59|0|0|114.24|0|0.05|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beans Green Frozen (Green Beans);Garlic Peeled;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="578" category="Center Plate" description="Carrot Roasted" shortName="Roasted Carrots" servingSize="3.96" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="60.53|2.59|0.3|0|0|281.95|9|3.18|5.19|0.71|751.97|2.83|35.37|0.99|98.47|0|0|260.3|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Carrot Orange Whole;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Herb Parsley Italian;Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1918" category="Appetizers/Condiments" description="Bread Roll Dinner Sister Schubert" shortName="Dinner Rolls" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="183.73|7.44|3.17|0|7.59|279.76|26.11|0|0|3.73|0|0|0|1.49|0|0|0|0|0|0.07|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Roll Dinner Yeast (Enriched Wheat Flour (wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Soybean Oil, Eggs, Salt, Hydrogenated Cottonseed Oil, Yeast, Mono And Di Glycerides, Whey.);Butter Unsalted HALAL (Pasteurized Cream, Natural Flavoring); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2187" category="Allergen Friendly" description="Chicken Thigh Rotisserie Baked AF" shortName="Rotisserie Chicken" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="227.17|13.43|2.49|0.02|118.32|503.07|0|0|0|24.91|13.01|0|13.01|1.01|79.48|0|0|309.45|0|0.11|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Chicken Thigh Bone In HALAL;Oil Olive Extra Virgin (Extra Virgin Olive Oil);Seasoning Rotisserie Chicken (Salt, Onion, Spices, Paprika, Garlic And Citric Acid);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="799" category="Allergen Friendly" description="Beef Ground AF HALAL" shortName="Halal Ground Beef" servingSize="4.08" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="318.13|25.67|9.06|1.36|82.12|279.11|0.27|0.14|0.03|19.99|4.63|0|26.51|2.5|67.43|0|0|335.14|0.12|0.49|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beef Ground HALAL;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Herb Parsley Italian;Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="408" category="Allergen Friendly" description="Beans Pinto AF" shortName="Pinto Beans" servingSize="4.07" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="106.43|0.36|0|0|0|222.45|19.5|4.43|0.89|6.2|0|0|37.22|1.78|0|0|0|434.28|0|0.2|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beans Pinto Canned (Pinto Beans, Water, Salt, Calcium Chloride Added to Help Maintain Firmness, Calcium Disodium EDTA);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="151" category="Allergen Friendly" description="Broccoli Crowns Steamed AF" shortName="Steamed Broccoli" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="31.98|0.4|0.06|0|0|30.62|5.74|2.61|1.68|3.38|0|105.69|54.43|1|102.84|0|0|368.54|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Broccoli Crown; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1025" category="Allergen Friendly" description="Quinoa AF" shortName="Quinoa" servingSize="5.58" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="200.71|5.74|0.46|0|0|98.6|29.27|3.04|0.4|6.06|0|0|20.91|2.15|108.88|0|0|255.08|0|0.09|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water;Quinoa Raw (Quinoa);Oil Olive Extra Virgin (Extra Virgin Olive Oil);Herb Parsley Italian;Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="813" category="Pizza" description="Pizza Cheese" shortName="Cheese Pizza" servingSize="3.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="248.22|8.86|4.72|0|20.67|389.81|31.89|1.18|0.6|10.63|0|0|177.18|1.94|0|0|0|283.49|0|0.51|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Pizza Cheese 16 In (Enriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Low Moisture Part Skim Mozzarella And Parmesan Cheeses (part Skim Milk, Cheese Cultures, Salt, Enzymes), Tomato Paste, Yeast, Cheddar Cheese (milk, Cheese Cultures, Salt, Enzymes, Annatto [color]), Provolone Cheese (milk, Cheese Cultures, Salt, Enzymes), Contains 2% Or Less Of: Degermed Yellow Cornmeal, Vegetable Oil (palm, Soybean And/or Canola Oil), Sugar, Sea Salt, Modified Food Starch, Hydrogenated Soybean Oil, Salt, Dough Conditioner (enzymes, Contains One Or More Of The Following: Datem, Calcium Carbonate, Wheat Gluten, Guar Gum, Ascorbic Acid), Spice, Maltodextrin, Dextrose, Paprika, Dried Garlic, Citric Acid, Soy Lecithin, Dried Onion, Natural Flavor, Wheat Starch.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="842" category="Pizza" description="Pizza Hawaiian" shortName="Hawaiian Pizza" servingSize="4.3" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="257.68|9.22|4.82|0|26.99|515.34|32|1.32|2.13|12.34|0|0|168.34|1.87|0|0|0|379|0|0.5|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">Yes</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Pizza Cheese 16 In (Enriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Low Moisture Part Skim Mozzarella And Parmesan Cheeses (part Skim Milk, Cheese Cultures, Salt, Enzymes), Tomato Paste, Yeast, Cheddar Cheese (milk, Cheese Cultures, Salt, Enzymes, Annatto [color]), Provolone Cheese (milk, Cheese Cultures, Salt, Enzymes), Contains 2% Or Less Of: Degermed Yellow Cornmeal, Vegetable Oil (palm, Soybean And/or Canola Oil), Sugar, Sea Salt, Modified Food Starch, Hydrogenated Soybean Oil, Salt, Dough Conditioner (enzymes, Contains One Or More Of The Following: Datem, Calcium Carbonate, Wheat Gluten, Guar Gum, Ascorbic Acid), Spice, Maltodextrin, Dextrose, Paprika, Dried Garlic, Citric Acid, Soy Lecithin, Dried Onion, Natural Flavor, Wheat Starch.);Bacon Canadian (Smoke Flavoring Added Chunked And Formed Includes Pork Sirloin Hips Domestic English: Cured With Water, Salt, Potassium Lactate, Sugar, Sodium Phosphates, Smoke Flavoring, Sodium Diacetate, Sodium Erythorbate, Sodium Nitrite.);Pineapple Diced 1 in;Onion Red Sliced 1/4 in; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="901" category="Pasta" description="Pasta Penne Mushroom Herb Cream" shortName="Creamy Herb Mushroom Penne Pasta" servingSize="3.87" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="180.07|9.4|2.97|0|11.61|426.48|19.61|0.94|1.11|4.97|0|0.64|53.65|0.79|34.74|0|0|84.64|0|0.24|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water, Pasta Penne (Semolina (wheat), Durum Wheat Flour, Vitamin B3 (niacin), Iron (ferrous Sulfate), Vitamin B1 (thiamine Mononitrate), Vitamin B2 (riboflavin), Folic Acid) <strong>(Gluten, Wheat)</strong>, Oil Olive Extra Virgin (Extra Virgin Olive Oil), Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Sauce Alfredo GF (CREAM, SKIM MILK, WATER, PARMESAN AND ASIAGO CHEESE BLEND WITH FLAVOR (PARMESAN AND ASIAGO CHEESES [CULTURED MILK, SALT, ENZYMES], ENZYME MODIFIED PARMESAN CHEESE [CULTURED MILK, WATER, SALT, ENZYMES], WHEY, SALT), SOYBEAN OIL, CANOLA OIL, 2% OR LESS OF MODIFIED CORNSTARCH, SALT, ROMANO CHEESE MADE FROM COW`S MILK (CULTURED MILK, SALT, ENZYMES), LACTOSE, SPICE, XANTHAN GUM, DATEM, MONO0 AND DIGLYCERIDES, SEASONING (CORNSTARCH, EXTRACTIVES OF TURMERIC AND ANNATTO, NATURAL FLAVOR), SEASONING (MALTODEXTRIN, FLAVOR, ENZYME MODIFIED BUTTERFAT).);Mushroom Crimini;Juice Lemon;Spread Butter Substitute Smart Balance (Oil Blend (palm, Soybean, Palm Fruit, Canola Seed And Olive), Filtered Water, Pure Salt, Natural Flavor (Derived From Corn, No MSG, No Alcohol, No Gluten), Soy Lecithin, Lactic Acid (Non Dairy, Derived From Sugar Beets), Vitamin A palmitate, and Beta Carotene Color (From Natural Source).);Garlic Peeled;Spice Pepper Black Ground (Black pepper);Spice Thyme Whole (Thyme); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="903" category="Pasta" description="Pasta Penne Puttanesca" shortName="Puttanesca Penne Pasta" servingSize="4.72" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="142.08|2.89|0.31|0|1.02|510.39|25.04|1.94|1.08|4.83|0|0.23|22.63|1.42|43.1|0|0|154.26|0|0.01|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water, Pasta Penne (Semolina (wheat), Durum Wheat Flour, Vitamin B3 (niacin), Iron (ferrous Sulfate), Vitamin B1 (thiamine Mononitrate), Vitamin B2 (riboflavin), Folic Acid) <strong>(Gluten, Wheat)</strong>, Oil Olive Extra Virgin (Extra Virgin Olive Oil), Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Sauce Marinara KOSHER HALAL (Tomato Puree (water, Tomato Paste), Diced Tomatoes, Less Than 2% Of: Soybean Oil, Salt, Sugar, Spice, Dried Garlic, Dried Onion, Natural Flavor, Olive Oil, Citric Acid.), Olive Kalamata Sliced (Organic Kalamata Olives, Water, Sea Salt, Organic Vinegar, Organic Extra Virgin Olive Oil, Lactic Acid, Organic Oregano and Organic Spices), Onion White Whole, Capers (Capers, Water, Distilled Vinegar, Sea Salt), Garlic Peeled, Spice Oregano Whole (Oregano), Spice Salt Kosher (Salt, yellow prussiate of soda (yps)), Spice Pepper Black Ground (Black pepper), Spice Pepper Red Crushed (Crushed red pepper);Cheese Parmesan Shredded (Parmesan Cheese: (pasteurized Part0skim Cow''s Milk, Cheese Cultures, Salt, Enzymes), Potato Starch And Powdered Cellulose Added To Preventing Caking, Natamycin (a Natural Mold Inhibitor));Herb Parsley Italian; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="769" category="Pasta" description="Pasta Penne Corn Based Gluten Free AF" shortName="Gluten Free Penne Pasta" servingSize="5.51" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="151.29|0.8|0|0|0|1179.09|35.01|1.59|1.62|3.19|0|0|1.59|0|108.86|0|0|59.67|0|0.09|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Water;Pasta Penne GF (Corn Flour, Rice Flour, Mono And Diglycerides);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="156" category="Pasta" description="Brussels Sprouts Lemon Roasted" shortName="Roasted Brussels Sprouts" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="57.21|1.27|0.17|0|0|185.58|10.18|4.31|2.51|3.83|43.09|96.58|47.66|1.59|96.49|0|0|441.62|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Brussels Sprouts;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Juice Lemon;Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1554" category="Pasta" description="Bread Roll Dinner Hawaiian HALAL" shortName="Hawaiian Dinner Roll" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="91.18|2.02|1.01|0|15.19|75.94|15.19|0.51|5.06|3.04|0|0|15.19|1.01|0|0|0|45.56|0|0.04|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Bread Roll Dinner Hawaiian HALAL (nriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Butter (pasteurized Cream, Salt), Eggs, Contains Less Than 2% Of The Following: Sodium Silicoaluminate, Potato Flour, Yeast, Sorbitan Monostearate, Ascorbic Acid (added As A Dough Conditioner), Whey, Corn Flour, Monocalcium Phosphate, Soy Flour, Nonfat Milk, Salt, Wheat Gluten, Datem, Calcium Silicate (anti0caking), Sodium Stearoyl Lactylate, Calcium Sulfate, Ammonium Sulfate, Wheat Starch, Enzymes); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="516" category="Soup" description="Soup Chili Bean" shortName="Bean Chili" servingSize="8" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="296.4|6.49|0|0|0|592.44|42.59|11.11|6.49|12.04|0|0|111.08|2.77|0|0|0|712.8|0|0.2|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Soup Chili Bean (Organic Vegetable Stock (Water, Organic Carrots, Organic Onions, Organic Celery, Sea Salt), Water, Onions, Tomato Paste, Carrots, Poblano Peppers, Parsnips, Cooked Light Red Kidney Beans, Posole (Corn, Water, Lime), Tomatoes, Cooked Black Beans, Contains 2% or less of: Extra Virgin Olive Oil, Garlic, Salt &amp; Sea Salt, Lime Juice, Organic White Corn Masa, Corn Starch, Smoked Paprika, Dried Ancho &amp; Chipotle Chile Peppers, Tomato Concentrate, Nisin Preparation and Spices.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="522" category="Soup" description="Soup Tomato Bisque HALAL" shortName="Tomato Bisque Soup" servingSize="8" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="175.99|10.18|6.49|0|41.66|453.59|18.51|2.77|9.25|2.77|0|0|68.49|1|0|0|0|249.93|0|0.16|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Soup Tomato Bisque HALAL (Organic Diced Tomatoes (Fresh Vine0Ripened Organic California Tomatoes, Calcium Chloride, Citric Acid), Water, Organic Cream, Organic Onion, Organic Tomato Paste (Vine0Ripened Fresh Organic Tomatoes, Citric Acid), Organic Rice Flour, Organic Milk, Organic Brown Sugar, Organic Garlic, Sea Salt, Organic Cultured Dextrose (Organic Cultured Dextrose, Organic Maltodextrin), Organic Black Pepper.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1667" category="Salad Bar" description="Lettuce Romaine Chopped" shortName="Romaine Lettuce" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="4.88|0.09|0.01|0|0|2.27|0.93|0.6|0.34|0.35|123.6|1.13|9.36|0.27|26.82|0|0|70.02|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Lettuce Romaine Chopped; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1679" category="Salad Bar" description="Spinach Baby" shortName="Baby Spinach" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="6.57|0.11|0.02|0|0|22.4|1.03|0.62|0.12|0.81|132.96|7.97|28.07|0.77|25.91|0|0|158.19|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Spinach Baby; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1802" category="Salad Bar" description="Spring Mix" shortName="Base - Mixed Greens" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="26.29|0.44|0.07|0|0|89.58|4.12|2.49|0.48|3.24|531.84|31.86|112.26|3.07|103.65|0|0|632.76|0|0.06|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Lettuce Spring Mix; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2254" category="Salad Bar" description="Beet Red Sliced Salad Bar" shortName="Sliced Red Beets" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="48.78|0.19|0.03|0|0|88.45|10.84|3.18|7.67|1.83|2.27|5.56|18.14|0.91|99.31|0|0|368.54|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beet Red; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="128" category="Salad Bar" description="Beets Steamed AF" shortName="Steamed Beets" servingSize="56" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="682.97|2.7|0.48|0|0|1238.31|151.77|44.45|107.32|25.56|31.75|77.79|254.01|12.7|1390.4|0|0|5159.61|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Beet Red; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2263" category="Salad Bar" description="Carrot Matchstick Salad Bar" shortName="Matchstick Carrots" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="39.3|0.15|0.02|0|0|88.45|9.34|3.29|5.4|0.73|782.45|2.95|36.29|1.01|102.46|0|0|268.75|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Carrot Matchstick; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1749" category="Salad Bar" description="Cucumber Sliced Salad Bar" shortName="Sliced Cucumber" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="4.4|0.03|0.01|0|0|0.57|1.03|0.14|0.47|0.18|1.42|0.79|4.54|0.08|27|0|0|41.67|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Cucumber Whole; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2269" category="Salad Bar" description="Tomato Grape Salad Bar" shortName="Grape Tomato" servingSize="1.25" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="6.27|0.07|0.01|0|0|1.77|1.38|0.43|0.93|0.31|14.88|4.85|3.54|0.1|33.49|0|0|83.99|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tomato Grape; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2406" category="Salad Bar" description="Crouton Garlic Cheese" shortName="Garlic Cheese Crouton" servingSize="0.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="60.79|2.03|0|0|0|172.12|10.13|0|0|2.03|0|0|8.1|0|0|0|0|20.25|0|0.07|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Crouton Cheese Garlic (Enriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Canola And/or Sunflower Oil (with Rosemary Extract And Ascorbic Acid [to Preserve Freshness]), Whey, Salt, Yeast, Sugar, 2% Or Less Of Dehydrated Parsley, Garlic Powder, Natural And Artificial Flavor, Parmesan Cheese And Enzyme Modified Cheese (pasteurized Milk, Cheese Cultures, Salt, Enzymes), Cultured Nonfat Milk, Annatto (color), Extractives Of Turmeric And Paprika (color), Enzymes.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2407" category="Salad Bar" description="Cranberries Dried" shortName="Dried Cranberry" servingSize="1.25" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="139.69|0|0|0|0|0|35.44|3.22|24.81|0|0|0|0|0|0|0|0|0|0|0.06|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Cranberry Dried (Cranberries, Sugar, Sunflower Oil); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2408" category="Salad Bar" description="Raisins" shortName="Raisins" servingSize="1.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="138.29|0|0|0|0|10.63|32.96|2.13|25.51|1.06|0|0|21.26|1.06|0|0|0|329.56|0|0.02|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Raisin (Raisins); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1570" category="Salad Bar" description="Sunflower Seeds" shortName="Sunflower Seeds" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="162.11|14.58|1.22|0|0|0|5.67|2.43|0.94|5.67|0|0|21.87|1.62|0|0|0|186.3|0|0.12|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Sunflower Seeds (Sunflower seeds); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1549" category="Salad Bar" description="Pumpkin Seeds" shortName="Pumpkin Seeds" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="158.48|13.91|2.46|0.02|0|1.98|3.04|1.7|0.4|8.57|0.28|0.54|13.04|2.5|1.48|0|0|229.35|0|0.12|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Pumpkin Seeds; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2409" category="Salad Bar" description="Oil Olive Salad Bar" shortName="Olive Oil" servingSize="0.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="127.66|14.17|2.03|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0.09|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Oil Olive Extra Virgin (Extra Virgin Olive Oil); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2411" category="Salad Bar" description="Dressing Balsamic Vinegar RTU Salad Bar" shortName="Balsamic Vinegar" servingSize="0.5" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="12.5|0|0|0|0|3.26|2.41|0|2.12|0.07|0|0|3.83|0.1|10.84|0|0|15.88|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Vinegar Balsamic; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1662" category="Salad Bar" description="Dressing Ranch RTU" shortName="Ranch Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="97.81|9.77|1.47|0|0|234.62|0|0|0|0.98|0|0|11.73|0.05|0|0|0|14.66|0|0.18|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Ranch HALAL KOSHER (Soybean Oil, Water, Cultured Lowfat Buttermilk, Ranch Seasoning &amp; Spices (salt, Food Starch-modified, Monosodium Glutamate, Sugar, Dried Garlic, Dried Onion, Natural And Artificial Flavor [includes Milk, Soybean], Whey Protein Concentrate, Corn Syrup, Spices, Xanthan Gum, Sorbic Acid And Calcium Disodium Edta As Preservatives, Citric Acid, Calcium Stearate), Egg Yolks, Contains Less Than 2% Of Distilled Vinegar, Salt, Xanthan Gum, Phosphoric Acid, Natural Flavor (includes Milk).); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2413" category="Salad Bar" description="Dressing Caesar RTU" shortName="Caesar Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="127.17|13.69|2.44|0|9.77|351.93|1.96|0|0.98|0.98|0|0|0|0|0|0|0|0|0|0.1|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">Yes</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Caesar (Soybean Oil, Water, Parmesan Cheese (pasteurized Milk, Cheese Cultures, Salt, Enzymes), Corn Vinegar, Whole Egg And Egg Yolks, Corn Syrup, Sugar, Salt, Contains Less Than 2% Of Anchovy Paste (anchovy, Salt, Defatted Soy Flour, Water), Distilled Vinegar, Spices (includes Mustard), Garlic*, Citric Acid, Lemon Juice Concentrate, Natural Flavor, Xanthan Gum, Onion*, Sodium Benzoate (a Preservative), Calcium Disodium Edta Added To Protect Flavor, Caramel Color, Oleoresin Turmeric (color). *dehydrated); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2410" category="Salad Bar" description="Dressing Balsamic Vinaigrette RTU" shortName="Balsamic Vinaigrette" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="54.91|4.57|0.46|0|0|182.9|4.57|0|3.66|0|0|0|0|0|0|0|0|0|0|0.05|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Balsamic Vinaigrette HALAL (Water, High Fructose Corn Syrup, Balsamic Vinegar, Red Wine Vinegar, Vegetable Oil (soybean And/or Canola), Olive Oil, Contains Less Than 2% Of Salt, Garlic,* Xanthan Gum, Spice, Sodium Alginate, Propylene Glycol Alginate, Calcium Disodium Edta (to Protect Flavor). *dried); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2414" category="Salad Bar" description="Dressing 1000 Island RTU" shortName="1000 Island Dressing" servingSize="1.16" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="142.59|14.25|2.19|0|16.44|263.08|4.38|0|3.29|0|0|0|0|0|0|0|0|0|0|0.11|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing 1000 Island hALAL KOSHER (Soybean Oil, Chili Sauce (Tomato Puree [water, Tomato Paste], Sugar, Distilled Vinegar, Salt, Natural Flavor, Spice, Onion Powder, Garlic Powder), High Fructose Corn Syrup, Water, Distilled Vinegar, Sweet Relish (Cucumbers, High Fructose Corn Syrup, Distilled Vinegar, Sugar, Salt, Mustard Seeds, Diced Red Peppers, Water, Xanthan Gum, Natural Flavor), Egg Yolk, Contains Less Than 2% Of Salt, Mustard Flour, Xanthan Gum, Polysorbate 60, Onion,* Sodium Benzoate (Preservative), Garlic,* Oleoresin Paprika (Color), Calcium Disodium Edta (To Protect Flavor), Red Bell Pepper.* *Dried Contains Egg); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1661" category="Salad Bar" description="Dressing Blue Cheese" shortName="Blue Cheese Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="131.71|14.17|3.04|0|10.12|243|1.01|0|1.01|1.01|0|0|0|0|0|0|0|0|0|0.17|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">Yes</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Blue Cheese (Soybean Oil, Water, Blue Cheese (pasteurized Milk, Cheese Cultures, Salt, Enzymes), Distilled Vinegar, Egg Yolks, Sugar, Contains Less Than 2% Of Salt, Natural Flavors (includes Milk, Sesame Seed), Xanthan Gum, Potassium Sorbate (a Preservative), Lactic Acid, Disodium Inosinate &amp; Disodium Guanylate. Contains: Egg, Milk, Sesame); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2417" category="Salad Bar" description="Dressing Italian RTU" shortName="Italian Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="35.46|1.77|0|0|0|380.95|5.32|0|1.77|0|0|0|0|0|0|0|0|0|0|0.1|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Italian HALAL KOSHER (Water, Distilled Vinegar, Maltodextrin, Vegetable Oil (soybean And/or Canola), Sugar, Corn Sugar Vinegar, Salt, High Fructose Corn Syrup, Contains Less Than 2% Of Cider Vinegar, Modified Corn Starch, Xanthan Gum, Red Bell Pepper,* Garlic,* Onion,* Mustard Flour, Sodium Benzoate (preservative), Spice, Calcium Disodium Edta (to Protect Flavor), Natural Flavor, Yellow 5, Yellow 6. *dried); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1242" category="Salad Bar" description="Topping Tofu Paprika Rosemary" shortName="Paprika Rosemary Tofu" servingSize="3" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="137.85|6.97|0.6|0|0|79.07|6.24|1.91|0.46|12.61|0.09|0.97|180.45|0.05|4.35|0|0|138.87|0|0.14|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tofu Firm (water, organic soybeans, calcium sulfate);Shallot Peeled;Oil Cooking Blend (Extra Virgin Olive Oil, Non-gmo High Oleic Sunflower Oil.);Juice Lemon;Spread Butter Substitute Smart Balance (Oil Blend (palm, Soybean, Palm Fruit, Canola Seed And Olive), Filtered Water, Pure Salt, Natural Flavor (Derived From Corn, No MSG, No Alcohol, No Gluten), Soy Lecithin, Lactic Acid (Non Dairy, Derived From Sugar Beets), Vitamin A palmitate, and Beta Carotene Color (From Natural Source).);Spice Paprika (Paprika And Silicon Dioxide (added To Make Free Flowing).);Sugar White Granulated (Sugar);Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Garlic Peeled;Herb Rosemary;Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2257" category="Salad Bar" description="Carrot Bias Cut Salad Bar" shortName="Bias Cut Carrots" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="39.3|0.15|0.02|0|0|88.45|9.34|3.29|5.4|0.73|782.45|2.95|36.29|1.01|102.46|0|0|268.75|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Carrot Bias Cut 1/4 in; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2258" category="Salad Bar" description="Carrot Orange Shredded Salad Bar" shortName="Shredded Carrots" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="46.89|0.27|0.05|0|0|78.24|10.86|3.18|5.38|1.05|946.87|6.69|37.42|0.34|100.12|0|0|362.87|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Carrot Orange Shredded; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2259" category="Salad Bar" description="Carrot Rainbow Shredded Salad Bar" shortName="Shredded Rainbow Carrots" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="39.3|0.15|0.02|0|0|88.45|9.34|3.29|5.4|0.73|782.45|2.95|36.29|1.01|102.46|0|0|268.75|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Carrot Rainbow Shredded; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2262" category="Salad Bar" description="Carrot Baby Whole Salad Bar" shortName="Whole Baby Carrots" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="39.3|0.15|0.02|0|0|88.45|9.34|3.29|5.4|0.73|782.45|2.95|36.29|1.01|102.46|0|0|268.75|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Carrot Baby Whole; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2264" category="Salad Bar" description="Carrot Sticks Salad Bar" shortName="Carrot Sticks" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="39.3|0.15|0.02|0|0|88.45|9.34|3.29|5.4|0.73|782.45|2.95|36.29|1.01|102.46|0|0|268.75|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Carrot Orange Sticks; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2265" category="Salad Bar" description="Cucumber English Sliced Salad Bar" shortName="English Cucumbers" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="17.61|0.12|0.05|0|0|2.27|4.12|0.57|1.89|0.74|5.67|3.18|18.14|0.32|107.99|0|0|166.7|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Cucumber English Whole; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2266" category="Salad Bar" description="Cucumber Diced Salad Bar" shortName="Diced Cucumbers" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="17.61|0.12|0.05|0|0|2.27|4.12|0.57|1.89|0.74|5.67|3.18|18.14|0.32|107.99|0|0|166.7|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Cucumber Diced 1/2 in; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2267" category="Salad Bar" description="Radish Red Salad Bar" shortName="Red Radishes" servingSize="0.25" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="1.12|0.01|0|0|0|2.76|0.24|0.11|0.13|0.05|0|1.05|1.77|0.02|6.75|0|0|16.51|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Radish Red; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1673" category="Salad Bar" description="Radish Sliced 1/8 in" shortName="Sliced Radish" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="4.47|0.03|0.01|0|0|11.06|0.96|0.45|0.53|0.19|0|4.2|7.09|0.1|27.01|0|0|66.05|0|0|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Radish Sliced 1/8 in; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2268" category="Salad Bar" description="Tomato Cherry Salad Bar" shortName="Cherry Tomatoes" servingSize="3" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="15.05|0.17|0.03|0|0|4.25|3.31|1.02|2.24|0.75|35.72|11.65|8.5|0.23|80.39|0|0|201.57|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tomato Cherry; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2270" category="Salad Bar" description="Tomato Heirloom Salad Bar" shortName="Heirloom Tomato" servingSize="3" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="15.05|0.17|0.03|0|0|4.25|3.31|1.02|2.24|0.75|35.72|11.65|8.5|0.23|80.39|0|0|201.57|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tomato Heirloom; ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2412" category="Salad Bar" description="Vinegar Apple Cider Salad Bar" shortName="Apple Cider Vinegar" servingSize="0.53" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="3.16|0|0|0|0|0.75|0.14|0|0.06|0|0|0|1.05|0.03|0|0|0|0|0|0.01|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Vinegar Apple Cider KOSHER HALAL (Made from the juice of apples, diluted with water to a uniform pickling and table strength of 4% (40 grain) acidity); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2415" category="Salad Bar" description="Dressing Sesame Asian RTU" shortName="Asian Sesame Dressing" servingSize="1.08" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="87.53|4.38|0.44|0|0|332.42|12.25|0|10.5|0|0|0|0|0|0|0|0|0|0|0.1|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">Yes</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Sesame Asian Halal Kosher (Sugar, Water, Vegetable Oil (Soybean and/or Canola),Soy Sauce (Water, Wheat, Soybeans, Salt), Peach Juice Concentrate, Modified Food Starch, Contains less than 2% of: Salt, Vinegar, Natural Flavor, Sesame Seed, Sesame Oil, Lemon Juice Concentrate, Garlic, Caramel Color, Spices, Guar Gum, Paprika, Calcium Disodium EDTA to protect flavor.); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="2416" category="Salad Bar" description="Dressing Poppy Seed RTU" shortName="Poppy Seed Dressing" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="128.11|10.06|1.83|0|4.57|310.93|9.15|0|8.23|0|0|0|0|0|0|0|0|0|0|0.08|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Poppy Seed HALAL KOSHER (Soybean Oil, High Fructose Corn Syrup, Water, Cider Vinegar, Distilled Vinegar, Egg Yolks, Contains Less Than 2% Of Poppy Seed, Mustard Seed, Xanthan Gum, Salt, Onion*, Sodium Benzoate And Potassium Sorbate (as Preservatives), Calcium Disodium Edta Added To Protect Flavor, Polysorbate 60, Celery Seed. *dehydrated); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="3047" category="Salad Bar" description="Dressing Blood Orange Vinaigrette RTU" shortName="Blood Orange Vinaigrette" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="79.78|6.2|0.89|0|0|168.33|5.32|0|4.43|0|0|0|0|0|0|0|0|39.87|0|0.03|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Dressing Blood Orange Vinaigrette (Water, Soybean Oil, Sugar, Blood Orange Juice Concentrate, White Wine Vinegar, Orange Juice Concentrate, Contains Less Than 2% Of Salt, Shallots, Distilled Vinegar, Shallots*, Gum Arabic (acacia Gum), Spice, Natural Flavors, Xanthan Gum, Citric Acid, Oleoresin Paprika (color). *dehydrated); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="3150" category="Deli Bar" description="Salad Tuna Simple HALAL" shortName="Tuna Salad" servingSize="1.9" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="110.57|8.16|1.39|0|14.95|241.36|0.85|0.12|0.45|9.07|0.53|0.25|1.5|0.32|4.36|0|0|112.06|0|0.22|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">Yes</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Tuna Albacore (Albacore tuna (thunnus alalunga) and sea salt);Condiment Mayonnaise HALAL (Soybean Oil, Water, Whole Eggs and Egg Yolks, Distilled Vinegar, Salt, Sugar, Lemon Juice Concentrate, Calcium Disodium EDTA (Used To Protect Quality), Natural Flavor);Condiment Relish (Cucumbers, High Fructose Corn Syrup, Distilled White Vinegar, Salt, Calcium Chloride, Modified Tapioca Starch, Potassium Sorbate And Sodium Benzoate (as Preservatives), Xanthan Gum, Modified Food Starch, Guar Gum, Aluminum Sulfate, Red Bell Peppers, Fd&c Yellow No. 5 And Fd&c Blue No. 1, Polysorbate 80, Natural And Artificial Flavors, Extractives Of Turmeric);Celery Diced 1/4 in;Onion Red Diced 1 in;Condiment Mustard Yellow (Distilled Vinegar, Water, 1 Grade Mustard Seed, Salt, Turmeric, Paprika, Spice, Natural Flavors and Garlic Powder.);Spice Pepper Black Ground (Black pepper);Spice Salt Kosher (Salt, yellow prussiate of soda (yps)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="3151" category="Deli Bar" description="Salad Egg HALAL" shortName="Egg Salad" servingSize="4" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="267.6|23.82|4.85|0|342.36|396.92|0.41|0.19|0|12.25|0|0|44|1|0|0|0|109.97|0|0.42|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">No</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">No</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Egg Hard Boiled Peeled (Cage free whole eggs);Condiment Mayonnaise HALAL (Soybean Oil, Water, Whole Eggs and Egg Yolks, Distilled Vinegar, Salt, Sugar, Lemon Juice Concentrate, Calcium Disodium EDTA (Used To Protect Quality), Natural Flavor);Condiment Mustard Yellow (Distilled Vinegar, Water, 1 Grade Mustard Seed, Salt, Turmeric, Paprika, Spice, Natural Flavors and Garlic Powder.);Spice Salt Kosher (Salt, yellow prussiate of soda (yps));Spice Paprika (Paprika And Silicon Dioxide (added To Make Free Flowing).);Spice Pepper Black Ground (Black pepper); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1506" category="Dessert" description="Pie Apple Full Crust HALAL" shortName="Apple Pie" servingSize="2" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="141.84|6.25|2.92|0|0|166.76|19.6|0.42|9.62|0.83|0|0|0|0.42|0|0|0|14.59|0|0.05|">
+				<allergens>
+					<allergen id="Milk">No</allergen>
+					<allergen id="Egg">No</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">No</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">No</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">No</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">Yes</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">No</dietaryChoice>
+					<dietaryChoice id="Halal">Yes</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Pie Apple Full Crust HALAL (Apples, Enriched Flour (wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Vegetable Oil (palm, Soybean), Corn Syrup, Contains 2% Or Less: Modified Corn Starch, White Grape Juice Concentrate, Salt, Cinnamon, Lemon Juice Solids, Natural Flavors, Gums (locust Bean, Xanthan)); ]]>
+				</ingredients>
+			</recipe>
+			<recipe id="1541" category="Dessert" description="Cheesecake Mini Assorted" shortName="Assorted Mini Cheesecakes" servingSize="1" servingSizeUnit="oz" alternatedescription="N/A" servingDescription="1 SV" servingsPerContainer="1" approvedNutrition="Yes" showIngredients="Yes" localItems="No" itemDailyComment="" nutrients="91.06|6.38|2.81|0|15.59|124.17|7.23|0.11|6.18|1.56|0|0|14.46|0.18|0|0|0|25.51|0|0.09|">
+				<allergens>
+					<allergen id="Milk">Yes</allergen>
+					<allergen id="Egg">Yes</allergen>
+					<allergen id="Fish">No</allergen>
+					<allergen id="Shellfish">No</allergen>
+					<allergen id="Tree Nuts">Yes</allergen>
+					<allergen id="Wheat">Yes</allergen>
+					<allergen id="Peanuts">No</allergen>
+					<allergen id="Soybeans">Yes</allergen>
+					<allergen id="Gluten">Yes</allergen>
+					<allergen id="Alcohol">Yes</allergen>
+					<allergen id="Sesame">No</allergen>
+					<allergen id="Pork">No</allergen>
+				</allergens>
+				<dietaryChoices>
+					<dietaryChoice id="Vegan Option">No</dietaryChoice>
+					<dietaryChoice id="Vegetarian Option">Yes</dietaryChoice>
+					<dietaryChoice id="Halal">No</dietaryChoice>
+					<dietaryChoice id="Kosher">No</dietaryChoice>
+				</dietaryChoices>
+				<ingredients>
+					<![CDATA[ Cheesecake Mini Assorted (Varities Include: Amearetto almond, Cappuccino, Chocolate chip, lemon, rasperberry, vanilla, silk tuxedo); ]]>
+				</ingredients>
+			</recipe>
+		</recipes>
+	</menu>
+</EatecExchange>

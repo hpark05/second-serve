@@ -1,0 +1,41 @@
+metric,value,unit,year,scope,source_url
+food_donated_per_semester,50000,lbs (over),2026 (page undated),Cal Dining,https://dining.berkeley.edu/sustainability/waste-reduction/
+meals_donated_per_semester,40000,meals (approx),2026 (page undated),Cal Dining,https://dining.berkeley.edu/sustainability/waste-reduction/
+leanpath_back_of_house_sites,9,sites (4 DCs + 3 restaurants + Eateries at MLK + Training Table),2026 (page undated),Cal Dining,https://dining.berkeley.edu/sustainability/waste-reduction/
+meals_served_per_year,5000000,meals (over),2026 (job posting dated 2026-08-14),Cal Dining,https://careers.insidehighered.com/job/3539856/cook-5523c-berkeley-dining-88071/
+meal_plan_holders,12000,people (over),2026 (job posting dated 2026-08-14),Cal Dining,https://careers.insidehighered.com/job/3539856/cook-5523c-berkeley-dining-88071/
+meals_served_per_day_residential,10000,meals/day (over; 4 dining halls),c. 2012-13,Cal Dining,https://www.stopwaste.org/resource/cal-dining-food-waste-prevention
+pre_consumer_food_waste_reduction,19,%,c. 2012-13,Cal Dining,https://www.stopwaste.org/resource/cal-dining-food-waste-prevention
+pre_consumer_food_waste_avoided,27,tons/year,c. 2012-13,Cal Dining,https://www.stopwaste.org/resource/cal-dining-food-waste-prevention
+food_cost_avoided,98402,USD/year,c. 2012-13,Cal Dining,https://www.stopwaste.org/resource/cal-dining-food-waste-prevention
+kitchen_waste_before_leanpath,3000,lbs/week (over),2011,Cal Dining,https://news.berkeley.edu/2012/11/15/america-recycles-day-epa-recognizes-campus-food-waste-reduction
+kitchen_waste_after_leanpath,2000,lbs/week (about),2012,Cal Dining,https://news.berkeley.edu/2012/11/15/america-recycles-day-epa-recognizes-campus-food-waste-reduction
+msw_diversion_rate_excl_cd,53,%,FY2024-25,UC Berkeley campus,https://sustainabilityreport.ucop.edu/2025/locations/uc-berkeley/
+msw_diversion_rate_incl_cd,55,%,FY2024-25,UC Berkeley campus,https://sustainabilityreport.ucop.edu/2025/locations/uc-berkeley/
+msw_diversion_rate,54,%,"undated (campus page, 2026)",UC Berkeley campus,https://sustainability.berkeley.edu/waste
+msw_landfilled,4095,tons,2015,UC Berkeley campus,https://sustainability.berkeley.edu/waste
+msw_landfilled,3431,tons,2025,UC Berkeley campus,https://sustainability.berkeley.edu/waste
+waste_generation_change_vs_prior_year,-718,tons (-10%),FY2024-25,UC Berkeley campus,https://sustainabilityreport.ucop.edu/2025/locations/uc-berkeley/
+organics_generated_per_capita,0.21,lbs/person/day,FY2024-25,UC Berkeley campus,https://sustainabilityreport.ucop.edu/2025/locations/uc-berkeley/
+landfill_generated_per_capita,0.4,lbs/person/day,FY2024-25,UC Berkeley campus,https://sustainabilityreport.ucop.edu/2025/locations/uc-berkeley/
+sustainable_food_share_of_spend,19,% ($3.3M),FY2024-25,UC Berkeley campus,https://sustainabilityreport.ucop.edu/2025/locations/uc-berkeley/
+plant_based_food_share_of_spend,37,% ($6.6M),FY2024-25,UC Berkeley campus,https://sustainabilityreport.ucop.edu/2025/locations/uc-berkeley/
+sustainable_food_share_of_spend,25,"% (about; dining halls, restaurants, concessions)","undated (campus page, 2026)",UC Berkeley campus,https://sustainability.berkeley.edu/our-performance/food
+compostable_share_of_landfill_stream,41,"% by weight (1,565 of 3,814 lbs audited)",2012-13 audit,UC Berkeley campus,https://facilities.berkeley.edu/sites/default/files/2019_uc_berkeley_zero_waste_plan_final.pdf
+crossroads_dining_landfill_audit_compost,217,lbs compostable of 479 lbs audited,2012-13 audit,Cal Dining (Crossroads),https://facilities.berkeley.edu/sites/default/files/2019_uc_berkeley_zero_waste_plan_final.pdf
+landfill_bin_recoverable_share,75-80,% compostable or recyclable,2019,UC Berkeley campus,https://bsa.berkeley.edu/node/662
+food_waste_diverted,1721.7,tons,FY2017-18,UC Berkeley campus,https://facilities.berkeley.edu/sites/default/files/2019_uc_berkeley_zero_waste_plan_final.pdf
+sustainable_food_share_of_spend_campuses,16,%,FY2024-25,UC system,https://sustainabilityreport.ucop.edu/2025/wp-content/uploads/sites/7/2025/12/2025-UC-Annual-Report-on-Sustainable-Practices-Summary.pdf
+sustainable_food_share_of_spend_health,23,%,FY2024-25,UC system,https://sustainabilityreport.ucop.edu/2025/wp-content/uploads/sites/7/2025/12/2025-UC-Annual-Report-on-Sustainable-Practices-Summary.pdf
+sustainable_food_spend,35000000,USD (over),FY2024-25,UC system,https://sustainabilityreport.ucop.edu/2025/wp-content/uploads/sites/7/2025/12/2025-UC-Annual-Report-on-Sustainable-Practices-Summary.pdf
+plant_based_food_spend,63000000,USD (over; 31% of F&B spend),FY2024-25,UC system,https://sustainabilityreport.ucop.edu/2025/wp-content/uploads/sites/7/2025/12/2025-UC-Annual-Report-on-Sustainable-Practices-Summary.pdf
+sustainable_food_share_of_spend_campuses,18,%,FY2023-24,UC system,https://sustainabilityreport.ucop.edu/2024/wp-content/uploads/sites/6/2025/01/2024-UC-Annual-Report-on-Sustainable-Practices-Summary-9-Dec-24-v1-3.pdf
+msw_and_cd_diversion_rate_campuses,75,% (approx),FY2023-24,UC system,https://sustainabilityreport.ucop.edu/2024/wp-content/uploads/sites/6/2025/01/2024-UC-Annual-Report-on-Sustainable-Practices-Summary-9-Dec-24-v1-3.pdf
+sustainable_food_share_of_spend,19,%,FY2022-23,UC system,https://sustainabilityreport.ucop.edu/2023/wp-content/uploads/sites/5/2023/12/2023-UC-Annual-Report-on-Sustainable-Practices-Summary.pdf
+msw_and_cd_diversion_rate_campuses,70,% (nearly),FY2022-23,UC system,https://sustainabilityreport.ucop.edu/2023/wp-content/uploads/sites/5/2023/12/2023-UC-Annual-Report-on-Sustainable-Practices-Summary.pdf
+policy_sustainable_food_target,25,% of food spend by 2030,2030 target,UC system,https://policy.ucop.edu/doc/3100155/SustainablePractices
+policy_plant_based_food_target,25,% by 2030 (strive 30%),2030 target,UC system,https://policy.ucop.edu/doc/3100155/SustainablePractices
+policy_msw_diversion_target,90,%,target,UC system,https://policy.ucop.edu/doc/3100155/SustainablePractices
+policy_per_capita_msw_reduction_target,50,% vs FY2015-16 by 2030 (25% by 2025),2030 target,UC system,https://policy.ucop.edu/doc/3100155/SustainablePractices
+policy_food_recovery_lbs_reporting_start,FY2027-28,fiscal year,2027-28,UC system,https://policy.ucop.edu/doc/3100155/SustainablePractices
+feeding_forward_food_recovered_since_2013,500000,lbs (over),2013-2014,Berkeley student-founded platform (Bay Area),https://news.berkeley.edu/2014/11/12/students-feeding-forward-app-fights-hunger-food-waste/

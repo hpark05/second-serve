@@ -1,0 +1,3 @@
+# PLACEHOLDER (generator fallback): no ingredient-level overrides. The real data/raw/reference/ingredients.csv
+# may override category/storage/lb_per_unit/usd_per_lb by ingredient_id or exact name.
+ingredient_id,name,category,storage,unit,lb_per_unit

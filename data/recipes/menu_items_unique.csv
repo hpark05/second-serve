@@ -1,0 +1,1042 @@
+item_name_normalized,item_name_display,recipe_id,method,rule,category,occurrences,frequency_rank,eatec_recipe_ids
+1000 island dressing,1000 Island Dressing,r_1000_island_dressing,nutrislice_ingredients,,salad,108,9,2414
+african chicken and kale stew,African Chicken & Kale Stew,r_african_chicken_and_kale_stew,nutrislice_ingredients,,soup,2,539,2355
+al pastor tofu,Al Pastor Tofu,r_al_pastor_tofu,nutrislice_ingredients,,entree,1,714,1482
+alex guaranschellis arrabbiata sauce,Alex Guaranschelli's Arrabbiata Sauce,r_alex_guaranschellis_arrabbiata_sauce,nutrislice_ingredients,,entree,1,715,2521
+alex guaranschellis penne arrabbiata,Alex Guaranschelli's Penne Arrabbiata,r_alex_guaranschellis_penne_arrabbiata,name_rule,pasta|penne|spaghetti|macaroni|noodle,entree,4,362,2533
+alfredo penne pasta,Alfredo Penne Pasta,r_alfredo_penne_pasta,name_rule,alfredo,side,1,716,937
+alfredo sauce,Alfredo Sauce,r_alfredo_sauce,nutrislice_ingredients,,side,13,159,1648;183
+alicia villanuevas chicken tamales,Alicia Villanueva's Chicken Tamales,r_alicia_villanuevas_chicken_tamales,name_rule,tamale,entree,4,363,1768
+alicia villanuevas mushroom tamales,Alicia Villanueva's Mushroom Tamales,r_alicia_villanuevas_mushroom_tamales,name_rule,tamale,entree,4,364,1769
+aloo chole,Aloo Chole,r_aloo_chole,nutrislice_ingredients,,entree,5,308,535
+aloo style fried potato cubes,Aloo-style Fried Potato Cubes,r_aloo_style_fried_potato_cubes,nutrislice_ingredients,,side,1,717,970
+american beef burger,American Beef Burger,r_american_beef_burger,name_rule,beef,entree,4,365,872
+andouille sausage,Andouille Sausage,r_andouille_sausage,nutrislice_ingredients,,entree,1,718,351
+anne burrells wild mushroom risotto,Anne Burrell's Wild Mushroom Risotto,r_anne_burrells_wild_mushroom_risotto,name_rule,risotto,entree,3,445,2517
+apple,Apple,r_apple,nutrislice_ingredients,,salad,16,112,1572
+apple cider vinegar,Apple Cider Vinegar,r_apple_cider_vinegar,nutrislice_ingredients,,salad,86,21,2412
+apple cinnamon streusel baked oatmeal,Apple Cinnamon Streusel Baked Oatmeal,r_apple_cinnamon_streusel_baked_oatmeal,name_rule,oatmeal|porridge,breakfast,1,719,2384
+apple filled pancake,Apple Filled Pancake,r_apple_filled_pancake,nutrislice_ingredients,,dessert,3,446,3352
+apple pie,Apple Pie,r_apple_pie,nutrislice_ingredients,,dessert,11,178,1506
+apple pie inspired soft serve,Apple Pie inspired Soft Serve,r_apple_pie_inspired_soft_serve,name_rule,cookie|cake|pie|brownie|cobbler|bar\b|crisp,dessert,4,366,2597
+arabic salad,Arabic Salad,r_arabic_salad,nutrislice_ingredients,,salad,3,447,2806
+arborio mushroom risotto with rice,Arborio Mushroom Risotto with Rice,r_arborio_mushroom_risotto_with_rice,nutrislice_ingredients,,side,2,540,1042
+arborio rice mushoroom risotto,Arborio Rice Mushoroom Risotto,r_arborio_rice_mushoroom_risotto,nutrislice_ingredients,,side,6,268,1347
+arrabiata sauce,Arrabiata Sauce,r_arrabiata_sauce,nutrislice_ingredients,,side,12,167,1164
+artichoke,Artichoke,r_artichoke,nutrislice_ingredients,,entree,4,367,1684
+asian coleslaw salad,Asian Coleslaw Salad,r_asian_coleslaw_salad,nutrislice_ingredients,,salad,1,720,277
+asian sesame dressing,Asian Sesame Dressing,r_asian_sesame_dressing,nutrislice_ingredients,,salad,73,29,2415
+asparagus,Asparagus,r_asparagus,nutrislice_ingredients,,entree,11,179,371
+assorted dinner rolls,Assorted Dinner Rolls,r_assorted_dinner_rolls,nutrislice_ingredients,,side,29,60,1861
+assorted mini cheesecakes,Assorted Mini Cheesecakes,r_assorted_mini_cheesecakes,nutrislice_ingredients,,dessert,12,168,1541
+assorted mini donuts,Assorted Mini Donuts,r_assorted_mini_donuts,nutrislice_ingredients,,dessert,4,368,1543
+assorted mini filled croissant,Assorted Mini Filled Croissant,r_assorted_mini_filled_croissant,nutrislice_ingredients,,breakfast,6,269,1542
+assorted mini muffins,Assorted Mini Muffins,r_assorted_mini_muffins,nutrislice_ingredients,,dessert,6,270,1503;1565
+au gratin potatoes,Au Gratin Potatoes,r_au_gratin_potatoes,nutrislice_ingredients,,side,1,721,2080
+aurora sauce,Aurora Sauce,r_aurora_sauce,nutrislice_ingredients,,side,10,195,1165
+baby kale with lemon and olive oil,Baby Kale with Lemon and Olive Oil,r_baby_kale_with_lemon_and_olive_oil,nutrislice_ingredients,,entree,1,722,228
+baby spinach,Baby Spinach,r_baby_spinach,nutrislice_ingredients,,salad,97,14,1679
+bacon and kale pizza,Bacon and Kale Pizza,r_bacon_and_kale_pizza,nutrislice_ingredients,,entree,5,309,810
+bacon and mushroom pizza with truffle oil,Bacon and Mushroom Pizza with Truffle Oil,r_bacon_and_mushroom_pizza_with_truffle_oil,name_rule,pizza,entree,2,541,846
+bacon bits,Bacon Bits,r_bacon_bits,nutrislice_ingredients,,salad,8,220,1649
+bacon egg avocado croissant,Bacon Egg Avocado Croissant,r_bacon_egg_avocado_croissant,name_rule,sausage|bacon,breakfast,1,723,632
+baguette with herb oil,Baguette with Herb Oil,r_baguette_with_herb_oil,nutrislice_ingredients,,entree,12,169,514
+baja fish taco,Baja Fish Taco,r_baja_fish_taco,nutrislice_ingredients,,entree,1,724,1270
+baked ancho orange salmon,Baked Ancho Orange Salmon,r_baked_ancho_orange_salmon,nutrislice_ingredients,,entree,1,725,1230
+baked banana french toast casserole,Baked Banana French Toast Casserole,r_baked_banana_french_toast_casserole,nutrislice_ingredients,,breakfast,1,726,2398
+baked bbq chicken,Baked BBQ Chicken,r_baked_bbq_chicken,nutrislice_ingredients,,entree,1,727,833
+baked bbq tofu,Baked BBQ Tofu,r_baked_bbq_tofu,nutrislice_ingredients,,entree,4,369,1247
+baked blueberry french toast casserole,Baked Blueberry French Toast Casserole,r_baked_blueberry_french_toast_casserole,nutrislice_ingredients,,breakfast,2,542,2396
+baked chicken breast,Baked Chicken Breast,r_baked_chicken_breast,nutrislice_ingredients,,entree,2,543,163
+baked cod with moroccan coulis,Baked Cod with Moroccan Coulis,r_baked_cod_with_moroccan_coulis,nutrislice_ingredients,,entree,1,728,1200
+baked corn tortilla strips,Baked Corn Tortilla Strips,r_baked_corn_tortilla_strips,nutrislice_ingredients,,side,7,247,1341
+baked diced sweet potato,Baked Diced Sweet Potato,r_baked_diced_sweet_potato,nutrislice_ingredients,,side,19,91,1283
+baked dijon herb crusted salmon,Baked Dijon Herb Crusted Salmon,r_baked_dijon_herb_crusted_salmon,nutrislice_ingredients,,entree,2,544,1235
+baked jerk tofu,Baked Jerk Tofu,r_baked_jerk_tofu,nutrislice_ingredients,,entree,5,310,1267
+baked lemongrass tofu,Baked Lemongrass Tofu,r_baked_lemongrass_tofu,nutrislice_ingredients,,entree,2,545,1437
+baked lentil shakshuka,Baked Lentil Shakshuka,r_baked_lentil_shakshuka,nutrislice_ingredients,,entree,1,729,2663
+baked parmesan eggplant,Baked Parmesan Eggplant,r_baked_parmesan_eggplant,nutrislice_ingredients,,entree,2,546,670
+baked penne pasta,Baked Penne Pasta,r_baked_penne_pasta,name_rule,pasta|penne|spaghetti|macaroni|noodle,side,1,730,448
+baked pineapple glazed ham,Baked Pineapple Glazed Ham,r_baked_pineapple_glazed_ham,nutrislice_ingredients,,entree,2,547,599
+baked pork bacon,Baked Pork Bacon,r_baked_pork_bacon,nutrislice_ingredients,,entree,11,180,593
+baked rockfish with piccata sauce,Baked Rockfish with Piccata Sauce,r_baked_rockfish_with_piccata_sauce,nutrislice_ingredients,,entree,1,731,1204
+baked salmon with jade pesto,Baked Salmon with Jade Pesto,r_baked_salmon_with_jade_pesto,nutrislice_ingredients,,entree,1,732,1328
+baked salmon with mango salsa,Baked Salmon with Mango Salsa,r_baked_salmon_with_mango_salsa,nutrislice_ingredients,,entree,2,548,1238
+baked salmon with pineapple salsa,Baked Salmon with Pineapple Salsa,r_baked_salmon_with_pineapple_salsa,nutrislice_ingredients,,entree,2,549,1241
+baked smothered chicken,Baked Smothered Chicken,r_baked_smothered_chicken,nutrislice_ingredients,,entree,6,271,2185
+baked sweet potato,Baked Sweet Potato,r_baked_sweet_potato,nutrislice_ingredients,,side,4,370,1284
+baked tandoori tofu,Baked Tandoori Tofu,r_baked_tandoori_tofu,nutrislice_ingredients,,entree,3,448,1186
+baked tofu piccata,Baked Tofu Piccata,r_baked_tofu_piccata,nutrislice_ingredients,,entree,4,371,1240
+baked vegan protein red sauce enchilada,Baked Vegan Protein Red Sauce Enchilada,r_baked_vegan_protein_red_sauce_enchilada,nutrislice_ingredients,,side,4,372,1213
+baked white beans,Baked White Beans,r_baked_white_beans,nutrislice_ingredients,,side,1,733,623
+baked yucateco rockfish,Baked Yucateco Rockfish,r_baked_yucateco_rockfish,nutrislice_ingredients,,entree,1,734,1211
+balsamic vinaigrette,Balsamic Vinaigrette,r_balsamic_vinaigrette,nutrislice_ingredients,,salad,88,20,2410
+balsamic vinegar,Balsamic Vinegar,r_balsamic_vinegar,nutrislice_ingredients,,salad,114,5,2411
+balsamic vinegar glaze,Balsamic Vinegar Glaze,r_balsamic_vinegar_glaze,nutrislice_ingredients,,salad,15,128,1674
+banana,Banana,r_banana,nutrislice_ingredients,,salad,41,45,1574
+banana creme pie,Banana Creme Pie,r_banana_creme_pie,name_rule,cookie|cake|pie|brownie|cobbler|bar\b|crisp,dessert,1,735,1507
+banana pancakes,Banana Pancakes,r_banana_pancakes,nutrislice_ingredients,,dessert,1,736,752
+banh mi garnish,Banh Mi Garnish,r_banh_mi_garnish,nutrislice_ingredients,,entree,2,550,319
+base arugula,Base - Arugula,r_base_arugula,nutrislice_ingredients,,salad,8,221,1801
+base mixed greens,Base - Mixed Greens,r_base_mixed_greens,nutrislice_ingredients,,salad,111,8,1802
+basic fried chicken party wings,Basic Fried Chicken Party Wings,r_basic_fried_chicken_party_wings,name_rule,chicken,entree,1,737,1515
+basil,Basil,r_basil,nutrislice_ingredients,,entree,2,551,1663
+basil and cheese eggs scramble,Basil and Cheese Eggs Scramble,r_basil_and_cheese_eggs_scramble,nutrislice_ingredients,,breakfast,2,552,989
+basmati rice,Basmati Rice,r_basmati_rice,nutrislice_ingredients,,side,28,61,1063
+basmati rice pullao,Basmati Rice Pullao,r_basmati_rice_pullao,nutrislice_ingredients,,side,4,373,1834
+bbq baked beans,BBQ Baked Beans,r_bbq_baked_beans,nutrislice_ingredients,,side,1,738,3140
+bbq baked chicken thighs,BBQ Baked Chicken Thighs,r_bbq_baked_chicken_thighs,nutrislice_ingredients,,entree,1,739,3153
+bbq beef brisket,BBQ Beef Brisket,r_bbq_beef_brisket,nutrislice_ingredients,,entree,2,553,724
+bbq chicken and coleslaw sandwich,BBQ Chicken and Coleslaw Sandwich,r_bbq_chicken_and_coleslaw_sandwich,nutrislice_ingredients,,entree,1,740,1051
+bbq chicken pizza,BBQ Chicken Pizza,r_bbq_chicken_pizza,nutrislice_ingredients,,entree,2,554,809
+bbq gardein tenders,BBQ Gardein Tenders,r_bbq_gardein_tenders,nutrislice_ingredients,,entree,2,555,533
+bbq pulled pork,BBQ Pulled Pork,r_bbq_pulled_pork,nutrislice_ingredients,,entree,3,449,950
+bean chili,Bean Chili,r_bean_chili,nutrislice_ingredients,,soup,19,92,516
+bean corn tomato salsa,Bean corn tomato salsa,r_bean_corn_tomato_salsa,nutrislice_ingredients,,side,5,311,1346
+bean ragout vegan,Bean Ragout VEGAN,r_bean_ragout_vegan,nutrislice_ingredients,,entree,1,741,2725
+bean sprout banchan,Bean Sprout Banchan,r_bean_sprout_banchan,nutrislice_ingredients,,entree,2,556,554
+beef bolognese sauce,Beef Bolognese Sauce,r_beef_bolognese_sauce,nutrislice_ingredients,,entree,5,312,1167
+beef bulgogi,Beef Bulgogi,r_beef_bulgogi,nutrislice_ingredients,,entree,3,450,111
+beef carne asada,Beef Carne Asada,r_beef_carne_asada,nutrislice_ingredients,,entree,4,374,1486
+beef cheesesteak sandwich,Beef Cheesesteak Sandwich,r_beef_cheesesteak_sandwich,nutrislice_ingredients,,entree,3,451,1085
+beef fajitas,Beef Fajitas,r_beef_fajitas,name_rule,beef,entree,1,742,600
+beef hot dog,Beef Hot Dog,r_beef_hot_dog,nutrislice_ingredients,,entree,2,557,1057
+beef lomo saltado,Beef Lomo Saltado,r_beef_lomo_saltado,nutrislice_ingredients,,entree,1,743,389
+beef marinara sauce,Beef Marinara Sauce,r_beef_marinara_sauce,name_rule,marinara|tomato sauce,entree,3,452,1338
+beef meatball marinara,Beef Meatball Marinara,r_beef_meatball_marinara,nutrislice_ingredients,,entree,2,558,735
+beef swedish meatballs,Beef Swedish Meatballs,r_beef_swedish_meatballs,nutrislice_ingredients,,entree,2,559,583
+belgian waffle,Belgian Waffle,r_belgian_waffle,nutrislice_ingredients,,breakfast,6,272,2032
+bell pepper brussel sprout mushroom and zucchini,Bell Pepper Brussel Sprout Mushroom and Zucchini,r_bell_pepper_brussel_sprout_mushroom_and_zucchini,name_rule,asparagus|brussel,entree,1,744,1249
+bell pepper brussels sprout mushroom and zucchini,Bell Pepper Brussels Sprout Mushroom and Zucchini,r_bell_pepper_brussels_sprout_mushroom_and_zucchini,nutrislice_ingredients,,entree,10,196,1249
+bell pepper quinoa,Bell Pepper Quinoa,r_bell_pepper_quinoa,nutrislice_ingredients,,side,1,745,1322
+berry granola plantains,Berry Granola Plantains,r_berry_granola_plantains,nutrislice_ingredients,,breakfast,2,560,867
+bias cut carrots,Bias Cut Carrots,r_bias_cut_carrots,nutrislice_ingredients,,salad,17,105,2257
+biscuits,Biscuits,r_biscuits,nutrislice_ingredients,,salad,1,746,411
+biscuits with turkey gravey,Biscuits with Turkey Gravey,r_biscuits_with_turkey_gravey,name_rule,roll|bread|biscuit|bun|naan,entree,1,747,455
+black bean and corn salad,Black Bean and Corn Salad,r_black_bean_and_corn_salad,nutrislice_ingredients,,salad,3,453,641
+black bean and sweet potato taco filling,Black Bean & Sweet Potato Taco Filling,r_black_bean_and_sweet_potato_taco_filling,nutrislice_ingredients,,entree,3,454,367
+black bean burger,Black Bean Burger,r_black_bean_burger,name_rule,black bean burger|veggie burger,entree,1,748,1043
+black bean feijoada stew,Black Bean Feijoada Stew,r_black_bean_feijoada_stew,nutrislice_ingredients,,soup,4,375,1309
+black beans,Black Beans,r_black_beans,nutrislice_ingredients,,side,13,160,375
+black eyed peas stew,Black Eyed Peas Stew,r_black_eyed_peas_stew,nutrislice_ingredients,,soup,1,749,1311
+black forest cake,Black Forest Cake,r_black_forest_cake,nutrislice_ingredients,,dessert,11,181,2593
+black olive,Black Olive,r_black_olive,nutrislice_ingredients,,entree,2,561,1668
+black pepper beef,Black Pepper Beef,r_black_pepper_beef,nutrislice_ingredients,,entree,3,455,1480
+blacked eyed peas stew,Blacked Eyed Peas Stew,r_blacked_eyed_peas_stew,nutrislice_ingredients,,soup,2,562,2171
+blood orange vinaigrette,Blood Orange Vinaigrette,r_blood_orange_vinaigrette,nutrislice_ingredients,,salad,75,27,3047
+blue cheese dressing,Blue Cheese Dressing,r_blue_cheese_dressing,nutrislice_ingredients,,salad,113,6,1661
+blueberry pancakes,Blueberry Pancakes,r_blueberry_pancakes,nutrislice_ingredients,,dessert,2,563,753
+blueberry pie,Blueberry Pie,r_blueberry_pie,nutrislice_ingredients,,dessert,4,376,3285
+bolognese lentil spaghetti,Bolognese Lentil Spaghetti,r_bolognese_lentil_spaghetti,nutrislice_ingredients,,entree,1,750,776
+boston cream pie,Boston Cream Pie,r_boston_cream_pie,nutrislice_ingredients,,dessert,15,129,1508
+braised bok choy,Braised Bok Choy,r_braised_bok_choy,nutrislice_ingredients,,entree,2,564,494
+braised cabbage,Braised Cabbage,r_braised_cabbage,nutrislice_ingredients,,entree,3,456,421
+braised chicken with tomatoes onion and garlic,Braised Chicken with Tomatoes Onion and Garlic,r_braised_chicken_with_tomatoes_onion_and_garlic,name_rule,chicken,entree,3,457,2395
+braised coconut tofu,Braised Coconut Tofu,r_braised_coconut_tofu,nutrislice_ingredients,,entree,5,313,1287
+braised collard greens,Braised Collard Greens,r_braised_collard_greens,nutrislice_ingredients,,side,7,248,589
+braised mung bean,Braised Mung Bean,r_braised_mung_bean,nutrislice_ingredients,,entree,14,147,707
+bread pudding,Bread Pudding,r_bread_pudding,nutrislice_ingredients,,dessert,8,222,527
+bread pudding with bananas and raisins,Bread Pudding with Bananas and Raisins,r_bread_pudding_with_bananas_and_raisins,nutrislice_ingredients,,dessert,1,751,528
+bread stick focaccia,Bread Stick Focaccia,r_bread_stick_focaccia,nutrislice_ingredients,,side,5,314,3298
+broccoli and tomato salad,Broccoli and Tomato Salad,r_broccoli_and_tomato_salad,nutrislice_ingredients,,salad,4,377,643
+broccoli beef,Broccoli Beef,r_broccoli_beef,nutrislice_ingredients,,entree,3,458,726;727
+broccoli cheddar soup,Broccoli Cheddar Soup,r_broccoli_cheddar_soup,nutrislice_ingredients,,soup,18,100,510
+broccoli rice gratin,Broccoli Rice Gratin,r_broccoli_rice_gratin,nutrislice_ingredients,,side,1,752,2671
+broccoli slaw,Broccoli Slaw,r_broccoli_slaw,nutrislice_ingredients,,side,2,565,3144
+broccolini and chili pizza,Broccolini and Chili Pizza,r_broccolini_and_chili_pizza,nutrislice_ingredients,,soup,1,753,811
+brown rice,Brown Rice,r_brown_rice,nutrislice_ingredients,,side,89,19,1034;1035
+brown rice and quinoa,Brown Rice and Quinoa,r_brown_rice_and_quinoa,nutrislice_ingredients,,side,4,378,1472
+brussels sprouts,Brussels Sprouts,r_brussels_sprouts,nutrislice_ingredients,,side,26,66,484
+buffalo cauliflower pizza,Buffalo Cauliflower Pizza,r_buffalo_cauliflower_pizza,nutrislice_ingredients,,entree,1,754,812
+buffalo chicken pizza,Buffalo Chicken Pizza,r_buffalo_chicken_pizza,nutrislice_ingredients,,entree,1,755,817
+buttered bread rolls,Buttered Bread Rolls,r_buttered_bread_rolls,nutrislice_ingredients,,side,1,756,415
+cabbage and squash stir fry,Cabbage and Squash Stir Fry,r_cabbage_and_squash_stir_fry,nutrislice_ingredients,,entree,1,757,1134
+cacciatore sauce,Cacciatore Sauce,r_cacciatore_sauce,nutrislice_ingredients,,side,7,249,795
+caesar dressing,Caesar Dressing,r_caesar_dressing,nutrislice_ingredients,,salad,95,15,2413
+cajun eggs scramble,Cajun Eggs Scramble,r_cajun_eggs_scramble,nutrislice_ingredients,,breakfast,5,315,984
+cajun potato,Cajun Potato,r_cajun_potato,nutrislice_ingredients,,side,5,316,963
+caldo de pollo,Caldo De Pollo,r_caldo_de_pollo,name_rule,caldo de pollo|chicken soup,soup,4,379,2332
+california spare cheeseburger,California Spare Cheeseburger,r_california_spare_cheeseburger,nutrislice_ingredients,,entree,1,758,3299
+capers,Capers,r_capers,nutrislice_ingredients,,entree,15,130,1682
+caprese sandwich,Caprese Sandwich,r_caprese_sandwich,nutrislice_ingredients,,entree,2,566,1046
+cardamom roasted cauliflower,Cardamom Roasted Cauliflower,r_cardamom_roasted_cauliflower,name_rule,cauliflower,side,1,759,808
+caribbean vegetable blend,Caribbean Vegetable Blend,r_caribbean_vegetable_blend,nutrislice_ingredients,,entree,15,131,1159
+carmamelized onion pilaf rice,Carmamelized Onion Pilaf Rice,r_carmamelized_onion_pilaf_rice,nutrislice_ingredients,,side,2,567,1055
+carrot cake,Carrot Cake,r_carrot_cake,nutrislice_ingredients,,dessert,9,208,1537
+carrot sticks,Carrot Sticks,r_carrot_sticks,nutrislice_ingredients,,salad,25,75,2264
+cauliflower masala soup,Cauliflower Masala Soup,r_cauliflower_masala_soup,nutrislice_ingredients,,soup,5,317,1826
+char siu pork,Char Siu Pork,r_char_siu_pork,nutrislice_ingredients,,entree,1,760,306
+charbroiled cabbage,Charbroiled Cabbage,r_charbroiled_cabbage,nutrislice_ingredients,,entree,2,568,563
+cheddar eggs scramble,Cheddar Eggs Scramble,r_cheddar_eggs_scramble,nutrislice_ingredients,,breakfast,6,273,981
+cheese blintz with mixed berries,Cheese Blintz with Mixed Berries,r_cheese_blintz_with_mixed_berries,name_rule,blintz,breakfast,1,761,493
+cheese marinara ravioli pasta,Cheese Marinara Ravioli Pasta,r_cheese_marinara_ravioli_pasta,name_rule,marinara|tomato sauce,side,2,569,450
+cheese pizza,Cheese Pizza,r_cheese_pizza,nutrislice_ingredients,,entree,51,41,813
+cheesecake brulee,Cheesecake Brulee,r_cheesecake_brulee,name_rule,cookie|cake|pie|brownie|cobbler|bar\b|crisp,dessert,4,380,2594;2595
+cheesy shrimp grits,Cheesy Shrimp Grits,r_cheesy_shrimp_grits,name_rule,shrimp,breakfast,1,762,592
+cherry pepper,Cherry Pepper,r_cherry_pepper,nutrislice_ingredients,,entree,5,318,1566
+cherry pie,Cherry Pie,r_cherry_pie,nutrislice_ingredients,,dessert,10,197,1567
+cherry tomatoes,Cherry Tomatoes,r_cherry_tomatoes,nutrislice_ingredients,,salad,58,34,2268
+chia seeds,Chia Seeds,r_chia_seeds,nutrislice_ingredients,,salad,15,132,1627
+chicago hot dog,Chicago Hot Dog,r_chicago_hot_dog,name_rule,hot dog,entree,2,570,1059
+chicken alfredo sauce,Chicken Alfredo Sauce,r_chicken_alfredo_sauce,nutrislice_ingredients,,entree,8,223,1136
+chicken apple sausage,Chicken Apple Sausage,r_chicken_apple_sausage,nutrislice_ingredients,,entree,11,182,503
+chicken biscuit sandwich,Chicken Biscuit Sandwich,r_chicken_biscuit_sandwich,nutrislice_ingredients,,entree,1,763,2148
+chicken breast,Chicken Breast,r_chicken_breast,name_rule,chicken,entree,5,319,848
+chicken breast with caper sauce,Chicken Breast with Caper Sauce,r_chicken_breast_with_caper_sauce,nutrislice_ingredients,,entree,1,764,1117
+chicken corn dog,Chicken Corn Dog,r_chicken_corn_dog,nutrislice_ingredients,,entree,3,459,1494
+chicken enchiladas with red sauce,Chicken Enchiladas with Red Sauce,r_chicken_enchiladas_with_red_sauce,nutrislice_ingredients,,entree,3,460,2892;911
+chicken fried steak with gravy,Chicken Fried Steak with Gravy,r_chicken_fried_steak_with_gravy,nutrislice_ingredients,,entree,5,320,731
+chicken green chile chowder,Chicken Green Chile Chowder,r_chicken_green_chile_chowder,nutrislice_ingredients,,soup,9,209,512
+chicken nuggets,Chicken Nuggets,r_chicken_nuggets,nutrislice_ingredients,,entree,4,381,174
+chicken parmesan sandwich,Chicken Parmesan Sandwich,r_chicken_parmesan_sandwich,nutrislice_ingredients,,entree,1,765,1067
+chicken pesto sandwich,Chicken Pesto Sandwich,r_chicken_pesto_sandwich,nutrislice_ingredients,,entree,2,571,1071
+chicken pho,Chicken Pho,r_chicken_pho,nutrislice_ingredients,,soup,8,224,1460
+chicken pho broth,Chicken Pho Broth,r_chicken_pho_broth,name_rule,pho broth|broth,soup,1,766,1412
+chicken potsticker,Chicken Potsticker,r_chicken_potsticker,nutrislice_ingredients,,entree,5,321,2401
+chicken salad,Chicken Salad,r_chicken_salad,nutrislice_ingredients,,salad,24,77,279
+chicken salad sandwich,Chicken Salad Sandwich,r_chicken_salad_sandwich,nutrislice_ingredients,,salad,2,572,868
+chicken sausage pancake wrap,Chicken Sausage Pancake Wrap,r_chicken_sausage_pancake_wrap,nutrislice_ingredients,,dessert,1,767,3351
+chicken tenders,Chicken Tenders,r_chicken_tenders,nutrislice_ingredients,,entree,10,198,638
+chicken thigh adobo stew,Chicken Thigh Adobo Stew,r_chicken_thigh_adobo_stew,nutrislice_ingredients,,soup,1,768,1314
+chicken thigh tinga,Chicken Thigh Tinga,r_chicken_thigh_tinga,nutrislice_ingredients,,entree,5,322,1113
+chicken tikka masala,Chicken Tikka Masala,r_chicken_tikka_masala,nutrislice_ingredients,,entree,3,461,823
+chicken tikka masala soup,Chicken Tikka Masala Soup,r_chicken_tikka_masala_soup,nutrislice_ingredients,,soup,11,183,513
+chicken tortilla soup,Chicken Tortilla Soup,r_chicken_tortilla_soup,nutrislice_ingredients,,soup,18,101,515
+chicken vegetable bao,Chicken Vegetable Bao,r_chicken_vegetable_bao,nutrislice_ingredients,,entree,3,462,2405
+chickpea apricot tagine,Chickpea Apricot Tagine,r_chickpea_apricot_tagine,nutrislice_ingredients,,entree,2,573,2468
+chickpea noodle soup,Chickpea Noodle Soup,r_chickpea_noodle_soup,nutrislice_ingredients,,soup,1,769,1733
+chile pasilla rajas spaghetti con crema,Chile Pasilla Rajas Spaghetti con Crema,r_chile_pasilla_rajas_spaghetti_con_crema,nutrislice_ingredients,,entree,1,770,765
+chili cheese beef hot dog,Chili Cheese Beef Hot Dog,r_chili_cheese_beef_hot_dog,nutrislice_ingredients,,soup,2,574,1058
+chimichurri sauce,Chimichurri Sauce,r_chimichurri_sauce,nutrislice_ingredients,,side,2,575,1757
+chipotle black bean burger,Chipotle Black Bean Burger,r_chipotle_black_bean_burger,nutrislice_ingredients,,entree,2,576,2939
+chipotle red salsa,Chipotle Red Salsa,r_chipotle_red_salsa,name_rule,salsa|tomatillo,side,1,771,1790
+chipotle turkey breast,Chipotle Turkey Breast,r_chipotle_turkey_breast,nutrislice_ingredients,,entree,3,463,1169
+chive,Chive,r_chive,name_rule,^(mint|cilantro|parsley|basil|chives?)$,entree,2,577,1560
+chive cream cheese,Chive Cream Cheese,r_chive_cream_cheese,nutrislice_ingredients,,breakfast,38,47,190
+chocolate cake,Chocolate Cake,r_chocolate_cake,nutrislice_ingredients,,dessert,1,772,1500
+chocolate chunk brownies,Chocolate Chunk Brownies,r_chocolate_chunk_brownies,nutrislice_ingredients,,dessert,22,83,1536
+chocolate sheet cake,Chocolate Sheet Cake,r_chocolate_sheet_cake,nutrislice_ingredients,,dessert,16,113,1538
+chocolate soft serve,Chocolate Soft Serve,r_chocolate_soft_serve,nutrislice_ingredients,,dessert,30,55,1823
+chocolate whipped cream pie,Chocolate Whipped Cream Pie,r_chocolate_whipped_cream_pie,nutrislice_ingredients,,dessert,3,464,1509
+chorizo chilaquiles,Chorizo Chilaquiles,r_chorizo_chilaquiles,nutrislice_ingredients,,entree,1,773,2228
+cilantro,Cilantro,r_cilantro,nutrislice_ingredients,,entree,15,133,1664
+cilantro and lime rice,Cilantro and Lime Rice,r_cilantro_and_lime_rice,nutrislice_ingredients,,side,16,114,1064
+cilantro chutney,Cilantro Chutney,r_cilantro_chutney,nutrislice_ingredients,,salad,13,161,1658
+cilantro lime beef rice bowl,Cilantro Lime Beef Rice Bowl,r_cilantro_lime_beef_rice_bowl,nutrislice_ingredients,,entree,1,774,3056
+cilantro lime chicken thigh,Cilantro Lime Chicken Thigh,r_cilantro_lime_chicken_thigh,nutrislice_ingredients,,entree,1,775,2919
+cilantro lime rice,Cilantro Lime Rice,r_cilantro_lime_rice,nutrislice_ingredients,,side,1,776,2230
+cinnamon cereal milk cake,Cinnamon Cereal Milk Cake,r_cinnamon_cereal_milk_cake,nutrislice_ingredients,,beverage,10,199,1771
+cinnamon glazed carrots,Cinnamon Glazed Carrots,r_cinnamon_glazed_carrots,nutrislice_ingredients,,entree,5,323,568
+cinnamon pancakes,Cinnamon Pancakes,r_cinnamon_pancakes,name_rule,waffle|pancake|french toast,dessert,1,777,754
+cinnamon raisin bagels,Cinnamon Raisin Bagels,r_cinnamon_raisin_bagels,nutrislice_ingredients,,breakfast,19,93,1525
+cinnamon rice pudding,Cinnamon Rice Pudding,r_cinnamon_rice_pudding,name_rule,rice|pilaf|biryani,dessert,1,778,1730
+cioppino stew,Cioppino Stew,r_cioppino_stew,nutrislice_ingredients,,soup,1,779,1312
+citrus basmati rice,Citrus Basmati Rice,r_citrus_basmati_rice,nutrislice_ingredients,,side,8,225,1030
+citrus glaze pork,Citrus Glaze Pork,r_citrus_glaze_pork,nutrislice_ingredients,,entree,3,465,942
+citrus sherry chicken,Citrus Sherry Chicken,r_citrus_sherry_chicken,nutrislice_ingredients,,entree,1,780,2374
+classic eggplant squash ratatouille,Classic Eggplant Squash Ratatouille,r_classic_eggplant_squash_ratatouille,name_rule,ratatouille,entree,1,781,675
+coconut cream pie,Coconut Cream Pie,r_coconut_cream_pie,nutrislice_ingredients,,dessert,6,274,1510
+coconut mung bean,Coconut Mung Bean,r_coconut_mung_bean,nutrislice_ingredients,,entree,1,782,708
+coconut quinoa porridge,Coconut Quinoa Porridge,r_coconut_quinoa_porridge,nutrislice_ingredients,,breakfast,2,578,962
+coconut rice,Coconut Rice,r_coconut_rice,nutrislice_ingredients,,side,4,382,1069;2402
+coleslaw dressing,Coleslaw Dressing,r_coleslaw_dressing,name_rule,dressing|vinaigrette,salad,2,579,193
+converted rice,Converted Rice,r_converted_rice,nutrislice_ingredients,,side,1,783,1065
+cooked quinoa,Cooked Quinoa,r_cooked_quinoa,nutrislice_ingredients,,salad,16,115,386
+cookie midnight vegan,Cookie Midnight VEGAN,r_cookie_midnight_vegan,name_rule,cookie|cake|pie|brownie|cobbler|bar\b|crisp,dessert,1,784,1484
+corn tortilla,Corn Tortilla,r_corn_tortilla,nutrislice_ingredients,,side,4,383,1179
+corn tortilla tostada,Corn Tortilla Tostada,r_corn_tortilla_tostada,nutrislice_ingredients,,side,3,466,188
+cornbread,Cornbread,r_cornbread,nutrislice_ingredients,,entree,2,580,629;630
+corned beef reuben sandwich,Corned Beef Reuben Sandwich,r_corned_beef_reuben_sandwich,nutrislice_ingredients,,entree,1,785,1082
+cranberry glazed chicken,Cranberry Glazed Chicken,r_cranberry_glazed_chicken,nutrislice_ingredients,,entree,2,581,1978
+cream of wheat,Cream of Wheat,r_cream_of_wheat,nutrislice_ingredients,,entree,9,210,830
+creamy chipotle chicken pasta,Creamy Chipotle Chicken Pasta,r_creamy_chipotle_chicken_pasta,nutrislice_ingredients,,entree,2,582,924
+creamy chipotle sauce,Creamy Chipotle Sauce,r_creamy_chipotle_sauce,nutrislice_ingredients,,side,3,467,1293
+creamy chipotle shrimp sauce,Creamy Chipotle Shrimp Sauce,r_creamy_chipotle_shrimp_sauce,nutrislice_ingredients,,entree,2,583,1253
+creamy garlic sauce,Creamy Garlic Sauce,r_creamy_garlic_sauce,nutrislice_ingredients,,side,2,584,242
+creamy herb mushroom penne pasta,Creamy Herb Mushroom Penne Pasta,r_creamy_herb_mushroom_penne_pasta,nutrislice_ingredients,,side,1,786,901
+creamy pesto,Creamy Pesto,r_creamy_pesto,nutrislice_ingredients,,entree,5,324,878
+creamy primavera sauce,Creamy Primavera Sauce,r_creamy_primavera_sauce,nutrislice_ingredients,,side,6,275,1176
+crinkle potato fries,Crinkle Potato Fries,r_crinkle_potato_fries,nutrislice_ingredients,,side,11,184,1376
+cristeta comerfords winter salad,Cristeta Comerford's Winter Salad,r_cristeta_comerfords_winter_salad,name_rule,salad,salad,4,384,2534
+cucumber and tomato salad,Cucumber & Tomato Salad,r_cucumber_and_tomato_salad,nutrislice_ingredients,,salad,1,787,2382
+cucumber raita,Cucumber Raita,r_cucumber_raita,nutrislice_ingredients,,entree,2,585,1833
+cumin roasted cauliflower,Cumin Roasted Cauliflower,r_cumin_roasted_cauliflower,nutrislice_ingredients,,side,6,276,815
+curry roasted cauliflower,Curry Roasted Cauliflower,r_curry_roasted_cauliflower,nutrislice_ingredients,,entree,12,170,1344;819
+curry roasted vegetables,Curry-Roasted Vegetables,r_curry_roasted_vegetables,nutrislice_ingredients,,entree,1,788,2475
+custard pie,Custard Pie,r_custard_pie,nutrislice_ingredients,,dessert,13,162,1568
+dairy free vanilla yogurt,Dairy Free Vanilla Yogurt,r_dairy_free_vanilla_yogurt,nutrislice_ingredients,,breakfast,4,385,3012
+denver eggs scramble,Denver Eggs Scramble,r_denver_eggs_scramble,nutrislice_ingredients,,breakfast,4,386,352
+diced cucumbers,Diced Cucumbers,r_diced_cucumbers,nutrislice_ingredients,,salad,28,62,2266
+diced green onion,Diced Green Onion,r_diced_green_onion,nutrislice_ingredients,,entree,5,325,1671
+diced tomato,Diced Tomato,r_diced_tomato,nutrislice_ingredients,,entree,6,277,1523
+dim sum style gailon,Dim Sum Style Gailon,r_dim_sum_style_gailon,nutrislice_ingredients,,entree,1,789,542
+dinner rolls,Dinner Rolls,r_dinner_rolls,nutrislice_ingredients,,side,4,387,1918
+dirty converted rice,Dirty Converted Rice,r_dirty_converted_rice,nutrislice_ingredients,,side,1,790,1073
+dried cranberries,Dried Cranberries,r_dried_cranberries,name_rule,dried cranberr|raisin,entree,1,791,189
+dried cranberry,Dried Cranberry,r_dried_cranberry,nutrislice_ingredients,,salad,104,12,2407
+edamame potsticker,Edamame Potsticker,r_edamame_potsticker,nutrislice_ingredients,,entree,2,586,2397
+egg and cheese english muffin sandwich,Egg and Cheese English Muffin Sandwich,r_egg_and_cheese_english_muffin_sandwich,nutrislice_ingredients,,breakfast,1,792,1150
+egg pasta noodle,Egg Pasta Noodle,r_egg_pasta_noodle,nutrislice_ingredients,,breakfast,8,226,715
+egg salad,Egg Salad,r_egg_salad,nutrislice_ingredients,,salad,81,22,3151
+eggplant mushroom and hummus sandwich,Eggplant Mushroom and Hummus Sandwich,r_eggplant_mushroom_and_hummus_sandwich,nutrislice_ingredients,,entree,2,587,1151
+eggplant parmesan vegan,Eggplant Parmesan (Vegan),r_eggplant_parmesan_vegan,nutrislice_ingredients,,entree,1,793,2477
+eggplant reuben sandwich,Eggplant Reuben Sandwich,r_eggplant_reuben_sandwich,nutrislice_ingredients,,entree,2,588,1152
+elbow macaroni pasta,Elbow Macaroni Pasta,r_elbow_macaroni_pasta,nutrislice_ingredients,,dessert,1,794,275
+elote steamed corn,Elote Steamed Corn,r_elote_steamed_corn,nutrislice_ingredients,,side,2,589,645
+english cucumbers,English Cucumbers,r_english_cucumbers,nutrislice_ingredients,,salad,17,106,2265
+esquites,Esquites,r_esquites,nutrislice_ingredients,,entree,1,795,1750
+everything bagels,Everything Bagels,r_everything_bagels,nutrislice_ingredients,,breakfast,17,107,1526
+fajita spice blend,Fajita Spice Blend,r_fajita_spice_blend,nutrislice_ingredients,,entree,1,796,345
+falafel,Falafel,r_falafel,nutrislice_ingredients,,entree,1,797,682
+farfalle pasta,Farfalle Pasta,r_farfalle_pasta,nutrislice_ingredients,,side,20,87,437
+farfalle with spinach and gorgonzola pasta,Farfalle with Spinach and Gorgonzola Pasta,r_farfalle_with_spinach_and_gorgonzola_pasta,nutrislice_ingredients,,side,1,798,919
+farro pilaf,Farro Pilaf,r_farro_pilaf,nutrislice_ingredients,,side,2,590,897
+fettuccine pasta,Fettuccine Pasta,r_fettuccine_pasta,nutrislice_ingredients,,side,2,591,441
+fettucini alfredo pasta,Fettucini Alfredo Pasta,r_fettucini_alfredo_pasta,nutrislice_ingredients,,side,2,592,768
+fiery veggie chili,Fiery Veggie Chili,r_fiery_veggie_chili,nutrislice_ingredients,,soup,17,108,1466
+filipino styled pork adobo stew,Filipino Styled Pork Adobo Stew,r_filipino_styled_pork_adobo_stew,nutrislice_ingredients,,soup,1,799,959
+five spice roasted broccoli,Five Spice Roasted Broccoli,r_five_spice_roasted_broccoli,nutrislice_ingredients,,side,2,593,453
+flour tortilla,Flour Tortilla,r_flour_tortilla,nutrislice_ingredients,,side,15,134,1178
+forbidden rice,Forbidden Rice,r_forbidden_rice,nutrislice_ingredients,,side,19,94,1079
+four cheese andouille pizza,Four Cheese Andouille Pizza,r_four_cheese_andouille_pizza,nutrislice_ingredients,,entree,1,800,835
+french cream cheesecake,French Cream Cheesecake,r_french_cream_cheesecake,nutrislice_ingredients,,dessert,4,388,3257
+french dinner roll,French Dinner Roll,r_french_dinner_roll,nutrislice_ingredients,,side,5,326,3286
+french toast,French Toast,r_french_toast,nutrislice_ingredients,,breakfast,16,116,1634;537
+french toast sticks,French Toast Sticks,r_french_toast_sticks,nutrislice_ingredients,,breakfast,3,468,3310
+fried breaded cod with tartar sauce,Fried Breaded Cod with Tartar Sauce,r_fried_breaded_cod_with_tartar_sauce,nutrislice_ingredients,,side,1,801,1201
+fried garlic,Fried Garlic,r_fried_garlic,nutrislice_ingredients,,entree,2,594,218
+fried green tomatoes,Fried Green Tomatoes,r_fried_green_tomatoes,nutrislice_ingredients,,entree,1,802,3131
+fried okra,Fried Okra,r_fried_okra,nutrislice_ingredients,,entree,2,595,3129;738
+fried orange tofu,Fried Orange Tofu,r_fried_orange_tofu,nutrislice_ingredients,,entree,3,469,1264
+fried over medium eggs,Fried Over Medium Eggs,r_fried_over_medium_eggs,nutrislice_ingredients,,breakfast,1,803,591
+fried pakora,Fried Pakora,r_fried_pakora,nutrislice_ingredients,,salad,4,389,748
+fried potato cubes,Fried Potato Cubes,r_fried_potato_cubes,nutrislice_ingredients,,side,3,470,964
+fried samosa,Fried Samosa,r_fried_samosa,nutrislice_ingredients,,salad,9,211,782
+fried sesame tofu,Fried Sesame Tofu,r_fried_sesame_tofu,nutrislice_ingredients,,entree,1,804,1222
+fried tater tots,Fried Tater Tots,r_fried_tater_tots,nutrislice_ingredients,,entree,13,163,966
+fried tator tots,Fried Tator Tots,r_fried_tator_tots,name_rule,fries|tots|tator|tater,entree,3,471,966
+fried teriyaki tofu,Fried Teriyaki Tofu,r_fried_teriyaki_tofu,nutrislice_ingredients,,entree,7,250,1185
+fruit salad,Fruit Salad,r_fruit_salad,nutrislice_ingredients,,salad,15,135,1633
+fruits of the forest pie,Fruits of the Forest Pie,r_fruits_of_the_forest_pie,nutrislice_ingredients,,dessert,11,185,1547
+garbanzo bean and cherry tomato salad,Garbanzo Bean and Cherry Tomato Salad,r_garbanzo_bean_and_cherry_tomato_salad,nutrislice_ingredients,,salad,2,596,693
+garbanzo bean and squash vindaloo,Garbanzo Bean and Squash Vindaloo,r_garbanzo_bean_and_squash_vindaloo,nutrislice_ingredients,,entree,2,597,401
+garbanzo beans,Garbanzo Beans,r_garbanzo_beans,nutrislice_ingredients,,salad,61,32,109;398
+garbanzo beans and potato stew,Garbanzo Beans and Potato Stew,r_garbanzo_beans_and_potato_stew,nutrislice_ingredients,,soup,1,805,1320
+gardein bbq sandwich,Gardein BBQ Sandwich,r_gardein_bbq_sandwich,nutrislice_ingredients,,entree,2,598,1074
+gardein strip fajitas,Gardein Strip Fajitas,r_gardein_strip_fajitas,nutrislice_ingredients,,entree,4,390,1118
+garlic and parsely spaghetti,Garlic and Parsely Spaghetti,r_garlic_and_parsely_spaghetti,nutrislice_ingredients,,entree,1,806,454
+garlic and thyme pilaf rice,Garlic and Thyme Pilaf Rice,r_garlic_and_thyme_pilaf_rice,name_rule,rice|pilaf|biryani,side,2,599,1038
+garlic bread,Garlic Bread,r_garlic_bread,nutrislice_ingredients,,side,7,251,521
+garlic cheese crouton,Garlic Cheese Crouton,r_garlic_cheese_crouton,nutrislice_ingredients,,salad,93,16,2406
+garlic citrus tofu,Garlic Citrus Tofu,r_garlic_citrus_tofu,nutrislice_ingredients,,entree,2,600,2167
+garlic fried rice,Garlic Fried Rice,r_garlic_fried_rice,nutrislice_ingredients,,side,6,278,1208
+garlic fries,Garlic Fries,r_garlic_fries,nutrislice_ingredients,,side,4,391,995
+garlic green beans,Garlic Green Beans,r_garlic_green_beans,nutrislice_ingredients,,side,2,601,1871
+garlic naan,Garlic Naan,r_garlic_naan,nutrislice_ingredients,,side,3,472,524
+garlic potato wedges,Garlic Potato Wedges,r_garlic_potato_wedges,nutrislice_ingredients,,side,2,602,1004
+garlic roasted broccoli,Garlic Roasted Broccoli,r_garlic_roasted_broccoli,nutrislice_ingredients,,side,15,136,459
+garlic roasted broccolini,Garlic Roasted Broccolini,r_garlic_roasted_broccolini,nutrislice_ingredients,,side,3,473,471
+garlic roasted cauliflower,Garlic Roasted Cauliflower,r_garlic_roasted_cauliflower,nutrislice_ingredients,,side,8,227,824
+garlic roasted gai lan,Garlic Roasted Gai Lan,r_garlic_roasted_gai_lan,nutrislice_ingredients,,side,3,474,543
+garlic thyme sauteed chicken,Garlic Thyme Sauteed Chicken,r_garlic_thyme_sauteed_chicken,name_rule,chicken,entree,1,807,138
+garlic toast,Garlic Toast,r_garlic_toast,nutrislice_ingredients,,entree,11,186,3016
+german chocolate cake,German Chocolate Cake,r_german_chocolate_cake,nutrislice_ingredients,,dessert,16,117,1501
+ginger burmese salad,Ginger Burmese Salad,r_ginger_burmese_salad,nutrislice_ingredients,,salad,1,808,648
+ginger pear and raisin relish,Ginger Pear and Raisin Relish,r_ginger_pear_and_raisin_relish,nutrislice_ingredients,,entree,1,809,927
+ginger tofu,Ginger Tofu,r_ginger_tofu,nutrislice_ingredients,,entree,4,392,1434
+gluten free granola,Gluten Free Granola,r_gluten_free_granola,nutrislice_ingredients,,breakfast,6,279,1628
+gluten free mac and cheese,Gluten Free Mac & Cheese,r_gluten_free_mac_and_cheese,nutrislice_ingredients,,entree,3,475,3254
+gluten free macaroni pasta,Gluten Free Macaroni Pasta,r_gluten_free_macaroni_pasta,nutrislice_ingredients,,dessert,4,393,1350
+gluten free penne pasta,Gluten Free Penne Pasta,r_gluten_free_penne_pasta,nutrislice_ingredients,,side,43,43,769
+gluten free vegan egg and cheese sandwich,Gluten Free Vegan Egg and Cheese Sandwich,r_gluten_free_vegan_egg_and_cheese_sandwich,nutrislice_ingredients,,breakfast,4,394,1086
+gold beets,Gold Beets,r_gold_beets,nutrislice_ingredients,,salad,28,63,2255
+golden turmeric basmati rice,Golden Turmeric Basmati Rice,r_golden_turmeric_basmati_rice,nutrislice_ingredients,,side,1,810,2461
+gomen collard greens,Gomen Collard Greens,r_gomen_collard_greens,name_rule,collard|greens|kale,side,1,811,545
+grandma marys chicken soup,Grandma Mary's Chicken Soup,r_grandma_marys_chicken_soup,nutrislice_ingredients,,soup,19,95,511
+grape tomato,Grape Tomato,r_grape_tomato,nutrislice_ingredients,,salad,92,17,2269
+grated cotija cheese,Grated Cotija Cheese,r_grated_cotija_cheese,nutrislice_ingredients,,entree,2,603,1655
+greek chicken pizza,Greek Chicken Pizza,r_greek_chicken_pizza,nutrislice_ingredients,,entree,5,327,840
+green beans garlic stir fry,Green Beans Garlic Stir Fry,r_green_beans_garlic_stir_fry,nutrislice_ingredients,,entree,4,395,1444
+griddled pork ham,Griddled Pork Ham,r_griddled_pork_ham,nutrislice_ingredients,,entree,2,604,931
+grilled asparagus,Grilled Asparagus,r_grilled_asparagus,name_rule,asparagus|brussel,breakfast,1,812,1160
+grilled balsamic brussels sprouts,Grilled Balsamic Brussels Sprouts,r_grilled_balsamic_brussels_sprouts,name_rule,brussels,side,2,605,481
+grilled boneless pork chop,Grilled Boneless Pork Chop,r_grilled_boneless_pork_chop,nutrislice_ingredients,,entree,1,813,889
+grilled cajun salmon,Grilled Cajun Salmon,r_grilled_cajun_salmon,nutrislice_ingredients,,entree,1,814,1234
+grilled cheese sandwich,Grilled Cheese Sandwich,r_grilled_cheese_sandwich,nutrislice_ingredients,,entree,5,328,784
+grilled eggplant,Grilled Eggplant,r_grilled_eggplant,nutrislice_ingredients,,entree,6,280,667
+grilled longanisa,Grilled Longanisa,r_grilled_longanisa,nutrislice_ingredients,,entree,1,815,1828
+grilled paprika tofu,Grilled Paprika Tofu,r_grilled_paprika_tofu,nutrislice_ingredients,,entree,3,476,1244
+grilled pork,Grilled Pork,r_grilled_pork,nutrislice_ingredients,,entree,3,477,890
+grilled teriyaki chicken thigh,Grilled Teriyaki Chicken Thigh,r_grilled_teriyaki_chicken_thigh,nutrislice_ingredients,,entree,1,816,393
+grilled yellow zucchini,Grilled Yellow Zucchini,r_grilled_yellow_zucchini,nutrislice_ingredients,,entree,4,396,938
+grits,Grits,r_grits,nutrislice_ingredients,,entree,8,228,590
+guacamole,Guacamole,r_guacamole,nutrislice_ingredients,,salad,5,329,594
+halal american beef burger,Halal American Beef Burger,r_halal_american_beef_burger,nutrislice_ingredients,,entree,8,229,872
+halal apple cider glazed chicken,Halal Apple Cider Glazed Chicken,r_halal_apple_cider_glazed_chicken,nutrislice_ingredients,,entree,1,817,1912
+halal assorted mini danish,Halal Assorted Mini Danish,r_halal_assorted_mini_danish,nutrislice_ingredients,,breakfast,5,330,3218
+halal baja fish taco,Halal Baja Fish Taco,r_halal_baja_fish_taco,nutrislice_ingredients,,entree,1,818,1891
+halal baked jade pesto salmon,Halal Baked Jade Pesto Salmon,r_halal_baked_jade_pesto_salmon,nutrislice_ingredients,,entree,1,819,1963
+halal baked pineapple teriyaki salmon,Halal Baked Pineapple Teriyaki Salmon,r_halal_baked_pineapple_teriyaki_salmon,nutrislice_ingredients,,entree,1,820,1243
+halal baked tandori chicken thigh,Halal Baked Tandori Chicken Thigh,r_halal_baked_tandori_chicken_thigh,nutrislice_ingredients,,entree,3,478,1111
+halal banh mi chicken sandwich,Halal Banh Mi Chicken Sandwich,r_halal_banh_mi_chicken_sandwich,nutrislice_ingredients,,entree,3,479,293
+halal bbq roasted chicken,Halal BBQ Roasted Chicken,r_halal_bbq_roasted_chicken,nutrislice_ingredients,,entree,2,606,781
+halal beef bolognese sauce,Halal Beef Bolognese Sauce,r_halal_beef_bolognese_sauce,nutrislice_ingredients,,entree,6,281,1895
+halal beef fajitas,Halal Beef Fajitas,r_halal_beef_fajitas,nutrislice_ingredients,,entree,1,821,600
+halal beef marinara sauce,Halal Beef Marinara Sauce,r_halal_beef_marinara_sauce,nutrislice_ingredients,,entree,7,252,1338
+halal beef mushroom burger,Halal Beef Mushroom Burger,r_halal_beef_mushroom_burger,name_rule,beef,entree,1,822,1045
+halal beef patty,Halal Beef Patty,r_halal_beef_patty,nutrislice_ingredients,,entree,4,397,3301
+halal beef sausage link,Halal Beef Sausage Link,r_halal_beef_sausage_link,nutrislice_ingredients,,entree,5,331,3302
+halal beef stew,Halal Beef Stew,r_halal_beef_stew,name_rule,\b(soup|stew|bisque|chowder|caldo)\b,soup,1,823,1884
+halal beef stroganoff,Halal Beef Stroganoff,r_halal_beef_stroganoff,nutrislice_ingredients,,entree,1,824,1922
+halal blue sage beef burger,Halal Blue Sage Beef Burger,r_halal_blue_sage_beef_burger,nutrislice_ingredients,,entree,1,825,1012
+halal braised chicken with tomatoes onion and garlic,Halal Braised Chicken with Tomatoes Onion & Garlic,r_halal_braised_chicken_with_tomatoes_onion_and_garlic,name_rule,chicken,entree,1,826,2586
+halal broccoli beef,Halal Broccoli Beef,r_halal_broccoli_beef,nutrislice_ingredients,,entree,8,230,1334
+halal buffalo chicken wrap,Halal Buffalo Chicken Wrap,r_halal_buffalo_chicken_wrap,nutrislice_ingredients,,entree,1,827,2012
+halal cacciatore chicken breast,Halal Cacciatore Chicken Breast,r_halal_cacciatore_chicken_breast,nutrislice_ingredients,,entree,1,828,1970
+halal cajun grilled salmon,Halal Cajun Grilled Salmon,r_halal_cajun_grilled_salmon,nutrislice_ingredients,,entree,1,829,1965
+halal chicken banh mi sandwich,Halal Chicken Banh Mi Sandwich,r_halal_chicken_banh_mi_sandwich,nutrislice_ingredients,,entree,1,830,1982
+halal chicken biryani,Halal Chicken Biryani,r_halal_chicken_biryani,nutrislice_ingredients,,entree,1,831,2543
+halal chicken breast,Halal Chicken Breast,r_halal_chicken_breast,nutrislice_ingredients,,entree,8,231,848
+halal chicken inasal,Halal Chicken Inasal,r_halal_chicken_inasal,nutrislice_ingredients,,entree,1,832,1827
+halal chicken shawarma,Halal Chicken Shawarma,r_halal_chicken_shawarma,nutrislice_ingredients,,entree,1,833,1961
+halal chicken thigh,Halal Chicken Thigh,r_halal_chicken_thigh,nutrislice_ingredients,,entree,24,78,1571
+halal chicken thigh fajitas,Halal Chicken Thigh Fajitas,r_halal_chicken_thigh_fajitas,nutrislice_ingredients,,entree,3,480,934
+halal chicken tikka masala,Halal Chicken Tikka Masala,r_halal_chicken_tikka_masala,nutrislice_ingredients,,entree,2,607,1316
+halal chimichuri grilled tri tip,Halal Chimichuri Grilled Tri Tip,r_halal_chimichuri_grilled_tri_tip,nutrislice_ingredients,,entree,1,834,1873
+halal chimichuri tri tip,Halal Chimichuri Tri Tip,r_halal_chimichuri_tri_tip,nutrislice_ingredients,,entree,2,608,435
+halal chipotle chicken breast,Halal Chipotle Chicken Breast,r_halal_chipotle_chicken_breast,nutrislice_ingredients,,entree,5,332,1843
+halal chipotle sauce,Halal Chipotle Sauce,r_halal_chipotle_sauce,nutrislice_ingredients,,side,2,609,3228
+halal coconut curry chicken breast,Halal Coconut Curry Chicken Breast,r_halal_coconut_curry_chicken_breast,nutrislice_ingredients,,entree,1,835,1842
+halal creamy polenta,Halal Creamy Polenta,r_halal_creamy_polenta,nutrislice_ingredients,,side,1,836,2051
+halal curried chicken breast,Halal Curried Chicken Breast,r_halal_curried_chicken_breast,nutrislice_ingredients,,entree,1,837,1874
+halal french toast,Halal French Toast,r_halal_french_toast,nutrislice_ingredients,,breakfast,2,610,534
+halal fried green beans,Halal Fried Green Beans,r_halal_fried_green_beans,nutrislice_ingredients,,side,2,611,1840
+halal ginger steamed rockfish,Halal Ginger Steamed Rockfish,r_halal_ginger_steamed_rockfish,nutrislice_ingredients,,entree,1,838,1226
+halal glazed beef meatloaf,Halal Glazed Beef Meatloaf,r_halal_glazed_beef_meatloaf,nutrislice_ingredients,,entree,1,839,1883
+halal ground beef,Halal Ground Beef,r_halal_ground_beef,nutrislice_ingredients,,entree,65,31,799
+halal herb roasted chicken,Halal Herb Roasted Chicken,r_halal_herb_roasted_chicken,name_rule,chicken,entree,1,840,971
+halal herb roasted chicken thigh,Halal Herb Roasted Chicken Thigh,r_halal_herb_roasted_chicken_thigh,nutrislice_ingredients,,entree,1,841,1875
+halal herb roasted tri tip,Halal Herb Roasted Tri Tip,r_halal_herb_roasted_tri_tip,nutrislice_ingredients,,entree,1,842,1896
+halal honey mustard baked chicken thigh,Halal Honey Mustard Baked Chicken Thigh,r_halal_honey_mustard_baked_chicken_thigh,nutrislice_ingredients,,entree,1,843,973
+halal honey mustard chicken thigh,Halal Honey Mustard Chicken Thigh,r_halal_honey_mustard_chicken_thigh,nutrislice_ingredients,,entree,1,844,1957
+halal huli grilled chicken thigh,Halal Huli Grilled Chicken Thigh,r_halal_huli_grilled_chicken_thigh,nutrislice_ingredients,,entree,1,845,1958
+halal java beef curry,Halal Java Beef Curry,r_halal_java_beef_curry,nutrislice_ingredients,,entree,2,612,1848
+halal jerk baked chicken thigh,Halal Jerk Baked Chicken Thigh,r_halal_jerk_baked_chicken_thigh,nutrislice_ingredients,,entree,5,333,953
+halal lemon butter baked tilapia,Halal Lemon Butter Baked Tilapia,r_halal_lemon_butter_baked_tilapia,nutrislice_ingredients,,entree,1,846,1943
+halal macaroni cheeseburger,Halal Macaroni Cheeseburger,r_halal_macaroni_cheeseburger,nutrislice_ingredients,,dessert,3,481,2000
+halal mediterranean baked chicken breast,Halal Mediterranean Baked Chicken Breast,r_halal_mediterranean_baked_chicken_breast,nutrislice_ingredients,,entree,1,847,1876
+halal mustard potato salad,Halal Mustard Potato Salad,r_halal_mustard_potato_salad,nutrislice_ingredients,,salad,1,848,2093
+halal north african style roasted chicken,Halal North African-style Roasted Chicken,r_halal_north_african_style_roasted_chicken,nutrislice_ingredients,,entree,8,232,792
+halal rendang beef stew,Halal Rendang Beef Stew,r_halal_rendang_beef_stew,nutrislice_ingredients,,soup,1,849,1839
+halal roasted tri tip,Halal Roasted Tri Tip,r_halal_roasted_tri_tip,nutrislice_ingredients,,entree,10,200,440
+halal rosemary chicken,Halal Rosemary Chicken,r_halal_rosemary_chicken,nutrislice_ingredients,,entree,2,613,1333
+halal rosemary roasted chicken thigh,Halal Rosemary Roasted Chicken Thigh,r_halal_rosemary_roasted_chicken_thigh,nutrislice_ingredients,,entree,7,253,1332
+halal santa maria tri tip,Halal Santa Maria Tri Tip,r_halal_santa_maria_tri_tip,nutrislice_ingredients,,entree,1,850,446
+halal sauteed chicken fajita,Halal Sauteed Chicken Fajita,r_halal_sauteed_chicken_fajita,nutrislice_ingredients,,entree,1,851,1983
+halal taco seasoned ground beef,Halal Taco Seasoned Ground Beef,r_halal_taco_seasoned_ground_beef,nutrislice_ingredients,,entree,1,852,2072
+halal taco style ground beef,Halal Taco-style Ground Beef,r_halal_taco_style_ground_beef,nutrislice_ingredients,,entree,2,614,129
+halal teriyaki chicken thigh,Halal Teriyaki Chicken Thigh,r_halal_teriyaki_chicken_thigh,nutrislice_ingredients,,entree,3,482,179
+halal toasted garbanzo beans,Halal Toasted Garbanzo Beans,r_halal_toasted_garbanzo_beans,nutrislice_ingredients,,side,1,853,2582
+halal turkey strip,Halal Turkey Strip,r_halal_turkey_strip,nutrislice_ingredients,,entree,5,334,3303
+halal tzatziki sauce,Halal Tzatziki Sauce,r_halal_tzatziki_sauce,nutrislice_ingredients,,side,1,854,803
+halal vegan chicken tenders,Halal Vegan Chicken Tenders,r_halal_vegan_chicken_tenders,name_rule,chicken,entree,1,855,422
+halal vegan huli huli protein strips,Halal Vegan Huli Huli Protein Strips,r_halal_vegan_huli_huli_protein_strips,nutrislice_ingredients,,entree,1,856,1218
+halal vegetable paella,Halal Vegetable Paella,r_halal_vegetable_paella,nutrislice_ingredients,,entree,1,857,2003
+halal vindaloo chicken thigh,Halal Vindaloo Chicken Thigh,r_halal_vindaloo_chicken_thigh,nutrislice_ingredients,,entree,2,615,1115
+ham and artichoke pizza,Ham and Artichoke Pizza,r_ham_and_artichoke_pizza,nutrislice_ingredients,,entree,4,398,806
+ham and cheddar eggs scramble,Ham and Cheddar Eggs Scramble,r_ham_and_cheddar_eggs_scramble,nutrislice_ingredients,,breakfast,2,616,982
+hardboiled eggs,Hardboiled Eggs,r_hardboiled_eggs,nutrislice_ingredients,,breakfast,11,187,167
+harissa roasted chicken,Harissa Roasted Chicken,r_harissa_roasted_chicken,nutrislice_ingredients,,entree,1,858,834
+hash brown patty,Hash Brown Patty,r_hash_brown_patty,nutrislice_ingredients,,breakfast,2,617,1382
+hashbrown patties,Hashbrown Patties,r_hashbrown_patties,nutrislice_ingredients,,entree,14,148,602
+hawaiian dinner roll,Hawaiian Dinner Roll,r_hawaiian_dinner_roll,nutrislice_ingredients,,side,26,67,1554
+hawaiian huli huli chicken thighs halal,Hawaiian Huli Huli Chicken Thighs HALAL,r_hawaiian_huli_huli_chicken_thighs_halal,nutrislice_ingredients,,entree,1,859,2829
+hawaiian macaroni salad,Hawaiian Macaroni Salad,r_hawaiian_macaroni_salad,nutrislice_ingredients,,dessert,1,860,2928
+hawaiian pizza,Hawaiian Pizza,r_hawaiian_pizza,nutrislice_ingredients,,entree,5,335,842
+heirloom tomato,Heirloom Tomato,r_heirloom_tomato,nutrislice_ingredients,,salad,17,109,2270
+herb grilled chicken breast,Herb Grilled Chicken Breast,r_herb_grilled_chicken_breast,nutrislice_ingredients,,entree,4,399,166
+herb roasted tri tip,Herb Roasted Tri Tip,r_herb_roasted_tri_tip,name_rule,tri tip|lamb,entree,3,483,438
+herbed roasted beef tri tip,Herbed Roasted Beef Tri Tip,r_herbed_roasted_beef_tri_tip,nutrislice_ingredients,,entree,1,861,3300
+himalayan red rice,Himalayan Red Rice,r_himalayan_red_rice,nutrislice_ingredients,,side,13,164,1062
+home fries,Home Fries,r_home_fries,nutrislice_ingredients,,side,10,201,969
+hominy,Hominy,r_hominy,nutrislice_ingredients,,entree,4,400,434
+honey balsamic roasted carrots,Honey Balsamic Roasted Carrots,r_honey_balsamic_roasted_carrots,nutrislice_ingredients,,side,2,618,2059
+honey glazed carrots,Honey Glazed Carrots,r_honey_glazed_carrots,nutrislice_ingredients,,entree,4,401,572
+honey mustard baked chicken thigh,Honey Mustard Baked Chicken Thigh,r_honey_mustard_baked_chicken_thigh,name_rule,chicken,entree,1,862,973
+honey mustard pork,Honey Mustard Pork,r_honey_mustard_pork,nutrislice_ingredients,,entree,1,863,948
+housemade bbq potato chips,Housemade BBQ Potato Chips,r_housemade_bbq_potato_chips,name_rule,potato|hash,side,1,864,423
+housemade cajun potato chips,Housemade Cajun Potato Chips,r_housemade_cajun_potato_chips,nutrislice_ingredients,,side,6,282,425
+housemade corn tortilla chips,Housemade Corn Tortilla Chips,r_housemade_corn_tortilla_chips,nutrislice_ingredients,,side,4,402,1180
+housemade hummus,Housemade Hummus,r_housemade_hummus,nutrislice_ingredients,,salad,4,403,606
+housemade lemon pepper potato chips,Housemade Lemon Pepper Potato Chips,r_housemade_lemon_pepper_potato_chips,nutrislice_ingredients,,side,6,283,424
+housemade marinara sauce,Housemade Marinara Sauce,r_housemade_marinara_sauce,nutrislice_ingredients,,side,3,484,1337
+housemade potato chips,Housemade Potato Chips,r_housemade_potato_chips,nutrislice_ingredients,,side,5,336,427
+housemade vegan cheese sauce,Housemade Vegan Cheese Sauce,r_housemade_vegan_cheese_sauce,nutrislice_ingredients,,side,2,619,1349
+hummus,Hummus,r_hummus,nutrislice_ingredients,,salad,33,50,2989
+iskender kebap lentil,Iskender Kebap Lentil,r_iskender_kebap_lentil,nutrislice_ingredients,,entree,1,865,619
+italian dressing,Italian Dressing,r_italian_dressing,nutrislice_ingredients,,salad,113,7,2417
+italian ragu ground lamb,Italian Ragu Ground Lamb,r_italian_ragu_ground_lamb,nutrislice_ingredients,,entree,3,485,235
+italian sausage and provolone cheese sandwich,Italian Sausage and Provolone Cheese Sandwich,r_italian_sausage_and_provolone_cheese_sandwich,nutrislice_ingredients,,entree,2,620,1098
+italian vegetable blend,Italian Vegetable Blend,r_italian_vegetable_blend,nutrislice_ingredients,,entree,10,202,1017
+jalapeno cheddar mac and cheese,Jalapeno Cheddar Mac & Cheese,r_jalapeno_cheddar_mac_and_cheese,nutrislice_ingredients,,entree,2,621,2090
+jalapeno rings,Jalapeno Rings,r_jalapeno_rings,nutrislice_ingredients,,entree,8,233,1562
+jamaican chickpea white,Jamaican Chickpea White,r_jamaican_chickpea_white,nutrislice_ingredients,,entree,2,622,1068
+jamaican corn porridge,Jamaican Corn Porridge,r_jamaican_corn_porridge,name_rule,oatmeal|porridge,side,1,866,961
+jamaican rice and peas,Jamaican Rice and Peas,r_jamaican_rice_and_peas,nutrislice_ingredients,,side,2,623,2236
+japanese cucumber salad sunomono,Japanese Cucumber Salad (Sunomono),r_japanese_cucumber_salad_sunomono,nutrislice_ingredients,,salad,2,624,2932
+japanese curry,Japanese Curry,r_japanese_curry,nutrislice_ingredients,,entree,1,867,243
+jasmine rice,Jasmine Rice,r_jasmine_rice,nutrislice_ingredients,,side,55,36,672
+java beef curry,Java Beef Curry,r_java_beef_curry,nutrislice_ingredients,,entree,1,868,118
+jerk spiced vegetables and garbanzo beans,Jerk-Spiced Vegetables & Garbanzo Beans,r_jerk_spiced_vegetables_and_garbanzo_beans,nutrislice_ingredients,,side,1,869,2776
+jeweled basmati rice,Jeweled Basmati Rice,r_jeweled_basmati_rice,nutrislice_ingredients,,side,3,486,772
+julia childs beef bourguignon,Julia Child's Beef Bourguignon,r_julia_childs_beef_bourguignon,name_rule,beef,entree,3,487,2489
+kachumber salad,Kachumber Salad,r_kachumber_salad,nutrislice_ingredients,,salad,2,625,614
+kale eggplant stir fry,Kale Eggplant Stir Fry,r_kale_eggplant_stir_fry,nutrislice_ingredients,,entree,3,488,1419
+kale pesto fettuccine,Kale Pesto Fettuccine,r_kale_pesto_fettuccine,nutrislice_ingredients,,entree,1,870,767
+kale polenta with sundried tomato pesto,Kale Polenta with Sundried Tomato Pesto,r_kale_polenta_with_sundried_tomato_pesto,nutrislice_ingredients,,side,2,626,879
+kalua pork,Kalua Pork,r_kalua_pork,nutrislice_ingredients,,entree,1,871,941
+key lime pie,Key Lime Pie,r_key_lime_pie,nutrislice_ingredients,,dessert,3,489,1511
+kidney beans,Kidney Beans,r_kidney_beans,nutrislice_ingredients,,side,16,118,403
+kimchi,Kimchi,r_kimchi,nutrislice_ingredients,,entree,6,284,1563
+kimchi chicken potsticker,Kimchi Chicken Potsticker,r_kimchi_chicken_potsticker,nutrislice_ingredients,,entree,1,872,2359
+korean bbq sauce,Korean BBQ Sauce,r_korean_bbq_sauce,nutrislice_ingredients,,side,1,873,1676
+korean bbq style chicken tenders,Korean BBQ-style Chicken Tenders,r_korean_bbq_style_chicken_tenders,nutrislice_ingredients,,entree,2,627,640
+korean style fried chicken,Korean Style Fried Chicken,r_korean_style_fried_chicken,nutrislice_ingredients,,entree,2,628,2280
+kosher bbq baked chicken,Kosher BBQ Baked Chicken,r_kosher_bbq_baked_chicken,nutrislice_ingredients,,entree,1,874,779
+kosher beef chili colorado,Kosher Beef Chili Colorado,r_kosher_beef_chili_colorado,nutrislice_ingredients,,soup,2,629,732
+kosher beef stew,Kosher Beef Stew,r_kosher_beef_stew,nutrislice_ingredients,,soup,1,875,1281
+kosher chicken adobo stew,Kosher Chicken Adobo Stew,r_kosher_chicken_adobo_stew,nutrislice_ingredients,,soup,1,876,1624
+kosher chicken fajita,Kosher Chicken Fajita,r_kosher_chicken_fajita,nutrislice_ingredients,,entree,2,630,1616
+kosher chicken pozole,Kosher Chicken Pozole,r_kosher_chicken_pozole,nutrislice_ingredients,,soup,1,877,1760
+kosher egg salad,Kosher Egg Salad,r_kosher_egg_salad,nutrislice_ingredients,,salad,4,404,281
+kosher ginger steamed tilapia,Kosher Ginger Steamed Tilapia,r_kosher_ginger_steamed_tilapia,nutrislice_ingredients,,side,1,878,1597
+kosher grilled chicken thigh shawarma,Kosher Grilled Chicken Thigh Shawarma,r_kosher_grilled_chicken_thigh_shawarma,nutrislice_ingredients,,entree,1,879,1620
+kosher herb roasted beef with gravy,Kosher Herb Roasted Beef with Gravy,r_kosher_herb_roasted_beef_with_gravy,nutrislice_ingredients,,entree,3,490,125
+kosher herb roasted chicken,Kosher Herb Roasted Chicken,r_kosher_herb_roasted_chicken,nutrislice_ingredients,,entree,1,880,162
+kosher herb roasted turkey breast,Kosher Herb Roasted Turkey Breast,r_kosher_herb_roasted_turkey_breast,nutrislice_ingredients,,entree,2,631,1610
+kosher huli grilled chicken thigh,Kosher Huli Grilled Chicken Thigh,r_kosher_huli_grilled_chicken_thigh,nutrislice_ingredients,,entree,1,881,1618
+kosher jerk baked chicken,Kosher Jerk Baked Chicken,r_kosher_jerk_baked_chicken,nutrislice_ingredients,,entree,1,882,790
+kosher north african style roasted chicken,Kosher North African-style Roasted Chicken,r_kosher_north_african_style_roasted_chicken,name_rule,chicken,entree,1,883,793
+kosher paprika grilled chicken breast,Kosher Paprika Grilled Chicken Breast,r_kosher_paprika_grilled_chicken_breast,nutrislice_ingredients,,entree,1,884,1614
+kosher roasted teriyaki chicken thigh,Kosher Roasted Teriyaki Chicken Thigh,r_kosher_roasted_teriyaki_chicken_thigh,nutrislice_ingredients,,entree,1,885,1609
+kosher sauteed ground beef,Kosher Sauteed Ground Beef,r_kosher_sauteed_ground_beef,nutrislice_ingredients,,entree,1,886,1584
+kosher spiced couscous,Kosher Spiced Couscous,r_kosher_spiced_couscous,name_rule,couscous,entree,2,632,766
+kosher tomato couscous salad,Kosher Tomato Couscous Salad,r_kosher_tomato_couscous_salad,name_rule,couscous,salad,1,887,678
+latin coleslaw salad,Latin Coleslaw Salad,r_latin_coleslaw_salad,nutrislice_ingredients,,salad,3,491,655
+latin style roasted shredded lamb leg,Latin Style Roasted Shredded Lamb Leg,r_latin_style_roasted_shredded_lamb_leg,name_rule,tri tip|lamb,entree,1,888,236
+latin style sauteed chicken vegan,Latin-style Sauteed Chicken Vegan,r_latin_style_sauteed_chicken_vegan,nutrislice_ingredients,,entree,1,889,175
+lavash,Lavash,r_lavash,nutrislice_ingredients,,entree,1,890,1521
+lemon,Lemon,r_lemon,nutrislice_ingredients,,entree,1,891,1564
+lemon cream shortcake,Lemon Cream Shortcake,r_lemon_cream_shortcake,nutrislice_ingredients,,dessert,11,188,1504
+lemon herb white bean and spinach bake,Lemon Herb White Bean & Spinach Bake,r_lemon_herb_white_bean_and_spinach_bake,nutrislice_ingredients,,entree,1,892,2511
+lemon leche cake,Lemon Leche Cake,r_lemon_leche_cake,nutrislice_ingredients,,dessert,1,893,3255
+lemon rice pilaf,Lemon Rice Pilaf,r_lemon_rice_pilaf,nutrislice_ingredients,,side,4,405,1056
+lemon ricotta chicken,Lemon Ricotta Chicken,r_lemon_ricotta_chicken,nutrislice_ingredients,,entree,2,633,173
+lemon roasted broccoli,Lemon Roasted Broccoli,r_lemon_roasted_broccoli,nutrislice_ingredients,,side,1,894,463
+lemon roasted broccolini,Lemon Roasted Broccolini,r_lemon_roasted_broccolini,nutrislice_ingredients,,side,2,634,476
+lemon roasted cauliflower with cumin,Lemon Roasted Cauliflower with Cumin,r_lemon_roasted_cauliflower_with_cumin,nutrislice_ingredients,,breakfast,2,635,2547
+lemon thyme baked chicken,Lemon Thyme Baked Chicken,r_lemon_thyme_baked_chicken,nutrislice_ingredients,,entree,3,492,838
+lemongrass chicken potsticker,Lemongrass Chicken Potsticker,r_lemongrass_chicken_potsticker,nutrislice_ingredients,,entree,5,337,1756
+lemongrass pork chop,Lemongrass Pork Chop,r_lemongrass_pork_chop,nutrislice_ingredients,,entree,2,636,1470
+lemongrass roasted chicken,Lemongrass Roasted Chicken,r_lemongrass_roasted_chicken,nutrislice_ingredients,,entree,2,637,1027
+lemongrass tofu,Lemongrass Tofu,r_lemongrass_tofu,nutrislice_ingredients,,entree,1,895,2420
+lentil and potato curry,Lentil & Potato Curry,r_lentil_and_potato_curry,nutrislice_ingredients,,entree,1,896,2745
+lentil bolognese sauce,Lentil Bolognese Sauce,r_lentil_bolognese_sauce,nutrislice_ingredients,,side,15,137,935
+lentil marinara sauce,Lentil Marinara Sauce,r_lentil_marinara_sauce,nutrislice_ingredients,,side,3,493,1339
+lentil picadillo,Lentil Picadillo,r_lentil_picadillo,nutrislice_ingredients,,entree,1,897,895
+lentil vindaloo,Lentil Vindaloo,r_lentil_vindaloo,nutrislice_ingredients,,entree,2,638,2813
+lila owens cupcakin key lime mini cupcake,Lila Owens CupCakin Key Lime Mini Cupcake,r_lila_owens_cupcakin_key_lime_mini_cupcake,name_rule,cookie|cake|pie|brownie|cobbler|bar\b|crisp,dessert,4,406,2572
+lime wedges,Lime Wedges,r_lime_wedges,nutrislice_ingredients,,salad,4,407,1764
+linguini pasta,Linguini Pasta,r_linguini_pasta,nutrislice_ingredients,,side,1,898,442
+lobster bisque,Lobster Bisque,r_lobster_bisque,nutrislice_ingredients,,soup,7,254,1892
+long grain rice,Long Grain Rice,r_long_grain_rice,nutrislice_ingredients,,side,16,119,330;395
+louisiana beef hot links,Louisiana Beef Hot Links,r_louisiana_beef_hot_links,name_rule,hot links?,entree,1,899,801
+louisiana style hot links,Louisiana-style Hot Links,r_louisiana_style_hot_links,nutrislice_ingredients,,breakfast,3,494,117
+low fat peach yogurt,Low Fat Peach Yogurt,r_low_fat_peach_yogurt,name_rule,yogurt,breakfast,4,408,1518
+low fat plain yogurt,Low Fat Plain Yogurt,r_low_fat_plain_yogurt,name_rule,yogurt,breakfast,1,900,1519
+low fat strawberry yogurt,Low Fat Strawberry Yogurt,r_low_fat_strawberry_yogurt,name_rule,yogurt,breakfast,4,409,1520
+low fat vanilla greek yogurt,Low Fat Vanilla Greek Yogurt,r_low_fat_vanilla_greek_yogurt,nutrislice_ingredients,,breakfast,24,79,1517
+luscious lemon bar,Luscious Lemon Bar,r_luscious_lemon_bar,nutrislice_ingredients,,dessert,14,149,1502
+lynnette marreros pomegranate mockjito,Lynnette Marrero's Pomegranate Mockjito,r_lynnette_marreros_pomegranate_mockjito,name_rule,mockjito|lemonade|agua fresca|juice,beverage,3,495,2570
+mac and cheese with broccoli,Mac & Cheese with Broccoli,r_mac_and_cheese_with_broccoli,nutrislice_ingredients,,side,4,410,2077
+macaroni and cheese pasta,Macaroni and Cheese Pasta,r_macaroni_and_cheese_pasta,nutrislice_ingredients,,dessert,3,496,884
+malt o meal,Malt O Meal,r_malt_o_meal,nutrislice_ingredients,,entree,1,901,621
+mandarin style orange chicken,Mandarin-style Orange Chicken,r_mandarin_style_orange_chicken,nutrislice_ingredients,,entree,2,639,603
+mandarin style orange chicken tenders,Mandarin-style Orange Chicken Tenders,r_mandarin_style_orange_chicken_tenders,name_rule,chicken,entree,1,902,1321
+maple chickpea cutlet biscuit,Maple Chickpea Cutlet Biscuit,r_maple_chickpea_cutlet_biscuit,nutrislice_ingredients,,entree,1,903,2524
+maple roasted butternut squash,Maple Roasted Butternut Squash,r_maple_roasted_butternut_squash,nutrislice_ingredients,,side,1,904,2453
+margherita pizza,Margherita Pizza,r_margherita_pizza,nutrislice_ingredients,,entree,2,640,843
+marinara penne pasta,Marinara Penne Pasta,r_marinara_penne_pasta,nutrislice_ingredients,,side,4,411,900
+marinara sauce,Marinara Sauce,r_marinara_sauce,nutrislice_ingredients,,side,45,42,1066;1172
+marinara sauce with chicken meatballs,Marinara Sauce with Chicken Meatballs,r_marinara_sauce_with_chicken_meatballs,nutrislice_ingredients,,entree,1,905,916
+marinated cucumber and tomato,Marinated Cucumber and Tomato,r_marinated_cucumber_and_tomato,nutrislice_ingredients,,entree,8,234,1335
+martha stewarts vibrant green broccoli curry,Martha Stewart's Vibrant Green Broccoli Curry,r_martha_stewarts_vibrant_green_broccoli_curry,name_rule,broccoli,entree,4,412,2514
+mashed avocado with lemon,Mashed Avocado with Lemon,r_mashed_avocado_with_lemon,nutrislice_ingredients,,salad,15,138,107
+mashed potato,Mashed Potato,r_mashed_potato,name_rule,potato|hash,side,1,906,1130
+mashed yukon potato,Mashed Yukon Potato,r_mashed_yukon_potato,nutrislice_ingredients,,side,14,150,1121
+matcha filled mini beignet,Matcha Filled Mini Beignet,r_matcha_filled_mini_beignet,nutrislice_ingredients,,dessert,3,497,2346
+matchstick carrots,Matchstick Carrots,r_matchstick_carrots,nutrislice_ingredients,,salad,53,37,2263
+meat lasagna,Meat Lasagna,r_meat_lasagna,nutrislice_ingredients,,entree,8,235,775
+meatlovers pizza,Meatlovers Pizza,r_meatlovers_pizza,nutrislice_ingredients,,entree,6,285,845
+mediterranean lentil salad,Mediterranean Lentil Salad,r_mediterranean_lentil_salad,nutrislice_ingredients,,salad,1,907,2912
+medium grain rice,Medium Grain Rice,r_medium_grain_rice,nutrislice_ingredients,,side,7,255,331
+mexican fries,Mexican Fries,r_mexican_fries,nutrislice_ingredients,,breakfast,5,338,920
+mexican rice,Mexican Rice,r_mexican_rice,nutrislice_ingredients,,side,19,96,1039;1041
+mild salsa,Mild Salsa,r_mild_salsa,nutrislice_ingredients,,side,1,908,2046
+minestrone soup,Minestrone Soup,r_minestrone_soup,nutrislice_ingredients,,soup,26,68,523
+mini apple coronet danish,Mini Apple Coronet Danish,r_mini_apple_coronet_danish,name_rule,danish|muffin|croissant|scone|pastr,breakfast,4,413,462
+mini assorted danish,Mini Assorted Danish,r_mini_assorted_danish,nutrislice_ingredients,,breakfast,27,65,458
+mini butter croissant,Mini Butter Croissant,r_mini_butter_croissant,nutrislice_ingredients,,breakfast,21,86,457
+mini cheese plait danish,Mini Cheese Plait Danish,r_mini_cheese_plait_danish,name_rule,danish|muffin|croissant|scone|pastr,breakfast,4,414,468
+mini cinnamon swirl danish,Mini Cinnamon Swirl Danish,r_mini_cinnamon_swirl_danish,name_rule,danish|muffin|croissant|scone|pastr,breakfast,7,256,465
+mini maple pecan danish,Mini Maple Pecan Danish,r_mini_maple_pecan_danish,name_rule,danish|muffin|croissant|scone|pastr,breakfast,4,415,469
+mint,Mint,r_mint,name_rule,^(mint|cilantro|parsley|basil|chives?)$,entree,3,498,1665
+miso braised mushroom,Miso Braised Mushroom,r_miso_braised_mushroom,nutrislice_ingredients,,entree,2,641,1930
+miso glazed cod,Miso Glazed Cod,r_miso_glazed_cod,nutrislice_ingredients,,entree,1,909,2916
+mojo aioli sauce,Mojo Aioli Sauce,r_mojo_aioli_sauce,nutrislice_ingredients,,salad,1,910,1138
+monsoon kachumber salad,Monsoon Kachumber Salad,r_monsoon_kachumber_salad,name_rule,salad,salad,1,911,614
+moroccan freekeh chickpea,Moroccan Freekeh Chickpea,r_moroccan_freekeh_chickpea,nutrislice_ingredients,,entree,1,912,1319
+moroccan spiced chicken,Moroccan Spiced Chicken,r_moroccan_spiced_chicken,nutrislice_ingredients,,entree,1,913,841
+moroccan spiced lentils,Moroccan Spiced Lentils,r_moroccan_spiced_lentils,nutrislice_ingredients,,entree,1,914,2380
+moroccan vegetable blend,Moroccan Vegetable Blend,r_moroccan_vegetable_blend,nutrislice_ingredients,,entree,2,642,1028
+mung bean patty,Mung Bean Patty,r_mung_bean_patty,nutrislice_ingredients,,entree,25,76,489
+mushroom adobado taco,Mushroom Adobado Taco,r_mushroom_adobado_taco,nutrislice_ingredients,,entree,1,915,368
+mushroom and kale eggs scramble,Mushroom and Kale Eggs Scramble,r_mushroom_and_kale_eggs_scramble,nutrislice_ingredients,,breakfast,3,499,986
+mushroom eggs scramble,Mushroom Eggs Scramble,r_mushroom_eggs_scramble,nutrislice_ingredients,,breakfast,4,416,977
+mushroom pizza,Mushroom Pizza,r_mushroom_pizza,nutrislice_ingredients,,entree,7,257,847
+mushroom potato taco,Mushroom Potato Taco,r_mushroom_potato_taco,nutrislice_ingredients,,entree,1,916,1261
+naan bread,Naan Bread,r_naan_bread,nutrislice_ingredients,,side,6,286,525
+nacho cheese sauce,Nacho Cheese Sauce,r_nacho_cheese_sauce,nutrislice_ingredients,,side,1,917,1553
+nancy silvertons sauteed spinach with lemon and garlic,Nancy Silverton's Sauteed Spinach with Lemon & Garlic,r_nancy_silvertons_sauteed_spinach_with_lemon_and_garlic,nutrislice_ingredients,,entree,10,203,2515
+native three sisters bean soup,Native Three Sisters Bean Soup,r_native_three_sisters_bean_soup,nutrislice_ingredients,,soup,23,82,1468
+navy beans,Navy Beans,r_navy_beans,nutrislice_ingredients,,side,22,84,407
+nectarine,Nectarine,r_nectarine,nutrislice_ingredients,,salad,15,139,1632
+new england clam chowder,New England Clam Chowder,r_new_england_clam_chowder,nutrislice_ingredients,,soup,14,151,518
+new orleans style black eyed beans corn and tomato stew,New Orleans-style Black Eyed Beans Corn and Tomato Stew,r_new_orleans_style_black_eyed_beans_corn_and_tomato_stew,nutrislice_ingredients,,soup,5,339,1252
+non fat plain greek yogurt,Non Fat Plain Greek Yogurt,r_non_fat_plain_greek_yogurt,nutrislice_ingredients,,breakfast,33,51,1516
+noodle ramen pork sg,Noodle Ramen Pork SG,r_noodle_ramen_pork_sg,name_rule,pasta|penne|spaghetti|macaroni|noodle,entree,2,643,2948
+north african style roasted chicken,North African-style Roasted Chicken,r_north_african_style_roasted_chicken,name_rule,chicken,entree,1,918,792
+nuoc cham sauce,Nuoc Cham Sauce,r_nuoc_cham_sauce,nutrislice_ingredients,,side,1,919,312
+nutella hazelnut spread,Nutella Hazelnut Spread,r_nutella_hazelnut_spread,nutrislice_ingredients,,entree,1,920,3220
+nutritional yeast,Nutritional Yeast,r_nutritional_yeast,nutrislice_ingredients,,entree,14,152,1681
+oatmeal,Oatmeal,r_oatmeal,nutrislice_ingredients,,breakfast,73,30,737
+olive oil,Olive Oil,r_olive_oil,nutrislice_ingredients,,salad,123,4,2409
+onion and cilantro,Onion and Cilantro,r_onion_and_cilantro,nutrislice_ingredients,,entree,3,500,1763
+onion and garbanzo beans chana masala stew,Onion and Garbanzo Beans Chana Masala Stew,r_onion_and_garbanzo_beans_chana_masala_stew,nutrislice_ingredients,,soup,3,501,1269
+orange,Orange,r_orange,nutrislice_ingredients,,salad,30,56,1573
+orange sauce,Orange Sauce,r_orange_sauce,nutrislice_ingredients,,side,1,921,317
+orechiette pasta,Orechiette Pasta,r_orechiette_pasta,nutrislice_ingredients,,side,14,153,444
+original english muffin,Original English Muffin,r_original_english_muffin,name_rule,danish|muffin|croissant|scone|pastr,breakfast,2,644,1544
+orzo pilaf,Orzo Pilaf,r_orzo_pilaf,nutrislice_ingredients,,side,1,922,2600
+overnight oats with peach,Overnight Oats with Peach,r_overnight_oats_with_peach,nutrislice_ingredients,,entree,2,645,1728
+pad kee mao,Pad Kee Mao,r_pad_kee_mao,nutrislice_ingredients,,entree,1,923,936
+paella base,Paella Base,r_paella_base,nutrislice_ingredients,,entree,1,924,328
+palak paneer,Palak Paneer,r_palak_paneer,nutrislice_ingredients,,entree,3,502,749
+pancakes,Pancakes,r_pancakes,nutrislice_ingredients,,dessert,4,417,750
+paprika rosemary tofu,Paprika Rosemary Tofu,r_paprika_rosemary_tofu,nutrislice_ingredients,,salad,90,18,1242
+parmesan baked chicken breast,Parmesan Baked Chicken Breast,r_parmesan_baked_chicken_breast,nutrislice_ingredients,,entree,2,646,764
+parmesan cheese,Parmesan Cheese,r_parmesan_cheese,nutrislice_ingredients,,entree,1,925,1657
+parmesan meatball pizza,Parmesan Meatball Pizza,r_parmesan_meatball_pizza,nutrislice_ingredients,,entree,2,647,844
+peach,Peach,r_peach,nutrislice_ingredients,,salad,15,140,1631
+peach pie,Peach Pie,r_peach_pie,nutrislice_ingredients,,dessert,12,171,1548
+pecan pie,Pecan Pie,r_pecan_pie,nutrislice_ingredients,,dessert,8,236,1513
+penang beef curry,Penang Beef Curry,r_penang_beef_curry,name_rule,beef,entree,2,648,1410
+penne pasta,Penne Pasta,r_penne_pasta,nutrislice_ingredients,,side,35,49,445
+pepperoncini slice,Pepperoncini Slice,r_pepperoncini_slice,nutrislice_ingredients,,entree,1,926,1672
+pepperoni pizza,Pepperoni Pizza,r_pepperoni_pizza,nutrislice_ingredients,,entree,10,204,853
+pepperoni pizza with pepperoncinis,Pepperoni Pizza with Pepperoncinis,r_pepperoni_pizza_with_pepperoncinis,name_rule,pizza,entree,1,927,855
+pesto alfredo sauce,Pesto Alfredo Sauce,r_pesto_alfredo_sauce,nutrislice_ingredients,,side,7,258,1141
+philly beef cheesesteak sandwich,Philly Beef Cheesesteak Sandwich,r_philly_beef_cheesesteak_sandwich,nutrislice_ingredients,,entree,1,928,1084
+pickling brine,Pickling Brine,r_pickling_brine,name_rule,pickling brine,entree,1,929,1340
+pico de gallo salsa,Pico de Gallo Salsa,r_pico_de_gallo_salsa,nutrislice_ingredients,,side,2,649,763
+pineapple habanero salsa,Pineapple Habanero Salsa,r_pineapple_habanero_salsa,nutrislice_ingredients,,side,1,930,1228
+pinto beans,Pinto Beans,r_pinto_beans,nutrislice_ingredients,,side,15,141,394;408
+piri piri roasted chicken,Piri Piri Roasted Chicken,r_piri_piri_roasted_chicken,nutrislice_ingredients,,entree,1,931,637
+pita bread,Pita Bread,r_pita_bread,nutrislice_ingredients,,side,2,650,1683
+plain bagels,Plain Bagels,r_plain_bagels,nutrislice_ingredients,,breakfast,19,97,1527
+plant based cheese sauce,Plant Based Cheese Sauce,r_plant_based_cheese_sauce,nutrislice_ingredients,,side,8,237,1765
+poblano fries,Poblano Fries,r_poblano_fries,nutrislice_ingredients,,breakfast,2,651,992
+poboy catfish sandwich,PoBoy Catfish Sandwich,r_poboy_catfish_sandwich,nutrislice_ingredients,,entree,5,340,1047
+poboy tempura cauliflower sandwich,PoBoy Tempura Cauliflower Sandwich,r_poboy_tempura_cauliflower_sandwich,nutrislice_ingredients,,entree,6,287,1048
+pollock sandwich,Pollock Sandwich,r_pollock_sandwich,nutrislice_ingredients,,entree,4,418,1153
+pomegranate baked chicken thigh,Pomegranate Baked Chicken Thigh,r_pomegranate_baked_chicken_thigh,nutrislice_ingredients,,entree,1,932,739
+ponzu sauce,Ponzu Sauce,r_ponzu_sauce,nutrislice_ingredients,,salad,1,933,336
+poppy seed dressing,Poppy Seed Dressing,r_poppy_seed_dressing,nutrislice_ingredients,,salad,81,23,2416
+pork and vegetable eggroll,Pork and Vegetable Eggroll,r_pork_and_vegetable_eggroll,nutrislice_ingredients,,entree,4,419,2394
+pork carnitas,Pork Carnitas,r_pork_carnitas,nutrislice_ingredients,,entree,4,420,885
+pork carnitas bbq sandwich,Pork Carnitas BBQ Sandwich,r_pork_carnitas_bbq_sandwich,nutrislice_ingredients,,entree,1,934,1089
+pork char siu bao,Pork Char Siu Bao,r_pork_char_siu_bao,nutrislice_ingredients,,entree,6,288,657
+pork chili verde,Pork Chili Verde,r_pork_chili_verde,nutrislice_ingredients,,soup,3,503,888
+pork chili verde con papas,Pork Chili Verde con Papas,r_pork_chili_verde_con_papas,nutrislice_ingredients,,soup,2,652,956
+pork linguica sausage,Pork Linguica Sausage,r_pork_linguica_sausage,nutrislice_ingredients,,entree,4,421,958
+pork potstickers,Pork Potstickers,r_pork_potstickers,nutrislice_ingredients,,salad,1,935,658
+pork pozole,Pork Pozole,r_pork_pozole,nutrislice_ingredients,,soup,2,653,1190
+pork sausage link,Pork Sausage Link,r_pork_sausage_link,nutrislice_ingredients,,entree,6,289,505
+pork sausage patty,Pork Sausage Patty,r_pork_sausage_patty,nutrislice_ingredients,,entree,10,205,506
+portobello bbq sandwich,Portobello BBQ Sandwich,r_portobello_bbq_sandwich,nutrislice_ingredients,,entree,1,936,1097
+potato and carrot korma,Potato and Carrot Korma,r_potato_and_carrot_korma,nutrislice_ingredients,,side,2,654,1291
+potato wedges,Potato Wedges,r_potato_wedges,nutrislice_ingredients,,side,12,172,1003
+preserved sliced strawberry,Preserved Sliced Strawberry,r_preserved_sliced_strawberry,nutrislice_ingredients,,entree,1,937,3009
+pumpkin pie,Pumpkin Pie,r_pumpkin_pie,nutrislice_ingredients,,dessert,3,504,1514
+pumpkin seeds,Pumpkin Seeds,r_pumpkin_seeds,nutrislice_ingredients,,salad,106,10,1549
+puttanesca penne pasta,Puttanesca Penne Pasta,r_puttanesca_penne_pasta,nutrislice_ingredients,,side,3,505,903
+puttanesca sauce,Puttanesca Sauce,r_puttanesca_sauce,nutrislice_ingredients,,side,2,655,904
+quinoa,Quinoa,r_quinoa,nutrislice_ingredients,,side,22,85,1025
+quinoa pilaf,Quinoa Pilaf,r_quinoa_pilaf,nutrislice_ingredients,,side,1,938,898
+ragu lamb rigatoni pasta,Ragu Lamb Rigatoni Pasta,r_ragu_lamb_rigatoni_pasta,nutrislice_ingredients,,entree,1,939,774
+raisins,Raisins,r_raisins,nutrislice_ingredients,,salad,104,13,2408
+ranch dressing,Ranch Dressing,r_ranch_dressing,nutrislice_ingredients,,salad,125,2,1662
+raspberry mini beignet,Raspberry Mini Beignet,r_raspberry_mini_beignet,nutrislice_ingredients,,dessert,4,422,2343
+red apple,Red Apple,r_red_apple,nutrislice_ingredients,,salad,5,341,3186
+red beans and rice,Red Beans and Rice,r_red_beans_and_rice,nutrislice_ingredients,,side,3,506,3024;410
+red beets,Red Beets,r_red_beets,nutrislice_ingredients,,salad,26,69,2256
+red radishes,Red Radishes,r_red_radishes,nutrislice_ingredients,,salad,30,57,2267
+red red black eyed peas stew,Red Red - Black Eyed Peas Stew,r_red_red_black_eyed_peas_stew,nutrislice_ingredients,,soup,6,290,1345
+red salsa,Red Salsa,r_red_salsa,nutrislice_ingredients,,side,1,940,315
+red velvet cake,Red Velvet Cake,r_red_velvet_cake,name_rule,cookie|cake|pie|brownie|cobbler|bar\b|crisp,dessert,1,941,1539
+red velvet cookie,Red Velvet Cookie,r_red_velvet_cookie,nutrislice_ingredients,,dessert,2,656,2239
+refried beans,Refried Beans,r_refried_beans,nutrislice_ingredients,,side,9,212,553
+regular fries,Regular Fries,r_regular_fries,nutrislice_ingredients,,side,16,120,994
+rendang beef stew,Rendang Beef Stew,r_rendang_beef_stew,nutrislice_ingredients,,soup,1,942,1308
+rice congee,Rice Congee,r_rice_congee,nutrislice_ingredients,,side,3,507,1330
+rice stick noodle,Rice Stick Noodle,r_rice_stick_noodle,nutrislice_ingredients,,side,5,342,255
+rigatoni pasta,Rigatoni Pasta,r_rigatoni_pasta,nutrislice_ingredients,,side,9,213,451
+roasted asparagus,Roasted Asparagus,r_roasted_asparagus,nutrislice_ingredients,,side,4,423,540
+roasted asparagus bell pepper mushroom and zucchini,Roasted Asparagus Bell Pepper Mushroom and Zucchini,r_roasted_asparagus_bell_pepper_mushroom_and_zucchini,nutrislice_ingredients,,side,4,424,945
+roasted asparagus mushroom pepper and zucchini,Roasted Asparagus Mushroom Pepper and Zucchini,r_roasted_asparagus_mushroom_pepper_and_zucchini,nutrislice_ingredients,,side,2,657,952
+roasted asparagus with parmesan,Roasted Asparagus with Parmesan,r_roasted_asparagus_with_parmesan,name_rule,asparagus|brussel,entree,1,943,539
+roasted bbq cauliflower,Roasted BBQ Cauliflower,r_roasted_bbq_cauliflower,nutrislice_ingredients,,side,1,944,807
+roasted beef tri tip,Roasted Beef Tri Tip,r_roasted_beef_tri_tip,name_rule,tri tip|lamb,entree,2,658,436
+roasted beets,Roasted Beets,r_roasted_beets,nutrislice_ingredients,,side,1,945,449
+roasted broccoli and red pepper with turmeric,Roasted Broccoli and Red Pepper with Turmeric,r_roasted_broccoli_and_red_pepper_with_turmeric,nutrislice_ingredients,,side,3,508,466
+roasted brussels sprouts,Roasted Brussels Sprouts,r_roasted_brussels_sprouts,nutrislice_ingredients,,side,5,343,156
+roasted brussels sprouts and red pepper,Roasted Brussels Sprouts and Red Pepper,r_roasted_brussels_sprouts_and_red_pepper,nutrislice_ingredients,,side,7,259,482
+roasted butternut squash,Roasted Butternut Squash,r_roasted_butternut_squash,nutrislice_ingredients,,side,6,291,1140;365
+roasted calabacitas corn and onion,Roasted Calabacitas Corn and Onion,r_roasted_calabacitas_corn_and_onion,nutrislice_ingredients,,side,1,946,566
+roasted carrot zucchini eggplant and onion,Roasted Carrot Zucchini Eggplant and Onion,r_roasted_carrot_zucchini_eggplant_and_onion,nutrislice_ingredients,,side,2,659,581
+roasted carrots,Roasted Carrots,r_roasted_carrots,nutrislice_ingredients,,side,8,238,578
+roasted char siu tofu,Roasted Char Siu Tofu,r_roasted_char_siu_tofu,nutrislice_ingredients,,entree,1,947,1288
+roasted cherry tomato,Roasted Cherry Tomato,r_roasted_cherry_tomato,nutrislice_ingredients,,side,7,260,1182
+roasted cumin butternut squash,Roasted Cumin Butternut Squash,r_roasted_cumin_butternut_squash,nutrislice_ingredients,,side,3,509,1133
+roasted edamame and squash,Roasted Edamame and Squash,r_roasted_edamame_and_squash,nutrislice_ingredients,,side,1,948,1137
+roasted fingerling potatoes with artichokes,Roasted Fingerling Potatoes with Artichokes,r_roasted_fingerling_potatoes_with_artichokes,nutrislice_ingredients,,side,5,344,1915
+roasted gailon,Roasted Gailon,r_roasted_gailon,name_rule,gai ?lan|gailon|bok choy,side,1,949,543
+roasted garlic fries,Roasted Garlic Fries,r_roasted_garlic_fries,name_rule,fries|tots|tator|tater,side,1,950,1126
+roasted garlic thyme mushroom,Roasted Garlic Thyme Mushroom,r_roasted_garlic_thyme_mushroom,nutrislice_ingredients,,side,3,510,710
+roasted garlic tomato,Roasted Garlic Tomato,r_roasted_garlic_tomato,nutrislice_ingredients,,side,2,660,877
+roasted lamb leg,Roasted Lamb Leg,r_roasted_lamb_leg,nutrislice_ingredients,,entree,1,951,687
+roasted mexican vegetable blend,Roasted Mexican Vegetable Blend,r_roasted_mexican_vegetable_blend,nutrislice_ingredients,,side,14,154,1157
+roasted oregano corn,Roasted Oregano Corn,r_roasted_oregano_corn,nutrislice_ingredients,,side,4,425,625
+roasted peppers,Roasted Peppers,r_roasted_peppers,nutrislice_ingredients,,side,31,54,894
+roasted piri piri tofu,Roasted Piri Piri Tofu,r_roasted_piri_piri_tofu,nutrislice_ingredients,,entree,1,952,1239
+roasted pork,Roasted Pork,r_roasted_pork,nutrislice_ingredients,,entree,1,953,943
+roasted pork char siu,Roasted Pork Char Siu,r_roasted_pork_char_siu,nutrislice_ingredients,,entree,2,661,887
+roasted potatoes,Roasted Potatoes,r_roasted_potatoes,nutrislice_ingredients,,side,5,345,1125
+roasted red pepper and carrots,Roasted Red Pepper and Carrots,r_roasted_red_pepper_and_carrots,nutrislice_ingredients,,side,6,292,577
+roasted red pepper and garbanzo salad,Roasted Red Pepper and Garbanzo Salad,r_roasted_red_pepper_and_garbanzo_salad,nutrislice_ingredients,,salad,2,662,697
+roasted red potatoes with garlic,Roasted Red Potatoes with Garlic,r_roasted_red_potatoes_with_garlic,nutrislice_ingredients,,side,15,142,1126
+roasted root vegetables,Roasted Root Vegetables,r_roasted_root_vegetables,nutrislice_ingredients,,side,2,663,1932
+roasted root veggies,Roasted Root Veggies,r_roasted_root_veggies,nutrislice_ingredients,,side,11,189,2988
+roasted russet potato,Roasted Russet Potato,r_roasted_russet_potato,nutrislice_ingredients,,side,3,511,1646
+roasted sweet potato,Roasted Sweet Potato,r_roasted_sweet_potato,nutrislice_ingredients,,side,1,954,1279
+roasted tomato salsa,Roasted Tomato Salsa,r_roasted_tomato_salsa,nutrislice_ingredients,,side,4,426,777
+roasted tri tip,Roasted Tri Tip,r_roasted_tri_tip,name_rule,tri tip|lamb,entree,1,955,440
+roasted turkey breast,Roasted Turkey Breast,r_roasted_turkey_breast,nutrislice_ingredients,,entree,4,427,382
+roasted vegetable hummus lavash wrap,Roasted Vegetable Hummus Lavash Wrap,r_roasted_vegetable_hummus_lavash_wrap,nutrislice_ingredients,,side,1,956,1008
+roasted vegetables,Roasted Vegetables,r_roasted_vegetables,name_rule,medley|vegetable|veggie,breakfast,1,957,1381
+roasted zucchini mushroom,Roasted Zucchini Mushroom,r_roasted_zucchini_mushroom,nutrislice_ingredients,,side,12,173,706
+rockfish with pineapple habanero salsa,Rockfish with Pineapple Habanero Salsa,r_rockfish_with_pineapple_habanero_salsa,nutrislice_ingredients,,entree,1,958,1227
+roma pesto pizza,Roma Pesto Pizza,r_roma_pesto_pizza,nutrislice_ingredients,,entree,8,239,856
+romaine lettuce,Romaine Lettuce,r_romaine_lettuce,nutrislice_ingredients,,salad,125,3,1667
+romesco sauce,Romesco Sauce,r_romesco_sauce,name_rule,romesco,side,1,959,359
+root vegetables,Root Vegetables,r_root_vegetables,nutrislice_ingredients,,side,9,214,1146
+rosemary chicken,Rosemary Chicken,r_rosemary_chicken,name_rule,chicken,entree,1,960,1333
+rotini pasta,Rotini Pasta,r_rotini_pasta,nutrislice_ingredients,,side,1,961,3283
+rotisserie chicken,Rotisserie Chicken,r_rotisserie_chicken,nutrislice_ingredients,,entree,13,165,2187
+saffron basmati rice,Saffron Basmati Rice,r_saffron_basmati_rice,nutrislice_ingredients,,side,4,428,1032
+saffron rice pilaf,Saffron Rice Pilaf,r_saffron_rice_pilaf,name_rule,rice|pilaf|biryani,side,1,962,2605
+salmon fettucini alfredo pasta,Salmon Fettucini Alfredo Pasta,r_salmon_fettucini_alfredo_pasta,nutrislice_ingredients,,entree,1,963,914
+salsa pico de gallo,Salsa Pico De Gallo,r_salsa_pico_de_gallo,nutrislice_ingredients,,side,17,110,1550
+salsa roja,Salsa Roja,r_salsa_roja,nutrislice_ingredients,,salad,3,512,1551
+salsa verde,Salsa Verde,r_salsa_verde,nutrislice_ingredients,,salad,5,346,1552
+san antonio beans,San Antonio Beans,r_san_antonio_beans,nutrislice_ingredients,,side,1,964,2822
+sausage and onion pizza,Sausage and Onion Pizza,r_sausage_and_onion_pizza,nutrislice_ingredients,,entree,8,240,861
+sausage pizza,Sausage Pizza,r_sausage_pizza,nutrislice_ingredients,,entree,8,241,859
+sauteed asparagus zucchini and onion,Sauteed Asparagus Zucchini and Onion,r_sauteed_asparagus_zucchini_and_onion,nutrislice_ingredients,,entree,2,664,541
+sauteed bok choy,Sauteed Bok Choy,r_sauteed_bok_choy,nutrislice_ingredients,,entree,6,293,1343;497
+sauteed cabbage and carrot with sesame,Sauteed Cabbage and Carrot with Sesame,r_sauteed_cabbage_and_carrot_with_sesame,nutrislice_ingredients,,entree,5,347,562
+sauteed cabbage and onion with sesame,Sauteed Cabbage and Onion with Sesame,r_sauteed_cabbage_and_onion_with_sesame,nutrislice_ingredients,,entree,1,965,159
+sauteed carrots squash and red pepper,Sauteed Carrots Squash and Red Pepper,r_sauteed_carrots_squash_and_red_pepper,nutrislice_ingredients,,entree,4,429,579
+sauteed chicken fajitas,Sauteed Chicken Fajitas,r_sauteed_chicken_fajitas,nutrislice_ingredients,,entree,3,513,164
+sauteed chile verde tofu,Sauteed Chile Verde Tofu,r_sauteed_chile_verde_tofu,nutrislice_ingredients,,entree,3,514,1233
+sauteed corn onion and squash,Sauteed Corn Onion and Squash,r_sauteed_corn_onion_and_squash,nutrislice_ingredients,,side,3,515,1135
+sauteed corn pasilla,Sauteed Corn Pasilla,r_sauteed_corn_pasilla,nutrislice_ingredients,,side,2,665,626
+sauteed corn pepper mexicali,Sauteed Corn Pepper Mexicali,r_sauteed_corn_pepper_mexicali,nutrislice_ingredients,,side,11,190,627
+sauteed garlic and kale,Sauteed Garlic and Kale,r_sauteed_garlic_and_kale,nutrislice_ingredients,,entree,1,966,681
+sauteed garlic baby carrots and snap peas,Sauteed Garlic Baby Carrots and Snap Peas,r_sauteed_garlic_baby_carrots_and_snap_peas,nutrislice_ingredients,,entree,2,666,1016
+sauteed green beans,Sauteed Green Beans,r_sauteed_green_beans,nutrislice_ingredients,,side,30,58,546;549
+sauteed green beans with garlic and ginger,Sauteed Green Beans with Garlic and Ginger,r_sauteed_green_beans_with_garlic_and_ginger,nutrislice_ingredients,,side,3,516,548
+sauteed kale,Sauteed Kale,r_sauteed_kale,nutrislice_ingredients,,entree,1,967,3241
+sauteed kale onion and mushroom,Sauteed Kale Onion and Mushroom,r_sauteed_kale_onion_and_mushroom,nutrislice_ingredients,,entree,3,517,684
+sauteed mushroom,Sauteed Mushroom,r_sauteed_mushroom,nutrislice_ingredients,,entree,18,102,692
+sauteed mushroom spinach and tomatoes,Sauteed Mushroom Spinach and Tomatoes,r_sauteed_mushroom_spinach_and_tomatoes,nutrislice_ingredients,,entree,1,968,703
+sauteed mushroom tofu sisig,Sauteed Mushroom Tofu Sisig,r_sauteed_mushroom_tofu_sisig,nutrislice_ingredients,,entree,3,518,1318
+sauteed mushroom vegetable blend,Sauteed Mushroom Vegetable Blend,r_sauteed_mushroom_vegetable_blend,nutrislice_ingredients,,entree,6,294,1023
+sauteed onion peppers,Sauteed Onion Peppers,r_sauteed_onion_peppers,nutrislice_ingredients,,entree,1,969,893
+sauteed pinto beans with green chili,Sauteed Pinto Beans with Green Chili,r_sauteed_pinto_beans_with_green_chili,nutrislice_ingredients,,soup,4,430,409
+sauteed pork chorizo,Sauteed Pork Chorizo,r_sauteed_pork_chorizo,nutrislice_ingredients,,entree,1,970,929
+sauteed potato tofu masala,Sauteed Potato Tofu Masala,r_sauteed_potato_tofu_masala,nutrislice_ingredients,,entree,3,519,1236
+sauteed spicy eggplant,Sauteed Spicy Eggplant,r_sauteed_spicy_eggplant,nutrislice_ingredients,,entree,2,667,674
+sauteed spinach,Sauteed Spinach,r_sauteed_spinach,nutrislice_ingredients,,entree,3,520,1196
+sauteed swiss chard with lemon and garlic,Sauteed Swiss Chard with Lemon and Garlic,r_sauteed_swiss_chard_with_lemon_and_garlic,nutrislice_ingredients,,entree,2,668,832
+sauteed thai coconut curry chicken,Sauteed Thai Coconut Curry Chicken,r_sauteed_thai_coconut_curry_chicken,nutrislice_ingredients,,entree,1,971,797
+sauteed thai curry eggplant,Sauteed Thai Curry Eggplant,r_sauteed_thai_curry_eggplant,nutrislice_ingredients,,entree,1,972,676
+sauteed vegan santa maria strips halal,Sauteed Vegan Santa Maria Strips Halal,r_sauteed_vegan_santa_maria_strips_halal,nutrislice_ingredients,,entree,3,521,1215
+sauteed zucchini and onion sauteed,Sauteed Zucchini & Onion Sauteed,r_sauteed_zucchini_and_onion_sauteed,nutrislice_ingredients,,entree,5,348,939
+savory lentils,Savory Lentils,r_savory_lentils,nutrislice_ingredients,,entree,10,206,238
+savory polenta,Savory Polenta,r_savory_polenta,nutrislice_ingredients,,side,5,349,1329
+sawsawan,Sawsawan,r_sawsawan,nutrislice_ingredients,,salad,2,669,1813
+scrambled eggs,Scrambled Eggs,r_scrambled_eggs,nutrislice_ingredients,,breakfast,77,26,556
+seared chicken breast cacciatore,Seared Chicken Breast Cacciatore,r_seared_chicken_breast_cacciatore,nutrislice_ingredients,,entree,2,670,794
+seared tofu soyrizo,Seared Tofu Soyrizo,r_seared_tofu_soyrizo,name_rule,tofu,breakfast,1,973,1221
+seasoned black beans,Seasoned Black Beans,r_seasoned_black_beans,nutrislice_ingredients,,side,12,174,108;2588
+sesame spinach banchan,Sesame Spinach Banchan,r_sesame_spinach_banchan,nutrislice_ingredients,,entree,2,671,673
+shakshuka,Shakshuka,r_shakshuka,nutrislice_ingredients,,breakfast,1,974,2152
+sharp cheddar cheese,Sharp Cheddar Cheese,r_sharp_cheddar_cheese,nutrislice_ingredients,,entree,1,975,1654
+shoestring fries,Shoestring Fries,r_shoestring_fries,nutrislice_ingredients,,side,3,522,998
+shredded carrots,Shredded Carrots,r_shredded_carrots,nutrislice_ingredients,,salad,81,24,2258
+shredded chicken tinga,Shredded Chicken Tinga,r_shredded_chicken_tinga,nutrislice_ingredients,,entree,1,976,3168
+shredded green cabbage,Shredded Green Cabbage,r_shredded_green_cabbage,nutrislice_ingredients,,entree,1,977,1556
+shredded iceberg lettuce,Shredded Iceberg Lettuce,r_shredded_iceberg_lettuce,nutrislice_ingredients,,entree,2,672,1529
+shredded rainbow carrots,Shredded Rainbow Carrots,r_shredded_rainbow_carrots,nutrislice_ingredients,,salad,33,52,2259
+shredded vegan cheese,Shredded Vegan Cheese,r_shredded_vegan_cheese,nutrislice_ingredients,,entree,12,175,1652
+shredded vegan mozzarella cheese,Shredded Vegan Mozzarella Cheese,r_shredded_vegan_mozzarella_cheese,nutrislice_ingredients,,entree,11,191,1540
+shrimp ceviche tostada,Shrimp Ceviche Tostada,r_shrimp_ceviche_tostada,nutrislice_ingredients,,entree,1,978,1171
+shrimp pancit,Shrimp Pancit,r_shrimp_pancit,nutrislice_ingredients,,entree,1,979,1815
+shrimp pesto alfredo sauce,Shrimp Pesto Alfredo Sauce,r_shrimp_pesto_alfredo_sauce,nutrislice_ingredients,,entree,5,350,1173
+shrimp vindaloo,Shrimp Vindaloo,r_shrimp_vindaloo,name_rule,shrimp,entree,1,980,1352
+sliced almond,Sliced Almond,r_sliced_almond,nutrislice_ingredients,,salad,57,35,1629
+sliced buttermilk bread,Sliced Buttermilk Bread,r_sliced_buttermilk_bread,nutrislice_ingredients,,dessert,13,166,1532
+sliced cucumber,Sliced Cucumber,r_sliced_cucumber,nutrislice_ingredients,,salad,136,1,1749
+sliced green onion,Sliced Green Onion,r_sliced_green_onion,nutrislice_ingredients,,entree,8,242,263
+sliced pickle,Sliced Pickle,r_sliced_pickle,nutrislice_ingredients,,salad,37,48,3015
+sliced radish,Sliced Radish,r_sliced_radish,nutrislice_ingredients,,salad,74,28,1673
+sliced red beets,Sliced Red Beets,r_sliced_red_beets,nutrislice_ingredients,,salad,53,38,2254
+sliced red onion,Sliced Red Onion,r_sliced_red_onion,nutrislice_ingredients,,entree,26,70,1748
+sliced sourdough bread,Sliced Sourdough Bread,r_sliced_sourdough_bread,nutrislice_ingredients,,dessert,14,155,1533
+sliced tomato,Sliced Tomato,r_sliced_tomato,nutrislice_ingredients,,entree,41,46,3045
+sliced vegan cheese,Sliced Vegan Cheese,r_sliced_vegan_cheese,nutrislice_ingredients,,salad,16,121,1653
+sliced whole wheat bread,Sliced Whole Wheat Bread,r_sliced_whole_wheat_bread,nutrislice_ingredients,,dessert,12,176,1534
+sliced whole wheat vegan bread,Sliced Whole Wheat Vegan Bread,r_sliced_whole_wheat_vegan_bread,nutrislice_ingredients,,side,16,122,1535
+sloppy joe,Sloppy Joe,r_sloppy_joe,nutrislice_ingredients,,entree,1,981,1087
+smoked cajun style turkey breast,Smoked Cajun-Style Turkey Breast,r_smoked_cajun_style_turkey_breast,nutrislice_ingredients,,entree,1,982,1170
+smokey lemon garlic tofu,Smokey Lemon Garlic Tofu,r_smokey_lemon_garlic_tofu,name_rule,tofu,entree,1,983,1189
+snap pea mushroom stir fry,Snap Pea Mushroom Stir Fry,r_snap_pea_mushroom_stir_fry,nutrislice_ingredients,,entree,2,673,1446
+sour cream,Sour Cream,r_sour_cream,nutrislice_ingredients,,salad,9,215,910
+southern braised cabbage,Southern Braised Cabbage,r_southern_braised_cabbage,nutrislice_ingredients,,entree,1,984,2617
+southern style green beans,Southern Style Green Beans,r_southern_style_green_beans,nutrislice_ingredients,,side,2,674,2197
+southwestern corn chowder,Southwestern Corn Chowder,r_southwestern_corn_chowder,nutrislice_ingredients,,soup,26,71,519
+soyrizo scramble,Soyrizo Scramble,r_soyrizo_scramble,nutrislice_ingredients,,breakfast,8,243,990
+soyrizo with peppers and onion,Soyrizo with Peppers and Onion,r_soyrizo_with_peppers_and_onion,nutrislice_ingredients,,entree,7,261,1192
+spaghetti,Spaghetti,r_spaghetti,nutrislice_ingredients,,entree,3,523,452
+spiced couscous,Spiced Couscous,r_spiced_couscous,nutrislice_ingredients,,entree,1,985,766
+spicy baked tofu vegan halal,Spicy Baked Tofu VEGAN HALAL,r_spicy_baked_tofu_vegan_halal,nutrislice_ingredients,,entree,1,986,2852
+spicy fried chicken sandwich,Spicy Fried Chicken Sandwich,r_spicy_fried_chicken_sandwich,nutrislice_ingredients,,entree,5,351,1054
+spicy garlic eggplant stir fry,Spicy Garlic Eggplant Stir Fry,r_spicy_garlic_eggplant_stir_fry,nutrislice_ingredients,,entree,2,675,665
+spicy vegan shakshuka,Spicy Vegan Shakshuka,r_spicy_vegan_shakshuka,nutrislice_ingredients,,breakfast,1,987,2705
+spicy waffle fries,Spicy Waffle Fries,r_spicy_waffle_fries,nutrislice_ingredients,,breakfast,5,352,1001
+spinach and monterey jack eggs scramble,Spinach and Monterey Jack Eggs Scramble,r_spinach_and_monterey_jack_eggs_scramble,name_rule,scramble|scrambled|omelet|frittata,breakfast,1,988,987
+spinach and onion tunisian stew,Spinach and Onion Tunisian Stew,r_spinach_and_onion_tunisian_stew,nutrislice_ingredients,,soup,2,676,1285
+spinach and tomato eggs scramble,Spinach and Tomato Eggs Scramble,r_spinach_and_tomato_eggs_scramble,nutrislice_ingredients,,breakfast,2,677,397
+spinach egg feta croissant,Spinach Egg Feta Croissant,r_spinach_egg_feta_croissant,name_rule,danish|muffin|croissant|scone|pastr,breakfast,1,989,633
+spinach feta eggs scramble,Spinach Feta Eggs Scramble,r_spinach_feta_eggs_scramble,name_rule,scramble|scrambled|omelet|frittata,breakfast,1,990,978
+spinach saag style tofu,Spinach Saag-style Tofu,r_spinach_saag_style_tofu,nutrislice_ingredients,,entree,5,353,1188
+spinach tofu tomato scramble,Spinach Tofu Tomato Scramble,r_spinach_tofu_tomato_scramble,nutrislice_ingredients,,breakfast,11,192,991
+split pea soup,Split Pea Soup,r_split_pea_soup,nutrislice_ingredients,,soup,19,98,520
+squash medley,Squash Medley,r_squash_medley,nutrislice_ingredients,,side,14,156,1139
+steak fries,Steak Fries,r_steak_fries,nutrislice_ingredients,,side,6,295,999
+steamed beets,Steamed Beets,r_steamed_beets,nutrislice_ingredients,,salad,61,33,128
+steamed broccoli,Steamed Broccoli,r_steamed_broccoli,nutrislice_ingredients,,side,42,44,151;467
+steamed broccoli and cauliflower,Steamed Broccoli and Cauliflower,r_steamed_broccoli_and_cauliflower,nutrislice_ingredients,,side,18,103,420
+steamed broccoli cauliflower and carrots,Steamed Broccoli Cauliflower and Carrots,r_steamed_broccoli_cauliflower_and_carrots,nutrislice_ingredients,,side,7,262,419
+steamed broccolini with lemon,Steamed Broccolini with Lemon,r_steamed_broccolini_with_lemon,nutrislice_ingredients,,side,6,296,478
+steamed carrots,Steamed Carrots,r_steamed_carrots,nutrislice_ingredients,,side,2,678,580
+steamed carrots and green beans,Steamed Carrots and Green Beans,r_steamed_carrots_and_green_beans,nutrislice_ingredients,,side,3,524,571
+steamed carrots with parsley,Steamed Carrots with Parsley,r_steamed_carrots_with_parsley,nutrislice_ingredients,,side,2,679,574
+steamed cauliflower,Steamed Cauliflower,r_steamed_cauliflower,nutrislice_ingredients,,side,1,991,825
+steamed corn cob,Steamed Corn Cob,r_steamed_corn_cob,nutrislice_ingredients,,side,4,431,431
+steamed green beans,Steamed Green Beans,r_steamed_green_beans,nutrislice_ingredients,,side,11,193,550
+steamed mint peas,Steamed Mint Peas,r_steamed_mint_peas,nutrislice_ingredients,,side,4,432,891
+steamed peas,Steamed Peas,r_steamed_peas,nutrislice_ingredients,,side,9,216,473
+steamed peas and carrots,Steamed Peas and Carrots,r_steamed_peas_and_carrots,nutrislice_ingredients,,side,8,244,576
+steamed potato,Steamed Potato,r_steamed_potato,nutrislice_ingredients,,side,14,157,1128;1129
+stephanie izards bitter lettuce and potato salad,Stephanie Izard's Bitter Lettuce & Potato Salad,r_stephanie_izards_bitter_lettuce_and_potato_salad,name_rule,potato|hash,salad,4,433,2537
+stir fried bok choy,Stir Fried Bok Choy,r_stir_fried_bok_choy,nutrislice_ingredients,,entree,1,992,470
+stir fried cabbage,Stir Fried Cabbage,r_stir_fried_cabbage,nutrislice_ingredients,,entree,15,143,565
+stir fried cabbage and mushrooms,Stir Fried Cabbage and Mushrooms,r_stir_fried_cabbage_and_mushrooms,nutrislice_ingredients,,entree,3,525,564
+strawberry jelly,Strawberry Jelly,r_strawberry_jelly,nutrislice_ingredients,,breakfast,52,40,3110
+strawberry shortcake,Strawberry Shortcake,r_strawberry_shortcake,nutrislice_ingredients,,dessert,24,80,1505
+street taco,Street Taco,r_street_taco,name_rule,taco|burrito|quesadilla,entree,1,993,373
+stuffed green olive,Stuffed Green Olive,r_stuffed_green_olive,nutrislice_ingredients,,salad,16,123,1669
+succotash edamame corn,Succotash Edamame Corn,r_succotash_edamame_corn,nutrislice_ingredients,,side,2,680,624
+summer squash blend,Summer Squash Blend,r_summer_squash_blend,nutrislice_ingredients,,entree,2,681,1395
+sun dried tomato basil frittata,Sun Dried Tomato Basil Frittata,r_sun_dried_tomato_basil_frittata,name_rule,scramble|scrambled|omelet|frittata,entree,1,994,536
+sun dried tomato cream cheese,Sun Dried Tomato Cream Cheese,r_sun_dried_tomato_cream_cheese,nutrislice_ingredients,,breakfast,20,88,191
+sun dried tomato pesto,Sun Dried Tomato Pesto,r_sun_dried_tomato_pesto,nutrislice_ingredients,,entree,1,995,1251
+sun dried tomato red pepper and onion eggs scramble,Sun Dried Tomato Red Pepper and Onion Eggs Scramble,r_sun_dried_tomato_red_pepper_and_onion_eggs_scramble,nutrislice_ingredients,,breakfast,2,682,988
+sunflower butter,Sunflower Butter,r_sunflower_butter,nutrislice_ingredients,,entree,20,89,1637
+sunflower seed butter,Sunflower Seed Butter,r_sunflower_seed_butter,nutrislice_ingredients,,salad,15,144,3051
+sunflower seeds,Sunflower Seeds,r_sunflower_seeds,nutrislice_ingredients,,salad,106,11,1570
+sushi rice,Sushi Rice,r_sushi_rice,nutrislice_ingredients,,side,1,996,1289
+sweet and sour tofu,Sweet & Sour Tofu,r_sweet_and_sour_tofu,nutrislice_ingredients,,entree,4,434,1433
+sweet chili roasted brussels sprouts,Sweet Chili Roasted Brussels Sprouts,r_sweet_chili_roasted_brussels_sprouts,nutrislice_ingredients,,soup,1,997,1414
+sweet chili tofu,Sweet Chili Tofu,r_sweet_chili_tofu,nutrislice_ingredients,,soup,2,683,2174
+sweet plantains,Sweet Plantains,r_sweet_plantains,nutrislice_ingredients,,entree,5,354,866
+sweet potato chickpea curry,Sweet Potato Chickpea Curry,r_sweet_potato_chickpea_curry,nutrislice_ingredients,,entree,3,526,1496
+sweet potato fries,Sweet Potato Fries,r_sweet_potato_fries,nutrislice_ingredients,,side,3,527,1000
+sweet potato garlic fries,Sweet Potato Garlic Fries,r_sweet_potato_garlic_fries,nutrislice_ingredients,,side,1,998,1379
+sweet potato sausage and egg bake,"Sweet Potato, Sausage & Egg Bake",r_sweet_potato_sausage_and_egg_bake,nutrislice_ingredients,,breakfast,1,999,2562
+sweet potato tater tots,Sweet Potato Tater Tots,r_sweet_potato_tater_tots,nutrislice_ingredients,,side,8,245,1277
+swiss onion beef burger,Swiss Onion Beef Burger,r_swiss_onion_beef_burger,nutrislice_ingredients,,entree,1,1000,1015
+syrup,Syrup,r_syrup,nutrislice_ingredients,,entree,20,90,3177
+szechuan style chicken,Szechuan-style Chicken,r_szechuan_style_chicken,name_rule,chicken,entree,1,1001,611
+szechuan style tofu,Szechuan-style Tofu,r_szechuan_style_tofu,nutrislice_ingredients,,entree,2,684,1224
+taco garnish,Taco Garnish,r_taco_garnish,nutrislice_ingredients,,salad,4,435,402
+tahini sauce,Tahini Sauce,r_tahini_sauce,nutrislice_ingredients,,side,1,1002,479
+tamarind chutney,Tamarind Chutney,r_tamarind_chutney,nutrislice_ingredients,,salad,12,177,1659
+tamarind sweet and sour chicken,Tamarind Sweet and Sour Chicken,r_tamarind_sweet_and_sour_chicken,nutrislice_ingredients,,entree,2,685,1417
+tandoori roasted carrots and mushrooms,Tandoori Roasted Carrots and Mushrooms,r_tandoori_roasted_carrots_and_mushrooms,nutrislice_ingredients,,side,2,686,573
+tarka dal stew,Tarka Dal Stew,r_tarka_dal_stew,nutrislice_ingredients,,soup,4,436,1304
+tazanian eggplant misagaa,Tazanian Eggplant Misagaa,r_tazanian_eggplant_misagaa,nutrislice_ingredients,,entree,2,687,669
+teriyaki chicken,Teriyaki Chicken,r_teriyaki_chicken,nutrislice_ingredients,,entree,4,437,1441
+teriyaki chicken potsticker,Teriyaki Chicken Potsticker,r_teriyaki_chicken_potsticker,nutrislice_ingredients,,entree,3,528,2358
+teriyaki tofu,Teriyaki Tofu,r_teriyaki_tofu,nutrislice_ingredients,,entree,3,529,1436
+thai basil salmon,Thai Basil Salmon,r_thai_basil_salmon,nutrislice_ingredients,,entree,2,688,1448
+thai bbq shiitake pizza,Thai BBQ Shiitake Pizza,r_thai_bbq_shiitake_pizza,nutrislice_ingredients,,entree,1,1003,864
+thai coconut curry chicken noodle soup,Thai Coconut Curry Chicken Noodle Soup,r_thai_coconut_curry_chicken_noodle_soup,nutrislice_ingredients,,soup,2,689,1463
+thai coconut curry noodle,Thai Coconut Curry Noodle,r_thai_coconut_curry_noodle,nutrislice_ingredients,,entree,2,690,3029
+thai green curry shrimp,Thai Green Curry Shrimp,r_thai_green_curry_shrimp,nutrislice_ingredients,,entree,2,691,1447
+thai sweet chili sauce,Thai Sweet Chili Sauce,r_thai_sweet_chili_sauce,nutrislice_ingredients,,soup,7,263,1569
+thai tofu curry,Thai Tofu Curry,r_thai_tofu_curry,nutrislice_ingredients,,entree,2,692,1184
+tikka masala chicken breast,Tikka Masala Chicken Breast,r_tikka_masala_chicken_breast,name_rule,chicken,entree,1,1004,823
+tofu banh mi marinade,Tofu Banh Mi Marinade,r_tofu_banh_mi_marinade,nutrislice_ingredients,,entree,1,1005,205
+tofu banh mi sandwich,Tofu Banh Mi Sandwich,r_tofu_banh_mi_sandwich,nutrislice_ingredients,,entree,3,530,1105
+tofu eggplant basil stir fry,Tofu Eggplant Basil Stir Fry,r_tofu_eggplant_basil_stir_fry,nutrislice_ingredients,,entree,2,693,1439
+tofu fajita,Tofu Fajita,r_tofu_fajita,nutrislice_ingredients,,entree,3,531,378
+tofu mushroom stir fry,Tofu Mushroom Stir Fry,r_tofu_mushroom_stir_fry,nutrislice_ingredients,,entree,2,694,1432
+tofu stroganoff,Tofu Stroganoff,r_tofu_stroganoff,nutrislice_ingredients,,entree,1,1006,2874
+tomatillo avocado verde salad,Tomatillo Avocado Verde Salad,r_tomatillo_avocado_verde_salad,nutrislice_ingredients,,salad,4,438,778
+tomatillo sauce,Tomatillo Sauce,r_tomatillo_sauce,name_rule,salsa|tomatillo,side,1,1007,1789
+tomato bisque soup,Tomato Bisque Soup,r_tomato_bisque_soup,nutrislice_ingredients,,soup,19,99,522
+tomato chipotle penne pasta,Tomato Chipotle Penne Pasta,r_tomato_chipotle_penne_pasta,nutrislice_ingredients,,side,2,695,899
+tomato chutney,Tomato Chutney,r_tomato_chutney,nutrislice_ingredients,,salad,11,194,1660
+tomato couscous salad,Tomato Couscous Salad,r_tomato_couscous_salad,nutrislice_ingredients,,salad,1,1008,678
+topping pickled onions,Topping - Pickled Onions,r_topping_pickled_onions,nutrislice_ingredients,,entree,1,1009,742
+tortilla strips,Tortilla Strips,r_tortilla_strips,nutrislice_ingredients,,side,6,297,381
+triple berry crumble bar,Triple Berry Crumble Bar,r_triple_berry_crumble_bar,nutrislice_ingredients,,dessert,1,1010,3284
+tuna salad,Tuna Salad,r_tuna_salad,nutrislice_ingredients,,salad,80,25,3150
+tunisian chickpea,Tunisian Chickpea,r_tunisian_chickpea,nutrislice_ingredients,,entree,2,696,182
+turkey and bean chili,Turkey and Bean Chili,r_turkey_and_bean_chili,nutrislice_ingredients,,soup,15,145,517
+turkey bolognese sauce,Turkey Bolognese Sauce,r_turkey_bolognese_sauce,nutrislice_ingredients,,entree,1,1011,1142
+turkey melt sandwich,Turkey Melt Sandwich,r_turkey_melt_sandwich,name_rule,turkey,entree,1,1012,1106
+turkey sausage link,Turkey Sausage Link,r_turkey_sausage_link,nutrislice_ingredients,,entree,7,264,507
+turkey sausage patty,Turkey Sausage Patty,r_turkey_sausage_patty,nutrislice_ingredients,,entree,10,207,508
+turmeric basmati rice with caramelized onion,Turmeric Basmati Rice with Caramelized Onion,r_turmeric_basmati_rice_with_caramelized_onion,nutrislice_ingredients,,side,1,1013,2546
+tuscan bean penne,Tuscan Bean Penne,r_tuscan_bean_penne,nutrislice_ingredients,,side,3,532,3195
+tuscan chicken halal,Tuscan Chicken HALAL,r_tuscan_chicken_halal,nutrislice_ingredients,,entree,1,1014,2734
+tuscan mushroom bean soup,Tuscan Mushroom Bean Soup,r_tuscan_mushroom_bean_soup,nutrislice_ingredients,,soup,26,72,1467
+tuscan white bean orzo,Tuscan White Bean Orzo,r_tuscan_white_bean_orzo,nutrislice_ingredients,,entree,1,1015,3069
+tuxedo mousse cake,Tuxedo Mousse Cake,r_tuxedo_mousse_cake,nutrislice_ingredients,,dessert,5,355,1867
+unsalted butter,Unsalted Butter,r_unsalted_butter,nutrislice_ingredients,,salad,16,124,3052
+vanilla overnight oats,Vanilla Overnight Oats,r_vanilla_overnight_oats,nutrislice_ingredients,,entree,2,697,1726
+vanilla soft serve,Vanilla Soft Serve,r_vanilla_soft_serve,nutrislice_ingredients,,dessert,30,59,1822
+vegan apple maple sausage,Vegan Apple Maple Sausage,r_vegan_apple_maple_sausage,nutrislice_ingredients,,entree,4,439,501
+vegan baked tofu bulgogi,Vegan Baked Tofu Bulgogi,r_vegan_baked_tofu_bulgogi,nutrislice_ingredients,,entree,2,698,1302
+vegan bbq beef strips,"Vegan BBQ ""Beef"" Strips",r_vegan_bbq_beef_strips,nutrislice_ingredients,,entree,1,1016,1217
+vegan beef strip stew,"Vegan ""Beef"" Strip Stew",r_vegan_beef_strip_stew,nutrislice_ingredients,,soup,1,1017,1290
+vegan beyond burger,Vegan Beyond Burger,r_vegan_beyond_burger,nutrislice_ingredients,,entree,15,146,1020
+vegan breakfast sausage patty,"Vegan Breakfast ""Sausage"" Patty",r_vegan_breakfast_sausage_patty,nutrislice_ingredients,,breakfast,26,73,1331;502
+vegan breakfast tostada,Vegan Breakfast Tostada,r_vegan_breakfast_tostada,nutrislice_ingredients,,breakfast,1,1018,1174
+vegan broccoli beef,"Vegan Broccoli ""Beef""",r_vegan_broccoli_beef,nutrislice_ingredients,,entree,2,699,728
+vegan butter,Vegan Butter,r_vegan_butter,nutrislice_ingredients,,entree,28,64,1680
+vegan celebration roast,"Vegan Celebration ""Roast""",r_vegan_celebration_roast,nutrislice_ingredients,,entree,5,356,1144
+vegan cheesesteak sandwich,Vegan Cheesesteak Sandwich,r_vegan_cheesesteak_sandwich,nutrislice_ingredients,,entree,2,700,1050
+vegan chicago hot dog,Vegan Chicago Hot Dog,r_vegan_chicago_hot_dog,nutrislice_ingredients,,entree,4,440,1070
+vegan chicken nuggets,"Vegan ""Chicken"" Nuggets",r_vegan_chicken_nuggets,nutrislice_ingredients,,entree,6,298,532
+vegan chicken patty smothered in gravy,"Vegan ""Chicken"" Patty Smothered in Gravy",r_vegan_chicken_patty_smothered_in_gravy,nutrislice_ingredients,,entree,5,357,922
+vegan chicken salad sandwich,Vegan Chicken Salad Sandwich,r_vegan_chicken_salad_sandwich,nutrislice_ingredients,,salad,1,1019,3215
+vegan chicken tenders,Vegan Chicken Tenders,r_vegan_chicken_tenders,nutrislice_ingredients,,entree,14,158,422
+vegan chilaquiles,Vegan Chilaquiles,r_vegan_chilaquiles,nutrislice_ingredients,,entree,2,701,530
+vegan chili hot dog,Vegan Chili Hot Dog,r_vegan_chili_hot_dog,nutrislice_ingredients,,soup,1,1020,1108
+vegan chocolate chip cookie,Vegan Chocolate Chip Cookie,r_vegan_chocolate_chip_cookie,nutrislice_ingredients,,dessert,33,53,428
+vegan cioppino stew,Vegan Cioppino Stew,r_vegan_cioppino_stew,nutrislice_ingredients,,soup,1,1021,1310
+vegan coleslaw,Vegan Coleslaw,r_vegan_coleslaw,nutrislice_ingredients,,entree,3,533,653
+vegan creamy mushroom gravy,Vegan Creamy Mushroom Gravy,r_vegan_creamy_mushroom_gravy,nutrislice_ingredients,,entree,7,265,923
+vegan creole potato salad,Vegan Creole Potato Salad,r_vegan_creole_potato_salad,nutrislice_ingredients,,salad,5,358,1292
+vegan crispy potato soyrizo taco,Vegan Crispy Potato Soyrizo Taco,r_vegan_crispy_potato_soyrizo_taco,nutrislice_ingredients,,dessert,2,702,1257
+vegan french toast,Vegan French Toast,r_vegan_french_toast,nutrislice_ingredients,,breakfast,1,1022,2712
+vegan grilled cheese sandwich,"Vegan Grilled ""Cheese"" Sandwich",r_vegan_grilled_cheese_sandwich,nutrislice_ingredients,,entree,5,359,1049
+vegan hot dog,Vegan Hot Dog,r_vegan_hot_dog,nutrislice_ingredients,,entree,3,534,1072
+vegan italian sausage,"Vegan Italian ""Sausage""",r_vegan_italian_sausage,nutrislice_ingredients,,entree,16,125,504
+vegan italian sausage sandwich,"Vegan Italian ""Sausage"" Sandwich",r_vegan_italian_sausage_sandwich,nutrislice_ingredients,,entree,6,299,1075
+vegan italian sausage with peppers and onions,"Vegan Italian ""Sausage"" with Peppers and Onions",r_vegan_italian_sausage_with_peppers_and_onions,nutrislice_ingredients,,entree,6,300,509
+vegan lemon sugar cookie,Vegan Lemon Sugar Cookie,r_vegan_lemon_sugar_cookie,name_rule,cookie|cake|pie|brownie|cobbler|bar\b|crisp,dessert,3,535,429
+vegan lemon sugar cookies,Vegan Lemon Sugar Cookies,r_vegan_lemon_sugar_cookies,nutrislice_ingredients,,dessert,18,104,429
+vegan lomo saltado stir fry,Vegan Lomo Saltado Stir Fry,r_vegan_lomo_saltado_stir_fry,nutrislice_ingredients,,entree,1,1023,1216
+vegan mac and cheese bake,Vegan Mac and Cheese Bake,r_vegan_mac_and_cheese_bake,nutrislice_ingredients,,entree,4,441,2130
+vegan macaroni salad,Vegan Macaroni Salad,r_vegan_macaroni_salad,nutrislice_ingredients,,dessert,2,703,721
+vegan malibu burger,Vegan Malibu Burger,r_vegan_malibu_burger,nutrislice_ingredients,,entree,3,536,1263
+vegan mediterranean chicken strips,"Vegan Mediterranean ""Chicken"" Strips",r_vegan_mediterranean_chicken_strips,nutrislice_ingredients,,entree,6,301,1214
+vegan midnight cookie,Vegan Midnight Cookie,r_vegan_midnight_cookie,nutrislice_ingredients,,dessert,24,81,1484
+vegan oatmeal raisin cookie,Vegan Oatmeal Raisin Cookie,r_vegan_oatmeal_raisin_cookie,nutrislice_ingredients,,dessert,26,74,430
+vegan onion pepper and beef,"Vegan Onion Pepper and ""Beef""",r_vegan_onion_pepper_and_beef,nutrislice_ingredients,,entree,5,360,740
+vegan pho,Vegan Pho,r_vegan_pho,nutrislice_ingredients,,soup,8,246,1457
+vegan pho broth,Vegan Pho Broth,r_vegan_pho_broth,name_rule,pho broth|broth,soup,1,1024,1413
+vegan pozole,Vegan Pozole,r_vegan_pozole,nutrislice_ingredients,,soup,2,704,1191
+vegan primavera sauce,Vegan Primavera Sauce,r_vegan_primavera_sauce,nutrislice_ingredients,,side,6,302,1248
+vegan remoulade sauce,Vegan Remoulade Sauce,r_vegan_remoulade_sauce,nutrislice_ingredients,,side,1,1025,358
+vegan sausage mixed pepper stir fry,"Vegan ""sausage"" Mixed Pepper Stir Fry",r_vegan_sausage_mixed_pepper_stir_fry,nutrislice_ingredients,,entree,9,217,1348
+vegan scrambled egg,Vegan Scrambled Egg,r_vegan_scrambled_egg,nutrislice_ingredients,,breakfast,16,126,1351
+vegan sour cream,Vegan Sour Cream,r_vegan_sour_cream,nutrislice_ingredients,,entree,2,705,1805
+vegan soyrizo taco,Vegan Soyrizo Taco,r_vegan_soyrizo_taco,name_rule,taco|burrito|quesadilla,entree,1,1026,1256
+vegan sunflower sour cream,Vegan Sunflower Sour Cream,r_vegan_sunflower_sour_cream,nutrislice_ingredients,,entree,7,266,1336
+vegan sweet potato and black bean taco,Vegan Sweet Potato and Black Bean Taco,r_vegan_sweet_potato_and_black_bean_taco,nutrislice_ingredients,,entree,2,706,1255
+vegan tofu siga tibs stew,Vegan Tofu Siga Tibs Stew,r_vegan_tofu_siga_tibs_stew,nutrislice_ingredients,,soup,1,1027,1305
+vegan wellness stew,Vegan Wellness Stew,r_vegan_wellness_stew,nutrislice_ingredients,,soup,6,303,1286
+vegetable and cheese eggs scramble,Vegetable and Cheese Eggs Scramble,r_vegetable_and_cheese_eggs_scramble,nutrislice_ingredients,,breakfast,4,442,983
+vegetable biryani with tofu,Vegetable Biryani with Tofu,r_vegetable_biryani_with_tofu,nutrislice_ingredients,,entree,1,1028,2520
+vegetable chow mein,Vegetable Chow Mein,r_vegetable_chow_mein,nutrislice_ingredients,,entree,2,707,714
+vegetable deluxe pizza,Vegetable Deluxe Pizza,r_vegetable_deluxe_pizza,nutrislice_ingredients,,entree,1,1029,831
+vegetable eggroll,Vegetable Eggroll,r_vegetable_eggroll,nutrislice_ingredients,,entree,9,218,677
+vegetable fajita,Vegetable Fajita,r_vegetable_fajita,nutrislice_ingredients,,entree,2,708,214
+vegetable fried rice,Vegetable Fried Rice,r_vegetable_fried_rice,nutrislice_ingredients,,side,2,709,771
+vegetable medley,Vegetable Medley,r_vegetable_medley,nutrislice_ingredients,,side,6,304,1158
+vegetable potstickers,Vegetable Potstickers,r_vegetable_potstickers,name_rule,medley|vegetable|veggie,entree,1,1030,659
+vegetable quesadilla,Vegetable Quesadilla,r_vegetable_quesadilla,nutrislice_ingredients,,entree,1,1031,2425
+vegetable ramen,Vegetable Ramen,r_vegetable_ramen,name_rule,medley|vegetable|veggie,entree,2,710,2944
+vegetable spring roll,Vegetable Spring Roll,r_vegetable_spring_roll,nutrislice_ingredients,,salad,6,305,2603
+vegetable spring rolls,Vegetable Spring Rolls,r_vegetable_spring_rolls,nutrislice_ingredients,,side,7,267,680
+vegetable yemeni zurbian basmati rice,Vegetable Yemeni Zurbian Basmati Rice,r_vegetable_yemeni_zurbian_basmati_rice,nutrislice_ingredients,,side,1,1032,1156
+vongole clams linguini,Vongole Clams Linguini,r_vongole_clams_linguini,nutrislice_ingredients,,entree,1,1033,789
+waffle cut sweet potato fries,Waffle-Cut Sweet Potato Fries,r_waffle_cut_sweet_potato_fries,nutrislice_ingredients,,breakfast,1,1034,3258
+waffle fries,Waffle Fries,r_waffle_fries,nutrislice_ingredients,,breakfast,3,537,1002
+waffles,Waffles,r_waffles,nutrislice_ingredients,,breakfast,16,127,1014
+whipped cream,Whipped Cream,r_whipped_cream,nutrislice_ingredients,,entree,1,1035,1865
+whipped cream cheese,Whipped Cream Cheese,r_whipped_cream_cheese,nutrislice_ingredients,,breakfast,53,39,1692
+white bean polenta,White Bean Polenta,r_white_bean_polenta,nutrislice_ingredients,,side,1,1036,883
+white bean ragu polenta cakes,White Bean Ragu Polenta Cakes,r_white_bean_ragu_polenta_cakes,nutrislice_ingredients,,dessert,2,711,869
+white bean salsa,White Bean Salsa,r_white_bean_salsa,nutrislice_ingredients,,side,1,1037,2078
+white bean soup with garlic and parsley,White Bean Soup with Garlic and Parsley,r_white_bean_soup_with_garlic_and_parsley,nutrislice_ingredients,,soup,6,306,2367
+white beans with oregano and garlic,White Beans with Oregano and Garlic,r_white_beans_with_oregano_and_garlic,nutrislice_ingredients,,side,1,1038,656
+white corn tortillas,White Corn Tortillas,r_white_corn_tortillas,nutrislice_ingredients,,side,6,307,1524
+whole baby carrots,Whole Baby Carrots,r_whole_baby_carrots,nutrislice_ingredients,,salad,17,111,2262
+whole wheat bagels,Whole Wheat Bagels,r_whole_wheat_bagels,name_rule,bagel,breakfast,2,712,1530
+whole wheat dinner roll,Whole Wheat Dinner Roll,r_whole_wheat_dinner_roll,nutrislice_ingredients,,side,1,1039,1555
+wild pilaf rice,Wild Pilaf Rice,r_wild_pilaf_rice,nutrislice_ingredients,,side,4,443,1143
+wild rice,Wild Rice,r_wild_rice,nutrislice_ingredients,,side,5,361,1124
+wild rice tofu stuffed peppers,Wild Rice Tofu Stuffed Peppers,r_wild_rice_tofu_stuffed_peppers,nutrislice_ingredients,,entree,4,444,1313
+yellow tortilla chip,Yellow Tortilla Chip,r_yellow_tortilla_chip,nutrislice_ingredients,,salad,9,219,1557
+yemeni beef stew,Yemeni Beef Stew,r_yemeni_beef_stew,nutrislice_ingredients,,soup,1,1040,1588
+yemeni salata salad,Yemeni Salata Salad,r_yemeni_salata_salad,nutrislice_ingredients,,salad,3,538,758
+yucca fries,Yucca Fries,r_yucca_fries,nutrislice_ingredients,,salad,1,1041,947
+zhoug sauce,Zhoug Sauce,r_zhoug_sauce,nutrislice_ingredients,,side,2,713,1299

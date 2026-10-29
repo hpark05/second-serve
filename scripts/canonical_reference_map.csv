@@ -1,0 +1,122 @@
+canonical_id,foodkeeper_ids,shelf_confidence,lafa_commodity,loss_confidence,note
+avocado,250;180,high,Fresh avocados,med,180=guacamole
+bagel,449;450,high,White and whole wheat flour,low,LAFA flour proxy
+baking_staples,220;238,med,Corn starch,med,cornstarch + ground spices stand in for leavening/yeast/vanilla
+beans_canned,372,med,Dry edible beans,low,FoodKeeper generic low-acid canned goods; LAFA dry beans (no canned-bean series)
+beans_green,273,high,Fresh snap beans,med,
+beef_ground,43,high,Beef,med,
+beef_whole,41;40;39,high,Beef,med,stew cubes / steaks / chuck roast
+beets,274;633,high,Fresh vegetables,low,633=pickled beets; LAFA has no beet series
+bread_roll,195,high,White and whole wheat flour,low,
+bread_sliced,195;461,high,White and whole wheat flour,low,
+broccoli,276,high,Fresh broccoli,med,
+butter,1,high,Butter,med,
+butter_substitute,26,med,Margarine,med,FoodKeeper margarine for plant butter spreads
+cabbage,278,high,Fresh cabbage,med,
+carrot,279;491,high,Fresh carrots,med,
+cauliflower,280,high,Fresh cauliflower,med,
+celery,281,high,Fresh celery,med,
+cereal_cold,374;555,high,Total grains,low,
+cheese_crumbled,7,med,Blue cheese,med,FoodKeeper soft cheese for feta/blue/cotija
+cheese_mozzarella,5,high,Mozzarella cheese,med,
+cheese_parmesan,4,high,Parmesan cheese,med,
+cheese_shredded_sliced,5;6,high,Cheddar cheese,med,
+cheese_vegan,5,low,Total cheese,low,no plant-cheese item; dairy shredded cheese proxy
+chicken_cooked,135,high,Chicken,med,
+chicken_raw,117;118,high,Chicken,med,
+citrus,256;448;447,high,Fresh lemons,med,
+coconut_milk,602,high,Coconut,low,
+coffee_tea,400;541;410,high,,,ERS has no LAFA loss series for coffee/tea
+corn,331;282,med,Frozen sweet corn,med,331=frozen vegetables (generic)
+cornmeal,218;656;657,high,Corn flour and meal,med,
+cream,13;14,high,Heavy cream,med,
+cream_cheese,10,high,Cream cheese,med,
+croutons_crumbs,682;643,high,White and whole wheat flour,low,
+cucumber,283,high,Fresh cucumbers,med,
+dessert_prepared,247;309;197;199,med,,,cookie dough / frozen dough / cakes / cookies; no ERS series
+dressing,356;623;625,high,Salad and cooking oils,low,
+egg_alt,17;310,low,,,liquid egg substitutes (egg-based) stand in for plant egg; no ERS series
+eggplant,284,high,Fresh eggplant,med,
+eggs,21;22,high,Eggs,med,
+fish,146;144,high,Fresh and frozen fish,med,
+flour,222;223,high,White and whole wheat flour,med,
+fruit_apple,248,high,Fresh apples,med,
+fruit_banana,251,high,Fresh bananas,med,
+fruit_berries,481;315,high,Fresh strawberries,med,315=frozen fruit
+fruit_dried,379,high,Dried fruit,med,
+fruit_melon,264;496;497;495,high,Fresh cantaloupe,med,
+fruit_orange,256,high,Fresh oranges,med,
+fruit_other,261;265,med,Fresh noncitrus,med,grapes / mango-papaya
+fruit_pineapple,267,high,Fresh pineapple,med,
+garlic,285;235,med,Fresh garlic,med,peeled garlic not listed; whole bulb + jarred chopped
+ginger,286;505,high,Fresh garlic,low,LAFA has no ginger series
+grains_other,425;426,med,Total grains,low,FoodKeeper quinoa only; no farro/bulgur/couscous items
+greens_asian,275,high,Fresh cabbage,low,
+greens_mixed,415;678,high,Fresh leaf lettuce,low,
+herbs_fresh,288,high,Fresh vegetables,low,
+hot_sauce,559,high,,,no ERS series
+hummus_dips,181;183;16,high,Dry edible beans,low,
+jam_spreads,347;387,high,Peanuts,low,LAFA peanuts for peanut butter share only
+juice,455;448,high,Orange juice,med,
+kale_collards,423;287,high,Fresh kale,med,
+legumes_dried,334;333,high,Dry peas and lentils,med,
+lettuce_romaine,290,high,Fresh leaf lettuce,med,
+mayonnaise,350,high,Salad and cooking oils,low,
+meat_alt,327;326,high,,,no ERS series for plant-based meat
+milk,27,high,2 percent milk,med,FoodKeeper gives only 'package use-by date' for fridge
+milk_plant,427;421,high,,,no ERS series
+misc_dry,,none,,,catch-all bucket; no source possible
+mustard_ketchup,351;348;500,high,,,no ERS series
+mushroom,292,high,Fresh mushrooms,med,
+noodles_asian,336,med,Rice,low,FoodKeeper dry egg noodles
+nuts_seeds,386;616;608,high,Total tree nuts,med,
+oats,585;375,high,Oat products,med,
+oil_cooking,520;227;229,high,Salad and cooking oils,med,
+oil_fryer,227;526,med,Salad and cooking oils,med,526=re-used frying oil
+oil_olive,227,high,Salad and cooking oils,med,
+oil_sesame,612,high,Salad and cooking oils,med,
+onion,294,high,Fresh onions,med,
+onion_green,295,high,Fresh onions,low,
+pancake_mix,214,high,Wheat flour,low,
+pasta,335;177,high,Durum flour,med,
+pasta_gf,335;177,low,Rice,low,FoodKeeper wheat pasta proxy
+pastry,204;452;551,high,Wheat flour,low,
+peas_green,331;273;641,med,Frozen green peas,med,331=frozen vegetables (generic)
+pepper_bell,296,high,Fresh bell peppers,med,
+pepper_chili,548,high,Fresh bell peppers,low,
+pickles_olives,353;352;614,high,Canned olives,med,
+pizza_base,571;309,high,Wheat flour,low,
+pork,74;61;67,high,Pork,med,
+potato,297,high,Fresh potatoes,med,
+potato_frozen,313,high,Frozen potatoes,med,
+potato_sweet,422,high,Fresh sweet potatoes,med,
+prepared_entree,330;185,high,,,no ERS series
+radish,299,high,Fresh radishes,med,
+rice_brown,339;178,high,Rice,med,
+rice_white,338;178,high,Rice,med,
+salsa,357;572,high,Canned tomatoes,low,
+salt,468,high,,,no ERS series
+sauce_prepared,340;342;599,med,,,BBQ / cream sauces / tomato sauce; no ERS series
+sausage_bacon,102;79;323,high,Pork,med,
+shrimp,325;151,high,Fresh and frozen shellfish,med,
+soft_serve_mix,317,low,Frozen dairy products,med,FoodKeeper ice cream; no liquid mix item
+soup_base,396;486;487,high,,,no ERS series
+soup_prepared,193;330,med,,,no ERS series
+sour_cream,29;16,low,Sour cream,med,FoodKeeper sour cream says only "package use-by date"; 16=sour-cream-based dips used as proxy
+soy_sauce,360,high,,,no ERS series
+spices,238;237;236,high,,,ERS spice data is availability-only (no loss series)
+spinach,291;415,high,Fresh spinach,med,
+squash_summer,302;547,high,Fresh squash,med,
+squash_winter,303,high,Fresh pumpkin,low,
+sugar,240;239;241,high,Cane and beet sugar,med,
+syrup_honey,345;398,high,Total honey and syrup,med,
+tofu,168,high,,,no ERS soy/tofu series
+tomato,306;600,high,Fresh tomatoes,med,FoodKeeper: pantry until ripe then 7 days (no numeric fridge)
+tomato_canned,373;501;359,high,Canned tomatoes,med,
+tortilla,196;553,high,White and whole wheat flour,low,
+tuna_canned,618;617,high,Canned Tuna,med,
+turkey,120;115;514,high,Turkey,med,
+veg_other,271;277,med,Fresh vegetables,med,asparagus / brussels sprouts
+vinegar,361;669;557,high,,,no ERS series
+wine_cooking,636;463,low,,,FoodKeeper cooking wine says only "package use-by date"; 463=white wine proxy; no ERS series
+yogurt,33,high,Yogurt,med,

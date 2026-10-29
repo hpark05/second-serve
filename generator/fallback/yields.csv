@@ -1,0 +1,28 @@
+# PLACEHOLDER (generator fallback): replace with data/raw/reference/yields.csv from the research agent.
+# yield_factor = edible portion / as-purchased weight. Round numbers in the style of the USDA Food Buying Guide; NOT individually sourced.
+category,yield_factor,note
+leafy_greens,0.88,placeholder (mostly pre-cut)
+herbs,0.75,placeholder
+vegetables,0.88,placeholder (mix of pre-diced and whole)
+fruit,0.80,placeholder
+dairy,1.00,placeholder
+cheese,1.00,placeholder
+eggs,1.00,placeholder (liquid egg)
+poultry,0.97,placeholder (boneless)
+beef,0.95,placeholder
+pork,0.97,placeholder
+seafood,0.92,placeholder
+plant_protein,1.00,placeholder
+bakery,1.00,placeholder
+grains_dry,1.00,placeholder
+oils_fats,1.00,placeholder
+seasonings,1.00,placeholder
+condiments_sauces,1.00,placeholder
+sweeteners,1.00,placeholder
+beverages_juice,1.00,placeholder
+nuts_seeds,1.00,placeholder
+canned_shelf_stable,1.00,placeholder
+frozen,1.00,placeholder
+other,1.00,placeholder
+prepped_produce,1.00,placeholder (already trimmed by the vendor)
+water,1.00,not purchased

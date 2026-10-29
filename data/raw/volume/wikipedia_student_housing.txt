@@ -1,0 +1,4 @@
+SOURCE: https://en.wikipedia.org/w/index.php?title=University_of_California,_Berkeley_student_housing&action=raw
+PULLED: 2026-10-27T10:51:21-07:00
+HTTP: 403
+

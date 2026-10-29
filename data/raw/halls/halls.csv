@@ -1,0 +1,62 @@
+hall,attribute,value,source_url,notes,quote,quote_verified
+Crossroads,address,2415 Bowditch Street,https://dining.berkeley.edu/locations/dining-commons/crossroads/,,2415 Bowditch Street,yes
+Crossroads,stations_count,10,https://dining.berkeley.edu/locations/dining-commons/crossroads/,Official page.,"Its 10 stations serve a variety of eats like pho, pizza, deli, salad bar, and more",yes
+Crossroads,cuisine_themes,"international; pho, pizza, deli, salad bar; allergen-free platform",https://dining.berkeley.edu/locations/dining-commons/crossroads/,,well known for great flavor profiles and international foods,yes
+Crossroads,adjacent_retail,"The Den (Pizzeria 1868, Peet's Coffee)",https://dining.berkeley.edu/locations/dining-commons/crossroads/,,"featuring
+Pizzeria 1868
+and Peet’s Coffee",yes
+Crossroads,all_you_care_to_eat,yes,https://dining.berkeley.edu/meal-plans/2026-2027/faq/,,"Our dining commons, including Crossroads, Café 3, Clark Kerr, and Foothill, are all-you-care-to-eat locations",yes
+Crossroads,feeder_housing,"Units 1 & 2, Martinez Commons",https://housing.berkeley.edu/explore-housing-options/residence-halls/martinez-commons-residence-hall/,Martinez page names Crossroads as nearest; Units link from 2008 press.,Crossroads dining commons is located across the street at 2415 Bowditch Street,yes
+Café 3,address,2400 Durant Avenue,https://dining.berkeley.edu/locations/dining-commons/cafe-3/,Inside Unit 3.,2400 Durant Avenue,yes
+Café 3,stations_count,2 dining stations + kosher station,https://dining.berkeley.edu/locations/dining-commons/cafe-3/,,"featuring two dining stations, a kosher station",yes
+Café 3,cuisine_themes,"pizza, burgers, chicken sandwiches, fries, pasta; Halal center plate; Kosher kitchen",https://dining.berkeley.edu/locations/dining-commons/cafe-3/,,"pizza, burgers, chicken sandwiches, fries, pasta",yes
+Café 3,halal_kosher,Designated Halal and Kosher-friendly location; Kosher Kitchen Sun-Thu lunch/dinner,https://dining.berkeley.edu/meal-plans/2026-2027/faq/,,Café 3 is UC Berkeley Dining’s designated location for Halal and Kosher-friendly meals,yes
+Café 3,adjacent_retail,Bear Market,https://dining.berkeley.edu/locations/dining-commons/cafe-3/,,a convenience store called the,yes
+Café 3,all_you_care_to_eat,yes,https://dining.berkeley.edu/meal-plans/2026-2027/faq/,,"Our dining commons, including Crossroads, Café 3, Clark Kerr, and Foothill, are all-you-care-to-eat locations",yes
+Café 3,feeder_housing,"Unit 3, Blackwell",https://housing.berkeley.edu/explore-housing-options/residence-halls/blackwell-residence-hall/,,Café 3 dining commons is only a block away at 2400 Durant Avenue,yes
+Foothill,address,2700 Hearst Avenue,https://dining.berkeley.edu/locations/dining-commons/foothill/,Official page has no description text (gap).,2700 Hearst Avenue,yes
+Foothill,all_you_care_to_eat,yes,https://dining.berkeley.edu/meal-plans/2026-2027/faq/,,"Our dining commons, including Crossroads, Café 3, Clark Kerr, and Foothill, are all-you-care-to-eat locations",yes
+Foothill,feeder_housing,"Foothill, Stern",https://housing.berkeley.edu/explore-housing-options/residence-halls/stern-residence-hall/,,next to the Foothill residence hall complex,yes
+Clark Kerr,address,2601 Warring Street,https://dining.berkeley.edu/locations/dining-commons/clark-kerr/,,2601 Warring Street,yes
+Clark Kerr,stations_count,4 hot food stations + salad/deli bar,https://dining.berkeley.edu/locations/dining-commons/clark-kerr/,,"Home to four hot food stations, and a salad and deli bar",yes
+Clark Kerr,cuisine_themes,"enchiladas, beef stew, tikka masala; made-to-order pizza/pasta; Halal burgers; vegan; top-9-allergen-free station",https://dining.berkeley.edu/locations/dining-commons/clark-kerr/,,The allergy-friendly station is free of the nine major allergens,yes
+Clark Kerr,all_you_care_to_eat,yes,https://dining.berkeley.edu/meal-plans/2026-2027/faq/,,"Our dining commons, including Crossroads, Café 3, Clark Kerr, and Foothill, are all-you-care-to-eat locations",yes
+Clark Kerr,feeder_housing,Clark Kerr Campus residence hall,https://housing.berkeley.edu/explore-housing-options/residence-halls/clark-kerr-residence-hall/,,The Clark Kerr dining hall serves three meals per day,yes
+All four dining commons,carry_out_policy,No carry-out beyond a piece of fruit or small dessert,https://dining.berkeley.edu/meal-plans/2026-2027/faq/,Relevant to surplus: food is meant to be eaten on premises.,additional carry-out is not permitted,yes
+All four dining commons,hours_note,Hours subject to change; closed for breakfast Wed 2026-11-11,https://dining.berkeley.edu/locations/hours-of-operation/,,"Crossroads, Café 3, Foothill Dining Commons, and Clark Kerr Dining Commons will be closed for breakfast",yes
+Crossroads,hours_breakfast,Sun Closed; Mon 7–10 a.m.; Tue 7–10 a.m.; Wed 7–10 a.m.; Thu 7–10 a.m.; Fri 7–10 a.m.; Sat Closed,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Crossroads,hours_lunch_brunch,Sun 11 a.m.–4:00 p.m.; Mon 11 a.m.–4:00 p.m.; Tue 11 a.m.–4:00 p.m.; Wed 11 a.m.–4:00 p.m.; Thu 11 a.m.–4:00 p.m.; Fri 11 a.m.–4:00 p.m.; Sat 11 a.m.–4:00 p.m.,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Crossroads,hours_dinner,Sun 4:30–9 p.m.; Mon 4:30–9 p.m.; Tue 4:30–9 p.m.; Wed 4:30–9 p.m.; Thu 4:30–9 p.m.; Fri 4:30–9 p.m.; Sat 4:30–9 p.m.,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Café 3,hours_breakfast,Sun Closed; Mon 7–10 a.m.; Tue 7–10 a.m.; Wed 7–10 a.m.; Thu 7–10 a.m.; Fri 7–10 a.m.; Sat Closed,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Café 3,hours_lunch_brunch,Sun 11 a.m.–3 p.m.; Mon 11 a.m.–3 p.m.; Tue 11 a.m.–3 p.m.; Wed 11 a.m.–3 p.m.; Thu 11 a.m.–3 p.m.; Fri 11 a.m.–3 p.m.; Sat 11 a.m.–3 p.m.,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Café 3,hours_dinner,Sun 4:30–9 p.m.; Mon 4:30–9 p.m.; Tue 4:30–9 p.m.; Wed 4:30–9 p.m.; Thu 4:30–9 p.m.; Fri 4:30–9 p.m.; Sat 4:30–9 p.m.,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Foothill,hours_breakfast,Sun Closed; Mon 7–10 a.m.; Tue 7–10 a.m.; Wed 7–10 a.m.; Thu 7–10 a.m.; Fri 7–10 a.m.; Sat Closed,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Foothill,hours_lunch_brunch,Sun 11 a.m.–3 p.m.; Mon 11 a.m.–3 p.m.; Tue 11 a.m.–3 p.m.; Wed 11 a.m.–3 p.m.; Thu 11 a.m.–3 p.m.; Fri 11 a.m.–3 p.m.; Sat 11 a.m.–3 p.m.,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Foothill,hours_dinner,Sun 4:30–9 p.m.; Mon 4:30–9 p.m.; Tue 4:30–9 p.m.; Wed 4:30–9 p.m.; Thu 4:30–9 p.m.; Fri 4:30–9 p.m.; Sat 4:30–9 p.m.,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Clark Kerr,hours_breakfast,Sun Closed; Mon 7–10 a.m.; Tue 7–10 a.m.; Wed 7–10 a.m.; Thu 7–10 a.m.; Fri 7–10 a.m.; Sat Closed,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Clark Kerr,hours_lunch_brunch,Sun 11 a.m.–3 p.m.; Mon 11 a.m.–3 p.m.; Tue 11 a.m.–3 p.m.; Wed 11 a.m.–3 p.m.; Thu 11 a.m.–3 p.m.; Fri 11 a.m.–3 p.m.; Sat 11 a.m.–3 p.m.,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Clark Kerr,hours_dinner,Sun 4:30–9 p.m.; Mon 4:30–9 p.m.; Tue 4:30–9 p.m.; Wed 4:30–9 p.m.; Thu 4:30–9 p.m.; Fri 4:30–9 p.m.; Sat 4:30–9 p.m.,https://dining.berkeley.edu/locations/hours-of-operation/,parsed from weekly hours table,,parsed
+Café 3,menu_dates_scraped,2026-10-19 to 2026-11-02 (15 days),data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Café 3,meal_periods_observed,Fall - Breakfast; Fall - Brunch; Fall - Dinner; Fall - Lunch,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Café 3,stations_observed,Allergen Friendly; Bagels/Breads; Breakfast Special; Center Plate; Cold Food Bar; Deli Bar; Dessert; Griddle/Grill; Hot Cereal/Grains; Kosher Station; Made To Order; Pasta; Pastries; Salad Bar; Soft Serve; Soup; While It Last Center Plate; salad bar,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Café 3,distinct_items_observed,370,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Café 3,avg_items_per_day,144,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Café 3,cycle_menu_names,Cafe 3 Fall 26 Breakfast 08/25/26 - 12/18/26; Cafe 3 Fall 26 Brunch 08/25/26 - 12/18/26; Cafe 3 Fall 26 Dinner 08/25/26 - 12/18/26; Cafe 3 Fall 26 Lunch 08/25/26 - 12/18/26,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Clark Kerr,menu_dates_scraped,2026-10-19 to 2026-11-02 (15 days),data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Clark Kerr,meal_periods_observed,Fall - Breakfast; Fall - Brunch; Fall - Dinner; Fall - Lunch,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Clark Kerr,stations_observed,Allergen Friendly; Appetizers/Condiments; Bread & Pastries; Bread Spreads; Breakfast; Breakfast ; Breakfast Entree; Center Plate; Cereal/Hot Grains; Deli Bar; Dessert; Fresh Fruit; Griddle/Grill; Pasta; Pizza; Salad Bar; Soup; Soup/Hot Grains; While It Last Center Plate; Yogurt Toppings; Yogurt/Dairy; Yogurt/Dairy ,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Clark Kerr,distinct_items_observed,378,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Clark Kerr,avg_items_per_day,124,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Clark Kerr,cycle_menu_names,CKC Fall 26 Breakfast 08/25/2026 - 12/19/2026tarte; CKC Fall 26 Brunch 08/25/2026 -12/19/2026taml; CKC Fall 26 Dinner 08/25/2026 - 12/19/2026; CKC Fall 26 Lunch 08/25/2026 - 12/19/2026guadoglas,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Crossroads,menu_dates_scraped,2026-10-19 to 2026-11-02 (15 days),data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Crossroads,meal_periods_observed,Fall - Breakfast; Fall - Brunch; Fall - Dinner; Fall - Lunch,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Crossroads,stations_observed,Allergen Friendly; Bagel Bar; Breakfast Special; Center Plate; Centerplate; Deli Bar; Dessert; Griddle/Grill; Grill; Hot Cereal/Grains; Hot Cereals/Grains; Lemongrass; Midday Mains; Pasta; Pastries; Pizza; Salad Bar; Soup; Soup ; While It Last Center Plate; While It Last Centerplate,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Crossroads,distinct_items_observed,496,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Crossroads,avg_items_per_day,157,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Crossroads,cycle_menu_names,XRDS Fall 26 Breakfast 08/25/2026 - 12/19/2026; XRDS Fall 26 Brunch 08/25/2026 - 12/19/2026; XRDS Fall 26 Dinner 08/25/2026 - 12/19/2026; XRDS Fall 26 Lunch 08/25/2026 - 12/19/2026,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Foothill,menu_dates_scraped,2026-10-19 to 2026-11-02 (15 days),data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Foothill,meal_periods_observed,Fall - Breakfast; Fall - Brunch; Fall - Dinner; Fall - Lunch,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Foothill,stations_observed,Bagel Bar; Cereal/ Hot Grain ; Chef's Table; Deli Bar; Dessert; Fire & Flour; Iron &  Ember; Pastry ; Pure Plates; Salad Bar; Salad Bar ; Soup; While It Last Chef's Table; Yogurt Bar,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Foothill,distinct_items_observed,363,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Foothill,avg_items_per_day,87,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived
+Foothill,cycle_menu_names,FTH Fall 26 Breakfast 08/25/2026 - 12/19/2026; FTH Fall 26 Brunch 08/25/2026 - 12/19/2026; FTH Fall 26 Dinner 08/25/2026 - 012/19/2026; FTH Fall 26 Lunch 08/25/2026 - 12/19/2026,data/raw/menus/menu_items.csv,derived from scraped Eatec XML menus,,derived

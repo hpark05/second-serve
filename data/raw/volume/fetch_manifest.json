@@ -1,0 +1,452 @@
+[
+ {
+  "slug": "dining_commons",
+  "url": "https://dining.berkeley.edu/locations/dining-commons/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/halls",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/locations/dining-commons/",
+  "file": "dining_commons.html",
+  "text_chars": 2773
+ },
+ {
+  "slug": "crossroads",
+  "url": "https://dining.berkeley.edu/locations/dining-commons/crossroads/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/halls",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/locations/dining-commons/crossroads/",
+  "file": "crossroads.html",
+  "text_chars": 2970
+ },
+ {
+  "slug": "cafe_3",
+  "url": "https://dining.berkeley.edu/locations/dining-commons/cafe-3/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/halls",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/locations/dining-commons/cafe-3/",
+  "file": "cafe_3.html",
+  "text_chars": 2989
+ },
+ {
+  "slug": "foothill",
+  "url": "https://dining.berkeley.edu/locations/dining-commons/foothill/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/halls",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/locations/dining-commons/foothill/",
+  "file": "foothill.html",
+  "text_chars": 2444
+ },
+ {
+  "slug": "clark_kerr",
+  "url": "https://dining.berkeley.edu/locations/dining-commons/clark-kerr/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/halls",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/locations/dining-commons/clark-kerr/",
+  "file": "clark_kerr.html",
+  "text_chars": 3097
+ },
+ {
+  "slug": "hours_of_operation",
+  "url": "https://dining.berkeley.edu/locations/hours-of-operation/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/halls",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/locations/hours-of-operation/",
+  "file": "hours_of_operation.html",
+  "text_chars": 5334
+ },
+ {
+  "slug": "menus_page",
+  "url": "https://dining.berkeley.edu/menus/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/halls",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/menus/",
+  "file": "menus_page.html",
+  "text_chars": 53024
+ },
+ {
+  "slug": "meal_plans_on_campus_2026_27",
+  "url": "https://dining.berkeley.edu/meal-plans/2026-2027/living-on-campus/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/meal-plans/2026-2027/living-on-campus/",
+  "file": "meal_plans_on_campus_2026_27.html",
+  "text_chars": 5999
+ },
+ {
+  "slug": "meal_plans_terms_on_campus_2026_27",
+  "url": "https://dining.berkeley.edu/meal-plans/2026-2027/living-on-campus/terms-and-conditions-living-on-campus/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/meal-plans/2026-2027/living-on-campus/terms-and-conditions-living-on-campus/",
+  "file": "meal_plans_terms_on_campus_2026_27.html",
+  "text_chars": 10114
+ },
+ {
+  "slug": "meal_plans_faq_2026_27",
+  "url": "https://dining.berkeley.edu/meal-plans/2026-2027/faq/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/meal-plans/2026-2027/faq/",
+  "file": "meal_plans_faq_2026_27.html",
+  "text_chars": 18619
+ },
+ {
+  "slug": "meal_plans_off_campus_2026_27",
+  "url": "https://dining.berkeley.edu/meal-plans/2026-2027/living-off-campus/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://dining.berkeley.edu/meal-plans/2026-2027/living-off-campus/",
+  "file": "meal_plans_off_campus_2026_27.html",
+  "text_chars": 7427
+ },
+ {
+  "slug": "housing_compare",
+  "url": "https://housing.berkeley.edu/compare",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://housing.berkeley.edu/explore-housing-options/compare-housing-options/",
+  "file": "housing_compare.html",
+  "text_chars": 6024
+ },
+ {
+  "slug": "housing_brochure_pdf",
+  "url": "https://housing.berkeley.edu/wp-content/uploads/CALH_250202_HousingBrochure_COVER_UPDATE-Web.pdf",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 404,
+  "final_url": "https://housing.berkeley.edu/wp-content/uploads/CALH_250202_HousingBrochure_COVER_UPDATE-Web.pdf",
+  "file": "housing_brochure_pdf.html",
+  "text_chars": 0
+ },
+ {
+  "slug": "summer_conf_traditional_halls",
+  "url": "https://summerconferencehousing.berkeley.edu/host-a-conference/accommodations/traditional-residence-halls/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://summerconferencehousing.berkeley.edu/host-a-conference/accommodations/traditional-residence-halls/",
+  "file": "summer_conf_traditional_halls.html",
+  "text_chars": 3230
+ },
+ {
+  "slug": "summer_conf_suites",
+  "url": "https://summerconferencehousing.berkeley.edu/host-a-conference/accommodations/suites/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://summerconferencehousing.berkeley.edu/host-a-conference/accommodations/suites/",
+  "file": "summer_conf_suites.html",
+  "text_chars": 3245
+ },
+ {
+  "slug": "wikipedia_student_housing",
+  "url": "https://en.wikipedia.org/w/index.php?title=University_of_California,_Berkeley_student_housing&action=raw",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 403,
+  "final_url": "https://en.wikipedia.org/w/index.php?title=University_of_California,_Berkeley_student_housing&action=raw",
+  "file": "wikipedia_student_housing.html",
+  "text_chars": 0
+ },
+ {
+  "slug": "housing_units_1_2_3",
+  "url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/units-1-2-and-3-residence-halls/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/units-1-2-and-3-residence-halls/",
+  "file": "housing_units_1_2_3.html",
+  "text_chars": 16743
+ },
+ {
+  "slug": "housing_foothill",
+  "url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/foothill-residence-hall/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/foothill-residence-hall/",
+  "file": "housing_foothill.html",
+  "text_chars": 13613
+ },
+ {
+  "slug": "housing_clark_kerr",
+  "url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/clark-kerr-residence-hall/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/clark-kerr-residence-hall/",
+  "file": "housing_clark_kerr.html",
+  "text_chars": 13729
+ },
+ {
+  "slug": "housing_blackwell",
+  "url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/blackwell-residence-hall/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/blackwell-residence-hall/",
+  "file": "housing_blackwell.html",
+  "text_chars": 13129
+ },
+ {
+  "slug": "housing_stern",
+  "url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/stern-residence-hall/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/stern-residence-hall/",
+  "file": "housing_stern.html",
+  "text_chars": 14555
+ },
+ {
+  "slug": "housing_martinez",
+  "url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/martinez-commons-residence-hall/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/martinez-commons-residence-hall/",
+  "file": "housing_martinez.html",
+  "text_chars": 11672
+ },
+ {
+  "slug": "housing_residence_halls",
+  "url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://housing.berkeley.edu/explore-housing-options/residence-halls/",
+  "file": "housing_residence_halls.html",
+  "text_chars": 13448
+ },
+ {
+  "slug": "housing_construction_projects",
+  "url": "https://live-wp-sa-housing-1.pantheon.berkeley.edu/resources/campus-housing-upcoming-construction-and-redevelopment-projects/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://live-wp-sa-housing-1.pantheon.berkeley.edu/campus-housing-upcoming-construction-and-redevelopment-projects/",
+  "file": "housing_construction_projects.html",
+  "text_chars": 14428
+ },
+ {
+  "slug": "regents_mar23_j1_housing_pdf",
+  "url": "https://regents.universityofcalifornia.edu/regmeet/mar23/j1.pdf",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://regents.universityofcalifornia.edu/regmeet/mar23/j1.pdf",
+  "file": "regents_mar23_j1_housing_pdf.pdf",
+  "text_chars": 16436
+ },
+ {
+  "slug": "caldining_on_meal_plans_24_25_pdf",
+  "url": "https://dining.berkeley.edu/wp-content/uploads/2024/04/ON-Meal-Plans-24-25.pdf",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 404,
+  "final_url": "https://dining.berkeley.edu/wp-content/uploads/2024/04/ON-Meal-Plans-24-25.pdf",
+  "file": "caldining_on_meal_plans_24_25_pdf.html",
+  "text_chars": 0
+ },
+ {
+  "slug": "caldining_on_campus_brochure_22_23_pdf",
+  "url": "https://caldining.berkeley.edu/wp-content/uploads/2022/04/On-Campus-Brochure-2022-2023.pdf",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 404,
+  "final_url": "https://dining.berkeley.edu/wp-content/uploads/2022/04/On-Campus-Brochure-2022-2023.pdf",
+  "file": "caldining_on_campus_brochure_22_23_pdf.html",
+  "text_chars": 0
+ },
+ {
+  "slug": "wayback_foothill_page",
+  "url": "https://web.archive.org/web/2025id_/https://dining.berkeley.edu/locations/dining-commons/foothill/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/halls",
+  "status": 429,
+  "final_url": "https://web.archive.org/web/2025id_/https://dining.berkeley.edu/locations/dining-commons/foothill/",
+  "file": "wayback_foothill_page.html",
+  "text_chars": 0
+ },
+ {
+  "slug": "ucb_news_2003_crossroads_release",
+  "url": "https://newsarchive.berkeley.edu/news/media/releases/2003/01/27_dining.html",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://newsarchive.berkeley.edu/news/media/releases/2003/01/27_dining.html",
+  "file": "ucb_news_2003_crossroads_release.html",
+  "text_chars": 6261
+ },
+ {
+  "slug": "berkeleyan_2003_crossroads",
+  "url": "https://newsarchive.berkeley.edu/news/berkeleyan/2003/02/12_xrd.shtml",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://newsarchive.berkeley.edu/news/berkeleyan/2003/02/12_xrd.shtml",
+  "file": "berkeleyan_2003_crossroads.html",
+  "text_chars": 4007
+ },
+ {
+  "slug": "ucb_news_2004_green",
+  "url": "https://newsarchive.berkeley.edu/news/media/releases/2004/08/19_green.shtml",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://newsarchive.berkeley.edu/news/media/releases/2004/08/19_green.shtml",
+  "file": "ucb_news_2004_green.html",
+  "text_chars": 4238
+ },
+ {
+  "slug": "berkeleyan_2007_dining",
+  "url": "https://newsarchive.berkeley.edu/news/berkeleyan/2007/04/12_dining.shtml",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://newsarchive.berkeley.edu/news/berkeleyan/2007/04/12_dining.shtml",
+  "file": "berkeleyan_2007_dining.html",
+  "text_chars": 3031
+ },
+ {
+  "slug": "fsd_colorful_next_step",
+  "url": "https://www.foodservicedirector.com/menu-trends/a-colorful-next-step-for-cal-dining",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.foodservicedirector.com/menu-trends/a-colorful-next-step-for-cal-dining",
+  "file": "fsd_colorful_next_step.html",
+  "text_chars": 10034
+ },
+ {
+  "slug": "fsd_shawn_lapean",
+  "url": "https://www.foodservicedirector.com/colleges-universities/shawn-lapean",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.foodservicedirector.com/colleges-universities/shawn-lapean",
+  "file": "fsd_shawn_lapean.html",
+  "text_chars": 12913
+ },
+ {
+  "slug": "fsd_going_green",
+  "url": "https://www.foodservicedirector.com/foodservice-industries/going-green",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.foodservicedirector.com/foodservice-industries/going-green",
+  "file": "fsd_going_green.html",
+  "text_chars": 23661
+ },
+ {
+  "slug": "fsd_beyond_50_berkeley",
+  "url": "https://www.foodservicedirector.com/colleges-universities/beyond-the-50-power-players-university-of-california-berkeley",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.foodservicedirector.com/colleges-universities/beyond-the-50-power-players-university-of-california-berkeley",
+  "file": "fsd_beyond_50_berkeley.html",
+  "text_chars": 7432
+ },
+ {
+  "slug": "job_posting_insidehighered_88071",
+  "url": "https://careers.insidehighered.com/job/3539856/cook-5523c-berkeley-dining-88071/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://careers.insidehighered.com/job/3539856/cook-5523c-berkeley-dining-88071/",
+  "file": "job_posting_insidehighered_88071.html",
+  "text_chars": 15875
+ },
+ {
+  "slug": "stopwaste_cal_dining",
+  "url": "https://www.stopwaste.org/node/4778",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.stopwaste.org/resource/cal-dining-food-waste-prevention",
+  "file": "stopwaste_cal_dining.html",
+  "text_chars": 6176
+ },
+ {
+  "slug": "aashe_stars_2018_op8",
+  "url": "https://reports.aashe.org/institutions/university-of-california-berkeley-ca/report/2018-03-02/OP/food-dining/OP-8",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://reports.aashe.org/accounts/login/?next=/institutions/university-of-california-berkeley-ca/report/2018-03-02/OP/food-dining/OP-8/",
+  "file": "aashe_stars_2018_op8.html",
+  "text_chars": 1318
+ },
+ {
+  "slug": "visit_berkeley_halls_ranked",
+  "url": "https://visit.berkeley.edu/news/crossroads-cal%E2%80%99s-dining-halls-ranked",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://visit.berkeley.edu/news/crossroads-cal%E2%80%99s-dining-halls-ranked",
+  "file": "visit_berkeley_halls_ranked.html",
+  "text_chars": 6532
+ },
+ {
+  "slug": "spoon_behind_the_scenes",
+  "url": "https://spoonuniversity.com/school/uc-berkeley/behind-the-scenes-of-caldining/",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://spoonuniversity.com/school/uc-berkeley/behind-the-scenes-of-caldining/",
+  "file": "spoon_behind_the_scenes.html",
+  "text_chars": 24718
+ },
+ {
+  "slug": "dailycal_meal_points_to_swipes",
+  "url": "https://www.dailycal.org/archives/cal-dining-replaces-meal-points-with-meal-swipes/article_2afe3948-fc51-5d4e-b869-44e2cf2b0d3d.html",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.dailycal.org/archives/cal-dining-replaces-meal-points-with-meal-swipes/article_2afe3948-fc51-5d4e-b869-44e2cf2b0d3d.html",
+  "file": "dailycal_meal_points_to_swipes.html",
+  "text_chars": 6519
+ },
+ {
+  "slug": "dailycal_how_overpriced",
+  "url": "https://www.dailycal.org/archives/how-overpriced-is-cal-dining/article_34ee9153-bf31-582c-acdb-68fcd69854c1.html",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.dailycal.org/archives/how-overpriced-is-cal-dining/article_34ee9153-bf31-582c-acdb-68fcd69854c1.html",
+  "file": "dailycal_how_overpriced.html",
+  "text_chars": 6107
+ },
+ {
+  "slug": "dailycal_late_night_returns",
+  "url": "https://www.dailycal.org/archives/late-night-dining-services-return-to-crossroads-and-foothill/article_b101cab3-d296-515e-ad7b-5b53ec2f1a2f.html",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.dailycal.org/archives/late-night-dining-services-return-to-crossroads-and-foothill/article_b101cab3-d296-515e-ad7b-5b53ec2f1a2f.html",
+  "file": "dailycal_late_night_returns.html",
+  "text_chars": 6561
+ },
+ {
+  "slug": "dailycal_meal_swipe_business",
+  "url": "https://www.dailycal.org/news/campus/student-run-meal-swipe-business-shuts-down-after-uc-berkeley-dining-response/article_985402b2-4f70-4341-b4ca-6a3255d5deb5.html",
+  "pulled_at": "2026-10-27T10:51:21-07:00",
+  "dest": "data/raw/volume",
+  "status": 200,
+  "final_url": "https://www.dailycal.org/news/campus/student-run-meal-swipe-business-shuts-down-after-uc-berkeley-dining-response/article_985402b2-4f70-4341-b4ca-6a3255d5deb5.html",
+  "file": "dailycal_meal_swipe_business.html",
+  "text_chars": 7875
+ }
+]

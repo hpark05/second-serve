@@ -1,0 +1,349 @@
+canonical_id,source,ref,price_usd,pack_lb,as_of,adj,basis,match,note
+avocado,la_fruit,"cartons 2 layer MEXICO HASS 48s 32.00",32.00,26,2026-10,none,wholesale,exact,2-layer carton 26 lb (AH-697)
+avocado,la_fruit,"60s 30.00-33.00 mostly 31.00- 32.00",30.00-33.00,26,2026-10,none,wholesale,exact,
+bagel,sysco_ar,"RICHS LOAF, FRENCH, 24/19.5OZ, 24/CS 24/19.5OZ $39.10",39.10,29.25,2026-07,none,wholesale,proxy,no public bagel price with pack weight; priced as frozen French loaf
+bagel,bls,APU0000702111,,1,,none,retail,proxy,
+baking_staples,sysco_ar,"CLABGIR BAKING SODA, 24/16OZ, 24/CS 24/16 OZ $20.59",20.59,24,2026-07,none,wholesale,exact,
+baking_staples,mcps_groc,"Cornstarch 24/1#/cs MCPS# 0811180",24.74-29.44,24,2022-08,WPU02,bid,exact,
+baking_staples,mcps_groc,"Baking Powder, double action 6/5#/cs||34.20||63.08",34.20-63.08,30,2022-08,WPU02,bid,exact,two middle bids; outliers dropped
+beans_canned,usda_lom,100359,,1,2025-11,WPU02,wholesale,exact,
+beans_canned,usda_lom,100360,,1,2025-11,WPU02,wholesale,exact,
+beans_canned,usda_lom,100365,,1,2025-11,WPU02,wholesale,exact,
+beans_canned,usda_lom,100370,,1,2025-11,WPU02,wholesale,exact,
+beans_canned,sysco_ar,"CASACLS BEANS, BLACK, #10CAN, 6/CS 6/#10 $44.55",44.55,40.5,2026-07,none,wholesale,exact,#10 can 6.75 lb (USDA LoM case weight for beans)
+beans_canned,sysco_ar,"SYS CLS BEANS, KIDNEY, DARK RED, #10CAN, 6/CS 6/#10 $46.45",46.45,40.5,2026-07,none,wholesale,exact,
+beans_green,usda_lom,100351,,1,2025-11,WPU02,wholesale,exact,
+beans_green,sysco_ar,"SYS CLS BEANS, GREEN, ITALIAN CUT, FROZEN, 2LB, 12/CS 12/2 LB $40.80",40.80,24,2026-07,none,wholesale,exact,
+beans_green,la_veg,"BEANS, ROUND GREEN TYPE: MARKET STEADY. OFFERINGS VERY LIGHT. 30 lb cartons CALIFORNIA CENTRAL COAST CALIFORNIA Handpicked 42.00-43.00",42.00-43.00,30,2026-10,none,wholesale,exact,
+beef_ground,usda_lom,100158,,1,2025-11,WPU0211,wholesale,exact,
+beef_ground,usda_lom,110349,,1,2025-11,WPU0211,wholesale,exact,
+beef_ground,sysco_ar,"FIRECLS BEEF, GROUND, 80/20, 10LB, 4/CS 4/10# AV $5.87",5.87,1,2026-07,none,wholesale,exact,catch-weight price per lb
+beef_ground,sysco_ar,"FIRECLS BEEF, GROUND, 90/10, 10LB, 2/CS 2/10 LB $121.76",121.76,20,2026-07,none,wholesale,exact,
+beef_ground,ams_beef,"Ground Beef 81% 28 224,409 300.00 - 395.00 336.71",336.71,100,2026-10,none,wholesale,exact,packer FOB $/cwt; before distributor margin
+beef_ground,bls,APU0000703112,,1,,none,retail,exact,
+beef_whole,ams_beef,"185C 1 Loin, sirloin, tri-tip 8 52,085 450.00 - 494.25 456.12",456.12,100,2026-10,none,wholesale,exact,packer FOB $/cwt; before distributor margin
+beef_whole,ams_beef,"184 3 Loin, top butt, boneless 16 46,073 483.00 - 520.95 491.78",491.78,100,2026-10,none,wholesale,exact,
+beef_whole,ams_beef,"114A 3 Chuck, shoulder clod, trmd 45 546,941 396.13 - 450.00 412.11",412.11,100,2026-10,none,wholesale,exact,stew/stir-fry cut
+beef_whole,sysco_ar,"ELLISON BEEF, STEW, 5LB, 2/CS 4/5#AVG $5.71",5.71,1,2026-07,none,wholesale,exact,catch-weight price per lb
+beef_whole,sysco_ar,"PACKER BEEF, ROAST, INSIDE ROUND, 22LB, 3/CS 3/22#AVG $5.77",5.77,1,2026-07,none,wholesale,exact,catch-weight price per lb
+beef_whole,bls,APU0000703432,,1,,none,retail,exact,
+beets,la_veg,"25 lb film bags MEXICO BAJA DISTRICT RED TYPE medium-large 16.00-17.00",16.00-17.00,25,2026-10,none,wholesale,exact,
+beets,sysco_ar,"LIBBY BEETS, SLICED, #10CAN, 6/CS 6/#10 $50.79",50.79,39.6,2026-07,none,wholesale,proxy,canned; #10 can 6.6 lb (USDA LoM median)
+bread_roll,sysco_ar,"SISTER ROLL, DINNER, PARBAKED, 2OZ, 90/CS 90/2 OZ $18.60",18.60,11.25,2026-07,none,wholesale,exact,
+bread_roll,sysco_ar,"RICHS DOUGH, DINNER ROLL, WHEAT, 1.5OZ, 240/CS 240/1.5 OZ $47.41",47.41,22.5,2026-07,none,wholesale,exact,
+bread_roll,sysco_ar,"RICHS LOAF, FRENCH, 24/19.5OZ, 24/CS 24/19.5OZ $39.10",39.10,29.25,2026-07,none,wholesale,exact,baguette
+bread_sliced,sysco_ar,"RICHS LOAF, FRENCH, 24/19.5OZ, 24/CS 24/19.5OZ $39.10",39.10,29.25,2026-07,none,wholesale,proxy,no sliced pan loaf on the contract
+bread_sliced,bls,APU0000702111,,1,,none,retail,exact,
+broccoli,la_veg,"20 lb cartons loose CALIFORNIA CENTRAL COAST CALIFORNIA CROWN CUT 22.00-23.00",22.00-23.00,20,2026-10,none,wholesale,exact,
+broccoli,usda_lom,110473,,1,2025-11,WPU02,wholesale,exact,frozen florets
+broccoli,sysco_ar,"SYS REL BROCCOLI, CUT, FRZ, 2.5LB, 12/CS 12/2.5 LB $53.32",53.32,30,2026-07,none,wholesale,exact,
+butter,ams_dairy,"The weekly average for Grade AA is $1.3490",1.3490,1,2026-10,none,wholesale,exact,CME bulk Grade AA; before print/distribution
+butter,sysco_ar,"WHLFIMP BUTTER, NOT OLEO MARGARINE, 1LB, 36/CS 36/1 LB $88.27",88.27,36,2026-07,none,wholesale,exact,
+butter,bls,APU0000FS1101,,1,,none,retail,exact,
+butter_substitute,sysco_ar,"SYS CLS MARGARINE, OLEO, ALL VEG, 1LB, 30/CS 30/1LB $46.89",46.89,30,2026-07,none,wholesale,exact,
+butter_substitute,mcps_groc,"Butter substitute, liquid oil-based, No Trans Fat 3 gal/cs",46.3-73.75,22.8,2022-08,WPU02,bid,proxy,liquid; 7.6 lb/gal
+cabbage,la_veg,"50 lb cartons CALIFORNIA CENTRAL COAST CALIFORNIA RED TYPE medium 30.00-31.00",30.00-31.00,50,2026-10,none,wholesale,exact,
+cabbage,la_veg,"ROUND GREEN TYPE medium 32.00",32.00,50,2026-10,none,wholesale,exact,
+cabbage,la_veg,"30 lb cartons CALIFORNIA CENTRAL COAST CALIFORNIA NAPA 28.00-29.00",28.00-29.00,30,2026-10,none,wholesale,exact,
+carrot,la_veg,"25 lb sacks loose CALIFORNIA KERN DISTRICT CALIFORNIA jumbo 11.00-12.00",11.00-12.00,25,2026-10,none,wholesale,exact,
+carrot,la_veg,"sacks 10 5-lb film bags CALIFORNIA KERN DISTRICT CALIFORNIA 26.00-28.00",26.00-28.00,50,2026-10,none,wholesale,exact,
+carrot,la_veg,"cartons 30 1-lb film bags CALIFORNIA KERN DISTRICT CALIFORNIA BABY PEELED 28.00",28.00,30,2026-10,none,wholesale,exact,
+carrot,sysco_ar,"IMPFRSH CARROT, FRESH, JUMBO, 50LBS/CS 1/50 LB $49.95",49.95,50,2026-07,none,wholesale,exact,
+carrot,usda_lom,110480,,1,2025-11,WPU02,wholesale,exact,frozen diced
+cauliflower,la_veg,"cartons film wrapped CALIFORNIA CENTRAL COAST CALIFORNIA White 12s 25.00-28.00",25.00-28.00,25,2026-10,none,wholesale,exact,film-wrapped carton 25 lb (AH-697)
+cauliflower,sysco_ar,"SYS REL CAULIFLOWER, FRZ, 2LB, 12/CS 12/2 LB $41.05",41.05,24,2026-07,none,wholesale,exact,
+celery,la_veg,"CELERY: MARKET ABOUT STEADY. cartons CALIFORNIA CENTRAL COAST CALIFORNIA 2 dozen 22.00-23.00",22.00-23.00,60,2026-10,none,wholesale,exact,carton 60 lb (AH-697)
+cereal_cold,sysco_ar,"HOSPTLY CEREAL, CORN FLAKES, 35OZ, 4/CS 4/35 OZ $22.57",22.57,8.75,2026-07,none,wholesale,exact,
+cereal_cold,sysco_ar,"HOSPTLY CEREAL, RICE CRISP, 35OZ, 4/CS 4/35 OZ $28.62",28.62,8.75,2026-07,none,wholesale,exact,
+cereal_cold,mcps_groc,"Granola, bulk, whole grain, low fat without raisins||36.00||55.60",36.00-55.60,12.5,2022-08,WPU02,bid,exact,4x50 oz
+cheese_crumbled,usda_lom,100003,,1,2025-11,WPU023,wholesale,proxy,no public feta/blue/cotija price; priced as cheddar and Swiss
+cheese_crumbled,sysco_ar,"BBRLIMP CHEESE, SWISS, GRATED/SHREDDED, 4/5LB, 4/CS 4/5LB $66.93",66.93,20,2026-07,none,wholesale,proxy,
+cheese_mozzarella,usda_lom,100021,,1,2025-11,WPU023,wholesale,exact,
+cheese_mozzarella,sysco_ar,"AREZIMP CHEESE, MOZZARELLA, SHREDDED, 5LB, 4/CS 4/5LB $58.18",58.18,20,2026-07,none,wholesale,exact,
+cheese_mozzarella,sysco_ar,"AREZIMP CHEESE, MOZZRLLA,USGA, UNSLICE, 8/6LBS, 8/CS 8/6#AVG $2.59",2.59,1,2026-07,none,wholesale,exact,catch-weight price per lb
+cheese_parmesan,mcps_groc,"Parmesan cheese blend,, 100% pure, grated, bulk pack 4/5#/cs",69.63-76.43,20,2022-08,WPU023,bid,exact,
+cheese_parmesan,mcps_groc,"Parmesan Cheese, 100% pure, grated 12/1#/cs||47.79",47.79,12,2022-08,WPU023,bid,exact,low bid
+cheese_parmesan,nyc_bids,"CHEESE, PARMESAN BLEND, GRATED, 4.5-5 LB. BAG||""bid_price"":""14.99""",14.99,4.75,2019-03,WPU023,bid,exact,per bag
+cheese_shredded_sliced,usda_lom,100003,,1,2025-11,WPU023,wholesale,exact,
+cheese_shredded_sliced,usda_lom,100018,,1,2025-11,WPU023,wholesale,exact,
+cheese_shredded_sliced,ams_dairy,"and blocks $1.7385",1.7385,1,2026-10,none,wholesale,exact,CME 40-lb cheddar blocks; commodity floor
+cheese_shredded_sliced,sysco_ar,"BBRLCLS CHEESE, AM, PROCSSD, GRD A, SLICE, 5#, 4/CS 4/5 LB $45.33",45.33,20,2026-07,none,wholesale,exact,
+cheese_shredded_sliced,sysco_ar,"BBRLCLS CHEESE, MONTJCK, UNSLICE W/ JAL, 6/5LB, 6/CS 6/5 LB $82.61",82.61,30,2026-07,none,wholesale,exact,
+cheese_shredded_sliced,bls,APU0000710212,,1,,none,retail,exact,
+cheese_vegan,sysco_ar,"AREZIMP CHEESE, MOZZARELLA, SHREDDED, 5LB, 4/CS 4/5LB $58.18",58.18,20,2026-07,none,wholesale,proxy,no public plant-cheese price; dairy mozzarella proxy likely understates
+chicken_cooked,usda_lom,100101,,1,2025-11,WPU0211,wholesale,exact,
+chicken_cooked,usda_lom,110462,,1,2025-11,WPU0211,wholesale,exact,
+chicken_cooked,sysco_ar,"TYSON CHICKEN, DICED, 10LB/CS 2/5 LB $52.20",52.20,10,2026-07,none,wholesale,exact,
+chicken_cooked,sysco_ar,"SYS CLS CHICKEN, BRST STRIP, FAJITA, COOK, 5LB/CS 2/5 LB $59.71",59.71,10,2026-07,none,wholesale,exact,
+chicken_cooked,sysco_ar,"BRKBUSH CHICKEN, TENDER FRITTER CS 2/5 LB $41.47",41.47,10,2026-07,none,wholesale,exact,breaded tenders
+chicken_raw,usda_lom,111361,,1,2025-11,WPU0211,wholesale,exact,cut-up bone-in
+chicken_raw,sysco_ar,"TYSON CHICKEN THIGH BNLS/SKLS RAW 4/10 LB $140.66",140.66,40,2026-07,none,wholesale,exact,
+chicken_raw,sysco_ar,"SYS CLS CHICKEN, BREAST, SKINLESS, RAW, 5OZ, 48/CS 48/5 OZ $50.49",50.49,15,2026-07,none,wholesale,exact,
+chicken_raw,sysco_ar,"SYS CLS CHICKEN, LEG, QUARTERS, 40LB/CS 1/40 LB $41.24",41.24,40,2026-07,none,wholesale,exact,
+chicken_raw,bls,APU0000FF1101,,1,,none,retail,exact,
+citrus,la_fruit,"LEMONS: MARKET STEADY. 7/10 bushel cartons CALIFORNIA SHIPPERS FIRST GRADE 95s 29.00-32.00",29.00-32.00,38,2026-10,none,wholesale,exact,carton 38 lb (AH-697)
+citrus,la_fruit,"40 lb cartons MEXICO NO GRADE MARKS SEEDLESS TYPE 150s 34.00-36.00",34.00-36.00,40,2026-10,none,wholesale,exact,limes
+citrus,bls,APU0000711412,,1,,none,retail,exact,
+coconut_milk,nyc_bids,"COCONUT MILK, 13-15 OZ PER CAN, 12 CANS PER CASE||""bid_price"":""29""||""bid_price"":""32.92""",29-32.92,10.5,2019-03,WPU02,bid,exact,12x14 oz
+coffee_tea,sysco_ar,"CITVCLS COFFEE, REG, 2LB, 6/CS 6/2 LB $141.02",141.02,12,2026-07,none,wholesale,exact,
+coffee_tea,sysco_ar,"S&D COFFEE, DECAF, 1.5LB, 12/CS 12/1.5 LB $250.35",250.35,18,2026-07,none,wholesale,exact,
+coffee_tea,bls,APU0000717311,,1,,none,retail,exact,
+corn,usda_lom,100348,,1,2025-11,WPU02,wholesale,exact,
+corn,usda_lom,111053,,1,2025-11,WPU02,wholesale,exact,
+corn,sysco_ar,"SYS REL CORN, WHOLE KERNEL, FRZ, 2.5LB, 12/CS 12/2.5 LB $39.89",39.89,30,2026-07,none,wholesale,exact,
+cornmeal,sysco_ar,"SYS CLS CORN MEAL, YELLOW, 25LBS EA 1/25 LB $13.64",13.64,25,2026-07,none,wholesale,exact,dry weight
+cornmeal,sysco_ar,"SYS CLS CORN MEAL, WHITE, 25LBS EA 1/25 LB $12.89",12.89,25,2026-07,none,wholesale,exact,dry weight
+cream,mcps_dairy,"Half & Half, Milk and Cream homogenized, pasteurized, minimum 10.5% milkfat; 1 quart container",1.44-1.511,2.1,2021-07,WPU023,bid,exact,quart = 0.25 gal x 8.4 lb
+cream_cheese,sysco_ar,"WHLFIMP CREAM CHEESE, PHILLY STYL, USGA,3LB, 10/CS 10/3 LB $62.16",62.16,30,2026-07,none,wholesale,exact,
+croutons_crumbs,sysco_ar,"KELLOGG CRUMBS, CORN FLAKES, 21 OZ, 12/CS 12/21 OZ $36.81",36.81,15.75,2026-07,none,wholesale,proxy,
+croutons_crumbs,sysco_ar,"KELLOGG CRACKER, GRAHAM CRUMB CS 1/10 LB $29.87",29.87,10,2026-07,none,wholesale,proxy,
+cucumber,la_veg,"1 1/9 bushel cartons MEXICO medium 30.00-32.00",30.00-32.00,55,2026-10,none,wholesale,exact,1-1/9 bu 55 lb (AH-697)
+cucumber,sysco_ar,"PACKER CUCUMBER, FRESH, 50-55LBS/CS 1/45-50# $33.53",33.53,47.5,2026-07,none,wholesale,exact,
+dessert_prepared,sysco_ar,"OTSPKMY DOUGH, COOKIE, CHOC CHP, 1.33OZ, 240/CS 240/1.33OZ $87.40",87.40,19.95,2026-07,none,wholesale,exact,
+dessert_prepared,sysco_ar,"OTSPKMY DOUGH, COOKIE, BUTTER SUGAR,1.33OZ, 240/CS 240/1.33OZ $83.91",83.91,19.95,2026-07,none,wholesale,exact,
+dessert_prepared,sysco_ar,"SYS IMP DESERT,CHEESECAKE,NEW YORK,16 SLICES, 4/CS 4/68 OZ $84.23",84.23,17,2026-07,none,wholesale,exact,
+dessert_prepared,sysco_ar,"SYS CLS DESSERT, COBBLER, PEACH, RTB EA 4/5.5LB $43.87",43.87,22,2026-07,none,wholesale,exact,
+dressing,sysco_ar,"SYS REL DRESSING, RANCH BUTTRMLK, 1 GAL, 4/CS 4/1 GAL $54.68",54.68,32,2026-07,none,wholesale,exact,8.0 lb/gal
+dressing,sysco_ar,"KENS DRESSING, ITALIAN, FAT FREE, 1 GAL, 4/CS 4/1 GAL $40.63",40.63,32,2026-07,none,wholesale,exact,
+dressing,sysco_ar,"SYS CLS DRESSING, 1000 ISLAND, 1 GAL, 4/CS 4/1 GAL $73.76",73.76,32,2026-07,none,wholesale,exact,
+egg_alt,sysco_ar,"WHLFCLS EGGS, EGG BEATERS 2LB, 12/CS 12/2 LB $106.24",106.24,24,2026-07,none,wholesale,proxy,egg-white substitute; no public plant-egg price
+eggplant,la_veg,"1 1/9 bushel cartons CALIFORNIA SAN JOAQUIN VALLEY CALIFORNIA 12s 16.00",16.00,33,2026-10,none,wholesale,exact,1-1/9 bu 33 lb (AH-697)
+eggplant,la_veg,"30 lb cartons CALIFORNIA SAN JOAQUIN VALLEY CALIFORNIA CHINESE small-medium 26.00",26.00,30,2026-10,none,wholesale,exact,
+eggs,usda_lom,100046,,1,2025-11,WPU02,wholesale,exact,liquid whole frozen
+eggs,sysco_ar,"WHLFCLS EGGS, LIQUID, WHOLE W/CITRIC ACID, 20LB/CS 2/20 LB $75.30",75.30,40,2026-07,none,wholesale,exact,
+eggs,sysco_ar,"WHLFCLS EGGS, WHITE SHELL, GRD A LARGE, PAST, 15DZ/CS 1/15 DZ $13.26",13.26,22.5,2026-07,none,wholesale,exact,1.5 lb per dozen large
+eggs,bls,APU0000708111,,1.5,,none,retail,exact,per dozen = 1.5 lb
+fish,usda_lom,110601,,1,2025-11,WPU0211,wholesale,exact,pollock block for processing
+fish,usda_lom,100201,,1,2025-11,WPU0211,wholesale,exact,breaded catfish strips
+fish,sysco_ar,"PORTSIM FISH, TILAPIA, FILLET, SKINLESS, 3-5OZ, 10LB/CS 2/5 LB $65.54",65.54,10,2026-07,none,wholesale,exact,
+fish,sysco_ar,"PORTCLS FISH, PANGASIUS, FILET, 5-7OZ, 15LBS/CS 1/15 LB $34.99",34.99,15,2026-07,none,wholesale,exact,
+fish,sysco_ar,"PORTCLS FISH, COD, BREADED, RAW, 4OZ, 10LBS/CS 2/5 LB $84.10",84.10,10,2026-07,none,wholesale,exact,
+fish,nyc_bids,"SALMON FILLETS, IQF. 4-6 OZ. PER PORTION, 10 LBS||""bid_price"":""4.17""",4.17,1,2019-04,WPU0211,bid,exact,salmon; price read as $/lb (10 lb case would be implausibly cheap)
+flour,usda_lom,100400,,1,2025-11,WPU02,wholesale,exact,
+flour,sysco_ar,"SYS CLS FLOUR, H&R ALL PURPOSE, 50LBS/CS 1/50 LB $19.90",19.90,50,2026-07,none,wholesale,exact,
+flour,sysco_ar,"SHAWNEE FLOUR, WHOLE WHEAT, 50LBS/CS 1/50 LB $21.16",21.16,50,2026-07,none,wholesale,exact,
+flour,bls,APU0000701111,,1,,none,retail,exact,
+fruit_apple,usda_lom,100521,,1,2025-11,WPU02,wholesale,exact,fresh Gala
+fruit_apple,la_fruit,"GRANNY SMITH 64s 25.00",25.00,40,2026-10,none,wholesale,exact,tray pack 40 lb (AH-697)
+fruit_apple,la_fruit,"FUJI 72s 45.00",45.00,40,2026-10,none,wholesale,exact,
+fruit_banana,la_fruit,"BANANAS: MARKET STEADY. 40 lb cartons COSTA RICA boat 20.00-22.00",20.00-22.00,40,2026-10,none,wholesale,exact,
+fruit_banana,la_fruit,"40 lb cartons institutional pack GUATEMALA boat 18.00",18.00,40,2026-10,none,wholesale,exact,
+fruit_banana,bls,APU0000711211,,1,,none,retail,exact,
+fruit_berries,usda_lom,110846,,1,2025-11,WPU02,wholesale,exact,IQF strawberries
+fruit_berries,usda_lom,110624,,1,2025-11,WPU02,wholesale,exact,IQF blueberries
+fruit_berries,sysco_ar,"DOLE STRAWBERRY, WHL,UNSWT, FRZN, 10LB/CS 2/5LB $28.35",28.35,10,2026-07,none,wholesale,exact,
+fruit_berries,la_fruit,"flats 8 1-lb containers with lids CALIFORNIA CENTRAL COAST CALIFORNIA medium-large 22.00-26.00",22.00-26.00,8,2026-10,none,wholesale,exact,fresh strawberries
+fruit_dried,usda_lom,100293,,1,2025-11,WPU02,wholesale,exact,raisins
+fruit_dried,usda_lom,110723,,1,2025-11,WPU02,wholesale,exact,dried cranberries
+fruit_dried,sysco_ar,"SYS IMP FRUIT, DRIED, RAISINS, 24/CS 24/15 OZ $81.80",81.80,22.5,2026-07,none,wholesale,exact,
+fruit_dried,sysco_ar,"SYS CLS COCONUT, SHREDDED, MEDIUM, 10LBS/CS 1/10 LB 37.92",37.92,10,2026-07,none,wholesale,exact,
+fruit_melon,la_fruit,"1/2 cartons CALIFORNIA SAN JOAQUIN VALLEY CALIFORNIA 9s 23.00",23.00,40,2026-10,none,wholesale,exact,cantaloupe 1/2 carton 40 lb (AH-697)
+fruit_melon,la_fruit,"2/3 cartons CALIFORNIA SAN JOAQUIN VALLEY CALIFORNIA 5s 16.00-19.00",16.00-19.00,30,2026-10,none,wholesale,exact,honeydew 2/3 carton 30 lb (AH-697)
+fruit_orange,la_fruit,"VALENCIA 48s 18.00-20.00",18.00-20.00,38,2026-10,none,wholesale,exact,carton 38 lb (AH-697)
+fruit_orange,la_fruit,"SHIPPERS FIRST GRADE NAVEL 88s 30.00-32.00",30.00-32.00,38,2026-10,none,wholesale,exact,
+fruit_orange,bls,APU0000711311,,1,,none,retail,exact,
+fruit_other,la_fruit,"RED SEEDLESS jumbo fine appearance 36.00-39.00",36.00-39.00,19,2026-10,none,wholesale,exact,grapes 19 lb container
+fruit_other,la_fruit,"36 lb cartons tight fill WASHINGTON U.S. ONE D'ANJOU 70s 48.00",48.00,36,2026-10,none,wholesale,exact,pears
+fruit_other,usda_lom,100219,,1,2025-11,WPU02,wholesale,proxy,canned peaches
+fruit_pineapple,sysco_ar,"SYS SUP PINEAPPLE, CHUNK, IN JUICE, #10CAN, 6/CS 6/#10 $54.56",54.56,39.6,2026-07,none,wholesale,exact,canned chunks; #10 6.6 lb
+fruit_pineapple,la_fruit,"cartons 1 layer COSTA RICA boat 5s 15.00-17.00",15.00-17.00,20,2026-10,none,wholesale,exact,1-layer carton assumed 20 lb (half the 40 lb AH-697 carton)
+garlic,la_veg,"CALIFORNIA CENTRAL COAST CALIFORNIA White super colossal 97.00",97.00,30,2026-10,none,wholesale,exact,whole bulbs; peeled costs more
+garlic,la_veg,"MEXICO BAJA DISTRICT White jumbo 75.00",75.00,30,2026-10,none,wholesale,exact,
+garlic,la_veg,"30 lb cartons ARGENTINA White colossal 78.00",78.00,30,2026-10,none,wholesale,exact,
+ginger,la_veg,"GINGER ROOT: MARKET STEADY. 30 lb cartons BRAZIL boat 36.00",36.00,30,2026-10,none,wholesale,exact,unpeeled
+ginger,la_veg,"PERU boat 48.00",48.00,30,2026-10,none,wholesale,exact,
+ginger,la_veg,"HAWAII boat 72.00",72.00,30,2026-10,none,wholesale,exact,
+grains_other,nyc_bids,"QUINOA, 20 LB. MULTI-WALLED BAG. C & F BRAND OR||""bid_price"":""54.85""",54.85,20,2019-03,WPU02,bid,exact,dry weight
+grains_other,nyc_bids,"QUINOA, 20 LB. MULTI-WALLED BAG. C & F BRAND OR||""bid_price"":""42.4""",42.4,20,2018-04,WPU02,bid,exact,
+greens_asian,la_veg,"BOK CHOY: MARKET STEADY. 30 lb cartons CALIFORNIA CENTRAL COAST CALIFORNIA 21.00-22.00",21.00-22.00,30,2026-10,none,wholesale,exact,
+greens_asian,la_veg,"BABY BOK CHOY Green Stem (Shanghai) 25.00-26.00",25.00-26.00,30,2026-10,none,wholesale,exact,
+greens_mixed,la_veg,"ARUGULA: MARKET STEADY. 1 lb film bags CALIFORNIA CENTRAL COAST CALIFORNIA 4.50-5.00",4.50-5.00,1,2026-10,none,wholesale,exact,arugula; spring mix not quoted
+herbs_fresh,la_veg,"BASIL: MARKET STEADY. 1 lb film bags MEXICO BAJA DISTRICT 3.00-3.50",3.00-3.50,1,2026-10,none,wholesale,exact,
+herbs_fresh,la_veg,"MINT: MARKET STEADY. cartons bunched MEXICO BAJA DISTRICT 12s 4.50-5.00 1 lb film bags loose MEXICO BAJA DISTRICT 3.50-4.00",3.50-4.00,1,2026-10,none,wholesale,exact,
+herbs_fresh,la_veg,"1 lb film bags loose MEXICO BAJA DISTRICT 4.50-5.00 BABY",4.50-5.00,1,2026-10,none,wholesale,exact,dill
+hot_sauce,sysco_ar,"LOUISNA SAUCE, HOT, 6OZ, 24/CS 24/6 OZ $32.76",32.76,9,2026-07,none,wholesale,exact,table bottles
+hot_sauce,mcps_groc,"Pepper Sauce, bulk 4/1gal/cs As: Texas Pete",49.73-61.95,33.6,2022-08,WPU02,bid,exact,8.4 lb/gal assumed (water-like)
+hummus_dips,sysco_ar,"READS SALAD, THREE BEAN, 52OZ, 12/CS 12/50 OZ $42.37",42.37,37.5,2026-07,none,wholesale,proxy,no public hummus price; prepared cold deli salads as proxy
+hummus_dips,sysco_ar,"STCLAIR SALAD, POTATO, SOUR CRM, 12LBS, 2/CS 2/12 LB $60.27",60.27,24,2026-07,none,wholesale,proxy,
+hummus_dips,usda_lom,100360,,1,2025-11,WPU02,wholesale,proxy,canned garbanzo component floor
+jam_spreads,sysco_ar,"SYS CLS PEANUT BUTTER, CREAMY, 5LB, 6/CS 6/5 LB $64.03",64.03,30,2026-07,none,wholesale,exact,
+jam_spreads,usda_lom,100396,,1,2025-11,WPU02,wholesale,exact,peanut butter
+jam_spreads,sysco_ar,"HSRCCLS JELLY, ASSORTED, .5OZ, #20, 400/CS 400/.5 OZ $48.79",48.79,12.5,2026-07,none,wholesale,exact,portion cups
+juice,sysco_ar,"SAHAR B JUICE, ORANGE, 46OZ, 12/CS 12/46 OZ $61.07",61.07,37.52,2026-07,none,wholesale,exact,552 fl oz x 8.7 lb/gal
+juice,sysco_ar,"CGRVIMP JUICE APPLE 100% UNSWT PET 8/48 OZ 34.14",34.14,26.1,2026-07,none,wholesale,exact,
+juice,sysco_ar,"SAHAR B JUICE, LEMON, 32OZ, 12/CS 12/32 OZ $35.18",35.18,26.1,2026-07,none,wholesale,exact,
+juice,mcps_dairy,"Fruit juice, orange, 100% juice, 4 oz. non-glass container; 50 ct/case",.1456-.23,0.272,2021-07,WPU02,bid,exact,per 4 oz carton
+kale_collards,la_veg,"GREENS, KALE: MARKET STEADY. cartons bunched CALIFORNIA CENTRAL COAST CALIFORNIA Green 24s 18.00-19.00",18.00-19.00,25,2026-10,none,wholesale,exact,carton 25 lb (AH-697)
+kale_collards,la_veg,"GREENS, COLLARD : MARKET STEADY. OFFERINGS LIGHT. cartons bunched CALIFORNIA CENTRAL COAST CALIFORNIA 24s 24.00-25.00",24.00-25.00,25,2026-10,none,wholesale,exact,carton assumed same 25 lb as kale
+legumes_dried,usda_lom,100382,,1,2025-11,WPU02,wholesale,exact,dry pinto
+legumes_dried,sysco_ar,"SYS CLS BEANS, GREAT NORTHERN, DRIED, 20LB/CS 1/20 LB 23.52",23.52,20,2026-07,none,wholesale,exact,
+legumes_dried,sysco_ar,"SYS CLS BEANS, LIMA, DRIED, 20LB/CS 1/20 LB $33.67",33.67,20,2026-07,none,wholesale,exact,
+legumes_dried,nyc_bids,"LENTILS, GREEN, 25 LBS. PER BAG.||""bid_price"":""18.1""",18.1,25,2018-04,WPU02,bid,exact,
+lettuce_romaine,la_veg,"film lined 24s 53.00",53.00,50,2026-10,none,wholesale,exact,iceberg 24s carton 50 lb (AH-697)
+lettuce_romaine,sysco_ar,"SYFPNAT LETTUCE, ICEBERG, 24/CS 1/24 CT $109.86",109.86,50,2026-07,none,wholesale,exact,24-head carton 50 lb (AH-697)
+lettuce_romaine,bls,APU0000712211,,1,,none,retail,exact,iceberg
+mayonnaise,sysco_ar,"SYS IMP MAYONNAISE, CHOLESTEROL FREE, 1GAL, 4/CS 4/1 GAL $43.01",43.01,30,2026-07,none,wholesale,exact,4 gal = 30 lb per MCPS spec
+mayonnaise,sysco_ar,"SYS REL MAYONNAISE, HEAVY DUTY, 1GAL, 4/CS 4/1 GAL $51.15",51.15,30,2026-07,none,wholesale,exact,
+mayonnaise,mcps_groc,"Mayonnaise, light reduced fat, bulk, prefer lower sodium 30# Pail",50.32-50.46,30,2022-08,WPU02,bid,exact,
+meat_alt,sysco_ar,"MORNSTR PATTY, VEGGIE BURGER, 3.5OZ, CS/48 48/3.5OZ $72.07",72.07,10.5,2026-07,none,wholesale,exact,
+meat_alt,usda_lom,111860,,1,2025-11,WPU02,wholesale,proxy,black bean burger
+milk,mcps_dairy,"Milk, Grade A, whole, homogenized, pasteurized, 3.5% butterfat, fortified with vitamin D; 1 gallon container",2.8953-3.96,8.6,2021-07,WPU023,bid,exact,
+milk,bls,APU0000709112,,8.6,,none,retail,exact,per gallon
+milk_plant,sysco_ar,"SILK MILK, SOY,VANILLA, SHELF STABLE, 8OZ, 18/CS 18/8 OZ $18.11",18.11,9.675,2026-07,none,wholesale,exact,8 oz cartons overstate bulk
+milk_plant,sysco_ar,"SILK MILK,ALMOND,VANILLA,8OZ, 18/CS 18/8 OZ $23.18",23.18,9.675,2026-07,none,wholesale,exact,
+mushroom,la_veg,"10 lb cartons CALIFORNIA CREMINI 30.00-32.00",30.00-32.00,10,2026-10,none,wholesale,exact,
+mushroom,la_veg,"PENNSYLVANIA WHITE large 29.00-30.00",29.00-30.00,10,2026-10,none,wholesale,exact,
+mustard_ketchup,sysco_ar,"SYS REL KETCHUP, #10CAN, 6/CS 6/#10 $39.87",39.87,39.7,2026-07,none,wholesale,exact,#10 6.62 lb
+mustard_ketchup,sysco_ar,"FRENCHS MUSTARD,FRENCHS,YELLOW, GALLON, 4/CS 4/105 OZ $46.67",46.67,26.25,2026-07,none,wholesale,exact,
+mustard_ketchup,mcps_groc,"Mustard, prepared, prefer lower sodium 4/1gal/cs",17.48-28.13,26.25,2022-08,WPU02,bid,exact,105 oz per gallon jug
+noodles_asian,sysco_ar,"AREZCLS PASTA, EGG NOODLE, MED, 5LBS, 2/CS 2/5 LB $29.34",29.34,10,2026-07,none,wholesale,exact,dry weight
+noodles_asian,usda_lom,100425,,1,2025-11,WPU02,wholesale,proxy,spaghetti as rice-noodle floor
+nuts_seeds,la_nuts,"WALNUTS: 50 lb sacks CALIFORNIA CENTRAL SAN JOAQUIN VALLEY CALIFORNIA jumbo 78.00",78.00,50,2026-10,none,wholesale,proxy,in-shell; shelled kernels cost roughly 2x+
+nuts_seeds,la_nuts,"PECANS: 50 lb sacks GEORGIA 120.00",120.00,50,2026-10,none,wholesale,proxy,in-shell
+nuts_seeds,usda_lom,110700,,1,2025-11,WPU02,wholesale,exact,raw shelled peanuts for processing
+oats,usda_lom,100465,,1,2025-11,WPU02,wholesale,exact,dry weight
+oats,sysco_ar,"HOSPTLY CEREAL, OATMEAL HOT, QUICK , 42OZ, TUBE, 12/CS 12/42 OZ $54.15",54.15,31.5,2026-07,none,wholesale,exact,
+oil_cooking,usda_lom,100439,,1,2025-11,WPU02,wholesale,exact,
+oil_cooking,sysco_ar,"SYS CLS OIL, CORN, 1 GALLON, 6/CS 6/1 GAL $74.44",74.44,45.6,2026-07,none,wholesale,exact,7.6 lb/gal
+oil_fryer,sysco_ar,"SYS REL SHORTENING, FRY LIQUID, CLEAR, 35LB/CS 1/35 LB $41.99",41.99,35,2026-07,none,wholesale,exact,
+oil_fryer,sysco_ar,"SYS REL SHORTENING, FRY CUBE, ALL VEGTBLE, 50LB/CS 1/50 LB $84.28",84.28,50,2026-07,none,wholesale,exact,
+oil_fryer,usda_lom,100439,,1,2025-11,WPU02,wholesale,exact,
+oil_olive,nyc_bids,"OLIVE OIL, 2 LITER CAN, 6 CANS PER CASE. THE CASE||""bid_price"":""63.48""",63.48,24.09,2019-03,WPU02,bid,exact,12 L = 3.17 gal x 7.6 lb
+oil_sesame,nyc_bids,"OLIVE OIL, 2 LITER CAN, 6 CANS PER CASE. THE CASE||""bid_price"":""63.48""",63.48,24.09,2019-03,WPU02,bid,proxy,no public sesame-oil bid; olive oil proxy
+onion,la_onpot,"YELLOW SPANISH HYBRID 50 lb sacks super colossal 21.00-23.00 colossal 20.00-22.00 jumbo 18.00-20.00",18.00-20.00,50,2026-10,none,wholesale,exact,
+onion,la_onpot,"RED GLOBE TYPE 25 lb sacks jumbo 14.00-16.00",14.00-16.00,25,2026-10,none,wholesale,exact,
+onion,sysco_ar,"IMPFRSH ONION, YELLOW, JUMBO, FRESH, 50LBS/CS 1/50 LB $25.11",25.11,50,2026-07,none,wholesale,exact,
+onion_green,la_veg,"cartons bunched MEXICO BAJA DISTRICT 48s medium 37.00",37.00,13,2026-10,none,wholesale,exact,carton 13 lb (AH-697)
+pancake_mix,sysco_ar,"SYS REL MIX, CAKE, WHITE, 5LB, 6/CS 6/5 LB $36.76",36.76,30,2026-07,none,wholesale,proxy,cake mix as dry-mix proxy
+pancake_mix,usda_lom,110393,,1,2025-11,WPU02,wholesale,proxy,frozen pancakes
+pasta,usda_lom,100425,,1,2025-11,WPU02,wholesale,exact,dry weight
+pasta,usda_lom,110520,,1,2025-11,WPU02,wholesale,exact,
+pasta,sysco_ar,"LABELLA PASTA, SPAGHETTI, 20LBS/CS 2/10 LB $32.12",32.12,20,2026-07,none,wholesale,exact,
+pasta,sysco_ar,"LABELLA PASTA, ELBOW, MACARONI, 20LBS/CS 2/10 LB $31.82",31.82,20,2026-07,none,wholesale,exact,
+pasta,bls,APU0000701322,,1,,none,retail,exact,
+pasta_gf,sysco_ar,"LABELLA PASTA, SPAGHETTI, 20LBS/CS 2/10 LB $32.12",32.12,20,2026-07,none,wholesale,proxy,no public GF pasta price; wheat pasta proxy understates
+pastry,sysco_ar,"CHFPIER BREAKFAST, DANISH, ASSORTED, 24/CS 24/3.25OZ $30.56",30.56,4.875,2026-07,none,wholesale,exact,
+pastry,sysco_ar,"BKRSIMP BREAKFAST, MUFFIN, ASST, BLUBRY/APL/BAN 1.5OZ, 72/CS 72/1.5 OZ $28.16",28.16,6.75,2026-07,none,wholesale,exact,
+pastry,sysco_ar,"OTSPKMY BREAKFAST, MUFFIN, BLUEBERRY,PRE-BAKED,FRZN 2.25OZ, 96/CS 96/2.25OZ $80.47",80.47,13.5,2026-07,none,wholesale,exact,
+peas_green,usda_lom,100350,,1,2025-11,WPU02,wholesale,exact,
+peas_green,sysco_ar,"SYS CLS PEAS, GREEN, FROZEN, 2.5LB, 12/CS 12/2.5 LB $60.40",60.40,30,2026-07,none,wholesale,exact,
+peas_green,sysco_ar,"SYS CLS PEAS & CARROTS, FROZEN, 30LB/CS 1/30 LB $48.64",48.64,30,2026-07,none,wholesale,exact,
+peas_green,la_veg,"PEAS, SUGAR SNAP: MARKET STEADY. 10 lb cartons CALIFORNIA CENTRAL COAST CALIFORNIA DECALYXED 36.00",36.00,10,2026-10,none,wholesale,exact,
+pepper_bell,la_veg,"SAN JOAQUIN VALLEY CALIFORNIA Green extra large 35.00-36.00",35.00-36.00,28,2026-10,none,wholesale,exact,1-1/9 bu 28 lb (AH-697)
+pepper_bell,la_veg,"1 1/9 bushel cartons CALIFORNIA Red extra large 26.00",26.00,28,2026-10,none,wholesale,exact,
+pepper_bell,sysco_ar,"PACKER PEPPER, GREEN, CHOPPED, 25LBS/CS 1/22-25# $39.57",39.57,23.5,2026-07,none,wholesale,exact,
+pepper_bell,usda_lom,110724,,1,2025-11,WPU02,wholesale,exact,frozen pepper/onion strips
+pepper_chili,la_veg,"PEPPERS, JALAPENO: MARKET SLIGHTLY HIGHER. 1 1/9 bushel cartons CALIFORNIA CENTRAL COAST CALIFORNIA 24.00-26.00",24.00-26.00,28,2026-10,none,wholesale,exact,1-1/9 bu 28 lb (AH-697 peppers)
+pepper_chili,la_veg,"PEPPERS, PASILLA: MARKET STEADY. 1 1/9 bushel cartons CALIFORNIA CENTRAL COAST CALIFORNIA 21.00-22.00",21.00-22.00,28,2026-10,none,wholesale,exact,
+pepper_chili,la_veg,"PEPPERS, SERRANO: MARKET MEXICO HIGHER; CALIFORNIA ABOUT STEADY. 1 1/9 bushel cartons CALIFORNIA CENTRAL COAST CALIFORNIA 24.00-26.00",24.00-26.00,28,2026-10,none,wholesale,exact,
+pickles_olives,sysco_ar,"AREZCLS OLIVE, RIPE, SLICED, IMP, #10CAN, 6/CS 6/#10 $78.61",78.61,39.6,2026-07,none,wholesale,exact,#10 6.6 lb
+pickles_olives,sysco_ar,"SYS REL PEPPER, JALAPENO, SLICED, #10CAN, 6/CS 6/#10 $41.99",41.99,39.6,2026-07,none,wholesale,exact,
+pickles_olives,sysco_ar,"SYS IMP SAUERKRAUT, SHREDDED, #10 CAN, 6/CS 6/#10 $48.04",48.04,39.6,2026-07,none,wholesale,exact,
+pizza_base,sysco_ar,"1.93OZ, 192/CS 192/1.93OZ $72.49",72.49,23.16,2026-07,none,wholesale,proxy,pre-baked pizza stick
+pizza_base,sysco_ar,"THE MAX PIZZA, PPRONI, RDUCD FAT,SLICE 4.67, 96/CS 96/4.67OZ $66.62",66.62,28.02,2026-07,none,wholesale,proxy,pre-topped slice
+pizza_base,usda_lom,100417,,1,2025-11,WPU02,wholesale,proxy,bakers flour floor for dough
+pork,ams_pork,"1/4 Trim Butt VAC 932,796 94.05 - 140.97 107.92",107.92,100,2026-10,none,wholesale,exact,packer FOB $/cwt
+pork,ams_pork,"1/4 Trimmed Loin VAC 1,138,674 82.00 - 105.00 86.12",86.12,100,2026-10,none,wholesale,exact,
+pork,sysco_ar,"SMTHFLD PORK, LOIN, 5-10LBS/EA, 5/CS 6/1 PC $2.91",2.91,1,2026-07,none,wholesale,exact,catch-weight price per lb
+pork,sysco_ar,"BCH BLK PORK, DICED, 5LBS, 2/CS 2/5 LB $29.90",29.90,10,2026-07,none,wholesale,exact,
+pork,sysco_ar,"SMTHFLD PORK, HAM, BUFFT,BNELESS, 10-12LB, 2/CS 2/9-11# $4.37",4.37,1,2026-07,none,wholesale,exact,
+pork,usda_lom,100173,,1,2025-11,WPU0211,wholesale,exact,leg roast
+potato,la_onpot,"50 lb cartons 40s 29.00 50s 29.00 60s 28.00 70s 28.00",28.00-29.00,50,2026-10,none,wholesale,exact,Idaho russet
+potato,la_onpot,"ROUND RED 50 lb cartons size A 30.00-32.00",30.00-32.00,50,2026-10,none,wholesale,exact,
+potato,bls,APU0000712112,,1,,none,retail,exact,
+potato_frozen,usda_lom,100357,,1,2025-11,WPU02,wholesale,exact,oven fries
+potato_frozen,usda_lom,100355,,1,2025-11,WPU02,wholesale,exact,wedges
+potato_frozen,sysco_ar,"SYS REL POTATO, FRY, STEAK, 5LB, 6/CS 6/5LB $40.47",40.47,30,2026-07,none,wholesale,exact,
+potato_frozen,sysco_ar,"SIMPLOT POTATO, TATER TOT, 5LB, 6/CS 6/5 LB 56.30",56.30,30,2026-07,none,wholesale,exact,
+potato_frozen,sysco_ar,"SYS IMP POTATO, HASHBROWN, TRIANGLE, 2OZ, 5#, 6/CS 6/5 LB $54.87",54.87,30,2026-07,none,wholesale,exact,
+potato_sweet,la_veg,"NO GRADE MARKS GARNET medium 25.00-27.00",25.00-27.00,40,2026-10,none,wholesale,exact,40 lb carton
+potato_sweet,la_veg,"U.S. ONE GARNET 38.00-40.00",38.00-40.00,40,2026-10,none,wholesale,exact,
+potato_sweet,usda_lom,110562,,1,2025-11,WPU02,wholesale,exact,frozen cubes
+prepared_entree,sysco_ar,"SYS CLS CHICKEN, & DUMPLINGS, 8LB, 4/CS 4/8 LB $86.80",86.80,32,2026-07,none,wholesale,proxy,
+prepared_entree,sysco_ar,"AREZCLS RAVIOLI, CHEESE, ROUND, 3.75LB, 2/CS 3/3 LB $40.71",40.71,9,2026-07,none,wholesale,proxy,
+prepared_entree,sysco_ar,"SYS CLS ENTREE, STUFFED PEPPER, 48CT, 83OZ, 4/CS 4/5 LB $89.76",89.76,20,2026-07,none,wholesale,proxy,
+prepared_entree,sysco_ar,"SYS CLS POTATO, CASSEROLE, AUGRATIN, 2.25LB, 6/CS 6/2.25LB $70.28",70.28,13.5,2026-07,none,wholesale,proxy,cheese-sauced bulk casserole (mac-and-cheese analog)
+radish,la_veg,"25 lb film bags topped MICHIGAN Red 30.00-32.00",30.00-32.00,25,2026-10,none,wholesale,exact,
+radish,la_veg,"40 lb cartons CALIFORNIA SOUTHERN SAN JOAQUIN VALLEY CALIFORNIA TOPPED 38.00",38.00,40,2026-10,none,wholesale,exact,daikon
+rice_brown,usda_lom,100500,,1,2025-11,WPU02,wholesale,exact,dry weight
+rice_brown,usda_lom,101031,,1,2025-11,WPU02,wholesale,exact,
+rice_brown,mcps_groc,"Rice, brown, long, whole grain, parboiled, vegetarian 25#/bag",20.72-22.33,25,2022-08,WPU02,bid,exact,
+rice_white,usda_lom,100494,,1,2025-11,WPU02,wholesale,exact,dry weight
+rice_white,sysco_ar,"SYS CLS RICE, LONG GRAIN, 25LBS/CS 1/25 LB $17.59",17.59,25,2026-07,none,wholesale,exact,
+rice_white,sysco_ar,"SYS IMP RICE, PARBOILED, 25LBS/CS 1/25 LB $19.63",19.63,25,2026-07,none,wholesale,exact,
+rice_white,bls,APU0000701312,,1,,none,retail,exact,
+salsa,usda_lom,100330,,1,2025-11,WPU02,wholesale,exact,canned
+salsa,usda_lom,110186,,1,2025-11,WPU02,wholesale,exact,pouch
+salt,sysco_ar,"SYS CLS SALT, GRANULATED, IODIZED, 25LBS/CS 1/25 LB $7.20",7.20,25,2026-07,none,wholesale,exact,
+salt,mcps_groc,"Salt cooking, iodized. Pkd 25#/bag only",10.59-12.95,25,2022-08,WPU02,bid,exact,
+sauce_prepared,sysco_ar,"SYS CLS SAUCE, CHEESE, CHEDDAR, #10CAN, 6/CS 6/#10 $71.73",71.73,39.6,2026-07,none,wholesale,proxy,
+sauce_prepared,sysco_ar,"SYS CLS GRAVY, BEEF FLAVORED, RTU, 50 OZ, 12/CS 12/50 OZ $47.43",47.43,37.5,2026-07,none,wholesale,proxy,
+sauce_prepared,usda_lom,100336,,1,2025-11,WPU02,wholesale,proxy,tomato-based floor; pesto/curry paste cost more
+sausage_bacon,sysco_ar,"SYS REL PORK, BACON BULK LAYFLAT, SLICED, 18-22, SMOKE CS 1/15 LB $56.02",56.02,15,2026-07,none,wholesale,exact,
+sausage_bacon,sysco_ar,"SYS CLS PORK, SAUSAGE PATTY, RAW, MILD, 2OZ, 80/CS 80/2 OZ $43.13",43.13,10,2026-07,none,wholesale,exact,
+sausage_bacon,sysco_ar,"RNCHGRL PORK, BACON, PIECES & ENDS, 15LB/CS 1/15 LB 40.23",40.23,15,2026-07,none,wholesale,exact,
+sausage_bacon,ams_pork,"Derind Belly 9-13# 155,000 97.00 - 141.50 104.29",104.29,100,2026-10,none,wholesale,proxy,raw belly before cure/slice
+sausage_bacon,bls,APU0000704111,,1,,none,retail,exact,
+shrimp,sysco_ar,"PORTCLS SHRIMP, BUTTERFLY, BREADED, 4/3LB, 4/CS 4/3 LB $89.96",89.96,12,2026-07,none,wholesale,proxy,breaded; no plain-shrimp public price
+shrimp,sysco_ar,"PORTCLS SHRIMP, POPCORN, 2LB, 5/CS 4/2.5 LB $63.58",63.58,10,2026-07,none,wholesale,proxy,
+soft_serve_mix,sysco_ar,"WHLFCLS DESERT,ICE CREAM, VANILLA GALLON 1/3 GAL $24.91",24.91,13.5,2026-07,none,wholesale,proxy,finished ice cream; 3 gal at ~4.5 lb/gal (100% overrun assumed)
+soft_serve_mix,mcps_dairy,"Milk, Grade A, whole, homogenized, pasteurized, 3.5% butterfat, fortified with vitamin D; 1 gallon container",2.8953-3.96,8.6,2021-07,WPU023,bid,proxy,whole-milk floor for mix
+soup_base,sysco_ar,"SYS REL SOUP, BASE CHICKEN, 16OZ, 12/CS 12/1 LB $32.30",32.30,12,2026-07,none,wholesale,exact,
+soup_base,sysco_ar,"SYS REL SOUP, BASE, BEEF, 16OZ, 12/CS 12/1 LB $31.99",31.99,12,2026-07,none,wholesale,exact,
+soup_base,mcps_groc,"Soup Base Chicken, chicken should be first ingredient||108.55||182.47",108.55-182.47,20,2022-08,WPU02,bid,exact,low-sodium premium base
+soup_prepared,sysco_ar,"SYS CLS CHILI CON CARNE W/BEANS, #10CAN, 6/CS 6/#10 $97.44",97.44,39.6,2026-07,none,wholesale,proxy,
+soup_prepared,sysco_ar,"SYS CLS ENTREE, STEW, BEEF/CARROT/PEA 106OZ 6/CS 6/#10 $130.87",130.87,39.75,2026-07,none,wholesale,proxy,
+soup_prepared,sysco_ar,"CAMPBEL SOUP, CHICKEN, NOODLE, 12/49.5OZ, 12/CS 12/50 OZ $58.36",58.36,74.25,2026-07,none,wholesale,proxy,condensed; as-served weight after 1:1 water
+sour_cream,mcps_dairy,"Sour cream, Grade A, Low Fat; 5 lb container.",6.75-9.4595,5,2021-07,WPU023,bid,exact,
+soy_sauce,sysco_ar,"KIKKOMAN SAUCE, SOY, 1 GAL, 4/CS 4/ 1 gal $54.99",54.99,38.4,2026-07,none,wholesale,exact,9.6 lb/gal
+soy_sauce,mcps_groc,"Soy sauce-lite, low sodium, and Trans fat free 6/0.5gal/cs",45.62-58.5,28.8,2022-08,WPU02,bid,exact,
+spices,sysco_ar,"SYS CLS SPICES, CHILI POWDER, 16OZ, 6/CS 6/1LB $33.60",33.60,6,2026-07,none,wholesale,exact,
+spices,sysco_ar,"SYS CLS SPICES, PAPRIKA, 1LB, 6/CS 6/1 LB $37.50",37.50,6,2026-07,none,wholesale,exact,
+spices,sysco_ar,"IMP/MCC SPICES, PEPPER, BLK, GRND, SHKR, 1LB, 6/CS 6/1 LB $107.09",107.09,6,2026-07,none,wholesale,exact,
+spices,sysco_ar,"IMP/MCC SPICES, GARLIC, POWDER, 3/6LB, 3/CS 3/6# $198.55",198.55,18,2026-07,none,wholesale,exact,
+spices,sysco_ar,"IMP/MCC SPICES, ONION POWDER, 5.5LB, 3/CS 3/5.5 LB $108.39",108.39,16.5,2026-07,none,wholesale,exact,
+spices,sysco_ar,"IMP/MCC SPICES, CUMIN, GROUND, 14OZ, 6/CS 6/14 OZ $68.85",68.85,5.25,2026-07,none,wholesale,exact,
+spices,mcps_groc,"Cinnamon, ground, pure, 6/5# bulk pack||40.93||42.13",40.93-42.13,30,2022-08,WPU02,bid,exact,
+spinach,la_veg,"cartons 4 2-1/2 lb film bags CALIFORNIA CENTRAL COAST CALIFORNIA 15.00-16.00",15.00-16.00,10,2026-10,none,wholesale,exact,
+spinach,usda_lom,110425,,1,2025-11,WPU02,wholesale,exact,frozen chopped
+spinach,sysco_ar,"PACKER SPINACH CHOPPED FROZEN, 3LB, 12/CS 12/3 LB 36.79",36.79,36,2026-07,none,wholesale,exact,
+squash_summer,sysco_ar,"PACKER SQUASH,ZUCCHINI, SLICED, FRZ, 3LB, 12/CS 12/3LB $51.54",51.54,36,2026-07,none,wholesale,exact,
+squash_summer,sysco_ar,"PACKER SQUASH, YELLOW, SLICED, FRZ, 3LB, 12/CS 12/3 LB $52.02",52.02,36,2026-07,none,wholesale,exact,
+squash_winter,la_veg,"SQUASH, BANANA: MARKET STEADY. 50 lb cartons CALIFORNIA CENTRAL COAST CALIFORNIA 34.00",34.00,50,2026-10,none,wholesale,exact,
+squash_winter,sysco_ar,"SYS IMP PUMPKIN, SOLID PACK, #10CAN, 6/CS 6/#10 $65.80",65.80,39.6,2026-07,none,wholesale,proxy,canned pumpkin
+sugar,sysco_ar,"SYS CLS SUGAR, GRANULATED, EXTRA FINE, 25LBS/CS 1/25 LB $22.68",22.68,25,2026-07,none,wholesale,exact,
+sugar,sysco_ar,"SYS CLS SUGAR GRANULATED XFINE 1/50 LB $43.47",43.47,50,2026-07,none,wholesale,exact,
+sugar,sysco_ar,"BKRSCLS SUGAR, BROWN, LIGHT, 50LBS/CS 1/50 LB $52.13",52.13,50,2026-07,none,wholesale,exact,
+sugar,bls,APU0000715211,,1,,none,retail,exact,
+syrup_honey,sysco_ar,"NAFI HONEY, LIGHT AMBER, 5LBS, 6/CS 6/5 LB $113.91",113.91,30,2026-07,none,wholesale,exact,
+syrup_honey,sysco_ar,"SYS CLS CORN SYRUP, LITE,W/REAL VANILLA, 1GAL, 4/CS 4/1 GAL $60.25",60.25,46.88,2026-07,none,wholesale,exact,11.72 lb/gal (AH-697)
+syrup_honey,sysco_ar,"SYS CLS SYRUP, SORGHAM, 1 GALLON, 4/CS 4/1 GAL $71.37",71.37,46.2,2026-07,none,wholesale,exact,11.55 lb/gal (AH-697)
+tofu,sysco_ar,"PACKER TOFU, FIRM, FRESH, 19OZ, 12/CS 12/19 OZ $19.97",19.97,14.25,2026-07,none,wholesale,exact,
+tomato,la_veg,"25 lb cartons loose CALIFORNIA OXNARD DISTRICT CALIFORNIA ROMA Light Red-red extra large 36.00-38.00",36.00-38.00,25,2026-10,none,wholesale,exact,
+tomato,la_veg,"CALIFORNIA OXNARD DISTRICT CALIFORNIA VINE RIPES Light Red-red 4x4s 50.00-55.00",50.00-55.00,20,2026-10,none,wholesale,exact,2-layer flat 20 lb (AH-697)
+tomato,la_veg,"20 lb cartons loose MEXICO BAJA DISTRICT Red 74.00",74.00,20,2026-10,none,wholesale,exact,grape tomatoes
+tomato,bls,APU0000712311,,1,,none,retail,exact,
+tomato_canned,usda_lom,100329,,1,2025-11,WPU02,wholesale,exact,diced
+tomato_canned,usda_lom,100327,,1,2025-11,WPU02,wholesale,exact,paste
+tomato_canned,usda_lom,100334,,1,2025-11,WPU02,wholesale,exact,sauce
+tomato_canned,sysco_ar,"SYS IMP TOMATO, DICED, IN JUICE,#10CAN, 6/CS 6/10# $37.81",37.81,38.25,2026-07,none,wholesale,exact,#10 6.38 lb (USDA LoM diced)
+tomato_canned,sysco_ar,"SYS CLS SAUCE, SPAGHETTI MARINRA, #10CAN, 6/CS 6/10# $38.39",38.39,39.7,2026-07,none,wholesale,exact,
+tortilla,usda_lom,110394,,1,2025-11,WPU02,wholesale,exact,whole grain 8 in
+tuna_canned,sysco_ar,"PORTCLS TUNA, CHUNK,SKIPJCK, LITE,IN WATR, 66.5OZ, 6/CS 6/66.5OZ $88.87",88.87,24.94,2026-07,none,wholesale,exact,
+turkey,usda_lom,100121,,1,2025-11,WPU0211,wholesale,exact,deli breast
+turkey,usda_lom,111900,,1,2025-11,WPU0211,wholesale,exact,deli breast sliced
+turkey,sysco_ar,"SYS IMP TURKEY, BREAST, BNELS, RAW FOIL, 8-10#, 2/CS 2/8-10# $4.74",4.74,1,2026-07,none,wholesale,exact,catch-weight price per lb
+turkey,sysco_ar,"BTRBALL TURKEY, BREAST, SHVING SMK, 9.6LB, 2/CS 2/10#AVG $4.13",4.13,1,2026-07,none,wholesale,exact,
+turkey,sysco_ar,"SHENAN TURKEY GROUND MECHANICALLY SEP 2/10 LB $29.82",29.82,20,2026-07,none,wholesale,exact,
+veg_other,la_veg,"25 lb cartons CALIFORNIA CENTRAL COAST CALIFORNIA jumbo 24.00-26.00",24.00-26.00,25,2026-10,none,wholesale,exact,brussels sprouts
+veg_other,la_veg,"extra large 50.00 large 48.00 Purple",48.00-50.00,11,2026-10,none,wholesale,exact,asparagus 11 lb
+veg_other,la_veg,"BEAN SPROUTS: MARKET STEADY. 10 lb film bags CALIFORNIA 6.00-8.00",6.00-8.00,10,2026-10,none,wholesale,exact,
+veg_other,sysco_ar,"PACKER BRUSSEL SPROUTS, FRZ, 2LB, 12/CS 12/2 LB 35.76",35.76,24,2026-07,none,wholesale,exact,
+veg_other,usda_lom,111230,,1,2025-11,WPU02,wholesale,exact,frozen mixed vegetables
+vinegar,mcps_groc,"Vinegar Apple Cider, 5% acetic acid. No artificial colors or preservatives",24.58-37.49,33.6,2022-08,WPU02,bid,exact,8.4 lb/gal
+vinegar,nyc_bids,"VINEGAR, CIDER, 1 GALLON PLASTIC CONTAINER, 4 PER||""bid_price"":""14.38""",14.38,33.6,2018-04,WPU02,bid,exact,
+wine_cooking,mcps_groc,"Vinegar Apple Cider, 5% acetic acid. No artificial colors or preservatives",24.58-37.49,33.2,2022-08,WPU02,bid,proxy,no public cooking-wine bid; cider vinegar proxy
+yogurt,usda_lom,111750,,1,2025-11,WPU023,wholesale,exact,
+yogurt,mcps_dairy,"Yogurt, Grade A, Plain, non-fat, No HFCS, Gluten Free; 5 lb container.",5.14-6.75,5,2021-07,WPU023,bid,exact,
+yogurt,mcps_dairy,"Yogurt, Grade A, Vanilla, Nonfat, No HFCS, Gluten Free, 1% milkfat; 5 lb container.",5.6879-6.75,5,2021-07,WPU023,bid,exact,
+yogurt,sysco_ar,"Dannon YOGURT, DANNON, FIT N LITE, 4OZ, 48/CS 48/4oz $21.81",21.81,12,2026-07,none,wholesale,exact,

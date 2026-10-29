@@ -1,0 +1,850 @@
+{
+  "sample": true,
+  "fictional_notice": "Sample scenario. Fictional people and quantities, built on real Cal Dining menu items and public food-safety rules. Not Cal Dining data.",
+  "banner_label": "Fictional scenario · Sample data only",
+  "scenario_id": "spinach-crossroads-to-cafe3",
+  "title": "Spinach: Crossroads to Café 3",
+  "time_basis": "Day 0 is today, a Wednesday. Day 1 is tomorrow (Thursday). Day 2 is Friday. Times are 24-hour local kitchen time. No calendar dates.",
+  "today_weekday": "Wednesday",
+  "kitchens": {
+    "a": {
+      "hall_id": "crossroads",
+      "name": "Crossroads",
+      "label": "Kitchen A",
+      "eatec_role": "From Location",
+      "kind": "Dining hall"
+    },
+    "b": {
+      "hall_id": "cafe-3",
+      "name": "Café 3",
+      "label": "Kitchen B",
+      "eatec_role": "To Location",
+      "kind": "Campus cafe"
+    }
+  },
+  "roles": [
+    {
+      "role": "kitchen_a_cook",
+      "title": "Crossroads cook",
+      "display_name": "Sample cook (Crossroads)",
+      "kitchen_hall_id": "crossroads",
+      "does": "Marks extra food, sends the transfer offer to a kitchen with a matching menu item, signs the handoff."
+    },
+    {
+      "role": "kitchen_b_chef",
+      "title": "Café 3 chef",
+      "display_name": "Sample chef (Café 3)",
+      "kitchen_hall_id": "cafe-3",
+      "does": "Accepts or declines the transfer offer, checks the food in, records use."
+    },
+    {
+      "role": "coordinator",
+      "title": "Transfer coordinator",
+      "display_name": "Sample coordinator (Cal Dining operations)",
+      "kitchen_hall_id": null,
+      "does": "Sets the pickup window and runner. Cannot accept, decline or verify."
+    },
+    {
+      "role": "system",
+      "title": "Second Serve",
+      "display_name": "Second Serve",
+      "kitchen_hall_id": null,
+      "does": "Reads Eatec exports, closes lapsed offers, sets verified outcomes."
+    }
+  ],
+  "lot": {
+    "lot_id": "XR-SPIN-0417",
+    "hall_id": "crossroads",
+    "ingredient_id": "spinach",
+    "ingredient_name": "Spinach",
+    "on_hand_lb": 10,
+    "allocated": [
+      {
+        "qty_lb": 6,
+        "menu_item": {
+          "hall_id": "crossroads",
+          "name": "Baby Spinach",
+          "station": "Salad Bar",
+          "meal_period": "lunch",
+          "day": 1,
+          "serving_size": "1 oz (1 SV)",
+          "eatec_recipe_id": "1679",
+          "source_url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Crossroads_20261027.xml",
+          "source_menu_date": "2026-10-27"
+        },
+        "basis": "Thursday's Crossroads lunch menu (illustrative)"
+      }
+    ],
+    "available_lb": 4,
+    "storage": "refrigerated",
+    "received": {
+      "day": -3,
+      "time": "07:00"
+    },
+    "use_by": {
+      "day": 2,
+      "time": "23:59"
+    },
+    "shelf_life_basis": "USDA FoodKeeper, fresh spinach, refrigerated 3 to 7 days. Midpoint 5 days from receipt on Sunday, so best by Friday.",
+    "source_label": "Eatec export, today 06:00",
+    "source_system": "Eatec",
+    "exported_at": {
+      "day": 0,
+      "time": "06:00"
+    }
+  },
+  "demand": {
+    "hall_id": "cafe-3",
+    "name": "Nancy Silverton's Sauteed Spinach with Lemon & Garlic",
+    "station": "Pasta",
+    "meal_period": "lunch",
+    "day": 1,
+    "serving_size": "4 oz (1 SV)",
+    "eatec_recipe_id": "2515",
+    "source_url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Cafe_3_20261026.xml",
+    "source_menu_date": "2026-10-26"
+  },
+  "temperature_constraint": {
+    "food_class": "Cut leafy greens (potentially hazardous food)",
+    "hold_max_f": 41,
+    "transport_max_f": 45,
+    "short_transport_exempt_minutes": 30,
+    "receive_reject_above_f": 41,
+    "carrier": "Insulated tote with ice packs",
+    "plain_language": "Keep spinach at 41°F or colder. In transit it may reach 45°F at most. Check it at handoff and at receipt; refuse it above 41°F.",
+    "source_ids": [
+      "calcode-113996",
+      "ehs-tphc",
+      "foodkeeper"
+    ]
+  },
+  "illustrative": [
+    "10 lb on hand",
+    "6 lb allocated",
+    "4 lb available and offered",
+    "all times of day",
+    "all temperature readings (38°F, 39°F)",
+    "lot id XR-SPIN-0417",
+    "people and display names",
+    "Eatec transfer and production records"
+  ],
+  "sources": [
+    {
+      "id": "calcode-113996",
+      "label": "California Health and Safety Code §113996 (CalCode holding temperatures)",
+      "url": "https://california.public.law/codes/ca_health_and_safety_code_section_113996",
+      "excerpt": "PHF at or below 41°F; transport under 30 minutes excepted; PHF held during transportation at or below 45°F."
+    },
+    {
+      "id": "ehs-tphc",
+      "label": "UC Berkeley EH&S, Time as a Public Health Control",
+      "url": "https://ehs.berkeley.edu/sites/default/files/time_as_a_public_health_control.pdf",
+      "excerpt": "PHF includes cut leafy greens such as lettuce, spinach, and cabbage. Cold holding at 41°F or below."
+    },
+    {
+      "id": "foodkeeper",
+      "label": "USDA FSIS FoodKeeper data (spinach, fresh: refrigerator 3-7 days)",
+      "url": "https://catalog.data.gov/dataset/fsis-foodkeeper-data"
+    },
+    {
+      "id": "byu-eatec-transfers",
+      "label": "BYU Dining Services SOP BP0018: Transfers (Eatec)",
+      "url": "https://dining.byu.edu/eatec/transfers",
+      "excerpt": "From Location / To Location; Post Date cannot be in the future; paper trail with signatures as proof of physical delivery."
+    },
+    {
+      "id": "byu-eatec-requisitions",
+      "label": "BYU Dining Services SOP: Requisitions (Eatec)",
+      "url": "https://dining.byu.edu/eatec/requisitions",
+      "excerpt": "Requisitions are the precursor to transfers; a transfer fulfills the request."
+    },
+    {
+      "id": "cafe3-menu",
+      "label": "Cal Dining Café 3 menu export (Eatec XML), Pasta station lunch",
+      "url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Cafe_3_20261026.xml"
+    },
+    {
+      "id": "crossroads-menu",
+      "label": "Cal Dining Crossroads menu export (Eatec XML), Salad Bar lunch",
+      "url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Crossroads_20261027.xml"
+    }
+  ],
+  "paths": [
+    {
+      "id": "happy",
+      "title": "Offered, accepted, moved, used, verified",
+      "summary": "Crossroads offers its 4 unallocated lb to Café 3, Café 3 says yes, a runner carries it cold, Café 3 uses it at Thursday lunch, and the next Eatec exports confirm it.",
+      "events": [
+        {
+          "seq": 1,
+          "at": {
+            "day": 0,
+            "time": "06:00"
+          },
+          "actor": "system",
+          "type": "inventory_imported",
+          "from_state": null,
+          "to_state": null,
+          "fields": {
+            "lot_id": "XR-SPIN-0417",
+            "qty_lb": 10,
+            "external_record": {
+              "system": "Eatec",
+              "kind": "inventory_snapshot",
+              "reference": "Crossroads on-hand export, day 0 06:00",
+              "summary": "Spinach, lot XR-SPIN-0417: 10 lb on hand. 6 lb on Thursday's lunch menu (Salad Bar, Baby Spinach). 4 lb unallocated, best by Friday."
+            }
+          },
+          "log_line": "Eatec export 06:00: Crossroads has 10 lb spinach. 6 lb is on Thursday's lunch menu. 4 lb is unallocated, best by Friday."
+        },
+        {
+          "seq": 2,
+          "at": {
+            "day": 0,
+            "time": "07:30"
+          },
+          "actor": "kitchen_a_cook",
+          "type": "offer_posted",
+          "from_state": null,
+          "to_state": "available",
+          "fields": {
+            "lot_id": "XR-SPIN-0417",
+            "qty_lb": 4,
+            "offer_until": {
+              "day": 1,
+              "time": "08:00"
+            },
+            "storage_constraint": "Keep at 41°F or below. Carry in an insulated tote with ice packs; 45°F max in transit.",
+            "temperature_f": 38,
+            "temperature_point": "walk_in"
+          },
+          "log_line": "Crossroads cook marked the 4 unallocated lb of spinach as extra. Walk-in reads 38°F. Best by Friday."
+        },
+        {
+          "seq": 3,
+          "at": {
+            "day": 0,
+            "time": "07:35"
+          },
+          "actor": "kitchen_a_cook",
+          "type": "request_sent",
+          "from_state": "available",
+          "to_state": "requested",
+          "fields": {
+            "qty_lb": 4,
+            "lot_id": "XR-SPIN-0417",
+            "intended_use": {
+              "hall_id": "cafe-3",
+              "name": "Nancy Silverton's Sauteed Spinach with Lemon & Garlic",
+              "station": "Pasta",
+              "meal_period": "lunch",
+              "day": 1,
+              "serving_size": "4 oz (1 SV)",
+              "eatec_recipe_id": "2515",
+              "source_url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Cafe_3_20261026.xml",
+              "source_menu_date": "2026-10-26"
+            },
+            "needed_by": {
+              "day": 1,
+              "time": "09:00"
+            },
+            "offer_until": {
+              "day": 1,
+              "time": "08:00"
+            },
+            "storage_constraint": "Keep at 41°F or below. Carry in an insulated tote with ice packs; 45°F max in transit."
+          },
+          "log_line": "Crossroads cook sent Café 3 a transfer offer: 4 lb spinach for Thursday's lunch (Nancy Silverton's Sauteed Spinach), there by Thursday 09:00."
+        },
+        {
+          "seq": 4,
+          "at": {
+            "day": 0,
+            "time": "09:40"
+          },
+          "actor": "kitchen_b_chef",
+          "type": "request_accepted",
+          "from_state": "requested",
+          "to_state": "accepted",
+          "fields": {
+            "qty_lb": 4,
+            "needed_by": {
+              "day": 1,
+              "time": "09:00"
+            }
+          },
+          "log_line": "Café 3 chef accepted. Planned: 4 lb from Crossroads.",
+          "sets": {
+            "planned_action": {
+              "status": "planned",
+              "qty_lb": 4,
+              "from_hall_id": "crossroads",
+              "to_hall_id": "cafe-3",
+              "intended_use": {
+                "hall_id": "cafe-3",
+                "name": "Nancy Silverton's Sauteed Spinach with Lemon & Garlic",
+                "station": "Pasta",
+                "meal_period": "lunch",
+                "day": 1,
+                "serving_size": "4 oz (1 SV)",
+                "eatec_recipe_id": "2515",
+                "source_url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Cafe_3_20261026.xml",
+                "source_menu_date": "2026-10-26"
+              },
+              "needed_by": {
+                "day": 1,
+                "time": "09:00"
+              },
+              "set_by_event": 4
+            }
+          }
+        },
+        {
+          "seq": 5,
+          "at": {
+            "day": 0,
+            "time": "10:20"
+          },
+          "actor": "coordinator",
+          "type": "pickup_scheduled",
+          "from_state": "accepted",
+          "to_state": "awaiting_pickup",
+          "fields": {
+            "pickup": {
+              "window": {
+                "start": {
+                  "day": 0,
+                  "time": "14:00"
+                },
+                "end": {
+                  "day": 0,
+                  "time": "15:00"
+                }
+              },
+              "runner_role": "Café 3 prep cook",
+              "carrier": "Insulated tote with ice packs"
+            },
+            "runner": "Café 3 prep cook"
+          },
+          "log_line": "Coordinator set pickup for today 14:00 to 15:00. Café 3 prep cook carries it in an insulated tote."
+        },
+        {
+          "seq": 6,
+          "at": {
+            "day": 0,
+            "time": "14:25"
+          },
+          "actor": "kitchen_a_cook",
+          "type": "handoff_signed",
+          "from_state": "awaiting_pickup",
+          "to_state": "picked_up",
+          "fields": {
+            "qty_lb": 4,
+            "temperature_f": 38,
+            "temperature_point": "handoff",
+            "signed_by": [
+              "kitchen_a_cook",
+              "kitchen_b_chef"
+            ],
+            "runner": "Café 3 prep cook"
+          },
+          "log_line": "Handoff signed at Crossroads. 4.0 lb weighed, 38°F. Reported as transferred.",
+          "sets": {
+            "completed_action": {
+              "status": "completed",
+              "kind": "transferred",
+              "qty_lb": 4,
+              "at": {
+                "day": 0,
+                "time": "14:25"
+              },
+              "self_reported": true,
+              "set_by_event": 6
+            }
+          }
+        },
+        {
+          "seq": 7,
+          "at": {
+            "day": 0,
+            "time": "14:40"
+          },
+          "actor": "kitchen_b_chef",
+          "type": "receipt_checked",
+          "from_state": "picked_up",
+          "to_state": "picked_up",
+          "fields": {
+            "qty_lb": 4,
+            "temperature_f": 39,
+            "temperature_point": "receipt",
+            "note": "Into Café 3 walk-in."
+          },
+          "log_line": "Café 3 received 4.0 lb at 39°F. Into the walk-in."
+        },
+        {
+          "seq": 8,
+          "at": {
+            "day": 1,
+            "time": "06:00"
+          },
+          "actor": "system",
+          "type": "records_imported",
+          "from_state": "picked_up",
+          "to_state": "picked_up",
+          "fields": {
+            "external_record": {
+              "system": "Eatec",
+              "kind": "transfer_posting",
+              "reference": "Eatec transfer, Post Date day 0",
+              "summary": "From Location Crossroads, To Location Café 3, spinach 4.0 lb."
+            }
+          },
+          "log_line": "Eatec export 06:00 shows the transfer posted. 1 of 3 checks matched.",
+          "sets": {
+            "verified_outcome": {
+              "status": "pending",
+              "set_by": "system",
+              "qty_lb": null,
+              "set_by_event": 8,
+              "checks": [
+                {
+                  "check": "transfer_posted",
+                  "status": "match",
+                  "evidence": "Eatec transfer posted: From Location Crossroads, To Location Café 3, spinach 4.0 lb, Post Date day 0.",
+                  "set_by_event": 8
+                },
+                {
+                  "check": "production_recorded",
+                  "status": "pending",
+                  "evidence": null,
+                  "set_by_event": null
+                },
+                {
+                  "check": "no_waste_entry",
+                  "status": "pending",
+                  "evidence": null,
+                  "set_by_event": null
+                }
+              ]
+            }
+          }
+        },
+        {
+          "seq": 9,
+          "at": {
+            "day": 1,
+            "time": "11:15"
+          },
+          "actor": "kitchen_b_chef",
+          "type": "use_recorded",
+          "from_state": "picked_up",
+          "to_state": "used",
+          "fields": {
+            "qty_lb": 4,
+            "intended_use": {
+              "hall_id": "cafe-3",
+              "name": "Nancy Silverton's Sauteed Spinach with Lemon & Garlic",
+              "station": "Pasta",
+              "meal_period": "lunch",
+              "day": 1,
+              "serving_size": "4 oz (1 SV)",
+              "eatec_recipe_id": "2515",
+              "source_url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Cafe_3_20261026.xml",
+              "source_menu_date": "2026-10-26"
+            }
+          },
+          "log_line": "Café 3 chef used 4 lb in Nancy Silverton's Sauteed Spinach, lunch. Reported as used.",
+          "sets": {
+            "completed_action": {
+              "status": "completed",
+              "kind": "used",
+              "qty_lb": 4,
+              "at": {
+                "day": 1,
+                "time": "11:15"
+              },
+              "self_reported": true,
+              "set_by_event": 9
+            }
+          }
+        },
+        {
+          "seq": 10,
+          "at": {
+            "day": 2,
+            "time": "06:00"
+          },
+          "actor": "system",
+          "type": "records_imported",
+          "from_state": "used",
+          "to_state": "used",
+          "fields": {
+            "external_record": {
+              "system": "Eatec",
+              "kind": "production_record",
+              "reference": "Café 3 production, day 1 lunch",
+              "summary": "Recipe 2515 produced at lunch. Spinach on hand down 4.0 lb. No spinach waste entry."
+            }
+          },
+          "log_line": "Eatec export 06:00 matches. Verified: 4 lb moved and used.",
+          "sets": {
+            "verified_outcome": {
+              "status": "verified",
+              "set_by": "system",
+              "qty_lb": 4,
+              "set_by_event": 10,
+              "checks": [
+                {
+                  "check": "transfer_posted",
+                  "status": "match",
+                  "evidence": "Eatec transfer posted: From Location Crossroads, To Location Café 3, spinach 4.0 lb, Post Date day 0.",
+                  "set_by_event": 8
+                },
+                {
+                  "check": "production_recorded",
+                  "status": "match",
+                  "evidence": "Eatec production, Café 3, day 1 lunch: recipe 2515 produced. Café 3 spinach on hand fell by 4.0 lb.",
+                  "set_by_event": 10
+                },
+                {
+                  "check": "no_waste_entry",
+                  "status": "match",
+                  "evidence": "No spinach waste entry at Café 3 or Crossroads for lot XR-SPIN-0417 through day 1 close.",
+                  "set_by_event": 10
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "final_state": "used",
+      "planned_action": {
+        "status": "planned",
+        "qty_lb": 4,
+        "from_hall_id": "crossroads",
+        "to_hall_id": "cafe-3",
+        "intended_use": {
+          "hall_id": "cafe-3",
+          "name": "Nancy Silverton's Sauteed Spinach with Lemon & Garlic",
+          "station": "Pasta",
+          "meal_period": "lunch",
+          "day": 1,
+          "serving_size": "4 oz (1 SV)",
+          "eatec_recipe_id": "2515",
+          "source_url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Cafe_3_20261026.xml",
+          "source_menu_date": "2026-10-26"
+        },
+        "needed_by": {
+          "day": 1,
+          "time": "09:00"
+        },
+        "set_by_event": 4
+      },
+      "completed_actions": [
+        {
+          "status": "completed",
+          "kind": "transferred",
+          "qty_lb": 4,
+          "at": {
+            "day": 0,
+            "time": "14:25"
+          },
+          "self_reported": true,
+          "set_by_event": 6
+        },
+        {
+          "status": "completed",
+          "kind": "used",
+          "qty_lb": 4,
+          "at": {
+            "day": 1,
+            "time": "11:15"
+          },
+          "self_reported": true,
+          "set_by_event": 9
+        }
+      ],
+      "verified_outcome": {
+        "status": "verified",
+        "set_by": "system",
+        "qty_lb": 4,
+        "set_by_event": 10,
+        "checks": [
+          {
+            "check": "transfer_posted",
+            "status": "match",
+            "evidence": "Eatec transfer posted: From Location Crossroads, To Location Café 3, spinach 4.0 lb, Post Date day 0.",
+            "set_by_event": 8
+          },
+          {
+            "check": "production_recorded",
+            "status": "match",
+            "evidence": "Eatec production, Café 3, day 1 lunch: recipe 2515 produced. Café 3 spinach on hand fell by 4.0 lb.",
+            "set_by_event": 10
+          },
+          {
+            "check": "no_waste_entry",
+            "status": "match",
+            "evidence": "No spinach waste entry at Café 3 or Crossroads for lot XR-SPIN-0417 through day 1 close.",
+            "set_by_event": 10
+          }
+        ]
+      }
+    },
+    {
+      "id": "decline",
+      "title": "Offered, declined",
+      "summary": "Crossroads offers the 4 lb. Café 3 already has spinach for Thursday's lunch and says no. Nothing is planned or counted.",
+      "events": [
+        {
+          "seq": 1,
+          "at": {
+            "day": 0,
+            "time": "06:00"
+          },
+          "actor": "system",
+          "type": "inventory_imported",
+          "from_state": null,
+          "to_state": null,
+          "fields": {
+            "lot_id": "XR-SPIN-0417",
+            "qty_lb": 10,
+            "external_record": {
+              "system": "Eatec",
+              "kind": "inventory_snapshot",
+              "reference": "Crossroads on-hand export, day 0 06:00",
+              "summary": "Spinach, lot XR-SPIN-0417: 10 lb on hand. 6 lb on Thursday's lunch menu (Salad Bar, Baby Spinach). 4 lb unallocated, best by Friday."
+            }
+          },
+          "log_line": "Eatec export 06:00: Crossroads has 10 lb spinach. 6 lb is on Thursday's lunch menu. 4 lb is unallocated, best by Friday."
+        },
+        {
+          "seq": 2,
+          "at": {
+            "day": 0,
+            "time": "07:30"
+          },
+          "actor": "kitchen_a_cook",
+          "type": "offer_posted",
+          "from_state": null,
+          "to_state": "available",
+          "fields": {
+            "lot_id": "XR-SPIN-0417",
+            "qty_lb": 4,
+            "offer_until": {
+              "day": 1,
+              "time": "08:00"
+            },
+            "storage_constraint": "Keep at 41°F or below. Carry in an insulated tote with ice packs; 45°F max in transit.",
+            "temperature_f": 38,
+            "temperature_point": "walk_in"
+          },
+          "log_line": "Crossroads cook marked the 4 unallocated lb of spinach as extra. Walk-in reads 38°F. Best by Friday."
+        },
+        {
+          "seq": 3,
+          "at": {
+            "day": 0,
+            "time": "07:35"
+          },
+          "actor": "kitchen_a_cook",
+          "type": "request_sent",
+          "from_state": "available",
+          "to_state": "requested",
+          "fields": {
+            "qty_lb": 4,
+            "lot_id": "XR-SPIN-0417",
+            "intended_use": {
+              "hall_id": "cafe-3",
+              "name": "Nancy Silverton's Sauteed Spinach with Lemon & Garlic",
+              "station": "Pasta",
+              "meal_period": "lunch",
+              "day": 1,
+              "serving_size": "4 oz (1 SV)",
+              "eatec_recipe_id": "2515",
+              "source_url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Cafe_3_20261026.xml",
+              "source_menu_date": "2026-10-26"
+            },
+            "needed_by": {
+              "day": 1,
+              "time": "09:00"
+            },
+            "offer_until": {
+              "day": 1,
+              "time": "08:00"
+            },
+            "storage_constraint": "Keep at 41°F or below. Carry in an insulated tote with ice packs; 45°F max in transit."
+          },
+          "log_line": "Crossroads cook sent Café 3 a transfer offer: 4 lb spinach for Thursday's lunch."
+        },
+        {
+          "seq": 4,
+          "at": {
+            "day": 0,
+            "time": "09:40"
+          },
+          "actor": "kitchen_b_chef",
+          "type": "request_declined",
+          "from_state": "requested",
+          "to_state": "declined",
+          "fields": {
+            "decline_reason": "already_stocked",
+            "note": "Café 3's own delivery already covers Thursday's lunch. The 4 lb stays on offer for other kitchens."
+          },
+          "log_line": "Café 3 chef said no thanks: their own delivery covers Thursday's lunch. The 4 lb is still on offer."
+        }
+      ],
+      "final_state": "declined",
+      "planned_action": null,
+      "completed_actions": [],
+      "verified_outcome": null
+    },
+    {
+      "id": "expired",
+      "title": "Offered, no answer, offer closed",
+      "summary": "Café 3 does not answer before the offer window closes. The offer lapses. The spinach stays at Crossroads on the use-first list.",
+      "events": [
+        {
+          "seq": 1,
+          "at": {
+            "day": 0,
+            "time": "06:00"
+          },
+          "actor": "system",
+          "type": "inventory_imported",
+          "from_state": null,
+          "to_state": null,
+          "fields": {
+            "lot_id": "XR-SPIN-0417",
+            "qty_lb": 10,
+            "external_record": {
+              "system": "Eatec",
+              "kind": "inventory_snapshot",
+              "reference": "Crossroads on-hand export, day 0 06:00",
+              "summary": "Spinach, lot XR-SPIN-0417: 10 lb on hand. 6 lb on Thursday's lunch menu (Salad Bar, Baby Spinach). 4 lb unallocated, best by Friday."
+            }
+          },
+          "log_line": "Eatec export 06:00: Crossroads has 10 lb spinach. 6 lb is on Thursday's lunch menu. 4 lb is unallocated, best by Friday."
+        },
+        {
+          "seq": 2,
+          "at": {
+            "day": 0,
+            "time": "07:30"
+          },
+          "actor": "kitchen_a_cook",
+          "type": "offer_posted",
+          "from_state": null,
+          "to_state": "available",
+          "fields": {
+            "lot_id": "XR-SPIN-0417",
+            "qty_lb": 4,
+            "offer_until": {
+              "day": 1,
+              "time": "08:00"
+            },
+            "storage_constraint": "Keep at 41°F or below. Carry in an insulated tote with ice packs; 45°F max in transit.",
+            "temperature_f": 38,
+            "temperature_point": "walk_in"
+          },
+          "log_line": "Crossroads cook marked the 4 unallocated lb of spinach as extra. Walk-in reads 38°F. Best by Friday."
+        },
+        {
+          "seq": 3,
+          "at": {
+            "day": 0,
+            "time": "07:35"
+          },
+          "actor": "kitchen_a_cook",
+          "type": "request_sent",
+          "from_state": "available",
+          "to_state": "requested",
+          "fields": {
+            "qty_lb": 4,
+            "lot_id": "XR-SPIN-0417",
+            "intended_use": {
+              "hall_id": "cafe-3",
+              "name": "Nancy Silverton's Sauteed Spinach with Lemon & Garlic",
+              "station": "Pasta",
+              "meal_period": "lunch",
+              "day": 1,
+              "serving_size": "4 oz (1 SV)",
+              "eatec_recipe_id": "2515",
+              "source_url": "https://dining.berkeley.edu/wp-content/uploads/menus-exportimport/Cafe_3_20261026.xml",
+              "source_menu_date": "2026-10-26"
+            },
+            "needed_by": {
+              "day": 1,
+              "time": "09:00"
+            },
+            "offer_until": {
+              "day": 1,
+              "time": "08:00"
+            },
+            "storage_constraint": "Keep at 41°F or below. Carry in an insulated tote with ice packs; 45°F max in transit."
+          },
+          "log_line": "Crossroads cook sent Café 3 a transfer offer: 4 lb spinach for Thursday's lunch."
+        },
+        {
+          "seq": 4,
+          "at": {
+            "day": 1,
+            "time": "06:00"
+          },
+          "actor": "system",
+          "type": "inventory_imported",
+          "from_state": "requested",
+          "to_state": "requested",
+          "fields": {
+            "lot_id": "XR-SPIN-0417",
+            "qty_lb": 10,
+            "external_record": {
+              "system": "Eatec",
+              "kind": "inventory_snapshot",
+              "reference": "Crossroads on-hand export, day 1 06:00",
+              "summary": "Spinach lot XR-SPIN-0417 still 10 lb on hand. Café 3 has not answered."
+            }
+          },
+          "log_line": "Eatec export 06:00: the 4 lb is still at Crossroads. Café 3 has not answered."
+        },
+        {
+          "seq": 5,
+          "at": {
+            "day": 1,
+            "time": "08:00"
+          },
+          "actor": "system",
+          "type": "offer_lapsed",
+          "from_state": "requested",
+          "to_state": "expired",
+          "fields": {
+            "expiry_reason": "offer_window_closed",
+            "note": "The offer closed. This does not mean the spinach was thrown out."
+          },
+          "log_line": "Offer closed at 08:00 with no answer. Nothing moved. Crossroads cook decides what happens to the 4 lb."
+        },
+        {
+          "seq": 6,
+          "at": {
+            "day": 1,
+            "time": "08:10"
+          },
+          "actor": "kitchen_a_cook",
+          "type": "disposition_noted",
+          "from_state": "expired",
+          "to_state": "expired",
+          "fields": {
+            "disposition": "use_first_here",
+            "qty_lb": 4,
+            "note": "Put on the Crossroads use-first list for dinner."
+          },
+          "log_line": "Crossroads cook put the 4 lb on tonight's use-first list. Nothing counted as saved by a transfer."
+        }
+      ],
+      "final_state": "expired",
+      "planned_action": null,
+      "completed_actions": [],
+      "verified_outcome": null
+    }
+  ]
+}

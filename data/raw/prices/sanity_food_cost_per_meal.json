@@ -1,0 +1,129 @@
+{
+  "weighted_usd_per_edible_lb": {
+    "low": 1.219,
+    "mid": 2.323,
+    "high": 2.675
+  },
+  "edible_lb_per_meal": [
+    0.968,
+    1.2
+  ],
+  "implied_food_cost_per_meal_usd": {
+    "low": 1.18,
+    "mid": 2.52,
+    "high": 3.21
+  },
+  "implied_food_cost_per_meal_incl_preconsumer_usd": {
+    "low": 1.25,
+    "mid": 2.66,
+    "high": 3.39
+  },
+  "demand_lb_unpriced_share": 0.0,
+  "benchmark": {
+    "uf_aycte_plate_cost_fall2018_usd": 2.81,
+    "uf_quote_verified": true,
+    "cpi_food_at_home_factor": 1.3416,
+    "cpi_latest_month": "2026-09",
+    "uf_plate_cost_inflated_usd": 3.77,
+    "top_programs_plus_30_50pct_usd": [
+      4.9,
+      5.65
+    ]
+  },
+  "delivered_to_source_ratio": {
+    "ams_terminal": {
+      "ratio": 1.49,
+      "n_items": 13,
+      "items": [
+        "beans_green",
+        "broccoli",
+        "carrot",
+        "cauliflower",
+        "cucumber",
+        "fruit_berries",
+        "fruit_pineapple",
+        "lettuce_romaine",
+        "onion",
+        "peas_green",
+        "pepper_bell",
+        "spinach",
+        "veg_other"
+      ]
+    },
+    "usda_foods": {
+      "ratio": 1.6,
+      "n_items": 32,
+      "items": [
+        "beans_canned",
+        "beans_green",
+        "beef_ground",
+        "broccoli",
+        "carrot",
+        "cheese_mozzarella",
+        "cheese_shredded_sliced",
+        "chicken_cooked",
+        "chicken_raw",
+        "corn",
+        "eggs",
+        "fish",
+        "flour",
+        "fruit_berries",
+        "fruit_dried",
+        "jam_spreads",
+        "legumes_dried",
+        "oats",
+        "oil_cooking",
+        "oil_fryer",
+        "pasta",
+        "peas_green",
+        "pepper_bell",
+        "pork",
+        "potato_frozen",
+        "rice_brown",
+        "rice_white",
+        "spinach",
+        "tomato_canned",
+        "turkey",
+        "veg_other",
+        "yogurt"
+      ]
+    },
+    "ams_lpgmn": {
+      "ratio": 1.776,
+      "n_items": 3,
+      "items": [
+        "beef_ground",
+        "beef_whole",
+        "pork"
+      ]
+    },
+    "ams_dairy": {
+      "ratio": 1.631,
+      "n_items": 2,
+      "items": [
+        "butter",
+        "cheese_shredded_sliced"
+      ]
+    }
+  },
+  "wholesale_to_retail_ratio": {
+    "median": 0.73,
+    "p25": 0.576,
+    "n_items": 21
+  },
+  "coverage": {
+    "ingredients": 121,
+    "by_confidence": {
+      "med": 61,
+      "low": 12,
+      "high": 48
+    },
+    "by_basis": {
+      "wholesale": 95,
+      "proxy": 18,
+      "bid": 8
+    },
+    "quotes": 348,
+    "quotes_unverified": 0
+  }
+}

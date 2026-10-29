@@ -1,0 +1,4 @@
+SOURCE: https://dining.berkeley.edu/wp-content/uploads/2024/04/ON-Meal-Plans-24-25.pdf
+PULLED: 2026-10-27T10:51:21-07:00
+HTTP: 404
+

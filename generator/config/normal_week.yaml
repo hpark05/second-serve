@@ -1,0 +1,10 @@
+name: normal_week
+description: Typical mid-semester week on the real scraped menus (2026-10-19 to 2026-10-25). Baseline operations, no transfers executed.
+seed: 20261019
+start_date: 2026-10-19
+as_of: 2026-10-22                  # the app's "today"
+end_date: 2026-10-25
+menu_source:
+  week_start: 2026-10-19            # sim dates map to the scraped date with the same weekday in this week
+diner_multipliers: []
+closures: []
