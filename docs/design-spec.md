@@ -56,7 +56,7 @@ Banner on every walkthrough screen: "Fictional scenario · Sample data only" (sm
 
 ## Participant mode (iPad self-serve)
 - Next is gated: a step's required action must be taken before Next enables. Back is allowed. Restart resets route, role and events together.
-- Role changes are guided: when a step needs Kitchen B, show a full-width "Hand the iPad to Kitchen B →" card that switches the role on tap. No manual role switcher needed inside the walkthrough (keep it in the header for the free-roam app).
+- Role changes are guided: when a step needs Kitchen B, show a full-width "Notification sent to Kitchen B · View as Kitchen B →" card that switches the role on tap. No manual role switcher needed inside the walkthrough (keep it in the header for the free-roam app).
 - Activity log collapsed by default under a "History (n)" toggle; sticky bottom action bar.
 
 ## Anti-slop

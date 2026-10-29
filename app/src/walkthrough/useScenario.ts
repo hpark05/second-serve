@@ -31,7 +31,7 @@ export interface ScenarioValue {
   seat: Seat
   /** Free-roam role switch (header). Inside the walkthrough prefer `handoffTo`. */
   setSeat: (s: Seat) => void
-  /** Guided role handoff ("Hand the iPad to Kitchen B"). Same effect as setSeat; named for the walkthrough. */
+  /** Guided role handoff ("Notification sent to Kitchen B"). Same effect as setSeat; named for the walkthrough. */
   handoffTo: (s: Seat) => void
   progress: Progress
   /** Bumps on every restart, so per-step init guards can rerun for the same step. */
@@ -212,7 +212,7 @@ export function useTransfer() {
     const forSeat = (s: Seat) => options.filter((o) => o.event.actor === SEAT_ACTOR[s])
     const systemOptions = options.filter((o) => o.event.actor === 'system')
     const done = options.length === 0
-    // The person who acts next on the current path; drives the "Hand the iPad to …" card.
+    // The person who acts next on the current path; drives the "Notification sent to …" card.
     const nextPerson = options.find((o) => o.pathId === pathId && o.event.actor !== 'system') ?? null
     const nextSeat: Seat | null = nextPerson ? (ACTOR_SEAT[nextPerson.event.actor] ?? null) : null
     const handoff = nextSeat && nextSeat !== seat && !forSeat(seat).length ? { to: nextSeat } : null

@@ -35,7 +35,7 @@ Steps 5 and 6 carry the label "Simulated follow-through." The demo plays them ou
 
 ## Presenter notes
 
-- Roles change through the "Hand the iPad to …" cards inside the walkthrough. Every switch should show the role name large enough to read from the back of the room.
+- Roles change through the "Notification sent to …" cards inside the walkthrough (tap "View as …"). Every switch should show the role name large enough to read from the back of the room.
 - Say "sample" once at the start and leave the badge visible. Do not call any number in this scenario real.
 - If asked about the 41°F and 45°F limits, they come from CalCode §113996. Berkeley EH&S lists spinach as a cut leafy green.
 - If asked "what if Café 3 never answers?", show the expired path. The offer closes at 08:00 Thursday, and the card reads "Offer closed. Nothing was thrown out." The Crossroads cook puts the 4 lb on the use-first list.

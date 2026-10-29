@@ -7,7 +7,7 @@ Source: `app/src/walkthrough/useScenario.ts`. Participant (`/walkthrough/:step`)
 | name | type | use |
 |---|---|---|
 | `seat` | `Seat` | current role on screen (`kitchen_a`, `kitchen_b`, `coordinator`) |
-| `handoffTo(seat)` | action | guided role handoff. Call from the "Hand the iPad to Kitchen B →" card. The presenter loop calls it too. |
+| `handoffTo(seat)` | action | guided role handoff. Call from the "Notification sent to Kitchen B" card. The presenter loop calls it too. |
 | `setSeat(seat)` | action | free-roam header switcher only |
 | `apply(pathId, event)` | action | apply a next option. Idempotent by `event.seq`: double taps and replays never duplicate. |
 | `importRecords()` | action | system only: appends held `records_imported` events. Idempotent. |
